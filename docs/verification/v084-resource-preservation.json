@@ -1,0 +1,26 @@
+{
+  "changed_payloads": [
+    "BTL/FF6_BTL.BIN",
+    "DEODIR/ALLTIM.BIN",
+    "DEODIR/DEO.PAC",
+    "HAR/MENUMENU.BIN",
+    "NAR/NAR_BIN3.BIN",
+    "OMAKEDIR/OMAKE.PAC",
+    "menu-disc.bin"
+  ],
+  "menu_font_pixels_exact": true,
+  "battle_font_pixels_exact": true,
+  "bonus_font_and_artwork_exact": true,
+  "field_font_code_and_pointer_tables_exact": true,
+  "cache_routes_and_resident_executable_exact": true,
+  "v082_window_fix_and_v083_digits_retained": true,
+  "PSX_preview_job": {
+    "source": "%Kボウケンカ",
+    "translation": "트레저 헌터",
+    "occurrences": [
+      4224
+    ],
+    "font_bank": 1
+  },
+  "bonus_job_string": 710
+}

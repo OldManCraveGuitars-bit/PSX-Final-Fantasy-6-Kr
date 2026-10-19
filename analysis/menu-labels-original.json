@@ -1,0 +1,3887 @@
+[
+  {
+    "id": 0,
+    "label": "MAIN_MENU_ITEM",
+    "source": "アイテム",
+    "offset": 405952,
+    "xy": 22843,
+    "record_bytes": 7,
+    "original_hex": "3b598a8c84a000",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 25,
+      "y": 3
+    }
+  },
+  {
+    "id": 1,
+    "label": "MAIN_MENU_SKILLS",
+    "source": "とくしゅ",
+    "offset": 405960,
+    "xy": 22971,
+    "record_bytes": 7,
+    "original_hex": "bb59876f77c100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 25,
+      "y": 5
+    }
+  },
+  {
+    "id": 2,
+    "label": "MAIN_MENU_EQUIP",
+    "source": "そうび",
+    "offset": 405968,
+    "xy": 23035,
+    "record_bytes": 6,
+    "original_hex": "fb597d892300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 25,
+      "y": 6
+    }
+  },
+  {
+    "id": 3,
+    "label": "MAIN_MENU_RELIC",
+    "source": "アクセサリ",
+    "offset": 405976,
+    "xy": 23227,
+    "record_bytes": 8,
+    "original_hex": "bb5a8a6e7a74a800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 25,
+      "y": 9
+    }
+  },
+  {
+    "id": 4,
+    "label": "MAIN_MENU_STATUS",
+    "source": "ステータス",
+    "offset": 405984,
+    "xy": 23355,
+    "record_bytes": 8,
+    "original_hex": "3b5b7884c57e7800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 25,
+      "y": 11
+    }
+  },
+  {
+    "id": 5,
+    "label": "MAIN_MENU_CONFIG",
+    "source": "コンフィグ",
+    "offset": 405992,
+    "xy": 23419,
+    "record_bytes": 8,
+    "original_hex": "7b5b72b864c62e00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 25,
+      "y": 12
+    }
+  },
+  {
+    "id": 6,
+    "label": "MAIN_MENU_SAVE",
+    "source": "セーブ",
+    "offset": 406000,
+    "xy": 23547,
+    "record_bytes": 6,
+    "original_hex": "fb5b7ac52400",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 25,
+      "y": 14
+    }
+  },
+  {
+    "id": 7,
+    "label": "MAIN_MENU_STEPS",
+    "source": "ほすう",
+    "offset": 406020,
+    "xy": 23991,
+    "record_bytes": 6,
+    "original_hex": "b75d69798900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 23,
+      "y": 21
+    }
+  },
+  {
+    "id": 8,
+    "label": "MAIN_MENU_GIL",
+    "source": "ギル",
+    "offset": 406028,
+    "xy": 24119,
+    "record_bytes": 5,
+    "original_hex": "375e2caa00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 23,
+      "y": 23
+    }
+  },
+  {
+    "id": 9,
+    "label": "GAME_LOAD_YES",
+    "source": "はい",
+    "offset": 406164,
+    "xy": 23165,
+    "record_bytes": 5,
+    "original_hex": "7d5a618d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 26,
+      "y": 8
+    }
+  },
+  {
+    "id": 10,
+    "label": "GAME_LOAD_NO",
+    "source": "いいえ",
+    "offset": 406172,
+    "xy": 23293,
+    "record_bytes": 6,
+    "original_hex": "fd5a8d8d8f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 26,
+      "y": 10
+    }
+  },
+  {
+    "id": 11,
+    "label": "GAME_LOAD_MSG_1",
+    "source": "このデータで",
+    "offset": 406180,
+    "xy": 22775,
+    "record_bytes": 9,
+    "original_hex": "f758739b44c57e4500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 23,
+      "y": 2
+    }
+  },
+  {
+    "id": 12,
+    "label": "GAME_LOAD_MSG_2",
+    "source": "はじめますか？",
+    "offset": 406192,
+    "xy": 22903,
+    "record_bytes": 10,
+    "original_hex": "77596137a39d796bcb00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 23,
+      "y": 4
+    }
+  },
+  {
+    "id": 13,
+    "label": "GAME_SAVE_MSG_1",
+    "source": "これをけして",
+    "offset": 406204,
+    "xy": 22775,
+    "record_bytes": 9,
+    "original_hex": "f75873adbb71778500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 23,
+      "y": 2
+    }
+  },
+  {
+    "id": 14,
+    "label": "GAME_SAVE_MSG_2",
+    "source": "かきこみます。",
+    "offset": 406216,
+    "xy": 22903,
+    "record_bytes": 10,
+    "original_hex": "77596b6d739f9d79d200",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 23,
+      "y": 4
+    }
+  },
+  {
+    "id": 15,
+    "label": "GAME_SAVE_MSG_3",
+    "source": "いいですか？",
+    "offset": 406228,
+    "xy": 23031,
+    "record_bytes": 9,
+    "original_hex": "f7598d8d45796bcb00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 23,
+      "y": 6
+    }
+  },
+  {
+    "id": 16,
+    "label": "GAME_SAVE_UNUSED",
+    "source": "セーブしました。",
+    "offset": 406240,
+    "xy": 23671,
+    "record_bytes": 11,
+    "original_hex": "775c7ac524779d777fd200",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 23,
+      "y": 16
+    }
+  },
+  {
+    "id": 17,
+    "label": "MAIN_MENU_ORDER",
+    "source": "たいけい",
+    "offset": 406252,
+    "xy": 24893,
+    "record_bytes": 7,
+    "original_hex": "3d617f8d718d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3B",
+      "x": 26,
+      "y": 3
+    }
+  },
+  {
+    "id": 18,
+    "label": "COLOSSEUM_ITEM_TITLE",
+    "source": "コロシアム",
+    "offset": 417472,
+    "xy": 22733,
+    "record_bytes": 8,
+    "original_hex": "cd5872ae768aa000",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 2
+    }
+  },
+  {
+    "id": 19,
+    "label": "COLOSSEUM_CHAR_MSG",
+    "source": "ちょうせんしゃをきめてください",
+    "offset": 418528,
+    "xy": 23833,
+    "record_bytes": 18,
+    "original_hex": "195d81c3897bb977bfbb6da3856f3f758d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 8,
+      "y": 19
+    }
+  },
+  {
+    "id": 20,
+    "label": "SKILLS_LIST_GENJU",
+    "source": "げんじゅう",
+    "offset": 410448,
+    "xy": 22733,
+    "record_bytes": 8,
+    "original_hex": "cd5831b937c18900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 2
+    }
+  },
+  {
+    "id": 21,
+    "label": "SKILLS_LIST_MAGIC",
+    "source": "まほう",
+    "offset": 410456,
+    "xy": 22861,
+    "record_bytes": 6,
+    "original_hex": "4d599d698900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 4
+    }
+  },
+  {
+    "id": 22,
+    "label": "SKILLS_LIST_BUSHIDO",
+    "source": "ひっさつけん",
+    "offset": 410464,
+    "xy": 23117,
+    "record_bytes": 9,
+    "original_hex": "4d5a63bd758371b900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 8
+    }
+  },
+  {
+    "id": 23,
+    "label": "SKILLS_LIST_BLITZ",
+    "source": "ひっさつわざ",
+    "offset": 410476,
+    "xy": 23245,
+    "record_bytes": 9,
+    "original_hex": "cd5a63bd7583b73500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 10
+    }
+  },
+  {
+    "id": 24,
+    "label": "SKILLS_LIST_LORE",
+    "source": "おぼえたわざ",
+    "offset": 410488,
+    "xy": 23373,
+    "record_bytes": 9,
+    "original_hex": "4d5b91298f7fb73500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 12
+    }
+  },
+  {
+    "id": 25,
+    "label": "SKILLS_LIST_RAGE",
+    "source": "あばれる",
+    "offset": 410500,
+    "xy": 23501,
+    "record_bytes": 7,
+    "original_hex": "cd5b8b21adab00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 14
+    }
+  },
+  {
+    "id": 26,
+    "label": "SKILLS_LIST_DANCE",
+    "source": "おどり",
+    "offset": 410508,
+    "xy": 23629,
+    "record_bytes": 6,
+    "original_hex": "4d5c9147a900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 16
+    }
+  },
+  {
+    "id": 27,
+    "label": "SKILLS_LORE_TITLE",
+    "source": "おぼえたわざ",
+    "offset": 410568,
+    "xy": 24781,
+    "record_bytes": 9,
+    "original_hex": "cd6091298f7fb73500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3B",
+      "x": 2,
+      "y": 2
+    }
+  },
+  {
+    "id": 28,
+    "label": "SKILLS_BLITZ_TITLE",
+    "source": "ひっさつわざ",
+    "offset": 410616,
+    "xy": 24781,
+    "record_bytes": 9,
+    "original_hex": "cd6063bd7583b73500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3B",
+      "x": 2,
+      "y": 2
+    }
+  },
+  {
+    "id": 29,
+    "label": "SKILLS_BUSHIDO_TITLE",
+    "source": "ひっさつけん",
+    "offset": 410628,
+    "xy": 24781,
+    "record_bytes": 9,
+    "original_hex": "cd6063bd758371b900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3B",
+      "x": 2,
+      "y": 2
+    }
+  },
+  {
+    "id": 30,
+    "label": "GENJU_LEARN_PCT",
+    "source": "じゅくれんど",
+    "offset": 410016,
+    "xy": 9333,
+    "record_bytes": 9,
+    "original_hex": "752437c16fadb94700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1B",
+      "x": 22,
+      "y": 16
+    }
+  },
+  {
+    "id": 31,
+    "label": "GENJU_LEARN_RATE",
+    "source": "おぼえるスピード",
+    "offset": 410028,
+    "xy": 9315,
+    "record_bytes": 11,
+    "original_hex": "632491298fab784bc54600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1B",
+      "x": 13,
+      "y": 16
+    }
+  },
+  {
+    "id": 32,
+    "label": "BUSHIDO_TITLE",
+    "source": "ひっさつけん",
+    "offset": 408904,
+    "xy": 6287,
+    "record_bytes": 9,
+    "original_hex": "8f1863bd758371b900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 1
+    }
+  },
+  {
+    "id": 33,
+    "label": "ITEM_TITLE",
+    "source": "アイテム",
+    "offset": 418072,
+    "xy": 22733,
+    "record_bytes": 7,
+    "original_hex": "cd588a8c84a000",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 2
+    }
+  },
+  {
+    "id": 34,
+    "label": "ITEM_OPTION_USE",
+    "source": "つかう",
+    "offset": 418080,
+    "xy": 22749,
+    "record_bytes": 6,
+    "original_hex": "dd58836b8900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 10,
+      "y": 2
+    }
+  },
+  {
+    "id": 35,
+    "label": "ITEM_OPTION_ARRANGE",
+    "source": "せいとん",
+    "offset": 418088,
+    "xy": 22761,
+    "record_bytes": 7,
+    "original_hex": "e9587b8d87b900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 16,
+      "y": 2
+    }
+  },
+  {
+    "id": 36,
+    "label": "ITEM_OPTION_RARE",
+    "source": "だいじなもの",
+    "offset": 418096,
+    "xy": 22775,
+    "record_bytes": 9,
+    "original_hex": "f7583f8d3793a59b00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 23,
+      "y": 2
+    }
+  },
+  {
+    "id": 37,
+    "label": "ITEM_STRENGTH",
+    "source": "ちから",
+    "offset": 418156,
+    "xy": 25647,
+    "record_bytes": 6,
+    "original_hex": "2f64816ba700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3B",
+      "x": 19,
+      "y": 15
+    }
+  },
+  {
+    "id": 38,
+    "label": "ITEM_STAMINA",
+    "source": "たいりょく",
+    "offset": 418164,
+    "xy": 25903,
+    "record_bytes": 8,
+    "original_hex": "2f657f8da9c36f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3B",
+      "x": 19,
+      "y": 19
+    }
+  },
+  {
+    "id": 39,
+    "label": "ITEM_MAG_PWR",
+    "source": "まりょく",
+    "offset": 418172,
+    "xy": 26031,
+    "record_bytes": 7,
+    "original_hex": "af659da9c36f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3B",
+      "x": 19,
+      "y": 21
+    }
+  },
+  {
+    "id": 40,
+    "label": "ITEM_EVADE",
+    "source": "かいひりつ",
+    "offset": 418180,
+    "xy": 26415,
+    "record_bytes": 8,
+    "original_hex": "2f676b8d63a98300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3B",
+      "x": 19,
+      "y": 27
+    }
+  },
+  {
+    "id": 41,
+    "label": "ITEM_MAG_EVADE",
+    "source": "まほうかいひりつ",
+    "offset": 418188,
+    "xy": 26671,
+    "record_bytes": 11,
+    "original_hex": "2f689d69896b8d63a98300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3B",
+      "x": 19,
+      "y": 31
+    }
+  },
+  {
+    "id": 42,
+    "label": "ITEM_SPEED",
+    "source": "すばやさ",
+    "offset": 418108,
+    "xy": 25711,
+    "record_bytes": 7,
+    "original_hex": "6f647921b17500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3B",
+      "x": 19,
+      "y": 16
+    }
+  },
+  {
+    "id": 43,
+    "label": "ITEM_ATTACK_PWR",
+    "source": "こうげきりょく",
+    "offset": 418116,
+    "xy": 26095,
+    "record_bytes": 10,
+    "original_hex": "ef657389316da9c36f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3B",
+      "x": 19,
+      "y": 22
+    }
+  },
+  {
+    "id": 44,
+    "label": "ITEM_DEFENSE",
+    "source": "ぼうぎょ",
+    "offset": 418128,
+    "xy": 26223,
+    "record_bytes": 7,
+    "original_hex": "6f6629892dc300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3B",
+      "x": 19,
+      "y": 24
+    }
+  },
+  {
+    "id": 45,
+    "label": "ITEM_MAG_DEF",
+    "source": "まほうぼうぎょ",
+    "offset": 418136,
+    "xy": 26479,
+    "record_bytes": 10,
+    "original_hex": "6f679d698929892dc300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3B",
+      "x": 19,
+      "y": 28
+    }
+  },
+  {
+    "id": 46,
+    "label": "ITEM_ELEMENT_HALF",
+    "source": "はんげん",
+    "offset": 418236,
+    "xy": 23373,
+    "record_bytes": 7,
+    "original_hex": "4d5b61b931b900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 12
+    }
+  },
+  {
+    "id": 47,
+    "label": "ITEM_ELEMENT_ABSORB",
+    "source": "きゅうしゅう",
+    "offset": 418244,
+    "xy": 23401,
+    "record_bytes": 9,
+    "original_hex": "695b6dc18977c18900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 16,
+      "y": 12
+    }
+  },
+  {
+    "id": 48,
+    "label": "ITEM_ELEMENT_NULL",
+    "source": "むこう",
+    "offset": 418256,
+    "xy": 23629,
+    "record_bytes": 6,
+    "original_hex": "4d5ca1738900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 16
+    }
+  },
+  {
+    "id": 49,
+    "label": "ITEM_ELEMENT_WEAK",
+    "source": "じゃくてん",
+    "offset": 418264,
+    "xy": 23657,
+    "record_bytes": 8,
+    "original_hex": "695c37bf6f85b900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 16,
+      "y": 16
+    }
+  },
+  {
+    "id": 50,
+    "label": "ITEM_ATTACK_ELEMENT",
+    "source": "こうげき",
+    "offset": 418272,
+    "xy": 23373,
+    "record_bytes": 7,
+    "original_hex": "4d5b7389316d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 12
+    }
+  },
+  {
+    "id": 51,
+    "label": "ITEM_OWNED",
+    "source": "もっているかず",
+    "offset": 418280,
+    "xy": 22989,
+    "record_bytes": 10,
+    "original_hex": "cd59a5bd858dab6b3900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 6
+    }
+  },
+  {
+    "id": 52,
+    "label": "EQUIP_RHAND",
+    "source": "みぎて",
+    "offset": 413408,
+    "xy": 22989,
+    "record_bytes": 6,
+    "original_hex": "cd599f2d8500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 6
+    }
+  },
+  {
+    "id": 53,
+    "label": "EQUIP_LHAND",
+    "source": "ひだりて",
+    "offset": 413416,
+    "xy": 23117,
+    "record_bytes": 7,
+    "original_hex": "4d5a633fa98500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 8
+    }
+  },
+  {
+    "id": 54,
+    "label": "EQUIP_HEAD",
+    "source": "あたま",
+    "offset": 413424,
+    "xy": 23245,
+    "record_bytes": 6,
+    "original_hex": "cd5a8b7f9d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 10
+    }
+  },
+  {
+    "id": 55,
+    "label": "EQUIP_BODY",
+    "source": "からだ",
+    "offset": 413432,
+    "xy": 23373,
+    "record_bytes": 6,
+    "original_hex": "4d5b6ba73f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 12
+    }
+  },
+  {
+    "id": 56,
+    "label": "EQUIP_RELIC1",
+    "source": "アクセサリ",
+    "offset": 413440,
+    "xy": 23245,
+    "record_bytes": 8,
+    "original_hex": "cd5a8a6e7a74a800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 10
+    }
+  },
+  {
+    "id": 57,
+    "label": "EQUIP_RELIC2",
+    "source": "アクセサリ",
+    "offset": 413448,
+    "xy": 23373,
+    "record_bytes": 8,
+    "original_hex": "4d5b8a6e7a74a800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 12
+    }
+  },
+  {
+    "id": 58,
+    "label": "EQUIP_TITLE_EQUIP",
+    "source": "そうび",
+    "offset": 413488,
+    "xy": 22781,
+    "record_bytes": 6,
+    "original_hex": "fd587d892300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 26,
+      "y": 2
+    }
+  },
+  {
+    "id": 59,
+    "label": "EQUIP_TITLE_REMOVE",
+    "source": "はずす",
+    "offset": 413496,
+    "xy": 22781,
+    "record_bytes": 6,
+    "original_hex": "fd5861397900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 26,
+      "y": 2
+    }
+  },
+  {
+    "id": 60,
+    "label": "EQUIP_OPTION_EQUIP",
+    "source": "そうび",
+    "offset": 413504,
+    "xy": 22737,
+    "record_bytes": 6,
+    "original_hex": "d1587d892300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 4,
+      "y": 2
+    }
+  },
+  {
+    "id": 61,
+    "label": "EQUIP_OPTION_EQUIP",
+    "source": "そうび",
+    "offset": 413540,
+    "xy": 22737,
+    "record_bytes": 6,
+    "original_hex": "d1587d892300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 4,
+      "y": 2
+    }
+  },
+  {
+    "id": 62,
+    "label": "EQUIP_OPTION_OPTIMUM",
+    "source": "さいきょう",
+    "offset": 413512,
+    "xy": 22747,
+    "record_bytes": 8,
+    "original_hex": "db58758d6dc38900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 9,
+      "y": 2
+    }
+  },
+  {
+    "id": 63,
+    "label": "EQUIP_OPTION_REMOVE",
+    "source": "はずす",
+    "offset": 413520,
+    "xy": 22761,
+    "record_bytes": 6,
+    "original_hex": "e95861397900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 16,
+      "y": 2
+    }
+  },
+  {
+    "id": 64,
+    "label": "RELIC_OPTION_REMOVE",
+    "source": "はずす",
+    "offset": 413548,
+    "xy": 22747,
+    "record_bytes": 6,
+    "original_hex": "db5861397900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 9,
+      "y": 2
+    }
+  },
+  {
+    "id": 65,
+    "label": "EQUIP_STRENGTH",
+    "source": "ちから",
+    "offset": 413596,
+    "xy": 23719,
+    "record_bytes": 6,
+    "original_hex": "a75c816ba700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 15,
+      "y": 17
+    }
+  },
+  {
+    "id": 66,
+    "label": "EQUIP_SPEED",
+    "source": "すばやさ",
+    "offset": 413676,
+    "xy": 23783,
+    "record_bytes": 7,
+    "original_hex": "e75c7921b17500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 15,
+      "y": 18
+    }
+  },
+  {
+    "id": 67,
+    "label": "EQUIP_STAMINA",
+    "source": "たいりょく",
+    "offset": 413604,
+    "xy": 23975,
+    "record_bytes": 8,
+    "original_hex": "a75d7f8da9c36f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 15,
+      "y": 21
+    }
+  },
+  {
+    "id": 68,
+    "label": "EQUIP_MAG_PWR",
+    "source": "まりょく",
+    "offset": 413612,
+    "xy": 24103,
+    "record_bytes": 7,
+    "original_hex": "275e9da9c36f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 15,
+      "y": 23
+    }
+  },
+  {
+    "id": 69,
+    "label": "EQUIP_ATTACK_PWR",
+    "source": "こうげきりょく",
+    "offset": 413684,
+    "xy": 24167,
+    "record_bytes": 10,
+    "original_hex": "675e7389316da9c36f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 15,
+      "y": 24
+    }
+  },
+  {
+    "id": 70,
+    "label": "EQUIP_DEFENSE",
+    "source": "ぼうぎょ",
+    "offset": 413696,
+    "xy": 24295,
+    "record_bytes": 7,
+    "original_hex": "e75e29892dc300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 15,
+      "y": 26
+    }
+  },
+  {
+    "id": 71,
+    "label": "EQUIP_EVADE",
+    "source": "かいひりつ",
+    "offset": 413620,
+    "xy": 24487,
+    "record_bytes": 8,
+    "original_hex": "a75f6b8d63a98300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 15,
+      "y": 29
+    }
+  },
+  {
+    "id": 72,
+    "label": "EQUIP_MAG_DEF",
+    "source": "まほうぼうぎょ",
+    "offset": 413704,
+    "xy": 24551,
+    "record_bytes": 10,
+    "original_hex": "e75f9d698929892dc300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 15,
+      "y": 30
+    }
+  },
+  {
+    "id": 73,
+    "label": "EQUIP_MAG_EVADE",
+    "source": "まほうかいひりつ",
+    "offset": 413628,
+    "xy": 24743,
+    "record_bytes": 11,
+    "original_hex": "a7609d69896b8d63a98300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 15,
+      "y": 33
+    }
+  },
+  {
+    "id": 74,
+    "label": "EQUIP_WEAPON_FLAG_3",
+    "source": "じゅうそうび",
+    "offset": 413812,
+    "xy": 23151,
+    "record_bytes": 9,
+    "original_hex": "6f5a37c1897d892300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 19,
+      "y": 8
+    }
+  },
+  {
+    "id": 75,
+    "label": "EQUIP_WEAPON_FLAG_4",
+    "source": "にとうりゅう",
+    "offset": 413824,
+    "xy": 23023,
+    "record_bytes": 9,
+    "original_hex": "ef59958789a9c18900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 19,
+      "y": 6
+    }
+  },
+  {
+    "id": 76,
+    "label": "EQUIP_WEAPON_FLAG_5",
+    "source": "りょうてもち",
+    "offset": 413836,
+    "xy": 23151,
+    "record_bytes": 9,
+    "original_hex": "6f5aa9c38985a58100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 19,
+      "y": 8
+    }
+  },
+  {
+    "id": 77,
+    "label": "EQUIP_EMPTY_MSG",
+    "source": "「すべてはずす」",
+    "offset": 413848,
+    "xy": 22753,
+    "record_bytes": 11,
+    "original_hex": "e158d0792785613979d100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 12,
+      "y": 2
+    }
+  },
+  {
+    "id": 78,
+    "label": "EQUIP_OPTIMUM_MSG",
+    "source": "「さいきょうそうび」",
+    "offset": 413860,
+    "xy": 22753,
+    "record_bytes": 13,
+    "original_hex": "e158d0758d6dc3897d8923d100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 12,
+      "y": 2
+    }
+  },
+  {
+    "id": 79,
+    "label": "RELIC_EMPTY_MSG",
+    "source": "「すべてはずす」",
+    "offset": 413876,
+    "xy": 22881,
+    "record_bytes": 11,
+    "original_hex": "6159d0792785613979d100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 12,
+      "y": 4
+    }
+  },
+  {
+    "id": 80,
+    "label": "RELIC_OPTIMUM_MSG",
+    "source": "「さいきょうそうび」",
+    "offset": 413888,
+    "xy": 22881,
+    "record_bytes": 13,
+    "original_hex": "6159d0758d6dc3897d8923d100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 12,
+      "y": 4
+    }
+  },
+  {
+    "id": 81,
+    "label": "PARTY_EQUIP_SLOT1_RHAND",
+    "source": "みぎ",
+    "offset": 413120,
+    "xy": 6479,
+    "record_bytes": 5,
+    "original_hex": "4f199f2d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 4
+    }
+  },
+  {
+    "id": 82,
+    "label": "PARTY_EQUIP_SLOT1_LHAND",
+    "source": "ひだり",
+    "offset": 413128,
+    "xy": 6507,
+    "record_bytes": 6,
+    "original_hex": "6b19633fa900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 17,
+      "y": 4
+    }
+  },
+  {
+    "id": 83,
+    "label": "PARTY_EQUIP_SLOT1_HEAD",
+    "source": "あたま",
+    "offset": 413136,
+    "xy": 6607,
+    "record_bytes": 6,
+    "original_hex": "cf198b7f9d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 6
+    }
+  },
+  {
+    "id": 84,
+    "label": "PARTY_EQUIP_SLOT1_BODY",
+    "source": "からだ",
+    "offset": 413144,
+    "xy": 6635,
+    "record_bytes": 6,
+    "original_hex": "eb196ba73f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 17,
+      "y": 6
+    }
+  },
+  {
+    "id": 85,
+    "label": "PARTY_EQUIP_SLOT1_RELIC1",
+    "source": "アク１",
+    "offset": 413152,
+    "xy": 6735,
+    "record_bytes": 6,
+    "original_hex": "4f1a8a6e5400",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 8
+    }
+  },
+  {
+    "id": 86,
+    "label": "PARTY_EQUIP_SLOT1_RELIC2",
+    "source": "アク２",
+    "offset": 413160,
+    "xy": 6763,
+    "record_bytes": 6,
+    "original_hex": "6b1a8a6e5500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 17,
+      "y": 8
+    }
+  },
+  {
+    "id": 87,
+    "label": "PARTY_EQUIP_SLOT2_RHAND",
+    "source": "みぎ",
+    "offset": 413168,
+    "xy": 6991,
+    "record_bytes": 5,
+    "original_hex": "4f1b9f2d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 12
+    }
+  },
+  {
+    "id": 88,
+    "label": "PARTY_EQUIP_SLOT2_LHAND",
+    "source": "ひだり",
+    "offset": 413176,
+    "xy": 7019,
+    "record_bytes": 6,
+    "original_hex": "6b1b633fa900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 17,
+      "y": 12
+    }
+  },
+  {
+    "id": 89,
+    "label": "PARTY_EQUIP_SLOT2_HEAD",
+    "source": "あたま",
+    "offset": 413184,
+    "xy": 7119,
+    "record_bytes": 6,
+    "original_hex": "cf1b8b7f9d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 14
+    }
+  },
+  {
+    "id": 90,
+    "label": "PARTY_EQUIP_SLOT2_BODY",
+    "source": "からだ",
+    "offset": 413192,
+    "xy": 7147,
+    "record_bytes": 6,
+    "original_hex": "eb1b6ba73f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 17,
+      "y": 14
+    }
+  },
+  {
+    "id": 91,
+    "label": "PARTY_EQUIP_SLOT2_RELIC1",
+    "source": "アク１",
+    "offset": 413200,
+    "xy": 7247,
+    "record_bytes": 6,
+    "original_hex": "4f1c8a6e5400",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 16
+    }
+  },
+  {
+    "id": 92,
+    "label": "PARTY_EQUIP_SLOT2_RELIC2",
+    "source": "アク２",
+    "offset": 413208,
+    "xy": 7275,
+    "record_bytes": 6,
+    "original_hex": "6b1c8a6e5500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 17,
+      "y": 16
+    }
+  },
+  {
+    "id": 93,
+    "label": "PARTY_EQUIP_SLOT3_RHAND",
+    "source": "みぎ",
+    "offset": 413216,
+    "xy": 7503,
+    "record_bytes": 5,
+    "original_hex": "4f1d9f2d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 20
+    }
+  },
+  {
+    "id": 94,
+    "label": "PARTY_EQUIP_SLOT3_LHAND",
+    "source": "ひだり",
+    "offset": 413224,
+    "xy": 7531,
+    "record_bytes": 6,
+    "original_hex": "6b1d633fa900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 17,
+      "y": 20
+    }
+  },
+  {
+    "id": 95,
+    "label": "PARTY_EQUIP_SLOT3_HEAD",
+    "source": "あたま",
+    "offset": 413232,
+    "xy": 7631,
+    "record_bytes": 6,
+    "original_hex": "cf1d8b7f9d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 22
+    }
+  },
+  {
+    "id": 96,
+    "label": "PARTY_EQUIP_SLOT3_BODY",
+    "source": "からだ",
+    "offset": 413240,
+    "xy": 7659,
+    "record_bytes": 6,
+    "original_hex": "eb1d6ba73f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 17,
+      "y": 22
+    }
+  },
+  {
+    "id": 97,
+    "label": "PARTY_EQUIP_SLOT3_RELIC1",
+    "source": "アク１",
+    "offset": 413248,
+    "xy": 7759,
+    "record_bytes": 6,
+    "original_hex": "4f1e8a6e5400",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 24
+    }
+  },
+  {
+    "id": 98,
+    "label": "PARTY_EQUIP_SLOT3_RELIC2",
+    "source": "アク２",
+    "offset": 413256,
+    "xy": 7787,
+    "record_bytes": 6,
+    "original_hex": "6b1e8a6e5500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 17,
+      "y": 24
+    }
+  },
+  {
+    "id": 99,
+    "label": "PARTY_EQUIP_SLOT4_RHAND",
+    "source": "みぎ",
+    "offset": 413264,
+    "xy": 8015,
+    "record_bytes": 5,
+    "original_hex": "4f1f9f2d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 28
+    }
+  },
+  {
+    "id": 100,
+    "label": "PARTY_EQUIP_SLOT4_LHAND",
+    "source": "ひだり",
+    "offset": 413272,
+    "xy": 8043,
+    "record_bytes": 6,
+    "original_hex": "6b1f633fa900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 17,
+      "y": 28
+    }
+  },
+  {
+    "id": 101,
+    "label": "PARTY_EQUIP_SLOT4_HEAD",
+    "source": "あたま",
+    "offset": 413280,
+    "xy": 8143,
+    "record_bytes": 6,
+    "original_hex": "cf1f8b7f9d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 30
+    }
+  },
+  {
+    "id": 102,
+    "label": "PARTY_EQUIP_SLOT4_BODY",
+    "source": "からだ",
+    "offset": 413288,
+    "xy": 8171,
+    "record_bytes": 6,
+    "original_hex": "eb1f6ba73f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 17,
+      "y": 30
+    }
+  },
+  {
+    "id": 103,
+    "label": "PARTY_EQUIP_SLOT4_RELIC1",
+    "source": "アク１",
+    "offset": 413296,
+    "xy": 8271,
+    "record_bytes": 6,
+    "original_hex": "4f208a6e5400",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 32
+    }
+  },
+  {
+    "id": 104,
+    "label": "PARTY_EQUIP_SLOT4_RELIC2",
+    "source": "アク２",
+    "offset": 413304,
+    "xy": 8299,
+    "record_bytes": 6,
+    "original_hex": "6b208a6e5500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 17,
+      "y": 32
+    }
+  },
+  {
+    "id": 105,
+    "label": "PARTY_TITLE",
+    "source": "へんせい",
+    "offset": 412292,
+    "xy": 6351,
+    "record_bytes": 7,
+    "original_hex": "cf1867b97b8d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 2
+    }
+  },
+  {
+    "id": 106,
+    "label": "STATUS_TITLE",
+    "source": "ステータス",
+    "offset": 412480,
+    "xy": 22733,
+    "record_bytes": 8,
+    "original_hex": "cd587884c57e7800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 2
+    }
+  },
+  {
+    "id": 107,
+    "label": "STATUS_STRENGTH",
+    "source": "ちから",
+    "offset": 412528,
+    "xy": 24273,
+    "record_bytes": 6,
+    "original_hex": "d15e816ba700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 4,
+      "y": 26
+    }
+  },
+  {
+    "id": 108,
+    "label": "STATUS_STAMINA",
+    "source": "たいりょく",
+    "offset": 412536,
+    "xy": 24529,
+    "record_bytes": 8,
+    "original_hex": "d15f7f8da9c36f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 4,
+      "y": 30
+    }
+  },
+  {
+    "id": 109,
+    "label": "STATUS_MAG_PWR",
+    "source": "まりょく",
+    "offset": 412544,
+    "xy": 26705,
+    "record_bytes": 7,
+    "original_hex": "51689da9c36f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3C",
+      "x": 4,
+      "y": 0
+    }
+  },
+  {
+    "id": 110,
+    "label": "STATUS_EVADE",
+    "source": "かいひりつ",
+    "offset": 412552,
+    "xy": 24425,
+    "record_bytes": 8,
+    "original_hex": "695f6b8d63a98300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 16,
+      "y": 28
+    }
+  },
+  {
+    "id": 111,
+    "label": "STATUS_SPEED",
+    "source": "すばやさ",
+    "offset": 412600,
+    "xy": 24337,
+    "record_bytes": 7,
+    "original_hex": "115f7921b17500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 4,
+      "y": 27
+    }
+  },
+  {
+    "id": 112,
+    "label": "STATUS_DEFENSE",
+    "source": "ぼうぎょ",
+    "offset": 412624,
+    "xy": 24233,
+    "record_bytes": 7,
+    "original_hex": "a95e29892dc300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 16,
+      "y": 25
+    }
+  },
+  {
+    "id": 113,
+    "label": "STATUS_YOUR_EXP",
+    "source": "げんざいのけいけんち",
+    "offset": 412648,
+    "xy": 23569,
+    "record_bytes": 13,
+    "original_hex": "115c31b9358d9b718d71b98100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 4,
+      "y": 15
+    }
+  },
+  {
+    "id": 114,
+    "label": "SHOP_TYPE_1",
+    "source": "ぶきや",
+    "offset": 409164,
+    "xy": 22735,
+    "record_bytes": 6,
+    "original_hex": "cf58256db100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 3,
+      "y": 2
+    }
+  },
+  {
+    "id": 115,
+    "label": "SHOP_TYPE_2",
+    "source": "ぼうぐや",
+    "offset": 409172,
+    "xy": 22735,
+    "record_bytes": 7,
+    "original_hex": "cf5829892fb100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 3,
+      "y": 2
+    }
+  },
+  {
+    "id": 116,
+    "label": "SHOP_TYPE_3",
+    "source": "どうぐや",
+    "offset": 409180,
+    "xy": 22735,
+    "record_bytes": 7,
+    "original_hex": "cf5847892fb100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 3,
+      "y": 2
+    }
+  },
+  {
+    "id": 117,
+    "label": "SHOP_TYPE_4",
+    "source": "アクセサリーや",
+    "offset": 409188,
+    "xy": 22733,
+    "record_bytes": 10,
+    "original_hex": "cd588a6e7a74a8c5b100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 2
+    }
+  },
+  {
+    "id": 118,
+    "label": "SHOP_TYPE_5",
+    "source": "ぎょうしょう",
+    "offset": 409200,
+    "xy": 22733,
+    "record_bytes": 9,
+    "original_hex": "cd582dc38977c38900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 2
+    }
+  },
+  {
+    "id": 119,
+    "label": "SHOP_GIL_1",
+    "source": "ギル",
+    "offset": 409336,
+    "xy": 23041,
+    "record_bytes": 5,
+    "original_hex": "015a2caa00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 28,
+      "y": 6
+    }
+  },
+  {
+    "id": 120,
+    "label": "SHOP_GIL_2",
+    "source": "ギル",
+    "offset": 409344,
+    "xy": 23275,
+    "record_bytes": 5,
+    "original_hex": "eb5a2caa00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 17,
+      "y": 10
+    }
+  },
+  {
+    "id": 121,
+    "label": "SHOP_OWNED",
+    "source": "もっているかず",
+    "offset": 409352,
+    "xy": 23155,
+    "record_bytes": 10,
+    "original_hex": "735aa5bd858dab6b3900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 21,
+      "y": 8
+    }
+  },
+  {
+    "id": 122,
+    "label": "SHOP_EQUIPPED",
+    "source": "そうびしているかず",
+    "offset": 409364,
+    "xy": 23411,
+    "record_bytes": 12,
+    "original_hex": "735b7d892377858dab6b3900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 21,
+      "y": 12
+    }
+  },
+  {
+    "id": 123,
+    "label": "SHOP_DEFENSE",
+    "source": "ぼうぎょ",
+    "offset": 409388,
+    "xy": 23381,
+    "record_bytes": 7,
+    "original_hex": "555b29892dc300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 6,
+      "y": 12
+    }
+  },
+  {
+    "id": 124,
+    "label": "SHOP_GREETING_MSG",
+    "source": "「いらっしゃい！どんなごようけんで？」",
+    "offset": 409400,
+    "xy": 22751,
+    "record_bytes": 22,
+    "original_hex": "df58d08da7bd77bf8dc947b99333b58971b945cbd100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 11,
+      "y": 2
+    }
+  },
+  {
+    "id": 125,
+    "label": "CONFIG_WAIT",
+    "source": "ウェイト",
+    "offset": 407764,
+    "xy": 6581,
+    "record_bytes": 7,
+    "original_hex": "b51988ca8c8600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 22,
+      "y": 5
+    }
+  },
+  {
+    "id": 126,
+    "label": "CONFIG_FAST",
+    "source": "はやい",
+    "offset": 407772,
+    "xy": 6757,
+    "record_bytes": 6,
+    "original_hex": "651a61b18d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 14,
+      "y": 8
+    }
+  },
+  {
+    "id": 127,
+    "label": "CONFIG_SLOW",
+    "source": "おそい",
+    "offset": 407780,
+    "xy": 6773,
+    "record_bytes": 6,
+    "original_hex": "751a917d8d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 22,
+      "y": 8
+    }
+  },
+  {
+    "id": 128,
+    "label": "CONFIG_CMD_SHORT",
+    "source": "たんしゅく",
+    "offset": 407788,
+    "xy": 6965,
+    "record_bytes": 8,
+    "original_hex": "351b7fb977c16f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 22,
+      "y": 11
+    }
+  },
+  {
+    "id": 129,
+    "label": "CONFIG_GAUGE_ON",
+    "source": "オン",
+    "offset": 407796,
+    "xy": 7077,
+    "record_bytes": 5,
+    "original_hex": "a51b90b800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 14,
+      "y": 13
+    }
+  },
+  {
+    "id": 130,
+    "label": "CONFIG_GAUGE_OFF",
+    "source": "オフ",
+    "offset": 407804,
+    "xy": 7093,
+    "record_bytes": 5,
+    "original_hex": "b51b906400",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 22,
+      "y": 13
+    }
+  },
+  {
+    "id": 131,
+    "label": "CONFIG_STEREO",
+    "source": "ステレオ",
+    "offset": 407812,
+    "xy": 7205,
+    "record_bytes": 7,
+    "original_hex": "251c7884ac9000",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 14,
+      "y": 15
+    }
+  },
+  {
+    "id": 132,
+    "label": "CONFIG_MONO",
+    "source": "モノラル",
+    "offset": 407820,
+    "xy": 7221,
+    "record_bytes": 7,
+    "original_hex": "351ca49aa6aa00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 22,
+      "y": 15
+    }
+  },
+  {
+    "id": 133,
+    "label": "CONFIG_MEMORY",
+    "source": "きおく",
+    "offset": 407828,
+    "xy": 7349,
+    "record_bytes": 6,
+    "original_hex": "b51c6d916f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 22,
+      "y": 17
+    }
+  },
+  {
+    "id": 134,
+    "label": "CONFIG_OPTIMUM",
+    "source": "さいきょう",
+    "offset": 407836,
+    "xy": 7461,
+    "record_bytes": 8,
+    "original_hex": "251d758d6dc38900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 14,
+      "y": 19
+    }
+  },
+  {
+    "id": 135,
+    "label": "CONFIG_CTRL_NORMAL",
+    "source": "ノーマル",
+    "offset": 407844,
+    "xy": 7589,
+    "record_bytes": 7,
+    "original_hex": "a51d9ac59caa00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 14,
+      "y": 21
+    }
+  },
+  {
+    "id": 136,
+    "label": "CONFIG_CTRL_CUSTOM",
+    "source": "カスタム",
+    "offset": 407852,
+    "xy": 7605,
+    "record_bytes": 7,
+    "original_hex": "b51d6a787ea000",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 22,
+      "y": 21
+    }
+  },
+  {
+    "id": 137,
+    "label": "CONFIG_CTRL_MULTI",
+    "source": "マルチ",
+    "offset": 407860,
+    "xy": 7733,
+    "record_bytes": 6,
+    "original_hex": "351e9caa8000",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 22,
+      "y": 23
+    }
+  },
+  {
+    "id": 138,
+    "label": "CONFIG_CURSOR",
+    "source": "カーソルいち",
+    "offset": 407900,
+    "xy": 7311,
+    "record_bytes": 9,
+    "original_hex": "8f1c6ac57caa8d8100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 17
+    }
+  },
+  {
+    "id": 139,
+    "label": "CONFIG_TITLE",
+    "source": "コンフィグ",
+    "offset": 407928,
+    "xy": 22715,
+    "record_bytes": 8,
+    "original_hex": "bb5872b864c62e00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 25,
+      "y": 1
+    }
+  },
+  {
+    "id": 140,
+    "label": "CONFIG_BATTLE_MODE",
+    "source": "バトルモード",
+    "offset": 407936,
+    "xy": 6479,
+    "record_bytes": 9,
+    "original_hex": "4f192086aaa4c54600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 4
+    }
+  },
+  {
+    "id": 141,
+    "label": "CONFIG_BATTLE_SPEED",
+    "source": "スピード",
+    "offset": 407948,
+    "xy": 6611,
+    "record_bytes": 7,
+    "original_hex": "d319784bc54600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 5,
+      "y": 6
+    }
+  },
+  {
+    "id": 142,
+    "label": "CONFIG_MSG_SPEED",
+    "source": "メッセージ",
+    "offset": 407956,
+    "xy": 6739,
+    "record_bytes": 8,
+    "original_hex": "531aa2bc7ac53600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 5,
+      "y": 8
+    }
+  },
+  {
+    "id": 143,
+    "label": "CONFIG_CMD_SET",
+    "source": "コマンドしてい",
+    "offset": 407964,
+    "xy": 6867,
+    "record_bytes": 10,
+    "original_hex": "d31a729cb84677858d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 5,
+      "y": 10
+    }
+  },
+  {
+    "id": 144,
+    "label": "CONFIG_GAUGE",
+    "source": "ゲージ",
+    "offset": 407976,
+    "xy": 6995,
+    "record_bytes": 6,
+    "original_hex": "531b30c53600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 5,
+      "y": 12
+    }
+  },
+  {
+    "id": 145,
+    "label": "CONFIG_SOUND",
+    "source": "サウンド",
+    "offset": 407984,
+    "xy": 7119,
+    "record_bytes": 7,
+    "original_hex": "cf1b7488b84600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 14
+    }
+  },
+  {
+    "id": 146,
+    "label": "CONFIG_REEQUIP",
+    "source": "さいそうび",
+    "offset": 407992,
+    "xy": 7375,
+    "record_bytes": 8,
+    "original_hex": "cf1c758d7d892300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 3,
+      "y": 18
+    }
+  },
+  {
+    "id": 147,
+    "label": "CONFIG_ACTIVE",
+    "source": "アクティヴ",
+    "offset": 408000,
+    "xy": 6501,
+    "record_bytes": 8,
+    "original_hex": "65198a6e84c64800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 14,
+      "y": 4
+    }
+  },
+  {
+    "id": 148,
+    "label": "CONFIG_CMD_WINDOW",
+    "source": "ウィンドウ",
+    "offset": 408008,
+    "xy": 6885,
+    "record_bytes": 8,
+    "original_hex": "e51a88c6b8468800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 14,
+      "y": 10
+    }
+  },
+  {
+    "id": 149,
+    "label": "CONFIG_RESET",
+    "source": "もどす",
+    "offset": 408016,
+    "xy": 7269,
+    "record_bytes": 6,
+    "original_hex": "651ca5477900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 14,
+      "y": 16
+    }
+  },
+  {
+    "id": 150,
+    "label": "CONFIG_EMPTY",
+    "source": "すべてはずす",
+    "offset": 408024,
+    "xy": 7413,
+    "record_bytes": 9,
+    "original_hex": "f51c79278561397900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 22,
+      "y": 18
+    }
+  },
+  {
+    "id": 151,
+    "label": "CONFIG_CTRL_SINGLE",
+    "source": "シングル",
+    "offset": 408036,
+    "xy": 7653,
+    "record_bytes": 7,
+    "original_hex": "e51d76b82eaa00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 14,
+      "y": 22
+    }
+  },
+  {
+    "id": 152,
+    "label": "CONFIG_MAGIC_ORDER",
+    "source": "まほうのならびかた",
+    "offset": 408072,
+    "xy": 8527,
+    "record_bytes": 12,
+    "original_hex": "4f219d69899b93a7236b7f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1B",
+      "x": 3,
+      "y": 4
+    }
+  },
+  {
+    "id": 153,
+    "label": "CONFIG_WINDOW_LABEL",
+    "source": "ウィンドウ",
+    "offset": 408084,
+    "xy": 9039,
+    "record_bytes": 8,
+    "original_hex": "4f2388c6b8468800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1B",
+      "x": 3,
+      "y": 12
+    }
+  },
+  {
+    "id": 154,
+    "label": "CONFIG_COLOR",
+    "source": "カラー",
+    "offset": 408092,
+    "xy": 9167,
+    "record_bytes": 6,
+    "original_hex": "cf236aa6c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1B",
+      "x": 3,
+      "y": 14
+    }
+  },
+  {
+    "id": 155,
+    "label": "CONFIG_FONT",
+    "source": "フォント",
+    "offset": 408268,
+    "xy": 9253,
+    "record_bytes": 7,
+    "original_hex": "252464ccb88600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1B",
+      "x": 14,
+      "y": 15
+    }
+  },
+  {
+    "id": 156,
+    "label": "CONFIG_WINDOW",
+    "source": "ウィンドウ",
+    "offset": 408276,
+    "xy": 9205,
+    "record_bytes": 8,
+    "original_hex": "f52388c6b8468800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1B",
+      "x": 22,
+      "y": 14
+    }
+  },
+  {
+    "id": 157,
+    "label": "CONFIG_RETURN",
+    "source": "もどす",
+    "offset": 408284,
+    "xy": 9211,
+    "record_bytes": 6,
+    "original_hex": "fb23a5477900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1B",
+      "x": 25,
+      "y": 14
+    }
+  },
+  {
+    "id": 158,
+    "label": "CMD_ARRANGE_TITLE",
+    "source": "せいとん",
+    "offset": 408304,
+    "xy": 22671,
+    "record_bytes": 7,
+    "original_hex": "8f587b8d87b900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 3,
+      "y": 1
+    }
+  },
+  {
+    "id": 159,
+    "label": "CTRL_CONFIG_CONFIRM_3",
+    "source": "けってい",
+    "offset": 407468,
+    "xy": 23501,
+    "record_bytes": 7,
+    "original_hex": "cd5b71bd858d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 14
+    }
+  },
+  {
+    "id": 160,
+    "label": "CTRL_CONFIG_CANCEL_3",
+    "source": "ちゅうし",
+    "offset": 407476,
+    "xy": 23511,
+    "record_bytes": 7,
+    "original_hex": "d75b81c1897700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 7,
+      "y": 14
+    }
+  },
+  {
+    "id": 161,
+    "label": "CTRL_CONFIG_MENU_3",
+    "source": "メニュー",
+    "offset": 407484,
+    "xy": 23521,
+    "record_bytes": 7,
+    "original_hex": "e15ba294c0c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 12,
+      "y": 14
+    }
+  },
+  {
+    "id": 162,
+    "label": "CTRL_CONFIG_PARTY_3",
+    "source": "パーティー",
+    "offset": 407492,
+    "xy": 23529,
+    "record_bytes": 8,
+    "original_hex": "e95b49c584c6c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 16,
+      "y": 14
+    }
+  },
+  {
+    "id": 163,
+    "label": "CTRL_CONFIG_ROW_3",
+    "source": "チェンジ",
+    "offset": 407500,
+    "xy": 23539,
+    "record_bytes": 7,
+    "original_hex": "f35b80cab83600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 21,
+      "y": 14
+    }
+  },
+  {
+    "id": 164,
+    "label": "CTRL_CONFIG_DEF_3",
+    "source": "ぼうぎょ",
+    "offset": 407508,
+    "xy": 23549,
+    "record_bytes": 7,
+    "original_hex": "fd5b29892dc300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 26,
+      "y": 14
+    }
+  },
+  {
+    "id": 165,
+    "label": "CTRL_CONFIG_CONFIRM_6",
+    "source": "けってい",
+    "offset": 406964,
+    "xy": 24269,
+    "record_bytes": 7,
+    "original_hex": "cd5e71bd858d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 2,
+      "y": 26
+    }
+  },
+  {
+    "id": 166,
+    "label": "CTRL_CONFIG_CANCEL_6",
+    "source": "ちゅうし",
+    "offset": 406972,
+    "xy": 24279,
+    "record_bytes": 7,
+    "original_hex": "d75e81c1897700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 7,
+      "y": 26
+    }
+  },
+  {
+    "id": 167,
+    "label": "CTRL_CONFIG_MENU_6",
+    "source": "メニュー",
+    "offset": 406980,
+    "xy": 24289,
+    "record_bytes": 7,
+    "original_hex": "e15ea294c0c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 12,
+      "y": 26
+    }
+  },
+  {
+    "id": 168,
+    "label": "CTRL_CONFIG_PARTY_6",
+    "source": "パーティー",
+    "offset": 406988,
+    "xy": 24297,
+    "record_bytes": 8,
+    "original_hex": "e95e49c584c6c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 16,
+      "y": 26
+    }
+  },
+  {
+    "id": 169,
+    "label": "CTRL_CONFIG_ROW_6",
+    "source": "チェンジ",
+    "offset": 406996,
+    "xy": 24307,
+    "record_bytes": 7,
+    "original_hex": "f35e80cab83600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 21,
+      "y": 26
+    }
+  },
+  {
+    "id": 170,
+    "label": "CTRL_CONFIG_DEF_6",
+    "source": "ぼうぎょ",
+    "offset": 407004,
+    "xy": 24317,
+    "record_bytes": 7,
+    "original_hex": "fd5e29892dc300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 26,
+      "y": 26
+    }
+  },
+  {
+    "id": 171,
+    "label": "SAVE_TITLE",
+    "source": "セーブ",
+    "offset": 414156,
+    "xy": 22821,
+    "record_bytes": 6,
+    "original_hex": "25597ac52400",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 14,
+      "y": 3
+    }
+  },
+  {
+    "id": 172,
+    "label": "NEW_GAME_TITLE",
+    "source": "ニューゲーム",
+    "offset": 414164,
+    "xy": 22819,
+    "record_bytes": 9,
+    "original_hex": "235994c0c530c5a000",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG3A",
+      "x": 13,
+      "y": 3
+    }
+  },
+  {
+    "id": 173,
+    "label": "FINAL_ORDER_END",
+    "source": "おわり",
+    "offset": 418600,
+    "xy": 8145,
+    "record_bytes": 6,
+    "original_hex": "d11f91b7a900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 4,
+      "y": 30
+    }
+  },
+  {
+    "id": 174,
+    "label": "FINAL_ORDER_RESET",
+    "source": "やりなおし",
+    "offset": 418608,
+    "xy": 6481,
+    "record_bytes": 8,
+    "original_hex": "5119b1a993917700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "BG1A",
+      "x": 4,
+      "y": 4
+    }
+  },
+  {
+    "id": 175,
+    "label": "COLOSSEUM_ITEM_MSG",
+    "source": "アイテムを１つ　えらんでください",
+    "offset": 417480,
+    "xy": 22747,
+    "record_bytes": 19,
+    "original_hex": "db588a8c84a0bb5483ff8fa7b9456f3f758d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x58db"
+    }
+  },
+  {
+    "id": 176,
+    "label": "SKILLS_LIST_GENJU",
+    "source": "げんじゅう",
+    "offset": 410604,
+    "xy": 24781,
+    "record_bytes": 9,
+    "original_hex": "cd6031b937c189ff00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x60cd"
+    }
+  },
+  {
+    "id": 177,
+    "label": "SKILLS_LIST_RAGE",
+    "source": "あばれる",
+    "offset": 410580,
+    "xy": 24781,
+    "record_bytes": 9,
+    "original_hex": "cd608b21adabffff00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x60cd"
+    }
+  },
+  {
+    "id": 178,
+    "label": "SKILLS_LIST_DANCE",
+    "source": "おどり",
+    "offset": 410592,
+    "xy": 24781,
+    "record_bytes": 9,
+    "original_hex": "cd609147a9ffffff00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x60cd"
+    }
+  },
+  {
+    "id": 179,
+    "label": "SKILLS_MP_NEEDED",
+    "source": "しょうひ　ｍｐ",
+    "offset": 410412,
+    "xy": 22989,
+    "record_bytes": 10,
+    "original_hex": "cd5977c38963ff5d5f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x59cd"
+    }
+  },
+  {
+    "id": 180,
+    "label": "ITEM_DEFENSE",
+    "source": "ぼうぎょ",
+    "offset": 407076,
+    "xy": 23933,
+    "record_bytes": 7,
+    "original_hex": "7d5d29892dc300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5d7d"
+    }
+  },
+  {
+    "id": 181,
+    "label": "ITEM_DEFENSE",
+    "source": "ぼうぎょ",
+    "offset": 407148,
+    "xy": 24509,
+    "record_bytes": 7,
+    "original_hex": "bd5f29892dc300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5fbd"
+    }
+  },
+  {
+    "id": 182,
+    "label": "ITEM_DEFENSE",
+    "source": "ぼうぎょ",
+    "offset": 407220,
+    "xy": 24125,
+    "record_bytes": 7,
+    "original_hex": "3d5e29892dc300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5e3d"
+    }
+  },
+  {
+    "id": 183,
+    "label": "ITEM_DEFENSE",
+    "source": "ぼうぎょ",
+    "offset": 407292,
+    "xy": 22973,
+    "record_bytes": 7,
+    "original_hex": "bd5929892dc300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x59bd"
+    }
+  },
+  {
+    "id": 184,
+    "label": "ITEM_DEFENSE",
+    "source": "ぼうぎょ",
+    "offset": 407364,
+    "xy": 23165,
+    "record_bytes": 7,
+    "original_hex": "7d5a29892dc300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5a7d"
+    }
+  },
+  {
+    "id": 185,
+    "label": "ITEM_DEFENSE",
+    "source": "ぼうぎょ",
+    "offset": 407436,
+    "xy": 23357,
+    "record_bytes": 7,
+    "original_hex": "3d5b29892dc300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5b3d"
+    }
+  },
+  {
+    "id": 186,
+    "label": "ITEM_DEFENSE",
+    "source": "ぼうぎょ",
+    "offset": 407580,
+    "xy": 23741,
+    "record_bytes": 7,
+    "original_hex": "bd5c29892dc300",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5cbd"
+    }
+  },
+  {
+    "id": 187,
+    "label": "ITEM_BUSHIDO",
+    "source": "ひっさつけん　グガ",
+    "offset": 417932,
+    "xy": 25135,
+    "record_bytes": 12,
+    "original_hex": "2f6263bd758371b9ff2e2a00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x622f"
+    }
+  },
+  {
+    "id": 188,
+    "label": "ITEM_RUNIC",
+    "source": "まふうけん　　グガ",
+    "offset": 417944,
+    "xy": 25263,
+    "record_bytes": 12,
+    "original_hex": "af629d658971b9ffff2e2a00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x62af"
+    }
+  },
+  {
+    "id": 189,
+    "label": "ITEM_2HAND",
+    "source": "りょうてもち　グガ",
+    "offset": 417956,
+    "xy": 25391,
+    "record_bytes": 12,
+    "original_hex": "2f63a9c38985a581ff2e2a00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x632f"
+    }
+  },
+  {
+    "id": 190,
+    "label": "EQUIP_OPTION_EMPTY",
+    "source": "すべてはずす",
+    "offset": 413528,
+    "xy": 22773,
+    "record_bytes": 10,
+    "original_hex": "f558792785613979ff00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x58f5"
+    }
+  },
+  {
+    "id": 191,
+    "label": "EQUIP_CHANGED_MSG",
+    "source": "そうびにかかわるアクセサリーが　へんこうされました",
+    "offset": 413904,
+    "xy": 22991,
+    "record_bytes": 28,
+    "original_hex": "cf597d8923956b6bb7ab8a6e7a74a8c52bff67b9738975ad9d777f00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x59cf"
+    }
+  },
+  {
+    "id": 192,
+    "label": "PARTY_MSG",
+    "source": "パーティーを　つ　つくってください",
+    "offset": 412272,
+    "xy": 6365,
+    "record_bytes": 20,
+    "original_hex": "dd1849c584c6c5bbff83ff836fbd856f3f758d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x18dd"
+    }
+  },
+  {
+    "id": 193,
+    "label": "PARTY_ERROR_MSG1",
+    "source": "パーティーのかずが　つありません！",
+    "offset": 412300,
+    "xy": 6365,
+    "record_bytes": 20,
+    "original_hex": "dd1849c584c6c59b6b392bff838ba99d7bb9c900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x18dd"
+    }
+  },
+  {
+    "id": 194,
+    "label": "PARTY_ERROR_MSG2",
+    "source": "だれもいません！",
+    "offset": 412320,
+    "xy": 6365,
+    "record_bytes": 20,
+    "original_hex": "dd183fada58d9d7bb9c9ffffffffffffffffff00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x18dd"
+    }
+  },
+  {
+    "id": 195,
+    "label": "STATUS_MAG_EVADE",
+    "source": "まほうかいひりつ　＿",
+    "offset": 412560,
+    "xy": 26729,
+    "record_bytes": 13,
+    "original_hex": "69689d69896b8d63a983ffc700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x6869"
+    }
+  },
+  {
+    "id": 196,
+    "label": "STATUS_ATTACK_PWR",
+    "source": "こうげきりょく　　＿",
+    "offset": 412608,
+    "xy": 24105,
+    "record_bytes": 13,
+    "original_hex": "295e7389316da9c36fffffc700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5e29"
+    }
+  },
+  {
+    "id": 197,
+    "label": "STATUS_MAG_DEF",
+    "source": "まほうぼうぎょ　　＿",
+    "offset": 412632,
+    "xy": 24489,
+    "record_bytes": 13,
+    "original_hex": "a95f9d698929892dc3ffffc700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5fa9"
+    }
+  },
+  {
+    "id": 198,
+    "label": "STATUS_LEVEL_UP_EXP",
+    "source": "つぎのレベルまで　あと",
+    "offset": 412664,
+    "xy": 23825,
+    "record_bytes": 14,
+    "original_hex": "115d832d9bac26aa9d45ff8b8700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5d11"
+    }
+  },
+  {
+    "id": 199,
+    "label": "SHOP_OPTIONS_TEXT",
+    "source": "かう　　うる　　でる",
+    "offset": 409320,
+    "xy": 22991,
+    "record_bytes": 13,
+    "original_hex": "cf596b89ffff89abffff45ab00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x59cf"
+    }
+  },
+  {
+    "id": 200,
+    "label": "SHOP_POWER",
+    "source": "こうげきりょく　＿",
+    "offset": 409376,
+    "xy": 23381,
+    "record_bytes": 12,
+    "original_hex": "555b7389316da9c36fffc700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5b55"
+    }
+  },
+  {
+    "id": 201,
+    "label": "SHOP_BUY_MSG",
+    "source": "「なにが　ほしいんだいっ！？」",
+    "offset": 409424,
+    "xy": 22751,
+    "record_bytes": 22,
+    "original_hex": "df58d093952bff69778db93f8dbdc9cbd1ffffffff00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x58df"
+    }
+  },
+  {
+    "id": 202,
+    "label": "SHOP_BUY_QTY_MSG",
+    "source": "「いくつ　ほしいんだいっ！？」",
+    "offset": 409448,
+    "xy": 22751,
+    "record_bytes": 18,
+    "original_hex": "df58d08d6f83ff69778db93f8dbdc9cbd100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x58df"
+    }
+  },
+  {
+    "id": 203,
+    "label": "SHOP_SELL_MSG",
+    "source": "「なにを　うりたいんだい？」",
+    "offset": 409468,
+    "xy": 22751,
+    "record_bytes": 22,
+    "original_hex": "df58d09395bbff89a97f8db93f8dcbd1ffffffffff00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x58df"
+    }
+  },
+  {
+    "id": 204,
+    "label": "SHOP_SELL_QTY_MSG",
+    "source": "「いくつ　うりたいんだい？」",
+    "offset": 409492,
+    "xy": 22751,
+    "record_bytes": 17,
+    "original_hex": "df58d08d6f83ff89a97f8db93f8dcbd100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x58df"
+    }
+  },
+  {
+    "id": 205,
+    "label": "SHOP_BYE_MSG",
+    "source": "「まいど　どーも！」",
+    "offset": 409512,
+    "xy": 22751,
+    "record_bytes": 22,
+    "original_hex": "df58d09d8d47ff47c5a5c9d1ffffffffffffffffff00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x58df"
+    }
+  },
+  {
+    "id": 206,
+    "label": "SHOP_NOT_ENOUGH_GIL_MSG",
+    "source": "「＿＿おかねが　たりないようだね」",
+    "offset": 409536,
+    "xy": 22751,
+    "record_bytes": 20,
+    "original_hex": "df58d0c7c7916b992bff7fa9938db5893f99d100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x58df"
+    }
+  },
+  {
+    "id": 207,
+    "label": "SHOP_TOO_MANY_MSG",
+    "source": "「もう　もてないよ」",
+    "offset": 409556,
+    "xy": 22751,
+    "record_bytes": 18,
+    "original_hex": "df58d0a589ffa585938db5d1ffffffffff00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x58df"
+    }
+  },
+  {
+    "id": 208,
+    "label": "SHOP_ONLY_ONE_MSG",
+    "source": "「１つあれば　じゅうぶんだよ」",
+    "offset": 409576,
+    "xy": 22751,
+    "record_bytes": 18,
+    "original_hex": "df58d054838bad21ff37c18925b93fb5d100",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x58df"
+    }
+  },
+  {
+    "id": 209,
+    "label": "CONFIG_CONTROLLER",
+    "source": "コントローラー",
+    "offset": 407752,
+    "xy": 7567,
+    "record_bytes": 9,
+    "original_hex": "8f1d72b886aec5a600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x1d8f"
+    }
+  },
+  {
+    "id": 210,
+    "label": "CHAR_CTRL_TITLE",
+    "source": "コントローラーのわりふり",
+    "offset": 408312,
+    "xy": 23373,
+    "record_bytes": 14,
+    "original_hex": "4d5b72b886aec5a69bb7a965a900",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5b4d"
+    }
+  },
+  {
+    "id": 211,
+    "label": "CHAR_1_CTRL_1",
+    "source": "コントローラー１",
+    "offset": 408328,
+    "xy": 23585,
+    "record_bytes": 10,
+    "original_hex": "215c72b886aec5a65400",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5c21"
+    }
+  },
+  {
+    "id": 212,
+    "label": "CHAR_1_CTRL_1",
+    "source": "コントローラー１",
+    "offset": 408352,
+    "xy": 23713,
+    "record_bytes": 10,
+    "original_hex": "a15c72b886aec5a65400",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5ca1"
+    }
+  },
+  {
+    "id": 213,
+    "label": "CHAR_1_CTRL_1",
+    "source": "コントローラー１",
+    "offset": 408376,
+    "xy": 23841,
+    "record_bytes": 10,
+    "original_hex": "215d72b886aec5a65400",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5d21"
+    }
+  },
+  {
+    "id": 214,
+    "label": "CHAR_1_CTRL_1",
+    "source": "コントローラー１",
+    "offset": 408400,
+    "xy": 23969,
+    "record_bytes": 10,
+    "original_hex": "a15d72b886aec5a65400",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5da1"
+    }
+  },
+  {
+    "id": 215,
+    "label": "CHAR_1_CTRL_2",
+    "source": "コントローラー２",
+    "offset": 408340,
+    "xy": 23603,
+    "record_bytes": 10,
+    "original_hex": "335c72b886aec5a65500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5c33"
+    }
+  },
+  {
+    "id": 216,
+    "label": "CHAR_1_CTRL_2",
+    "source": "コントローラー２",
+    "offset": 408364,
+    "xy": 23731,
+    "record_bytes": 10,
+    "original_hex": "b35c72b886aec5a65500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5cb3"
+    }
+  },
+  {
+    "id": 217,
+    "label": "CHAR_1_CTRL_2",
+    "source": "コントローラー２",
+    "offset": 408388,
+    "xy": 23859,
+    "record_bytes": 10,
+    "original_hex": "335d72b886aec5a65500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5d33"
+    }
+  },
+  {
+    "id": 218,
+    "label": "CHAR_1_CTRL_2",
+    "source": "コントローラー２",
+    "offset": 408412,
+    "xy": 23987,
+    "record_bytes": 10,
+    "original_hex": "b35d72b886aec5a65500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5db3"
+    }
+  },
+  {
+    "id": 219,
+    "label": "CTRL_CONFIG_TITLE",
+    "source": "ボタンのせってい",
+    "offset": 408424,
+    "xy": 6325,
+    "record_bytes": 11,
+    "original_hex": "b518287eb89b7bbd858d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x18b5"
+    }
+  },
+  {
+    "id": 220,
+    "label": "CTRL_CONFIG_CONFIRM_1",
+    "source": "けってい",
+    "offset": 407036,
+    "xy": 23885,
+    "record_bytes": 7,
+    "original_hex": "4d5d71bd858d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5d4d"
+    }
+  },
+  {
+    "id": 221,
+    "label": "CTRL_CONFIG_CONFIRM_1",
+    "source": "けってい",
+    "offset": 407108,
+    "xy": 24461,
+    "record_bytes": 7,
+    "original_hex": "8d5f71bd858d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5f8d"
+    }
+  },
+  {
+    "id": 222,
+    "label": "CTRL_CONFIG_CONFIRM_1",
+    "source": "けってい",
+    "offset": 407180,
+    "xy": 24077,
+    "record_bytes": 7,
+    "original_hex": "0d5e71bd858d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5e0d"
+    }
+  },
+  {
+    "id": 223,
+    "label": "CTRL_CONFIG_CONFIRM_1",
+    "source": "けってい",
+    "offset": 407252,
+    "xy": 22925,
+    "record_bytes": 7,
+    "original_hex": "8d5971bd858d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x598d"
+    }
+  },
+  {
+    "id": 224,
+    "label": "CTRL_CONFIG_CONFIRM_1",
+    "source": "けってい",
+    "offset": 407324,
+    "xy": 23117,
+    "record_bytes": 7,
+    "original_hex": "4d5a71bd858d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5a4d"
+    }
+  },
+  {
+    "id": 225,
+    "label": "CTRL_CONFIG_CONFIRM_1",
+    "source": "けってい",
+    "offset": 407396,
+    "xy": 23309,
+    "record_bytes": 7,
+    "original_hex": "0d5b71bd858d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5b0d"
+    }
+  },
+  {
+    "id": 226,
+    "label": "CTRL_CONFIG_CONFIRM_1",
+    "source": "けってい",
+    "offset": 407540,
+    "xy": 23693,
+    "record_bytes": 7,
+    "original_hex": "8d5c71bd858d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5c8d"
+    }
+  },
+  {
+    "id": 227,
+    "label": "CTRL_CONFIG_CANCEL_1",
+    "source": "ちゅうし",
+    "offset": 407044,
+    "xy": 23895,
+    "record_bytes": 7,
+    "original_hex": "575d81c1897700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5d57"
+    }
+  },
+  {
+    "id": 228,
+    "label": "CTRL_CONFIG_CANCEL_1",
+    "source": "ちゅうし",
+    "offset": 407116,
+    "xy": 24471,
+    "record_bytes": 7,
+    "original_hex": "975f81c1897700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5f97"
+    }
+  },
+  {
+    "id": 229,
+    "label": "CTRL_CONFIG_CANCEL_1",
+    "source": "ちゅうし",
+    "offset": 407188,
+    "xy": 24087,
+    "record_bytes": 7,
+    "original_hex": "175e81c1897700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5e17"
+    }
+  },
+  {
+    "id": 230,
+    "label": "CTRL_CONFIG_CANCEL_1",
+    "source": "ちゅうし",
+    "offset": 407260,
+    "xy": 22935,
+    "record_bytes": 7,
+    "original_hex": "975981c1897700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5997"
+    }
+  },
+  {
+    "id": 231,
+    "label": "CTRL_CONFIG_CANCEL_1",
+    "source": "ちゅうし",
+    "offset": 407332,
+    "xy": 23127,
+    "record_bytes": 7,
+    "original_hex": "575a81c1897700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5a57"
+    }
+  },
+  {
+    "id": 232,
+    "label": "CTRL_CONFIG_CANCEL_1",
+    "source": "ちゅうし",
+    "offset": 407404,
+    "xy": 23319,
+    "record_bytes": 7,
+    "original_hex": "175b81c1897700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5b17"
+    }
+  },
+  {
+    "id": 233,
+    "label": "CTRL_CONFIG_CANCEL_1",
+    "source": "ちゅうし",
+    "offset": 407548,
+    "xy": 23703,
+    "record_bytes": 7,
+    "original_hex": "975c81c1897700",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5c97"
+    }
+  },
+  {
+    "id": 234,
+    "label": "CTRL_CONFIG_MENU_1",
+    "source": "メニュー",
+    "offset": 407052,
+    "xy": 23905,
+    "record_bytes": 7,
+    "original_hex": "615da294c0c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5d61"
+    }
+  },
+  {
+    "id": 235,
+    "label": "CTRL_CONFIG_MENU_1",
+    "source": "メニュー",
+    "offset": 407124,
+    "xy": 24481,
+    "record_bytes": 7,
+    "original_hex": "a15fa294c0c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5fa1"
+    }
+  },
+  {
+    "id": 236,
+    "label": "CTRL_CONFIG_MENU_1",
+    "source": "メニュー",
+    "offset": 407196,
+    "xy": 24097,
+    "record_bytes": 7,
+    "original_hex": "215ea294c0c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5e21"
+    }
+  },
+  {
+    "id": 237,
+    "label": "CTRL_CONFIG_MENU_1",
+    "source": "メニュー",
+    "offset": 407268,
+    "xy": 22945,
+    "record_bytes": 7,
+    "original_hex": "a159a294c0c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x59a1"
+    }
+  },
+  {
+    "id": 238,
+    "label": "CTRL_CONFIG_MENU_1",
+    "source": "メニュー",
+    "offset": 407340,
+    "xy": 23137,
+    "record_bytes": 7,
+    "original_hex": "615aa294c0c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5a61"
+    }
+  },
+  {
+    "id": 239,
+    "label": "CTRL_CONFIG_MENU_1",
+    "source": "メニュー",
+    "offset": 407412,
+    "xy": 23329,
+    "record_bytes": 7,
+    "original_hex": "215ba294c0c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5b21"
+    }
+  },
+  {
+    "id": 240,
+    "label": "CTRL_CONFIG_MENU_1",
+    "source": "メニュー",
+    "offset": 407556,
+    "xy": 23713,
+    "record_bytes": 7,
+    "original_hex": "a15ca294c0c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5ca1"
+    }
+  },
+  {
+    "id": 241,
+    "label": "CTRL_CONFIG_PARTY_1",
+    "source": "パーティー",
+    "offset": 407060,
+    "xy": 23913,
+    "record_bytes": 8,
+    "original_hex": "695d49c584c6c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5d69"
+    }
+  },
+  {
+    "id": 242,
+    "label": "CTRL_CONFIG_PARTY_1",
+    "source": "パーティー",
+    "offset": 407132,
+    "xy": 24489,
+    "record_bytes": 8,
+    "original_hex": "a95f49c584c6c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5fa9"
+    }
+  },
+  {
+    "id": 243,
+    "label": "CTRL_CONFIG_PARTY_1",
+    "source": "パーティー",
+    "offset": 407204,
+    "xy": 24105,
+    "record_bytes": 8,
+    "original_hex": "295e49c584c6c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5e29"
+    }
+  },
+  {
+    "id": 244,
+    "label": "CTRL_CONFIG_PARTY_1",
+    "source": "パーティー",
+    "offset": 407276,
+    "xy": 22953,
+    "record_bytes": 8,
+    "original_hex": "a95949c584c6c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x59a9"
+    }
+  },
+  {
+    "id": 245,
+    "label": "CTRL_CONFIG_PARTY_1",
+    "source": "パーティー",
+    "offset": 407348,
+    "xy": 23145,
+    "record_bytes": 8,
+    "original_hex": "695a49c584c6c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5a69"
+    }
+  },
+  {
+    "id": 246,
+    "label": "CTRL_CONFIG_PARTY_1",
+    "source": "パーティー",
+    "offset": 407420,
+    "xy": 23337,
+    "record_bytes": 8,
+    "original_hex": "295b49c584c6c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5b29"
+    }
+  },
+  {
+    "id": 247,
+    "label": "CTRL_CONFIG_PARTY_1",
+    "source": "パーティー",
+    "offset": 407564,
+    "xy": 23721,
+    "record_bytes": 8,
+    "original_hex": "a95c49c584c6c500",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5ca9"
+    }
+  },
+  {
+    "id": 248,
+    "label": "CTRL_CONFIG_ROW_1",
+    "source": "チェンジ",
+    "offset": 407068,
+    "xy": 23923,
+    "record_bytes": 7,
+    "original_hex": "735d80cab83600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5d73"
+    }
+  },
+  {
+    "id": 249,
+    "label": "CTRL_CONFIG_ROW_1",
+    "source": "チェンジ",
+    "offset": 407140,
+    "xy": 24499,
+    "record_bytes": 7,
+    "original_hex": "b35f80cab83600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5fb3"
+    }
+  },
+  {
+    "id": 250,
+    "label": "CTRL_CONFIG_ROW_1",
+    "source": "チェンジ",
+    "offset": 407212,
+    "xy": 24115,
+    "record_bytes": 7,
+    "original_hex": "335e80cab83600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5e33"
+    }
+  },
+  {
+    "id": 251,
+    "label": "CTRL_CONFIG_ROW_1",
+    "source": "チェンジ",
+    "offset": 407284,
+    "xy": 22963,
+    "record_bytes": 7,
+    "original_hex": "b35980cab83600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x59b3"
+    }
+  },
+  {
+    "id": 252,
+    "label": "CTRL_CONFIG_ROW_1",
+    "source": "チェンジ",
+    "offset": 407356,
+    "xy": 23155,
+    "record_bytes": 7,
+    "original_hex": "735a80cab83600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5a73"
+    }
+  },
+  {
+    "id": 253,
+    "label": "CTRL_CONFIG_ROW_1",
+    "source": "チェンジ",
+    "offset": 407428,
+    "xy": 23347,
+    "record_bytes": 7,
+    "original_hex": "335b80cab83600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5b33"
+    }
+  },
+  {
+    "id": 254,
+    "label": "CTRL_CONFIG_ROW_1",
+    "source": "チェンジ",
+    "offset": 407572,
+    "xy": 23731,
+    "record_bytes": 7,
+    "original_hex": "b35c80cab83600",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x5cb3"
+    }
+  },
+  {
+    "id": 255,
+    "label": "CTRL_CONFIG_BUTTON_1",
+    "source": "ボタン",
+    "offset": 408436,
+    "xy": 6483,
+    "record_bytes": 6,
+    "original_hex": "5319287eb800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x1953"
+    }
+  },
+  {
+    "id": 256,
+    "label": "CTRL_CONFIG_BUTTON_1",
+    "source": "ボタン",
+    "offset": 408444,
+    "xy": 6675,
+    "record_bytes": 6,
+    "original_hex": "131a287eb800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x1a13"
+    }
+  },
+  {
+    "id": 257,
+    "label": "CTRL_CONFIG_BUTTON_1",
+    "source": "ボタン",
+    "offset": 408452,
+    "xy": 6867,
+    "record_bytes": 6,
+    "original_hex": "d31a287eb800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x1ad3"
+    }
+  },
+  {
+    "id": 258,
+    "label": "CTRL_CONFIG_BUTTON_1",
+    "source": "ボタン",
+    "offset": 408460,
+    "xy": 7059,
+    "record_bytes": 6,
+    "original_hex": "931b287eb800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x1b93"
+    }
+  },
+  {
+    "id": 259,
+    "label": "CTRL_CONFIG_BUTTON_1",
+    "source": "ボタン",
+    "offset": 408468,
+    "xy": 7253,
+    "record_bytes": 6,
+    "original_hex": "551c287eb800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x1c55"
+    }
+  },
+  {
+    "id": 260,
+    "label": "CTRL_CONFIG_BUTTON_1",
+    "source": "ボタン",
+    "offset": 408476,
+    "xy": 7445,
+    "record_bytes": 6,
+    "original_hex": "151d287eb800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x1d15"
+    }
+  },
+  {
+    "id": 261,
+    "label": "CTRL_CONFIG_BUTTON_1",
+    "source": "ボタン",
+    "offset": 408484,
+    "xy": 7637,
+    "record_bytes": 6,
+    "original_hex": "d51d287eb800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x1dd5"
+    }
+  },
+  {
+    "id": 262,
+    "label": "CTRL_CONFIG_BUTTON_1",
+    "source": "ボタン",
+    "offset": 408492,
+    "xy": 7829,
+    "record_bytes": 6,
+    "original_hex": "951e287eb800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x1e95"
+    }
+  },
+  {
+    "id": 263,
+    "label": "CTRL_CONFIG_BUTTON_1",
+    "source": "ボタン",
+    "offset": 408500,
+    "xy": 8029,
+    "record_bytes": 6,
+    "original_hex": "5d1f287eb800",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x1f5d"
+    }
+  },
+  {
+    "id": 264,
+    "label": "FINAL_ORDER_MSG",
+    "source": "じゅんばんを　きめてください",
+    "offset": 418616,
+    "xy": 6365,
+    "record_bytes": 17,
+    "original_hex": "dd1837c1b921b9bbff6da3856f3f758d00",
+    "encoding": "smallText",
+    "position": {
+      "layer": "PSX native",
+      "tile_address": "0x18dd"
+    }
+  }
+]

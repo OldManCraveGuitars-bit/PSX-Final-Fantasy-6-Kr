@@ -1,0 +1,51 @@
+{
+  "baseline": "v080",
+  "candidate": "v081",
+  "emulator": "Mednafen 1.32.1 PSX, normal emulated CD timing",
+  "measurement": "Pad input to 99.5% of settled brightness; frozen-frame steps; four-frame sampling.",
+  "asset_or_code_injection": false,
+  "sampling_uncertainty_frames": 4,
+  "open": {
+    "baseline_frames": [
+      212,
+      188,
+      188
+    ],
+    "candidate_frames": [
+      196,
+      200,
+      200
+    ],
+    "baseline_seconds": 3.1333333333333333,
+    "candidate_seconds": 3.3333333333333335,
+    "seconds_saved": -0.2,
+    "reduction_percent": -6.38
+  },
+  "close": {
+    "baseline_frames": [
+      312,
+      312,
+      312
+    ],
+    "candidate_frames": [
+      228,
+      228,
+      228
+    ],
+    "baseline_seconds": 5.2,
+    "candidate_seconds": 3.8,
+    "seconds_saved": 1.4,
+    "reduction_percent": 26.92
+  },
+  "first_open": {
+    "baseline_seconds": 3.533333333333333,
+    "candidate_seconds": 3.2666666666666666
+  },
+  "repeated_roundtrip": {
+    "baseline_seconds": 8.333333333333334,
+    "candidate_seconds": 7.133333333333334,
+    "seconds_saved": 1.2,
+    "reduction_percent": 14.4
+  },
+  "scope": "Initial Narshe field/menu roundtrips; cache capacity fallback is intentional in other scenes, after name input, and after save overlay use."
+}

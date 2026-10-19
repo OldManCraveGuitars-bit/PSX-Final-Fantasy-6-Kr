@@ -1,0 +1,26 @@
+{
+  "candidate": "FF6-KR-main-development-v084",
+  "scenario": "Narshe second event battle, native Silvario enemy AI",
+  "fixture": "Character levels set to8 before entering battle to satisfy native Fang AI condition >7",
+  "level_fixture": [
+    [
+      0,
+      "00",
+      "03"
+    ],
+    [
+      14,
+      "20",
+      "02"
+    ],
+    [
+      15,
+      "21",
+      "02"
+    ]
+  ],
+  "attack_index": 25,
+  "attack_or_code_substitution": false,
+  "screenshot": "PROJECT\\analysis\\v084-native-enemy-special-25.png",
+  "continuation_screenshot": "analysis/v084-native-enemy-special-return.png"
+}

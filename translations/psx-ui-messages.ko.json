@@ -1,0 +1,372 @@
+{
+  "0": {
+    "source": "あ愛",
+    "translation": "가나",
+    "status": "manual_context_checked"
+  },
+  "1": {
+    "source": "最初からゲームをはじめます。",
+    "translation": "처음부터 게임을 시작합니다.",
+    "status": "manual_context_checked"
+  },
+  "2": {
+    "source": "メモリーカードが入っていません！",
+    "translation": "메모리 카드가 없습니다!",
+    "status": "manual_context_checked"
+  },
+  "3": {
+    "source": "このままだと新規セーブできませんが\nよろしいですか？",
+    "translation": "새로 저장할 수 없습니다.\n계속할까요?",
+    "status": "manual_context_checked"
+  },
+  "4": {
+    "source": "メモリーカードに\n空きブロックがありません！",
+    "translation": "메모리 카드에\n빈 블록이 없습니다!",
+    "status": "manual_context_checked"
+  },
+  "5": {
+    "source": "このメモリーカードでは\nセーブできませんがよろしいですか？",
+    "translation": "이 카드에는 저장할 수 없습니다.\n계속할까요?",
+    "status": "manual_context_checked"
+  },
+  "6": {
+    "source": "やめとく",
+    "translation": "취소",
+    "status": "manual_context_checked"
+  },
+  "7": {
+    "source": "このまま始める",
+    "translation": "이대로 시작",
+    "status": "manual"
+  },
+  "8": {
+    "source": "メモファイルのデータを呼び出します。",
+    "translation": "임시 파일의 데이터를 불러옵니다.",
+    "status": "manual_context_checked"
+  },
+  "9": {
+    "source": "EMPTY！",
+    "translation": "EMPTY!",
+    "status": "manual_context_checked"
+  },
+  "10": {
+    "source": "メモファイルを呼び出しますか？",
+    "translation": "임시 파일을 불러올까요?",
+    "status": "manual_context_checked"
+  },
+  "11": {
+    "source": "呼び出す",
+    "translation": "불러오기",
+    "status": "manual_context_checked"
+  },
+  "12": {
+    "source": "メモリーカードのデータをロードします。",
+    "translation": "메모리 카드의 데이터를 불러옵니다.",
+    "status": "manual_context_checked"
+  },
+  "13": {
+    "source": "ファイナルファンタジーⅥの\nセーブデータがありません！",
+    "translation": "파이널 판타지Ⅵ의\n저장 데이터가 없습니다!",
+    "status": "manual_context_checked"
+  },
+  "14": {
+    "source": "メモリーカードをチェックしています。\nメモリーカードとコントローラの\n抜き差しをしないで下さい！",
+    "translation": "메모리 카드를 확인하고 있습니다.\n카드와 컨트롤러를\n빼거나 꽂지 마세요!",
+    "status": "manual_context_checked"
+  },
+  "15": {
+    "source": "ロードするファイルを選択して下さい。",
+    "translation": "불러올 파일을 선택하세요.",
+    "status": "manual_context_checked"
+  },
+  "16": {
+    "source": "このセーブデータは壊れています！\nロードする事は出来ません。",
+    "translation": "저장 데이터가 손상되었습니다!\n불러올 수 없습니다.",
+    "status": "manual_context_checked"
+  },
+  "17": {
+    "source": "このデータで始めますか？",
+    "translation": "이 데이터로 시작할까요?",
+    "status": "manual_context_checked"
+  },
+  "18": {
+    "source": "いいえ",
+    "translation": "아니요",
+    "status": "manual"
+  },
+  "19": {
+    "source": "はい",
+    "translation": "예",
+    "status": "manual_context_checked"
+  },
+  "20": {
+    "source": "ロードしています。\nメモリーカードとコントローラの\n抜き差しをしないで下さい！",
+    "translation": "불러오고 있습니다.\n카드와 컨트롤러를\n빼거나 꽂지 마세요!",
+    "status": "manual_context_checked"
+  },
+  "21": {
+    "source": "ロードに失敗しました…",
+    "translation": "불러오기에 실패했습니다…",
+    "status": "manual_context_checked"
+  },
+  "22": {
+    "source": "データをすばやく一時保存します。",
+    "translation": "데이터를 빠르게 임시 저장합니다.",
+    "status": "manual_context_checked"
+  },
+  "23": {
+    "source": "メモしますか？",
+    "translation": "임시 저장할까요?",
+    "status": "manual_context_checked"
+  },
+  "24": {
+    "source": "メモファイルを上書きしますか？",
+    "translation": "임시 파일을 덮어쓸까요?",
+    "status": "manual_context_checked"
+  },
+  "25": {
+    "source": "メモにより一時保存しました。",
+    "translation": "데이터를 임시 저장했습니다.",
+    "status": "manual_context_checked"
+  },
+  "26": {
+    "source": "メモリーカードにデータを保存します。",
+    "translation": "메모리 카드에 데이터를 저장합니다.",
+    "status": "manual_context_checked"
+  },
+  "27": {
+    "source": "このメモリーカードは\nフォーマットされていません！",
+    "translation": "포맷하지 않은\n메모리 카드입니다!",
+    "status": "manual_context_checked"
+  },
+  "28": {
+    "source": "フォーマットしますか？",
+    "translation": "포맷할까요?",
+    "status": "manual_context_checked"
+  },
+  "29": {
+    "source": "フォーマットしています。\nメモリーカードとコントローラの\n抜き差しをしないで下さい！",
+    "translation": "포맷하고 있습니다.\n카드와 컨트롤러를\n빼거나 꽂지 마세요!",
+    "status": "manual_context_checked"
+  },
+  "30": {
+    "source": "フォーマットに失敗しました…",
+    "translation": "포맷에 실패했습니다…",
+    "status": "manual_context_checked"
+  },
+  "31": {
+    "source": "フォーマットしました！",
+    "translation": "포맷했습니다!",
+    "status": "manual_context_checked"
+  },
+  "32": {
+    "source": "別のメモリーカードを入れるか、\nメモリーカード管理画面で\n不要なセーブデータを消して下さい",
+    "translation": "다른 메모리 카드를 넣거나\n메모리 카드 관리 화면에서\n필요 없는 저장 데이터를 지우세요.",
+    "status": "manual_context_checked"
+  },
+  "33": {
+    "source": "セーブするファイルを選択して下さい。",
+    "translation": "저장할 파일을 선택하세요.",
+    "status": "manual_context_checked"
+  },
+  "34": {
+    "source": "このセーブデータは壊れています！\nでも上書きするのはOKです。",
+    "translation": "저장 데이터가 손상되었습니다!\n덮어써도 OK입니다.",
+    "status": "manual_context_checked"
+  },
+  "35": {
+    "source": "セーブしています。\nメモリーカードとコントローラの\n抜き差しをしないで下さい！",
+    "translation": "저장하고 있습니다.\n카드와 컨트롤러를\n빼거나 꽂지 마세요!",
+    "status": "manual_context_checked"
+  },
+  "36": {
+    "source": "セーブに失敗しました…",
+    "translation": "저장에 실패했습니다…",
+    "status": "manual_context_checked"
+  },
+  "37": {
+    "source": "セーブしました！",
+    "translation": "저장했습니다!",
+    "status": "manual_context_checked"
+  },
+  "38": {
+    "source": "これまでのプレイデータを\nシステムファイルにセーブしますか？",
+    "translation": "지금까지의 플레이 기록을\n시스템 파일에 저장할까요?",
+    "status": "manual_context_checked"
+  },
+  "39": {
+    "source": "セーブする",
+    "translation": "저장",
+    "status": "manual_context_checked"
+  },
+  "40": {
+    "source": "いらない",
+    "translation": "필요 없음",
+    "status": "manual_context_checked"
+  },
+  "41": {
+    "source": "システムファイルってなに？",
+    "translation": "시스템 파일이 뭔가요?",
+    "status": "manual_context_checked"
+  },
+  "42": {
+    "source": "そうですか……",
+    "translation": "그렇군요……",
+    "status": "manual_context_checked"
+  },
+  "43": {
+    "source": "本当にセーブしなくても\nいいんですね？",
+    "translation": "정말 저장하지 않아도\n괜찮나요?",
+    "status": "manual_context_checked"
+  },
+  "44": {
+    "source": "やっぱりセーブする。",
+    "translation": "역시 저장한다.",
+    "status": "manual_context_checked"
+  },
+  "45": {
+    "source": "いらないッ！",
+    "translation": "필요 없어!",
+    "status": "manual_context_checked"
+  },
+  "46": {
+    "source": "あ、そう…",
+    "translation": "아, 그래요…",
+    "status": "manual_context_checked"
+  },
+  "47": {
+    "source": "メモリーカードを選択して下さい。",
+    "translation": "메모리 카드를 선택하세요.",
+    "status": "manual_context_checked"
+  },
+  "48": {
+    "source": "スロット1",
+    "translation": "슬롯1",
+    "status": "manual_context_checked"
+  },
+  "49": {
+    "source": "スロット2",
+    "translation": "슬롯2",
+    "status": "manual_context_checked"
+  },
+  "50": {
+    "source": "このメモリーカードには\n既にシステムファイルが入っています。",
+    "translation": "이 메모리 카드에는\n이미 시스템 파일이 있습니다.",
+    "status": "manual_context_checked"
+  },
+  "51": {
+    "source": "システムファイルを更新しますか？",
+    "translation": "시스템 파일을 갱신할까요?",
+    "status": "manual_context_checked"
+  },
+  "52": {
+    "source": "システムファイルを作成しています。\nメモリーカードとコントローラの\n抜き差しをしないで下さい。",
+    "translation": "시스템 파일을 만들고 있습니다.\n카드와 컨트롤러를\n빼거나 꽂지 마세요.",
+    "status": "manual_context_checked"
+  },
+  "53": {
+    "source": "システムファイルを作成に\n失敗しました…",
+    "translation": "시스템 파일을 만드는 데\n실패했습니다…",
+    "status": "manual_context_checked"
+  },
+  "54": {
+    "source": "システムファイルを作成しました。",
+    "translation": "시스템 파일을 만들었습니다.",
+    "status": "manual_context_checked"
+  },
+  "55": {
+    "source": "システムファイルとは\nこのゲームのおまけモードを\n見るのに必要なファイルです。",
+    "translation": "시스템 파일은\n게임의 부록 모드를 보는 데\n필요한 파일입니다.",
+    "status": "manual_context_checked"
+  },
+  "56": {
+    "source": "システムファイルを作ると\nロード画面の「おまけ」に\n新しい項目が追加表示されます。",
+    "translation": "시스템 파일을 만들면\n불러오기 화면의 '부록'에\n새로운 항목이 추가됩니다.",
+    "status": "manual_context_checked"
+  },
+  "57": {
+    "source": "「おまけ」の中に何が観れるかは\n見てからのお楽しみです。",
+    "translation": "'부록'에는 어떤 내용이 있을까요?\n직접 확인해 보세요.",
+    "status": "manual_context_checked"
+  },
+  "58": {
+    "source": "システムファイルを作成するためには、\nメモリーカードの空きブロックが\n「一つ」必要です。",
+    "translation": "시스템 파일을 만들려면\n메모리 카드에\n빈 블록이 하나 필요합니다.",
+    "status": "manual_context_checked"
+  },
+  "59": {
+    "source": "また、システムファイルは一枚の\nメモリーカードに一つしか作れません。",
+    "translation": "시스템 파일은 메모리 카드\n한 장에 하나만 만들 수 있습니다.",
+    "status": "manual_context_checked"
+  },
+  "60": {
+    "source": "システムファイルを作成しますか？",
+    "translation": "시스템 파일을 만들까요?",
+    "status": "manual_context_checked"
+  },
+  "61": {
+    "source": "作成する",
+    "translation": "만들기",
+    "status": "manual_context_checked"
+  },
+  "62": {
+    "source": "システムファイルを更新しています。\nメモリーカードとコントローラの\n抜き差しをしないで下さい。",
+    "translation": "시스템 파일을 갱신하고 있습니다.\n카드와 컨트롤러를\n빼거나 꽂지 마세요.",
+    "status": "manual_context_checked"
+  },
+  "63": {
+    "source": "システムファイルを更新しました！",
+    "translation": "시스템 파일을 갱신했습니다!",
+    "status": "manual_context_checked"
+  },
+  "64": {
+    "source": "システムファイルの更新に\n失敗しました……",
+    "translation": "시스템 파일 갱신에\n실패했습니다……",
+    "status": "manual_context_checked"
+  },
+  "65": {
+    "source": "おまけがあります。",
+    "translation": "부록이 있습니다.",
+    "status": "manual_context_checked"
+  },
+  "66": {
+    "source": "システムファイルをロードします。\nメモリーカードを選択して下さい。",
+    "translation": "시스템 파일을 불러옵니다.\n메모리 카드를 선택하세요.",
+    "status": "manual_context_checked"
+  },
+  "67": {
+    "source": "スロット1のメモリーカードの\nシステムファイルをロードしています。\nメモリーカードとコントローラの\n抜き差しをしないで下さい！",
+    "translation": "슬롯1의 시스템 파일을\n불러오고 있습니다.\n카드와 컨트롤러를\n빼거나 꽂지 마세요!",
+    "status": "manual_context_checked"
+  },
+  "68": {
+    "source": "スロット2のメモリーカードの\nシステムファイルをロードしています。\nメモリーカードとコントローラの\n抜き差しをしないで下さい！",
+    "translation": "슬롯2의 시스템 파일을\n불러오고 있습니다.\n카드와 컨트롤러를\n빼거나 꽂지 마세요!",
+    "status": "manual_context_checked"
+  },
+  "69": {
+    "source": "これはシステムファイルです。\nロードする事は出来ません。",
+    "translation": "시스템 파일입니다.\n불러올 수 없습니다.",
+    "status": "manual_context_checked"
+  },
+  "70": {
+    "source": "これはシステムファイルです。\nここにセーブする事は出来ません。",
+    "translation": "시스템 파일입니다.\n여기에 저장할 수 없습니다.",
+    "status": "manual_context_checked"
+  },
+  "71": {
+    "source": "別のゲームのデータが\n入っています。",
+    "translation": "다른 게임의\n데이터가 있습니다.",
+    "status": "manual_context_checked"
+  },
+  "72": {
+    "source": "システムファイルが入っていません。",
+    "translation": "시스템 파일이 없습니다.",
+    "status": "manual_context_checked"
+  },
+  "73": {
+    "source": "ロードしないで見たい",
+    "translation": "불러오지 않고 보기",
+    "status": "manual_context_checked"
+  }
+}

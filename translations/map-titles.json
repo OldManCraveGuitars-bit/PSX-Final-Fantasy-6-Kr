@@ -1,0 +1,586 @@
+[
+  {
+    "id": 0,
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "original_offset": 0,
+    "original_hex": "00"
+  },
+  {
+    "id": 1,
+    "source": "宿屋",
+    "translation": "여관",
+    "status": "manual",
+    "original_offset": 1,
+    "original_hex": "1d981c4700"
+  },
+  {
+    "id": 2,
+    "source": "武器屋",
+    "translation": "무기점",
+    "status": "manual",
+    "original_offset": 6,
+    "original_hex": "1de01e021c4700"
+  },
+  {
+    "id": 3,
+    "source": "防具屋",
+    "translation": "방어구점",
+    "status": "manual",
+    "original_offset": 13,
+    "original_hex": "1e001e051c4700"
+  },
+  {
+    "id": 4,
+    "source": "武器・防具屋",
+    "translation": "무기·방어구점",
+    "status": "manual",
+    "original_offset": 20,
+    "original_hex": "1de01e02d71e001e051c4700"
+  },
+  {
+    "id": 5,
+    "source": "アクセサリー屋",
+    "translation": "액세서리점",
+    "status": "manual",
+    "original_offset": 32,
+    "original_hex": "8a6e7a74a8c51c4700"
+  },
+  {
+    "id": 6,
+    "source": "道具屋",
+    "translation": "도구점",
+    "status": "manual",
+    "original_offset": 41,
+    "original_hex": "1e3d1e051c4700"
+  },
+  {
+    "id": 7,
+    "source": "酒場",
+    "translation": "술집",
+    "status": "manual",
+    "original_offset": 48,
+    "original_hex": "1cac1c3100"
+  },
+  {
+    "id": 8,
+    "source": "機関室",
+    "translation": "기관실",
+    "status": "manual",
+    "original_offset": 53,
+    "original_hex": "1c481c7c1d3600"
+  },
+  {
+    "id": 9,
+    "source": "地下１階",
+    "translation": "지하 1층",
+    "status": "manual",
+    "original_offset": 60,
+    "original_hex": "1ec31e06541cd500"
+  },
+  {
+    "id": 10,
+    "source": "地下２階",
+    "translation": "지하 2층",
+    "status": "manual",
+    "original_offset": 68,
+    "original_hex": "1ec31e06551cd500"
+  },
+  {
+    "id": 11,
+    "source": "地下３階",
+    "translation": "지하 3층",
+    "status": "manual",
+    "original_offset": 76,
+    "original_hex": "1ec31e06561cd500"
+  },
+  {
+    "id": 12,
+    "source": "地下４階",
+    "translation": "지하 4층",
+    "status": "manual",
+    "original_offset": 84,
+    "original_hex": "1ec31e06571cd500"
+  },
+  {
+    "id": 13,
+    "source": "１階",
+    "translation": "1층",
+    "status": "manual",
+    "original_offset": 92,
+    "original_hex": "541cd500"
+  },
+  {
+    "id": 14,
+    "source": "２階",
+    "translation": "2층",
+    "status": "manual",
+    "original_offset": 96,
+    "original_hex": "551cd500"
+  },
+  {
+    "id": 15,
+    "source": "３階",
+    "translation": "3층",
+    "status": "manual",
+    "original_offset": 100,
+    "original_hex": "561cd500"
+  },
+  {
+    "id": 16,
+    "source": "４階",
+    "translation": "4층",
+    "status": "manual",
+    "original_offset": 104,
+    "original_hex": "571cd500"
+  },
+  {
+    "id": 17,
+    "source": "５階",
+    "translation": "5층",
+    "status": "manual",
+    "original_offset": 108,
+    "original_hex": "581cd500"
+  },
+  {
+    "id": 18,
+    "source": "６階",
+    "translation": "6층",
+    "status": "manual",
+    "original_offset": 112,
+    "original_hex": "591cd500"
+  },
+  {
+    "id": 19,
+    "source": "７階",
+    "translation": "7층",
+    "status": "manual",
+    "original_offset": 116,
+    "original_hex": "5a1cd500"
+  },
+  {
+    "id": 20,
+    "source": "８階",
+    "translation": "8층",
+    "status": "manual",
+    "original_offset": 120,
+    "original_hex": "5b1cd500"
+  },
+  {
+    "id": 21,
+    "source": "９階",
+    "translation": "9층",
+    "status": "manual",
+    "original_offset": 124,
+    "original_hex": "5c1cd500"
+  },
+  {
+    "id": 22,
+    "source": "１０階",
+    "translation": "10층",
+    "status": "manual",
+    "original_offset": 128,
+    "original_hex": "54531cd500"
+  },
+  {
+    "id": 23,
+    "source": "チョコボ屋",
+    "translation": "초코보 대여점",
+    "status": "manual",
+    "original_offset": 133,
+    "original_hex": "80c272281c4700"
+  },
+  {
+    "id": 24,
+    "source": "フィガロ城",
+    "translation": "피가로 성",
+    "status": "manual",
+    "original_offset": 140,
+    "original_hex": "64c62aae1c1b00"
+  },
+  {
+    "id": 25,
+    "source": "サウスフィガロの町",
+    "translation": "사우스 피가로 마을",
+    "status": "manual",
+    "original_offset": 147,
+    "original_hex": "74887864c62aae9b1c1600"
+  },
+  {
+    "id": 26,
+    "source": "リターナー本部",
+    "translation": "리터너 본부",
+    "status": "manual",
+    "original_offset": 158,
+    "original_hex": "a87ec592c51c221c5f00"
+  },
+  {
+    "id": 27,
+    "source": "長老の家",
+    "translation": "장로의 집",
+    "status": "manual",
+    "original_offset": 168,
+    "original_hex": "1e361c1e9b1c1800"
+  },
+  {
+    "id": 28,
+    "source": "武闘家ダンカンの家",
+    "translation": "무도가 던컨의 집",
+    "status": "manual",
+    "original_offset": 176,
+    "original_hex": "1de01ecb1c183eb86ab89b1c1800"
+  },
+  {
+    "id": 29,
+    "source": "コルツ山",
+    "translation": "콜츠 산",
+    "status": "manual",
+    "original_offset": 190,
+    "original_hex": "72aa821c7400"
+  },
+  {
+    "id": 30,
+    "source": "王の間",
+    "translation": "왕의 방",
+    "status": "manual",
+    "original_offset": 196,
+    "original_hex": "1e899b1e0100"
+  },
+  {
+    "id": 31,
+    "source": "モーグリの洞窟",
+    "translation": "모그리 동굴",
+    "status": "manual",
+    "original_offset": 202,
+    "original_hex": "a4c52ea89b1cc91ccb00"
+  },
+  {
+    "id": 32,
+    "source": "炭坑都市ナルシェ",
+    "translation": "탄광 도시 나르셰",
+    "status": "manual",
+    "original_offset": 212,
+    "original_hex": "1ce01cfa1c761c8f92aa76ca00"
+  },
+  {
+    "id": 33,
+    "source": "競売場",
+    "translation": "경매장",
+    "status": "manual",
+    "original_offset": 225,
+    "original_hex": "1fd61cfc1c3100"
+  },
+  {
+    "id": 34,
+    "source": "アウザーのやしき",
+    "translation": "아우저의 저택",
+    "status": "manual",
+    "original_offset": 232,
+    "original_hex": "8a8834c59bb1776d00"
+  },
+  {
+    "id": 35,
+    "source": "バレンの滝",
+    "translation": "바렌 폭포",
+    "status": "manual",
+    "original_offset": 241,
+    "original_hex": "20acb89b1da600"
+  },
+  {
+    "id": 36,
+    "source": "モブリズの村",
+    "translation": "모블리즈 마을",
+    "status": "manual",
+    "original_offset": 248,
+    "original_hex": "a424a8389b1c1200"
+  },
+  {
+    "id": 37,
+    "source": "港町ニケア",
+    "translation": "항구 도시 니케아",
+    "status": "manual",
+    "original_offset": 256,
+    "original_hex": "1ca11c1694708a00"
+  },
+  {
+    "id": 38,
+    "source": "ツェンの町",
+    "translation": "첸 마을",
+    "status": "manual",
+    "original_offset": 264,
+    "original_hex": "82cab89b1c1600"
+  },
+  {
+    "id": 39,
+    "source": "リターナー本部",
+    "translation": "리터너 본부",
+    "status": "manual",
+    "original_offset": 271,
+    "original_hex": "a87ec592c51c221c5f00"
+  },
+  {
+    "id": 40,
+    "source": "レテ川",
+    "translation": "레테 강",
+    "status": "manual",
+    "original_offset": 281,
+    "original_hex": "ac841ca900"
+  },
+  {
+    "id": 41,
+    "source": "帝国軍陣地",
+    "translation": "제국군 진지",
+    "status": "manual",
+    "original_offset": 286,
+    "original_hex": "1ff91ff81c111eb71ec300"
+  },
+  {
+    "id": 42,
+    "source": "ドマ城",
+    "translation": "도마 성",
+    "status": "manual",
+    "original_offset": 297,
+    "original_hex": "469c1c1b00"
+  },
+  {
+    "id": 43,
+    "source": "迷いの森",
+    "translation": "미혹의 숲",
+    "status": "manual",
+    "original_offset": 302,
+    "original_hex": "1ceb8d9b1d3000"
+  },
+  {
+    "id": 44,
+    "source": "蛇の道",
+    "translation": "뱀의 길",
+    "status": "manual",
+    "original_offset": 309,
+    "original_hex": "1cde9b1e3d00"
+  },
+  {
+    "id": 45,
+    "source": "コーリンゲンの村",
+    "translation": "콜린겐 마을",
+    "status": "manual",
+    "original_offset": 315,
+    "original_hex": "72c5a8b830b89b1c1200"
+  },
+  {
+    "id": 46,
+    "source": "ゾゾ",
+    "translation": "조조",
+    "status": "manual",
+    "original_offset": 325,
+    "original_hex": "3c3c00"
+  },
+  {
+    "id": 47,
+    "source": "ジドールの町",
+    "translation": "지돌 마을",
+    "status": "manual",
+    "original_offset": 328,
+    "original_hex": "3646c5aa9b1c1600"
+  },
+  {
+    "id": 48,
+    "source": "オペラ劇場",
+    "translation": "오페라 극장",
+    "status": "manual",
+    "original_offset": 336,
+    "original_hex": "904fa61ce61c3100"
+  },
+  {
+    "id": 49,
+    "source": "帝国首都ベクタ",
+    "translation": "제국 수도 벡터",
+    "status": "manual",
+    "original_offset": 344,
+    "original_hex": "1ff91ff81d1d1c76266e7e00"
+  },
+  {
+    "id": 50,
+    "source": "帝国城",
+    "translation": "제국 성",
+    "status": "manual",
+    "original_offset": 356,
+    "original_hex": "1ff91ff81c1b00"
+  },
+  {
+    "id": 51,
+    "source": "魔導研究所",
+    "translation": "마도 연구소",
+    "status": "manual",
+    "original_offset": 363,
+    "original_hex": "1eda1c031c441e981c1900"
+  },
+  {
+    "id": 52,
+    "source": "マランダの町",
+    "translation": "마란다 마을",
+    "status": "manual",
+    "original_offset": 374,
+    "original_hex": "9ca6b83e9b1c1600"
+  },
+  {
+    "id": 53,
+    "source": "アルブルグの町",
+    "translation": "알브루크 마을",
+    "status": "manual",
+    "original_offset": 382,
+    "original_hex": "8aaa24aa2e9b1c1600"
+  },
+  {
+    "id": 54,
+    "source": "封魔壁監視所",
+    "translation": "봉마벽 감시소",
+    "status": "manual",
+    "original_offset": 391,
+    "original_hex": "1c561eda1c521d161e0e1c1900"
+  },
+  {
+    "id": 55,
+    "source": "封魔壁",
+    "translation": "봉마벽",
+    "status": "manual",
+    "original_offset": 404,
+    "original_hex": "1c561eda1c5200"
+  },
+  {
+    "id": 56,
+    "source": "サマサの村",
+    "translation": "사마사 마을",
+    "status": "manual",
+    "original_offset": 411,
+    "original_hex": "749c749b1c1200"
+  },
+  {
+    "id": 57,
+    "source": "竜の首コロシアム",
+    "translation": "용의 목 콜로세움",
+    "status": "manual",
+    "original_offset": 418,
+    "original_hex": "1ee89b1d1d72ae768aa000"
+  },
+  {
+    "id": 58,
+    "source": "ダリルの墓・地下１階",
+    "translation": "다릴의 무덤·지하 1층",
+    "status": "manual",
+    "original_offset": 429,
+    "original_hex": "3ea8aa9b1f0cd71ec31e06541cd500"
+  },
+  {
+    "id": 59,
+    "source": "魔大陸",
+    "translation": "마대륙",
+    "status": "manual",
+    "original_offset": 444,
+    "original_hex": "1eda1ec01c6d00"
+  },
+  {
+    "id": 60,
+    "source": "幻獣の村",
+    "translation": "환수 마을",
+    "status": "manual",
+    "original_offset": 451,
+    "original_hex": "1e9f1eaf9b1c1200"
+  },
+  {
+    "id": 61,
+    "source": "ゾゾ山",
+    "translation": "조조 산",
+    "status": "manual",
+    "original_offset": 459,
+    "original_hex": "3c3c1c7400"
+  },
+  {
+    "id": 62,
+    "source": "魔導工場",
+    "translation": "마도 공장",
+    "status": "manual",
+    "original_offset": 464,
+    "original_hex": "1eda1c031d651c3100"
+  },
+  {
+    "id": 63,
+    "source": "三日月山",
+    "translation": "초승달 산",
+    "status": "manual",
+    "original_offset": 473,
+    "original_hex": "1c401c1f1e9d1c7400"
+  },
+  {
+    "id": 64,
+    "source": "初心者の家",
+    "translation": "초보자의 집",
+    "status": "manual",
+    "original_offset": 482,
+    "original_hex": "1cd71eb41e159b1c1800"
+  },
+  {
+    "id": 65,
+    "source": "ケフカの塔",
+    "translation": "케프카의 탑",
+    "status": "manual",
+    "original_offset": 492,
+    "original_hex": "70646a9b1cb600"
+  },
+  {
+    "id": 66,
+    "source": "ちょっとむずかしい戦闘の部屋",
+    "translation": "조금 어려운 전투의 방",
+    "status": "manual",
+    "original_offset": 499,
+    "original_hex": "81c3bd87a1396b778d1e2a1ecb9b1c5f1c4700"
+  },
+  {
+    "id": 67,
+    "source": "戦闘の部屋",
+    "translation": "전투의 방",
+    "status": "manual",
+    "original_offset": 518,
+    "original_hex": "1e2a1ecb9b1c5f1c4700"
+  },
+  {
+    "id": 68,
+    "source": "フィールドの部屋",
+    "translation": "필드의 방",
+    "status": "manual",
+    "original_offset": 528,
+    "original_hex": "64c6c5aa469b1c5f1c4700"
+  },
+  {
+    "id": 69,
+    "source": "封魔壁への洞窟",
+    "translation": "봉마벽으로 가는 동굴",
+    "status": "manual",
+    "original_offset": 539,
+    "original_hex": "1c561eda1c52679b1cc91ccb00"
+  },
+  {
+    "id": 70,
+    "source": "武器・防具・道具屋",
+    "translation": "무기·방어구·도구점",
+    "status": "manual",
+    "original_offset": 552,
+    "original_hex": "1de01e02d71e001e05d71e3d1e051c4700"
+  },
+  {
+    "id": 71,
+    "source": "フェニックスの洞窟",
+    "translation": "피닉스 동굴",
+    "status": "manual",
+    "original_offset": 569,
+    "original_hex": "64ca94bc6e789b1cc91ccb00"
+  },
+  {
+    "id": 72,
+    "source": "獣ケ原の洞窟",
+    "translation": "짐승의 평원 동굴",
+    "status": "manual",
+    "original_offset": 581,
+    "original_hex": "1eaf701c709b1cc91ccb00"
+  }
+]

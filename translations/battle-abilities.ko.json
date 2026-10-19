@@ -1,0 +1,1778 @@
+{
+  "0": {
+    "source": "システムエラー発生！{pause}",
+    "translation": "시스템 오류 발생!{pause}",
+    "status": "manual",
+    "offset": 119552
+  },
+  "1": {
+    "source": "オルトロスの体質が変化した！{pause}\n３属性の攻撃に注意！！{pause}",
+    "translation": "올트로스의 체질이 변했다!{pause}\n세 속성의 공격에 주의!!{pause}",
+    "status": "manual",
+    "offset": 119566
+  },
+  "2": {
+    "source": "めざわりな　やつらめ！{pause}\nけちらしてくれるわ！！{pause}",
+    "translation": "눈엣가시 같은 녀석들!{pause}\n모조리 쓸어 버리겠다!!{pause}",
+    "status": "manual",
+    "offset": 119605
+  },
+  "3": {
+    "source": "ば、{pause}ばかな……{pause}\nこの私を倒すとは……{pause}",
+    "translation": "서, {pause}설마...{pause}\n이 몸을 쓰러뜨리다니...{pause}",
+    "status": "manual",
+    "offset": 119631
+  },
+  "4": {
+    "source": "今日もだめだったか……{pause}\nタコで　すみません。{pause}",
+    "translation": "오늘도 안 됐구나...{pause}\n문어라서 미안해.{pause}",
+    "status": "manual",
+    "offset": 119655
+  },
+  "5": {
+    "source": "グゴゴゴゴ……{pause}",
+    "translation": "그고고고...{pause}",
+    "status": "manual",
+    "offset": 119682
+  },
+  "6": {
+    "source": "ダダルマーは　くちぶえをふいた！{pause}",
+    "translation": "다달마가 휘파람을 불었다!{pause}",
+    "status": "manual",
+    "offset": 119691
+  },
+  "7": {
+    "source": "再生{pause}",
+    "translation": "재생{pause}",
+    "status": "manual",
+    "offset": 119709
+  },
+  "8": {
+    "source": "ヒ、{pause}ヒィーーーー！！{pause}",
+    "translation": "히, {pause}히익!!{pause}",
+    "status": "manual",
+    "offset": 119715
+  },
+  "9": {
+    "source": "グェグェ…{pause}ガボガボガボ……{pause}",
+    "translation": "그엑그엑...{pause}꼬르륵...{pause}",
+    "status": "manual",
+    "offset": 119728
+  },
+  "10": {
+    "source": "オラ　オラ　{pause}どうした！{pause}",
+    "translation": "이봐, 이봐!{pause} 왜 그래!{pause}",
+    "status": "manual",
+    "offset": 119744
+  },
+  "11": {
+    "source": "アッチッチーー！！{pause}\nゆでだこ！？　ゆでだこ！？{pause}",
+    "translation": "앗 뜨거!!{pause}\n삶은 문어!? 삶은 문어!?{pause}",
+    "status": "manual",
+    "offset": 119758
+  },
+  "12": {
+    "source": "うひょひょ{pause}\nここは　とおせんぼ！{pause}\nとおさないよー{pause}\nイジワル　イジワル？{pause}",
+    "translation": "우효효!{pause}\n여긴 못 지나가!{pause}\n안 보내 줄 거야~{pause}\n심술쟁이지? 심술쟁이?{pause}",
+    "status": "manual",
+    "offset": 119784
+  },
+  "13": {
+    "source": "かわいい　女の子{pause}\nわいのこのみや……{pause}\nポッ{pause}",
+    "translation": "귀여운 여자아이...{pause}\n내 취향이야...{pause}\n발그레.{pause}",
+    "status": "manual",
+    "offset": 119824
+  },
+  "15": {
+    "source": "せんぷうきゃく{pause}",
+    "translation": "선풍각{pause}",
+    "status": "manual",
+    "offset": 119870
+  },
+  "16": {
+    "source": "ギルを　ぬすむ{pause}",
+    "translation": "길 훔치기{pause}",
+    "status": "manual",
+    "offset": 119879
+  },
+  "17": {
+    "source": "グゥオォォーー！{pause}",
+    "translation": "그우오!!{pause}",
+    "status": "manual",
+    "offset": 119888
+  },
+  "18": {
+    "source": "フッ……{pause}\nお前の命も　後わずかだ！{pause}",
+    "translation": "훗...{pause}\n네 목숨도 얼마 안 남았다!{pause}",
+    "status": "manual",
+    "offset": 119898
+  },
+  "19": {
+    "source": "ひさしぶり……{pause}　また出たよ。{pause}\n待った？　待った？{pause}",
+    "translation": "오랜만...{pause} 또 나왔어.\n{pause}기다렸어? 기다렸어?{pause}",
+    "status": "manual",
+    "offset": 119921
+  },
+  "20": {
+    "source": "イッ……{pause}　イッターーイ！{pause}",
+    "translation": "아...{pause} 아파!!{pause}",
+    "status": "manual",
+    "offset": 119952
+  },
+  "21": {
+    "source": "クッ……！{pause}\nこれで勝ったと思うなよ！{pause}",
+    "translation": "크윽...!{pause}\n이걸로 이겼다고 생각 마라!{pause}",
+    "status": "manual",
+    "offset": 119967
+  },
+  "22": {
+    "source": "こっち　こっち{pause}",
+    "translation": "이쪽이야, 이쪽!{pause}",
+    "status": "manual",
+    "offset": 119990
+  },
+  "23": {
+    "source": "たのしい？　たのしい？{pause}",
+    "translation": "재밌어? 재밌어?{pause}",
+    "status": "manual",
+    "offset": 119999
+  },
+  "24": {
+    "source": "よんだ？{pause}",
+    "translation": "불렀어?{pause}",
+    "status": "manual",
+    "offset": 120012
+  },
+  "25": {
+    "source": "わいは、ただのタコじゃないよ{pause}",
+    "translation": "난 평범한 문어가 아니야.{pause}",
+    "status": "manual",
+    "offset": 120018
+  },
+  "26": {
+    "source": "わいが出ると、こまる？　こまる？{pause}",
+    "translation": "내가 나오면 곤란해? 곤란해?{pause}",
+    "status": "manual",
+    "offset": 120034
+  },
+  "27": {
+    "source": "あなた方は誰……？{pause}",
+    "translation": "당신들은 누구...?{pause}",
+    "status": "manual",
+    "offset": 120053
+  },
+  "28": {
+    "source": "俺達と同じ力を感じる……{pause}",
+    "translation": "우리와 같은 힘이 느껴진다...{pause}",
+    "status": "manual",
+    "offset": 120066
+  },
+  "29": {
+    "source": "お前達はラムウの力を……？{pause}\nまってくれ……{pause}\n俺達は……{pause}\n幻獣だ……{pause}",
+    "translation": "너희는 라무의 힘을...?{pause}\n기다려...{pause}\n우리는...{pause}\n환수다...{pause}",
+    "status": "manual",
+    "offset": 120085
+  },
+  "30": {
+    "source": "まだ、かえらない{pause}",
+    "translation": "아직 안 돌아갈래.{pause}",
+    "status": "manual",
+    "offset": 120130
+  },
+  "31": {
+    "source": "クレーンは、かんぱんをゆらした！{pause}",
+    "translation": "크레인이 갑판을 흔들었다!{pause}",
+    "status": "manual",
+    "offset": 120140
+  },
+  "32": {
+    "source": "グググ……{pause}\nグワァーーー！！{pause}",
+    "translation": "그그그...{pause}\n그와아!!{pause}",
+    "status": "manual",
+    "offset": 120158
+  },
+  "33": {
+    "source": "グオォォーーーー！！{pause}",
+    "translation": "크워어어!!{pause}",
+    "status": "manual",
+    "offset": 120175
+  },
+  "34": {
+    "source": "エアフォースはビットを放出した{pause}\nビットは魔法を吸収する！{pause}",
+    "translation": "에어 포스가 비트를 방출했다.{pause}\n비트는 마법을 흡수한다!{pause}",
+    "status": "manual",
+    "offset": 120187
+  },
+  "36": {
+    "source": "ガウガウ、{pause}おれ{char[0B]}！{pause}\nみんなのなかま！　なかま！{pause}\nまたいっしょに、たびをするー！{pause}",
+    "translation": "가우가우!{pause} 나 {char[0B]}!{pause}\n모두의 동료! 동료!{pause}\n또 함께 여행한다!{pause}",
+    "status": "manual",
+    "offset": 120240
+  },
+  "37": {
+    "source": "ヒドゥンに吸収される！{pause}",
+    "translation": "히든에게 흡수된다!{pause}",
+    "status": "manual",
+    "offset": 120285
+  },
+  "38": {
+    "source": "でんきエネルギーを　開放する！{pause}",
+    "translation": "전기 에너지를 방출한다!{pause}",
+    "status": "manual",
+    "offset": 120300
+  },
+  "39": {
+    "source": "おっと！{pause}　手ぐせの悪いやつだ！{pause}\nそ～ら、{pause}おしおきだ！！{pause}",
+    "translation": "이런!{pause} 손버릇이 나쁜 녀석!{pause}\n자아,{pause} 벌을 주마!!{pause}",
+    "status": "manual",
+    "offset": 120319
+  },
+  "40": {
+    "source": "グオォーー！！{pause}",
+    "translation": "그오!!{pause}",
+    "status": "manual",
+    "offset": 120354
+  },
+  "41": {
+    "source": "敵の戦闘力　ランク　Ａ",
+    "translation": "적의 전투력 등급 A",
+    "status": "manual",
+    "offset": 120363
+  },
+  "42": {
+    "source": "敵の戦闘力　ランク　Ｂ",
+    "translation": "적의 전투력 등급 B",
+    "status": "manual",
+    "offset": 120380
+  },
+  "43": {
+    "source": "敵の戦闘力　ランク　Ｃ",
+    "translation": "적의 전투력 등급 C",
+    "status": "manual",
+    "offset": 120397
+  },
+  "44": {
+    "source": "たいでん　レベル　１",
+    "translation": "대전 레벨 1",
+    "status": "manual",
+    "offset": 120414
+  },
+  "45": {
+    "source": "たいでん　レベル　２",
+    "translation": "대전 레벨 2",
+    "status": "manual",
+    "offset": 120425
+  },
+  "46": {
+    "source": "むだだ！{pause}",
+    "translation": "소용없다!{pause}",
+    "status": "manual",
+    "offset": 120436
+  },
+  "47": {
+    "source": "むだだ！{pause}",
+    "translation": "소용없다!{pause}",
+    "status": "manual",
+    "offset": 120442
+  },
+  "48": {
+    "source": "ここは、とおさん！！{pause}",
+    "translation": "여긴 못 지나간다!!{pause}",
+    "status": "manual",
+    "offset": 120448
+  },
+  "49": {
+    "source": "たいでん　レベル　３",
+    "translation": "대전 레벨 3",
+    "status": "manual",
+    "offset": 120460
+  },
+  "50": {
+    "source": "ねつエネルギーを　開放する！{pause}",
+    "translation": "열에너지를 방출한다!{pause}",
+    "status": "manual",
+    "offset": 120471
+  },
+  "51": {
+    "source": "ねつ源レベル１",
+    "translation": "열원 레벨 1",
+    "status": "manual",
+    "offset": 120489
+  },
+  "52": {
+    "source": "波動ほう！　びょう読み開始！！{pause}\nカウント　１０{pause}",
+    "translation": "파동포! 초읽기 시작!!{pause}\n카운트 10{pause}",
+    "status": "manual",
+    "offset": 120498
+  },
+  "53": {
+    "source": "カウント　９{pause}",
+    "translation": "카운트 9{pause}",
+    "status": "manual",
+    "offset": 120529
+  },
+  "54": {
+    "source": "カウント　８{pause}",
+    "translation": "카운트 8{pause}",
+    "status": "manual",
+    "offset": 120537
+  },
+  "55": {
+    "source": "カウント　７{pause}",
+    "translation": "카운트 7{pause}",
+    "status": "manual",
+    "offset": 120545
+  },
+  "56": {
+    "source": "カウント　６{pause}",
+    "translation": "카운트 6{pause}",
+    "status": "manual",
+    "offset": 120553
+  },
+  "57": {
+    "source": "カウント　５{pause}",
+    "translation": "카운트 5{pause}",
+    "status": "manual",
+    "offset": 120561
+  },
+  "58": {
+    "source": "カウント　４{pause}",
+    "translation": "카운트 4{pause}",
+    "status": "manual",
+    "offset": 120569
+  },
+  "59": {
+    "source": "カウント　３{pause}",
+    "translation": "카운트 3{pause}",
+    "status": "manual",
+    "offset": 120577
+  },
+  "60": {
+    "source": "カウント　２{pause}",
+    "translation": "카운트 2{pause}",
+    "status": "manual",
+    "offset": 120585
+  },
+  "61": {
+    "source": "デスゲイズの傷はいやされた！{pause}\n冷気の攻撃能力が回復する{pause}",
+    "translation": "데스 게이즈의 상처가 아물었다!{pause}\n냉기 공격 능력이 회복된다.{pause}",
+    "status": "manual",
+    "offset": 120593
+  },
+  "62": {
+    "source": "グォオオーー！",
+    "translation": "그워어!",
+    "status": "manual",
+    "offset": 120632
+  },
+  "63": {
+    "source": "デスゲイズの目を封じた！{pause}\n死の攻撃が出来ない！！{pause}",
+    "translation": "데스 게이즈의 눈을 봉인했다!{pause}\n죽음의 공격을 할 수 없다!!{pause}",
+    "status": "manual",
+    "offset": 120640
+  },
+  "64": {
+    "source": "デスゲイズの口を封じた！{pause}\n冷気の攻撃が出来ない！！{pause}",
+    "translation": "데스 게이즈의 입을 봉인했다!{pause}\n냉기 공격을 할 수 없다!!{pause}",
+    "status": "manual",
+    "offset": 120674
+  },
+  "65": {
+    "source": "デスゲイズの毒のつめを封じた！{pause}\n毒の攻撃が出来ない！！{pause}",
+    "translation": "데스 게이즈의 독 발톱을 봉인했다!{pause}\n독 공격을 할 수 없다!!{pause}",
+    "status": "manual",
+    "offset": 120710
+  },
+  "66": {
+    "source": "チィ！{pause}　こざかしい！！{pause}\nまとめて、あの世に送ってやる！！{pause}",
+    "translation": "쳇!{pause} 잔꾀를 부리다니!!{pause}\n한꺼번에 저승으로 보내 주마!!{pause}",
+    "status": "manual",
+    "offset": 120747
+  },
+  "67": {
+    "source": "どうした{char[05]}！{pause}\n後がないぞ！！{pause}",
+    "translation": "왜 그러냐, {char[05]}!{pause}\n이젠 물러설 곳도 없다!!{pause}",
+    "status": "manual",
+    "offset": 120781
+  },
+  "68": {
+    "source": "警報がなりひびく{pause}",
+    "translation": "경보가 울려 퍼진다.{pause}",
+    "status": "manual",
+    "offset": 120800
+  },
+  "69": {
+    "source": "カウント　１{pause}",
+    "translation": "카운트 1{pause}",
+    "status": "manual",
+    "offset": 120812
+  },
+  "70": {
+    "source": "ねつ源レベル２",
+    "translation": "열원 레벨 2",
+    "status": "manual",
+    "offset": 120820
+  },
+  "71": {
+    "source": "ねつ源レベル３",
+    "translation": "열원 레벨 3",
+    "status": "manual",
+    "offset": 120829
+  },
+  "72": {
+    "source": "デスゲイズの傷はいやされた！{pause}\n死の攻撃能力が回復する{pause}",
+    "translation": "데스 게이즈의 상처가 아물었다!{pause}\n죽음의 공격 능력이 회복된다.{pause}",
+    "status": "manual",
+    "offset": 120838
+  },
+  "73": {
+    "source": "元気１００倍！{pause}\n防御力がアップした{pause}\n魔法防御力がアップした{pause}\n素早さがアップした{pause}\n回復能力がアップした{pause}",
+    "translation": "기운이 백 배!{pause}\n방어력이 올랐다.{pause}\n마법 방어력이 올랐다.{pause}\n민첩성이 올랐다.{pause}\n회복 능력이 올랐다.{pause}",
+    "status": "manual",
+    "offset": 120875
+  },
+  "74": {
+    "source": "ヒヒドゥンはヒドゥンに変化する{pause}",
+    "translation": "히히든이 히든으로 변한다.{pause}",
+    "status": "manual",
+    "offset": 120948
+  },
+  "75": {
+    "source": "あ！、{pause}\nと、とびらが開きますですよ！{pause}",
+    "translation": "앗!{pause}\n무, 문이 열리고 있습니다!{pause}",
+    "status": "manual",
+    "offset": 120967
+  },
+  "76": {
+    "source": "くくくく……{pause}\n欲にかられし人間どもよ……{pause}\nよくぞ、我を開放した……{pause}\n我は、恐怖を与えるもの……{pause}\n我は、破壊をもたらすもの……{pause}\n我の名はカイザー……{pause}\nさらばだ人間どもよ……{pause}",
+    "translation": "크크크...{pause}\n욕심에 눈먼 인간들이여...{pause}\n나를 풀어 주었구나...{pause}\n나는 공포를 주는 자...{pause}\n나는 파괴를 부르는 자...{pause}\n내 이름은 카이저...{pause}\n잘 가라, 인간들이여...{pause}",
+    "status": "manual",
+    "offset": 120989
+  },
+  "78": {
+    "source": "いま、むかつくタコ野郎と{pause}\n思わなかった？{pause}\nごめんね　ごめんね{pause}",
+    "translation": "방금 짜증 나는 문어 녀석이라고{pause}\n생각하지 않았어?{pause}\n미안해, 미안해.{pause}",
+    "status": "manual",
+    "offset": 121117
+  },
+  "79": {
+    "source": "また出ちゃった{pause}　しつこい？{pause}\nだって、タコだもん。{pause}",
+    "translation": "또 나왔어.{pause} 끈질기다고?{pause}\n문어니까 그렇지.{pause}",
+    "status": "manual",
+    "offset": 121154
+  },
+  "80": {
+    "source": "そんな…{pause}それじゃまるで……{pause}\nまるっきり　タコじゃん！{pause}",
+    "translation": "그건...{pause} 그러면 완전히...{pause}\n영락없는 문어잖아!{pause}",
+    "status": "manual",
+    "offset": 121183
+  },
+  "81": {
+    "source": "これが最後のバトル{pause}\nほんと！　ほんと！{pause}",
+    "translation": "이번이 마지막 전투야.{pause}\n정말이야! 정말!{pause}",
+    "status": "manual",
+    "offset": 121213
+  },
+  "82": {
+    "source": "オルトロス{pause}\n先生を怒らせると怖いよ～{pause}\nほんと、おっかないんだから～！{pause}\nおまえら、食われちゃうかもよ～{pause}",
+    "translation": "올트로스{pause}\n선생님이 화나면 무서워~{pause}\n정말 무섭다니까!{pause}\n너희를 먹어 버릴지도 몰라~{pause}",
+    "status": "manual",
+    "offset": 121237
+  },
+  "83": {
+    "source": "オルトロス{pause}\nう、{pause}また負けちゃうかも……{pause}\nしかし、今日はつおーい味方が{pause}\nいるのだ！{pause}\nテュポーン大先生、そろそろ来て～{pause}",
+    "translation": "올트로스{pause}\n으,{pause} 또 질지도 몰라...{pause}\n하지만 오늘은 아주 강한{pause}\n우리 편이 있지!{pause}\n튜폰 선생님, 이제 와 줘~{pause}",
+    "status": "manual",
+    "offset": 121300
+  },
+  "84": {
+    "source": "オルトロス{pause}\nテュポーン大先生は無口だけど{pause}\nものすごくつおいのだ！{pause}",
+    "translation": "올트로스{pause}\n튜폰 선생님은 말수가 적지만{pause}\n엄청나게 강하다니까!{pause}",
+    "status": "manual",
+    "offset": 121374
+  },
+  "85": {
+    "source": "我が使命は",
+    "translation": "나의 사명은",
+    "status": "manual",
+    "offset": 121415
+  },
+  "86": {
+    "source": "オルトロス{pause}\nわいなんか、このあいだ{pause}\nねぼけて、頭をかじられたんだから{pause}\n先生の牙はいたいよ～～！{pause}",
+    "translation": "올트로스{pause}\n난 얼마 전에{pause}\n잠결에 머리를 물렸는걸.{pause}\n선생님 송곳니는 아파~!{pause}",
+    "status": "manual",
+    "offset": 121424
+  },
+  "87": {
+    "source": "テュポーン{pause}\nフンガーーー！！{pause}",
+    "translation": "튜폰{pause}\n훙가!!{pause}",
+    "status": "manual",
+    "offset": 121482
+  },
+  "88": {
+    "source": "みちづれだー！{pause}",
+    "translation": "같이 죽자!{pause}",
+    "status": "manual",
+    "offset": 121499
+  },
+  "89": {
+    "source": "最近、俺のニセモノが{pause}\n宝をあらしているようだけど{pause}\nおめえたち{pause}\nだまされちゃーいけねえぜ！{pause}\nお宝って～のは、まってりゃ～{pause}\nむこうから、近づいてくるもんだぜ{pause}\nさあ、おっぱじめるとするか{pause}",
+    "translation": "요즘 내 가짜가{pause}\n보물을 털고 다닌다더군.{pause}\n너희도{pause}\n속지 말라고!{pause}\n보물이란 건 기다리면{pause}\n스스로 다가오는 법이지.{pause}\n자, 시작해 볼까.{pause}",
+    "status": "manual",
+    "offset": 121508
+  },
+  "90": {
+    "source": "リフレクの効果がきえた",
+    "translation": "리플렉의 효과가 사라졌다.",
+    "status": "manual",
+    "offset": 121614
+  },
+  "91": {
+    "source": "ソーニョは逃げ出した{pause}",
+    "translation": "소뇨가 도망쳤다.{pause}",
+    "status": "manual",
+    "offset": 121628
+  },
+  "92": {
+    "source": "つ、{pause}強い……{pause}\nさすがは、{pause}{char[02]}……{pause}\n見事だ……{pause}",
+    "translation": "가,{pause} 강하군...{pause}\n과연...{pause} {char[02]}...{pause}\n훌륭하다...{pause}",
+    "status": "manual",
+    "offset": 121642
+  },
+  "93": {
+    "source": "いくぞ！{pause}　こわっぱども！！{pause}\nうりゃりゃりゃーー！！{pause}",
+    "translation": "간다!{pause} 애송이들!!{pause}\n으랴랴랴!!{pause}",
+    "status": "manual",
+    "offset": 121673
+  },
+  "94": {
+    "source": "ぜえ{pause}　ぜえ{pause}　ぜえ{pause}\nど、どうだ！{pause}　まいったか！！{pause}",
+    "translation": "헉{pause} 헉{pause} 헉{pause}\n어, 어떠냐!{pause} 항복이냐!!{pause}",
+    "status": "manual",
+    "offset": 121702
+  },
+  "95": {
+    "source": "あくりょう{pause}\nこの絵の女は、わしがいただいた……{pause}\nそう簡単には返さないぜ……{pause}",
+    "translation": "악령{pause}\n이 그림 속 여자는 내 것이다...{pause}\n쉽게 돌려줄 수는 없지...{pause}",
+    "status": "manual",
+    "offset": 121731
+  },
+  "96": {
+    "source": "ふふふ……{pause}どうした？{pause}\n顔色がすぐれないぞ{pause}\nしょうがない{pause}　少し助けてやるか{pause}",
+    "translation": "후후후...{pause} 왜 그래?{pause}\n안색이 좋지 않군.{pause}\n어쩔 수 없지.{pause} 좀 도와줄까.{pause}",
+    "status": "manual",
+    "offset": 121777
+  },
+  "98": {
+    "source": "かっぱ{pause}　ともだち　ともだち！{pause}",
+    "translation": "임프!{pause} 친구, 친구!{pause}",
+    "status": "manual",
+    "offset": 121853
+  },
+  "99": {
+    "source": "サムライソウルはパワーをあげた{pause}",
+    "translation": "사무라이소울의 힘이 올랐다.{pause}",
+    "status": "manual",
+    "offset": 121870
+  },
+  "100": {
+    "source": "ソーニョは戻ってきた{pause}",
+    "translation": "소뇨가 돌아왔다.{pause}",
+    "status": "manual",
+    "offset": 121887
+  },
+  "101": {
+    "source": "ぼう大なエネルギーが集中する{pause}",
+    "translation": "막대한 에너지가 집중된다.{pause}",
+    "status": "manual",
+    "offset": 121900
+  },
+  "102": {
+    "source": "くくく……{pause}逃がさぬぞ……！{pause}",
+    "translation": "크크크...{pause} 놓치지\n않겠다...!{pause}",
+    "status": "manual",
+    "offset": 121919
+  },
+  "103": {
+    "source": "波動ほう！　びょう読み開始！！{pause}\nカウント　３{pause}",
+    "translation": "파동포! 초읽기 시작!!{pause}\n카운트 3{pause}",
+    "status": "manual",
+    "offset": 121936
+  },
+  "104": {
+    "source": "きほんプログラム作動！{pause}",
+    "translation": "기본 프로그램 작동!{pause}",
+    "status": "manual",
+    "offset": 121966
+  },
+  "105": {
+    "source": "敵の攻撃回数集計中{pause}",
+    "translation": "적의 공격 횟수 집계 중{pause}",
+    "status": "manual",
+    "offset": 121981
+  },
+  "106": {
+    "source": "フリーズドラゴンは仲間を呼んだ！{pause}\nスカルドラゴンしょうかん！{pause}",
+    "translation": "프리즈드래곤이 동료를 불렀다!{pause}\n스컬 드래곤 소환!{pause}",
+    "status": "manual",
+    "offset": 122000
+  },
+  "107": {
+    "source": "ストームドラゴンは仲間を呼んだ！{pause}\nアースドラゴンしょうかん！{pause}",
+    "translation": "스톰드래곤이 동료를 불렀다!{pause}\n어스 드래곤 소환!{pause}",
+    "status": "manual",
+    "offset": 122036
+  },
+  "108": {
+    "source": "アースドラゴンは仲間を呼んだ！{pause}\nイエロードラゴンしょうかん！{pause}",
+    "translation": "어스 드래곤이 동료를 불렀다!{pause}\n옐로 드래곤 소환!{pause}",
+    "status": "manual",
+    "offset": 122072
+  },
+  "109": {
+    "source": "イエロードラゴンは仲間を呼んだ！{pause}\nストームドラゴンしょうかん！{pause}",
+    "translation": "옐로 드래곤이 동료를 불렀다!{pause}\n스톰드래곤 소환!{pause}",
+    "status": "manual",
+    "offset": 122108
+  },
+  "110": {
+    "source": "スカルドラゴンは仲間を呼んだ！{pause}\nブルードラゴンしょうかん！{pause}",
+    "translation": "스컬 드래곤이 동료를 불렀다!{pause}\n블루 드래곤 소환!{pause}",
+    "status": "manual",
+    "offset": 122145
+  },
+  "111": {
+    "source": "ブルードラゴンは仲間を呼んだ！{pause}\nアースドラゴンしょうかん！{pause}",
+    "translation": "블루 드래곤이 동료를 불렀다!{pause}\n어스 드래곤 소환!{pause}",
+    "status": "manual",
+    "offset": 122180
+  },
+  "112": {
+    "source": "レッドドラゴンは仲間を呼んだ！{pause}\nフリーズドラゴンしょうかん！{pause}",
+    "translation": "레드 드래곤이 동료를 불렀다!{pause}\n프리즈드래곤 소환!{pause}",
+    "status": "manual",
+    "offset": 122215
+  },
+  "113": {
+    "source": "ホーリードラゴンは仲間を呼んだ！{pause}\nレッドドラゴンしょうかん！{pause}",
+    "translation": "홀리드래곤이 동료를 불렀다!{pause}\n레드 드래곤 소환!{pause}",
+    "status": "manual",
+    "offset": 122251
+  },
+  "114": {
+    "source": "ストームドラゴンに変化がおきる！{pause}",
+    "translation": "스톰드래곤에게 변화가 생긴다!{pause}",
+    "status": "manual",
+    "offset": 122287
+  },
+  "115": {
+    "source": "イエロードラゴンは{pause}\nエネルギーをたくわえ始めた！{pause}",
+    "translation": "옐로 드래곤이{pause}\n에너지를 모으기 시작했다!{pause}",
+    "status": "manual",
+    "offset": 122307
+  },
+  "116": {
+    "source": "アースドラゴンは理性を矢った！{pause}",
+    "translation": "어스 드래곤이 이성을 잃었다!{pause}",
+    "status": "manual",
+    "offset": 122335
+  },
+  "117": {
+    "source": "スカルドラゴンは魔力で生きている{pause}",
+    "translation": "스컬 드래곤은 마력으로 살아 있다.{pause}",
+    "status": "manual",
+    "offset": 122355
+  },
+  "118": {
+    "source": "リフレクを消しさる",
+    "translation": "리플렉을 없앤다.",
+    "status": "manual",
+    "offset": 122376
+  },
+  "119": {
+    "source": "キャーーー！{pause}",
+    "translation": "꺄악!{pause}",
+    "status": "manual",
+    "offset": 122387
+  },
+  "120": {
+    "source": "ああ、私の存在が…消えてしまう…{pause}",
+    "translation": "아아, 나의 존재가...\n사라진다...{pause}",
+    "status": "manual",
+    "offset": 122395
+  },
+  "121": {
+    "source": "こいつは…{pause}俺の女だ……{pause}",
+    "translation": "이 여자는...{pause} 내 여자다...{pause}",
+    "status": "manual",
+    "offset": 122417
+  },
+  "122": {
+    "source": "お、おのれ……{pause}\nこんなはずでは……{pause}",
+    "translation": "이, 이놈들...{pause}\n이럴 리가...{pause}",
+    "status": "manual",
+    "offset": 122433
+  },
+  "124": {
+    "source": "後ろに敵の気配！{pause}",
+    "translation": "뒤에서 적의 기척이!{pause}",
+    "status": "manual",
+    "offset": 122466
+  },
+  "125": {
+    "source": "もう一体、モンスターが現われた！{pause}",
+    "translation": "또 한 마리의 몬스터가 나타났다!{pause}",
+    "status": "manual",
+    "offset": 122480
+  },
+  "126": {
+    "source": "オルトロス戦闘プログラム作動！{pause}",
+    "translation": "올트로스 전투 프로그램 작동!{pause}",
+    "status": "manual",
+    "offset": 122501
+  },
+  "127": {
+    "source": "ダダルマー戦闘プログラム作動！{pause}",
+    "translation": "다달마 전투 프로그램 작동!{pause}",
+    "status": "manual",
+    "offset": 122522
+  },
+  "128": {
+    "source": "エアホース戦闘プログラム作動！{pause}",
+    "translation": "에어 포스 전투 프로그램 작동!{pause}",
+    "status": "manual",
+    "offset": 122543
+  },
+  "129": {
+    "source": "アルテマ戦闘プログラム作動！{pause}",
+    "translation": "알테마 전투 프로그램 작동!{pause}",
+    "status": "manual",
+    "offset": 122564
+  },
+  "130": {
+    "source": "戦闘プログラムを読み込む{pause}",
+    "translation": "전투 프로그램을 불러온다.{pause}",
+    "status": "manual",
+    "offset": 122584
+  },
+  "131": {
+    "source": "未知の光がアルテマをつつむ！{pause}",
+    "translation": "알 수 없는 빛이 알테마를 감싼다!{pause}",
+    "status": "manual",
+    "offset": 122602
+  },
+  "132": {
+    "source": "アルテマはパワーを上げた！{pause}",
+    "translation": "알테마의 힘이 올랐다!{pause}",
+    "status": "manual",
+    "offset": 122621
+  },
+  "133": {
+    "source": "我が名はアルテマ……{pause}\nたい古に作られし最高の力なり……{pause}\n我は力であり、生命にあらず……{pause}\n弱き生命体よ、きえされ！！{pause}",
+    "translation": "내 이름은 알테마...{pause}\n태고에 만들어진 최고의\n힘이다...{pause}\n나는 힘이요, 생명이 아니다...{pause}\n나약한 생명체여, 사라져라!!{pause}",
+    "status": "manual",
+    "offset": 122637
+  },
+  "134": {
+    "source": "なにかを束ねている{pause}",
+    "translation": "무언가를 모으고 있다.{pause}",
+    "status": "manual",
+    "offset": 122714
+  },
+  "135": {
+    "source": "仕事量を１０倍にした！{pause}",
+    "translation": "작업량을 10배로 늘렸다!{pause}",
+    "status": "manual",
+    "offset": 122726
+  },
+  "136": {
+    "source": "魔神のオーラが激しくゆれる！{pause}",
+    "translation": "마신의 오라가 격렬히 요동친다!{pause}",
+    "status": "manual",
+    "offset": 122743
+  },
+  "137": {
+    "source": "ガーディアンは仲間を呼んだ！{pause}",
+    "translation": "가디언이 동료를 불렀다!{pause}",
+    "status": "manual",
+    "offset": 122762
+  },
+  "138": {
+    "source": "４連打！！",
+    "translation": "4연타!!",
+    "status": "manual",
+    "offset": 122781
+  },
+  "139": {
+    "source": "我が名はアルテマ……{pause}\n時のかなたに忘れ去られし者……{pause}\n我はそう造されて間もなく{pause}\nこの地に安置された……{pause}\n我は何をすべきなのか考え続けた…{pause}\n永い間、考え続けた……{pause}\nその答えがようやく出たようだ……{pause}",
+    "translation": "내 이름은 알테마...{pause}\n시간 저편에 잊힌 자...{pause}\n만들어진 지 얼마 지나지 않아{pause}\n이곳에 안치되었다...{pause}\n무엇을 해야 할지 생각했다...{pause}\n오랜 시간 생각했다...{pause}\n마침내 답을 얻은 듯하구나...{pause}",
+    "status": "manual",
+    "offset": 122789
+  },
+  "140": {
+    "source": "カオスをこえて終末が近づく…{pause}",
+    "translation": "혼돈을 넘어 종말이 다가온다...{pause}",
+    "status": "manual",
+    "offset": 122916
+  },
+  "141": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "142": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "143": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "144": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "145": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "146": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "147": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "148": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "149": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "150": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "151": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "152": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "153": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "154": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "155": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "156": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "157": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "158": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "159": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "160": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "161": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "162": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "163": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "164": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "165": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "166": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "167": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "168": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "169": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "170": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "171": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "172": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "173": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "174": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "175": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "176": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "177": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "178": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "179": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "180": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "181": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "182": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "183": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "184": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "185": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "186": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "187": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "188": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "189": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "190": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "191": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "192": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "193": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "194": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "195": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "196": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "197": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "198": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "199": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "200": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "201": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "202": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "203": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "204": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "205": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "206": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "207": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "208": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "209": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "210": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "211": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "212": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "213": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "214": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "215": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "216": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "217": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "218": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "219": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "220": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "221": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "222": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "223": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "224": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "225": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "226": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "227": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "228": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "229": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "230": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "231": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "232": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "233": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "234": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "235": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "236": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "237": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "238": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "239": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "240": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "241": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "242": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "243": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "244": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "245": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "246": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "247": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "248": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "249": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "250": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "251": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "252": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "253": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "254": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "255": {
+    "source": "もうちょっと{pause}まってね。",
+    "translation": "조금만{pause} 기다려.",
+    "status": "manual",
+    "offset": 122935
+  },
+  "256": {
+    "source": "敵１体に防御無視ダメージ",
+    "translation": "적 하나에게 방어 무시 피해",
+    "status": "manual_context_checked",
+    "offset": 125696
+  },
+  "257": {
+    "source": "敵１体に聖なる気のダメージ",
+    "translation": "적 하나에게 성스러운 기로 피해",
+    "status": "manual_context_checked",
+    "offset": 125715
+  },
+  "258": {
+    "source": "敵１体に投げ落とし技",
+    "translation": "적 하나를 내던지는 기술",
+    "status": "manual_context_checked",
+    "offset": 125733
+  },
+  "259": {
+    "source": "炎属性の複数ダメージ",
+    "translation": "적들에게 불 속성 피해",
+    "status": "manual_context_checked",
+    "offset": 125749
+  },
+  "260": {
+    "source": "本人以外をリフレッシュ",
+    "translation": "자신을 제외한 아군을 회복",
+    "status": "manual_context_checked",
+    "offset": 125765
+  },
+  "261": {
+    "source": "風属性の複数ダメージ",
+    "translation": "적들에게 바람 속성 피해",
+    "status": "manual_context_checked",
+    "offset": 125781
+  },
+  "262": {
+    "source": "命とひきかえに仲間を回復",
+    "translation": "목숨을 바쳐 동료를 회복",
+    "status": "manual_context_checked",
+    "offset": 125797
+  },
+  "263": {
+    "source": "敵１体に大ダメージ",
+    "translation": "적 하나에게 큰 피해",
+    "status": "manual_context_checked",
+    "offset": 125815
+  },
+  "264": {
+    "source": "敵１体にダメージ",
+    "translation": "적 하나에게 피해",
+    "status": "manual_context_checked",
+    "offset": 125952
+  },
+  "265": {
+    "source": "敵１体に反撃で大ダメージ",
+    "translation": "적 하나에게 반격으로 큰 피해",
+    "status": "manual_context_checked",
+    "offset": 125963
+  },
+  "266": {
+    "source": "敵１体のＨＰを半分にする",
+    "translation": "적 하나의 HP를 절반으로 감소",
+    "status": "manual_context_checked",
+    "offset": 125981
+  },
+  "267": {
+    "source": "敵に４回ダメージ",
+    "translation": "적을 네 번 공격",
+    "status": "manual_context_checked",
+    "offset": 126000
+  },
+  "268": {
+    "source": "敵１体からＨＰ・ＭＰ吸収",
+    "translation": "적 하나에게서 HP와 MP 흡수",
+    "status": "manual_context_checked",
+    "offset": 126011
+  },
+  "269": {
+    "source": "敵複数にダメージ＋ストップ",
+    "translation": "적들에게 피해와 스톱",
+    "status": "manual_context_checked",
+    "offset": 126032
+  },
+  "270": {
+    "source": "敵に４回ダメージ",
+    "translation": "적을 네 번 공격",
+    "status": "manual_context_checked",
+    "offset": 126049
+  },
+  "271": {
+    "source": "敵複数を一刀両断",
+    "translation": "적들을 일도양단",
+    "status": "manual_context_checked",
+    "offset": 126060
+  },
+  "272": {
+    "source": "カウントダウンする　デス",
+    "translation": "카운트다운 뒤 데스",
+    "status": "manual_context_checked",
+    "offset": 190584
+  },
+  "273": {
+    "source": "ルーレットする　デス",
+    "translation": "룰렛으로 대상을 정하는 데스",
+    "status": "manual_context_checked",
+    "offset": 190597
+  },
+  "274": {
+    "source": "水属性のダメージ",
+    "translation": "물 속성 피해",
+    "status": "manual_context_checked",
+    "offset": 190608
+  },
+  "275": {
+    "source": "風・水属性のダメージ",
+    "translation": "바람·물 속성 피해",
+    "status": "manual_context_checked",
+    "offset": 190620
+  },
+  "276": {
+    "source": "風属性のダメージ",
+    "translation": "바람 속성 피해",
+    "status": "manual_context_checked",
+    "offset": 190635
+  },
+  "277": {
+    "source": "１０００ダメージ",
+    "translation": "1000 피해",
+    "status": "manual_context_checked",
+    "offset": 190647
+  },
+  "278": {
+    "source": "味方全員にシェル・プロテス",
+    "translation": "아군 전체에 셸과 프로테스",
+    "status": "manual_context_checked",
+    "offset": 190656
+  },
+  "279": {
+    "source": "へったＨＰ分　ダメージ",
+    "translation": "자신이 잃은 HP만큼 피해",
+    "status": "manual_context_checked",
+    "offset": 190674
+  },
+  "280": {
+    "source": "自分のＨＰ分　味方を回復",
+    "translation": "자신의 HP만큼 아군을 회복",
+    "status": "manual_context_checked",
+    "offset": 190689
+  },
+  "281": {
+    "source": "レベルが５の倍数の敵にデス",
+    "translation": "레벨이 5의 배수인 적에게 데스",
+    "status": "manual_context_checked",
+    "offset": 190711
+  },
+  "282": {
+    "source": "レベル４の倍数の敵にフレア",
+    "translation": "레벨이 4의 배수인 적에게 플레어",
+    "status": "manual_context_checked",
+    "offset": 190728
+  },
+  "283": {
+    "source": "レベルが３の倍数の敵を混乱",
+    "translation": "레벨이 3의 배수인 적에게 혼란",
+    "status": "manual_context_checked",
+    "offset": 190745
+  },
+  "284": {
+    "source": "リフレク敵にステータス攻撃",
+    "translation": "리플렉 상태의 적에게 상태 공격",
+    "status": "manual_context_checked",
+    "offset": 190764
+  },
+  "285": {
+    "source": "レベルが？の敵にホーリー",
+    "translation": "레벨이 ?인 적에게 홀리",
+    "status": "manual_context_checked",
+    "offset": 190781
+  },
+  "286": {
+    "source": "歩数に応じたダメージ",
+    "translation": "걸음 수에 따른 피해",
+    "status": "manual_context_checked",
+    "offset": 190795
+  },
+  "287": {
+    "source": "空間に属性無効バリアをはる",
+    "translation": "공간에 속성을 무효화하는 장벽 설치",
+    "status": "manual_context_checked",
+    "offset": 190809
+  },
+  "288": {
+    "source": "敵のレベルを半分にする",
+    "translation": "적의 레벨을 절반으로 감소",
+    "status": "manual_context_checked",
+    "offset": 190829
+  },
+  "289": {
+    "source": "敵にステータス攻撃",
+    "translation": "적에게 상태 공격",
+    "status": "manual_context_checked",
+    "offset": 190844
+  },
+  "290": {
+    "source": "自分の命を仲間にたくす",
+    "translation": "목숨을 동료에게 맡김",
+    "status": "manual_context_checked",
+    "offset": 190857
+  },
+  "291": {
+    "source": "敵とステータスをこうかん",
+    "translation": "적과 상태를 교환",
+    "status": "manual_context_checked",
+    "offset": 190874
+  },
+  "292": {
+    "source": "ダメージ＋混乱",
+    "translation": "피해와 혼란",
+    "status": "manual_context_checked",
+    "offset": 190888
+  },
+  "293": {
+    "source": "全敵に防御無視ダメージ",
+    "translation": "적 전체에 방어 무시 피해",
+    "status": "manual_context_checked",
+    "offset": 190898
+  },
+  "294": {
+    "source": "全敵に防御無視の大ダメージ",
+    "translation": "적 전체에 방어를 무시하는 큰 피해",
+    "status": "manual_context_checked",
+    "offset": 190916
+  },
+  "295": {
+    "source": "命とひきかえに大ダメージ",
+    "translation": "목숨을 바쳐 큰 피해",
+    "status": "manual_context_checked",
+    "offset": 190937
+  },
+  "14": {
+    "source": "きんにくモリモリ……{pause}きらいだー！{pause}",
+    "translation": "울퉁불퉁한 근육...{pause}\n싫어!{pause}",
+    "status": "manual",
+    "offset": 119851
+  },
+  "35": {
+    "source": "ウウウ……{pause}　はらへった……{pause}",
+    "translation": "으으으...{pause}\n배고파...{pause}",
+    "status": "manual",
+    "offset": 120224
+  },
+  "77": {
+    "source": "おまえのかお……{pause}こわーーい！！{pause}",
+    "translation": "너의 얼굴......{pause}무서워!!{pause}",
+    "status": "manual",
+    "offset": 121099
+  },
+  "97": {
+    "source": "やつが……{pause}やつが来るわ……{pause}\nあやつられてしまう……{pause}",
+    "translation": "그놈이...{pause}\n그놈이 와...{pause}\n조종당하고 말 거야...{pause}",
+    "status": "manual",
+    "offset": 121823
+  },
+  "123": {
+    "source": "帰れ……{pause}帰れ……{pause}",
+    "translation": "돌아가...{pause}\n돌아가...{pause}",
+    "status": "manual",
+    "offset": 122453
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "native_dialogue_streams": 3100,
+  "changed_dialogue_records": [
+    42,
+    48,
+    134,
+    1901,
+    2616,
+    2936
+  ],
+  "field_font_mapping_widths_and_offsets_unchanged": true,
+  "field_overlay_and_cache_code_unchanged": true,
+  "resident_executable_exact": true,
+  "expansion_buffer_canaries_preserved": true
+}

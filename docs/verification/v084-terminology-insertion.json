@@ -1,0 +1,76 @@
+{
+  "dialogue": [
+    {
+      "id": 42,
+      "before": "{hchar01}「도・둑・질?\n날 부를 땐 보물 사냥꾼이라고\n해 달라니까!{page}노인「허허허!\n그게 그거 아니더냐!{page}{hchar01}「쯧쯧!\n전혀 다르다고!!",
+      "after": "{hchar01}「도・둑・질?\n날 부를 땐 트레저 헌터라고\n해 달라니까!{page}노인「허허허!\n그게 그거 아니더냐!{page}{hchar01}「쯧쯧!\n전혀 다르다고!!",
+      "offset": 1457,
+      "capacity": 77,
+      "used": 77
+    },
+    {
+      "id": 48,
+      "before": "{t[05]}세상을 떠도는 여행자\n고대의 보물을 찾아 세계를 누비는\n보물 사냥꾼",
+      "after": "{t[05]}세상을 떠도는 여행자\n고대의 보물을 찾아 세계를 누비는\n트레저 헌터",
+      "offset": 1765,
+      "capacity": 39,
+      "used": 39
+    },
+    {
+      "id": 134,
+      "before": "{hchar01}「보물 사냥꾼이야.",
+      "after": "{hchar01}「트레저 헌터야.",
+      "offset": 4596,
+      "capacity": 15,
+      "used": 14
+    },
+    {
+      "id": 1901,
+      "before": "{hchar01}「이게 무슨 꼴이야...\n세계 최고의 보물 사냥꾼이라는\n사람이...",
+      "after": "{hchar01}「이게 무슨 꼴이야...\n세계 최고의 트레저 헌터라는\n사람이...",
+      "offset": 62006,
+      "capacity": 35,
+      "used": 34
+    },
+    {
+      "id": 2616,
+      "before": "좀도둑「어? 어디서 본 듯한데?{pause1}\n뭐, 됐어... 이 마을에는\n아무것도 안 남았어.\n모그리 한 마리뿐이지...{page}집들은 잠겨 있고...\n보물 사냥꾼이라도 되지 않는 한\n저 자물쇠는 못 열어...\n쳇!",
+      "after": "좀도둑「어? 어디서 본 듯한데?{pause1}\n뭐, 됐어... 이 마을에는\n아무것도 안 남았어.\n모그리 한 마리뿐이지...{page}집들은 잠겨 있고...\n트레저 헌터라도 되지 않는 한\n저 자물쇠는 못 열어...\n쳇!",
+      "offset": 86087,
+      "capacity": 96,
+      "used": 96
+    },
+    {
+      "id": 2936,
+      "before": "상인「넌 악명 높은 도둑\n{char01} 아니냐?{page}{hchar01}「이봐,\n보물 사냥꾼이라고 불러 줘.",
+      "after": "상인「넌 악명 높은 도둑\n{char01} 아니냐?{page}{hchar01}「이봐,\n트레저 헌터라고 불러 줘.",
+      "offset": 96314,
+      "capacity": 46,
+      "used": 46
+    }
+  ],
+  "job": "트레저 헌터",
+  "bonus_job_string": 710,
+  "mirror_banks": [
+    {
+      "label": "menu first",
+      "offset": 0,
+      "capacity": 116736,
+      "packed_bytes": 116142
+    },
+    {
+      "label": "menu second",
+      "offset": 116736,
+      "capacity": 22528,
+      "packed_bytes": 21359
+    },
+    {
+      "label": "field script",
+      "offset": 686080,
+      "capacity": 110592,
+      "packed_bytes": 110161
+    }
+  ],
+  "field_pointers_and_font_exact": true,
+  "cache_routes_exact": true
+}

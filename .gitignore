@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.build/
+dist/
+work/
+release-assets/
+patcher/resources/*.exe
+patcher/resources/*.xdelta
+*.bin
+*.cue
+*.chd
+*.iso
+*.mcr
+*.mcd
+*.sav
+*.state

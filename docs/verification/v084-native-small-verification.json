@@ -1,0 +1,13 @@
+{
+  "target": "native PSX MIPS menu routines",
+  "tagged_labels_passed": 7,
+  "clipped_render_cases_passed": 20,
+  "space_pixels": 4,
+  "glyph_origins_for_새_게임": [
+    0,
+    12,
+    20
+  ],
+  "independent_label_position_preserved": true,
+  "uninitialized_packet_pool_cases": 20
+}

@@ -1,0 +1,30 @@
+{
+  "entries": 7720,
+  "issues": [
+    {
+      "severity": "참고",
+      "code": "bounds",
+      "count": 6774
+    },
+    {
+      "severity": "주의",
+      "code": "height",
+      "count": 122
+    },
+    {
+      "severity": "주의",
+      "code": "double_space",
+      "count": 17
+    },
+    {
+      "severity": "주의",
+      "code": "dynamic_string",
+      "count": 8
+    },
+    {
+      "severity": "주의",
+      "code": "printf_width",
+      "count": 10
+    }
+  ]
+}

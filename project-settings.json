@@ -1,0 +1,75 @@
+{
+  "game": "Final Fantasy VI (Japan), SLPM-86198, PlayStation",
+  "source_directory": "local-original/Final Fantasy VI (Japan)",
+  "translate": [
+    "Japanese",
+    "kanji"
+  ],
+  "preserve_original_english": true,
+  "small_font": "Galmuri7",
+  "name_entry": {
+    "required": true,
+    "location": "in-game",
+    "input": "controller consonant/vowel composition",
+    "backspace": "final consonant, vowel, initial consonant, previous character"
+  },
+  "spacing": {
+    "character": "U+0020",
+    "width": "half-width",
+    "large_pixels": 6,
+    "small_pixels": 4
+  },
+  "movies": {
+    "preserve_encoded_streams": true,
+    "if_sung_lyrics": "implement a separate subtitle renderer",
+    "opening_text": "Add Korean captions for original English and Japanese opening cards and credits; preserve the text inside the original video.",
+    "subtitle_cell": [
+      12,
+      12
+    ],
+    "subtitle_space_pixels": 6,
+    "maximum_caption_rows": 2,
+    "caption_line_pitch": 14,
+    "clock": "Original STR video-frame numbers, 15 fps; independent OPEN and OPERA cue banks"
+  },
+  "review_reporting": "very concise",
+  "prologue_alignment": "center each line horizontally using native glyph advances and half-width spaces",
+  "release_status": "incomplete development work",
+  "sentence_punctuation": "Use a period at the end of every complete Korean sentence in every section; retain existing questions, exclamations and ellipses; names, headings and menu options remain unpunctuated.",
+  "boost": {
+    "location": "Field menu -> configuration -> SELECT",
+    "defaults": "all OFF",
+    "switches": [
+      "disable random encounters",
+      "experience x5",
+      "battle gil x5",
+      "AP x5"
+    ],
+    "input": "up/down select; left OFF/right ON; confirm toggles; cancel or SELECT returns",
+    "persistence": "native memory-card save, reserved KRN1 extension header",
+    "scope": "field and world random encounters; scripted battles preserved; native victory rewards before XP division and relic effects"
+  },
+  "text_management": {
+    "application": "FF6KoreanTextManager.exe",
+    "standalone_windows_executable": true,
+    "canonical_translation_files": true,
+    "layout_checks": [
+      "pixel width overflow",
+      "line count and line pitch",
+      "half-width spaces",
+      "dynamic name and catalog widths",
+      "control code preservation"
+    ],
+    "large_font_size": "retain original 12-pixel native paths; reject checking known large-text paths as small text",
+    "small_font": "Galmuri7",
+    "subtitle_cell": [
+      12,
+      12
+    ],
+    "unmeasured_screen_bounds": "explicit estimates; per-entry confirmed bounds may be saved",
+    "auto_wrap": "persist checked line breaks on save",
+    "backup": "work/text-manager-backups"
+  },
+  "public_release": "V0.75",
+  "development_base": "v084"
+}

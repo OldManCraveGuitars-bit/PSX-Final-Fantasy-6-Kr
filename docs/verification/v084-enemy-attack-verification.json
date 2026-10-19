@@ -1,0 +1,24 @@
+{
+  "v083": {
+    "broken_references": [
+      {
+        "index": 25,
+        "text": "엄니",
+        "expected": "18ff0100",
+        "actual": "1800a5a5"
+      },
+      {
+        "index": 280,
+        "text": "구타",
+        "expected": "18ff0200",
+        "actual": "1800a5a5"
+      }
+    ],
+    "native_producer_and_dispatcher_cases": 0
+  },
+  "v084": {
+    "broken_references": [],
+    "native_producer_and_dispatcher_cases": 384
+  },
+  "scope": "All 384 enemy-specific names: native producer hook, FF-terminated copier/continuation, original control dispatcher, complete glyph sequence, output canaries."
+}

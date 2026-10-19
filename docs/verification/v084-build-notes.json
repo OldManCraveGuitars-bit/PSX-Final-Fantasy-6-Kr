@@ -1,0 +1,52 @@
+{
+  "status": "validated_development_candidate",
+  "candidate": "FF6-KR-main-development-v084",
+  "sha256": "6bb23a184380ce6c158185d4c634b4b0ca23a3196f16da47be2b40afd33b9454",
+  "baseline": "FF6-KR-main-development-v083",
+  "authored_payloads": "work/v084-cache-payloads",
+  "build_entrypoint": "tools/build_enemy_name_fix.py",
+  "enemy_names": {
+    "cause": "Enemy-specific name producer used native FF-terminated eight-byte copier for four-byte reference. Operand FF truncated references254/509.",
+    "affected": [
+      "엄니 (Silvario25)",
+      "구타 (enemy280)"
+    ],
+    "fix": "Write complete reference directly; continue native terminator/display path.",
+    "native_producer_and_consumer_cases": 384,
+    "native_wolf_visual": true
+  },
+  "locke_terminology": {
+    "term": "트레저 헌터",
+    "dialogue_records": [
+      42,
+      48,
+      134,
+      1901,
+      2616,
+      2936
+    ],
+    "menu_job": 1,
+    "PSX_save_preview": true,
+    "bonus_job_string": 710,
+    "particles_corrected": true,
+    "text_manager_import": "analysis/v084-text-manager-import.json",
+    "menu_visual": "analysis/v084-locke-menu-job.png",
+    "field_records_native_decode": 3100
+  },
+  "preserved": [
+    "original font sizes and half-width spacing",
+    "menu cache timing/routes",
+    "previous battle window and numeral fixes",
+    "original bonus unlock and boost defaults"
+  ],
+  "verification": [
+    "analysis/v084-enemy-attack-verification.json",
+    "analysis/v084-wolf-native-verification.json",
+    "analysis/v084-battle-digit-verification.json",
+    "analysis/v084-dialogue-verification.json",
+    "analysis/v084-psx-font-banks-verification.json",
+    "analysis/v084-resource-preservation.json",
+    "analysis/v084-image-verification.json"
+  ],
+  "scope": "Real Silvario AI special after level8 fixture, all384 enemy-specific producer/consumer paths, all3100 field decodes, actual menu job and208 PSX font-pixel cases. Full playthrough not performed."
+}

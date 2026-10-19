@@ -1,0 +1,322 @@
+{
+  "0": {
+    "source": "まどうせんし",
+    "translation": "마도 전사",
+    "status": "manual"
+  },
+  "1": {
+    "source": "ぼうけんか",
+    "translation": "트레저 헌터",
+    "status": "manual"
+  },
+  "2": {
+    "source": "サムライ",
+    "translation": "사무라이",
+    "status": "manual"
+  },
+  "3": {
+    "source": "アサシン",
+    "translation": "암살자",
+    "status": "manual"
+  },
+  "4": {
+    "source": "マシーナリー",
+    "translation": "기공사",
+    "status": "manual"
+  },
+  "5": {
+    "source": "モンク",
+    "translation": "몽크",
+    "status": "manual"
+  },
+  "6": {
+    "source": "ルーンナイト",
+    "translation": "룬 나이트",
+    "status": "manual"
+  },
+  "7": {
+    "source": "あおまどうし",
+    "translation": "청마도사",
+    "status": "manual"
+  },
+  "8": {
+    "source": "ピクトマンサー",
+    "translation": "그림술사",
+    "status": "manual"
+  },
+  "9": {
+    "source": "ギャンブラー",
+    "translation": "도박사",
+    "status": "manual"
+  },
+  "10": {
+    "source": "モーグリ",
+    "translation": "모그리",
+    "status": "manual"
+  },
+  "11": {
+    "source": "やせいじ",
+    "translation": "야생아",
+    "status": "manual"
+  },
+  "12": {
+    "source": "ものまねし",
+    "translation": "흉내쟁이",
+    "status": "manual"
+  },
+  "13": {
+    "source": "ゆきおとこ",
+    "translation": "설인",
+    "status": "manual"
+  },
+  "14": {
+    "source": "しんかん",
+    "translation": "신관",
+    "status": "manual"
+  },
+  "15": {
+    "source": "しょうぐん",
+    "translation": "장군",
+    "status": "manual"
+  },
+  "16": {
+    "source": "ゆうれい",
+    "translation": "유령",
+    "status": "manual"
+  },
+  "17": {
+    "source": "ゆうれい",
+    "translation": "유령",
+    "status": "manual"
+  },
+  "18": {
+    "source": "モーグリ",
+    "translation": "모그리",
+    "status": "manual"
+  },
+  "19": {
+    "source": "モーグリ",
+    "translation": "모그리",
+    "status": "manual"
+  },
+  "20": {
+    "source": "モーグリ",
+    "translation": "모그리",
+    "status": "manual"
+  },
+  "21": {
+    "source": "モーグリ",
+    "translation": "모그리",
+    "status": "manual"
+  },
+  "22": {
+    "source": "モーグリ",
+    "translation": "모그리",
+    "status": "manual"
+  },
+  "23": {
+    "source": "モーグリ",
+    "translation": "모그리",
+    "status": "manual"
+  },
+  "24": {
+    "source": "モーグリ",
+    "translation": "모그리",
+    "status": "manual"
+  },
+  "25": {
+    "source": "モーグリ",
+    "translation": "모그리",
+    "status": "manual"
+  },
+  "26": {
+    "source": "モーグリ",
+    "translation": "모그리",
+    "status": "manual"
+  },
+  "27": {
+    "source": "モーグリ",
+    "translation": "모그리",
+    "status": "manual"
+  },
+  "28": {
+    "source": "モーグリ",
+    "translation": "모그리",
+    "status": "manual"
+  },
+  "29": {
+    "source": "モーグリ",
+    "translation": "모그리",
+    "status": "manual"
+  },
+  "30": {
+    "source": "モーグリ",
+    "translation": "모그리",
+    "status": "manual"
+  },
+  "31": {
+    "source": "モーグリ",
+    "translation": "모그리",
+    "status": "manual"
+  },
+  "32": {
+    "source": "ていこくへい",
+    "translation": "제국병",
+    "status": "manual"
+  },
+  "33": {
+    "source": "ていこくへい",
+    "translation": "제국병",
+    "status": "manual"
+  },
+  "34": {
+    "source": "へいし",
+    "translation": "병사",
+    "status": "manual"
+  },
+  "35": {
+    "source": "へいし",
+    "translation": "병사",
+    "status": "manual"
+  },
+  "36": {
+    "source": "へいし",
+    "translation": "병사",
+    "status": "manual"
+  },
+  "37": {
+    "source": "へいし",
+    "translation": "병사",
+    "status": "manual"
+  },
+  "38": {
+    "source": "へいし",
+    "translation": "병사",
+    "status": "manual"
+  },
+  "39": {
+    "source": "へいし",
+    "translation": "병사",
+    "status": "manual"
+  },
+  "40": {
+    "source": "へいし",
+    "translation": "병사",
+    "status": "manual"
+  },
+  "41": {
+    "source": "",
+    "translation": "",
+    "status": "manual"
+  },
+  "42": {
+    "source": "",
+    "translation": "",
+    "status": "manual"
+  },
+  "43": {
+    "source": "",
+    "translation": "",
+    "status": "manual"
+  },
+  "44": {
+    "source": "",
+    "translation": "",
+    "status": "manual"
+  },
+  "45": {
+    "source": "",
+    "translation": "",
+    "status": "manual"
+  },
+  "46": {
+    "source": "",
+    "translation": "",
+    "status": "manual"
+  },
+  "47": {
+    "source": "",
+    "translation": "",
+    "status": "manual"
+  },
+  "48": {
+    "source": "フマクト",
+    "translation": "후마크트",
+    "status": "manual"
+  },
+  "49": {
+    "source": "ヴォーリア",
+    "translation": "보리아",
+    "status": "manual"
+  },
+  "50": {
+    "source": "イェルマリオ",
+    "translation": "옐말리오",
+    "status": "manual"
+  },
+  "51": {
+    "source": "イサリーズ",
+    "translation": "이사리즈",
+    "status": "manual"
+  },
+  "52": {
+    "source": "オーランス",
+    "translation": "오를란스",
+    "status": "manual"
+  },
+  "53": {
+    "source": "",
+    "translation": "",
+    "status": "manual"
+  },
+  "54": {
+    "source": "フマクト",
+    "translation": "후마크트",
+    "status": "manual"
+  },
+  "55": {
+    "source": "ワッハ",
+    "translation": "와하",
+    "status": "manual"
+  },
+  "56": {
+    "source": "ユーレーリア",
+    "translation": "율레리아",
+    "status": "manual"
+  },
+  "57": {
+    "source": "オーランス",
+    "translation": "오를란스",
+    "status": "manual"
+  },
+  "58": {
+    "source": "トリックスター",
+    "translation": "트릭스터",
+    "status": "manual"
+  },
+  "59": {
+    "source": "バブーン",
+    "translation": "바분",
+    "status": "manual"
+  },
+  "60": {
+    "source": "",
+    "translation": "",
+    "status": "manual"
+  },
+  "61": {
+    "source": "",
+    "translation": "",
+    "status": "manual"
+  },
+  "62": {
+    "source": "",
+    "translation": "",
+    "status": "manual"
+  },
+  "63": {
+    "source": "",
+    "translation": "",
+    "status": "manual"
+  }
+}

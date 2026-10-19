@@ -1,0 +1,112 @@
+{
+  "hint": {
+    "source": "SELECT: Boost",
+    "translation": "SELECT 부스트",
+    "status": "manual"
+  },
+  "title": {
+    "source": "Boost settings",
+    "translation": "부스트 설정",
+    "status": "manual"
+  },
+  "encounter": {
+    "source": "Disable random encounters",
+    "translation": "인카운트 차단",
+    "status": "manual"
+  },
+  "exp": {
+    "source": "Experience x5",
+    "translation": "경험치 x5",
+    "status": "manual"
+  },
+  "gil": {
+    "source": "Gil earned x5",
+    "translation": "획득 gil x5",
+    "status": "manual"
+  },
+  "ap": {
+    "source": "AP x5",
+    "translation": "AP x5",
+    "status": "manual"
+  },
+  "off": {
+    "source": "OFF",
+    "translation": "OFF",
+    "status": "manual"
+  },
+  "on": {
+    "source": "ON",
+    "translation": "ON",
+    "status": "manual"
+  },
+  "controls": {
+    "source": "Up/down: select. Left/right: change.",
+    "translation": "상하 선택 / 좌우 변경",
+    "status": "manual"
+  },
+  "back": {
+    "source": "SELECT or Cancel: return",
+    "translation": "SELECT / 취소: 돌아가기",
+    "status": "manual"
+  },
+  "default": {
+    "source": "Default: all OFF",
+    "translation": "기본값: 모두 OFF",
+    "status": "manual"
+  },
+  "desc_encounter": {
+    "source": "ON: No random battles.",
+    "translation": "ON: 무작위 전투 없음.",
+    "status": "manual"
+  },
+  "desc_exp": {
+    "source": "ON: Battle experience x5.",
+    "translation": "ON: 전투 경험치 5배.",
+    "status": "manual"
+  },
+  "desc_gil": {
+    "source": "ON: Battle gil earned x5.",
+    "translation": "ON: 전투 획득 gil 5배.",
+    "status": "manual"
+  },
+  "desc_ap": {
+    "source": "ON: AP earned x5.",
+    "translation": "ON: 획득 AP 5배.",
+    "status": "manual"
+  },
+  "magic_recovery": {
+    "source": "かいふく",
+    "translation": "회복",
+    "status": "manual"
+  },
+  "magic_attack": {
+    "source": "こうげき",
+    "translation": "공격",
+    "status": "manual"
+  },
+  "magic_effect": {
+    "source": "かんせつ",
+    "translation": "보조",
+    "status": "manual"
+  },
+  "rank1": {
+    "source": "1",
+    "translation": "1",
+    "status": "manual"
+  },
+  "rank2": {
+    "source": "2",
+    "translation": "2",
+    "status": "manual"
+  },
+  "rank3": {
+    "source": "3",
+    "translation": "3",
+    "status": "manual"
+  },
+  "cursor": {
+    "source": "Selected row",
+    "translation": "▶",
+    "status": "manual"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "0": {
+    "source": "ポジション   %3d %3d",
+    "translation": "위치   %3d %3d",
+    "status": "manual"
+  },
+  "1": {
+    "source": "サイズ     %3d %3d",
+    "translation": "크기     %3d %3d",
+    "status": "manual"
+  },
+  "2": {
+    "source": "スタイル    %3d",
+    "translation": "표시 %3d",
+    "status": "manual"
+  },
+  "3": {
+    "source": "ハンドル    %3d",
+    "translation": "창    %3d",
+    "status": "manual"
+  },
+  "4": {
+    "source": "%pゲームスタート",
+    "translation": "%p게임 시작",
+    "status": "manual"
+  },
+  "5": {
+    "source": "%pニューゲーム",
+    "translation": "%p새 게임",
+    "status": "manual"
+  },
+  "6": {
+    "source": "%Kコワレタ%kファイル%Kハ ジドウテキニ",
+    "translation": "손상된 파일이 자동으로",
+    "status": "manual"
+  },
+  "7": {
+    "source": "EMPTY%Kニ ナリマシタ。",
+    "translation": "EMPTY가 됐습니다.",
+    "status": "manual"
+  },
+  "8": {
+    "source": "%kロード%Kシテイマス",
+    "translation": "로드 중",
+    "status": "manual"
+  },
+  "9": {
+    "source": "%kメモリーカード%Kヲ ヌカナイデクダサイ",
+    "translation": "카드를 빼지 마세요",
+    "status": "manual"
+  },
+  "10": {
+    "source": "%kロード%Kニ シッパイシマシタ",
+    "translation": "로드 실패",
+    "status": "manual"
+  },
+  "11": {
+    "source": "%Kオマケ",
+    "translation": "부록",
+    "status": "manual"
+  },
+  "12": {
+    "source": "%kスロット 2",
+    "translation": "슬롯 2",
+    "status": "manual"
+  },
+  "13": {
+    "source": "%kスロット 1",
+    "translation": "슬롯 1",
+    "status": "manual"
+  },
+  "14": {
+    "source": "%kメモファイル",
+    "translation": "임시 파일",
+    "status": "manual"
+  },
+  "15": {
+    "source": "%kニューゲーム",
+    "translation": "새 게임",
+    "status": "manual"
+  },
+  "16": {
+    "source": "%pスロット %d",
+    "translation": "%p슬롯 %d",
+    "status": "manual"
+  },
+  "17": {
+    "source": "%pセーブ",
+    "translation": "%p저장",
+    "status": "manual"
+  },
+  "18": {
+    "source": "%pメモファイル",
+    "translation": "%p임시본",
+    "status": "manual"
+  },
+  "19": {
+    "source": "%Kコノ%kデータ%Kデ",
+    "translation": "이 데이터로",
+    "status": "manual"
+  },
+  "20": {
+    "source": "%Kハジメマスカ?",
+    "translation": "시작할까요?",
+    "status": "manual"
+  },
+  "21": {
+    "source": "%Kココニ%kセーブ",
+    "translation": "여기에",
+    "status": "manual"
+  },
+  "22": {
+    "source": "%Kシマス。",
+    "translation": "저장",
+    "status": "manual"
+  },
+  "23": {
+    "source": "%Kイイデスカ?",
+    "translation": "할까요?",
+    "status": "manual"
+  },
+  "24": {
+    "source": "%Kハイ",
+    "translation": "예",
+    "status": "manual"
+  },
+  "25": {
+    "source": "%Kイイエ",
+    "translation": "아니요",
+    "status": "manual"
+  },
+  "26": {
+    "source": "%Kホスウ",
+    "translation": "걸음",
+    "status": "manual"
+  },
+  "27": {
+    "source": "%kギル",
+    "translation": "길",
+    "status": "manual"
+  },
+  "28": {
+    "source": "%Kセントウフノウ",
+    "translation": "전투 불능",
+    "status": "manual"
+  },
+  "29": {
+    "source": "%k%pファイル %2d",
+    "translation": "%p파일 %2d",
+    "status": "manual"
+  }
+}

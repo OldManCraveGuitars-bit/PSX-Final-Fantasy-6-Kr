@@ -1,0 +1,6282 @@
+[
+  {
+    "id": 0,
+    "category": "monster_dialogue",
+    "index": 0,
+    "encoding": "nullTerminated",
+    "offset": 119552,
+    "source": "システムエラー発生！{pause}",
+    "original_hex": "767884a08ea6c51e441eb9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118528,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119552,
+        "length": 14
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "category": "monster_dialogue",
+    "index": 1,
+    "encoding": "nullTerminated",
+    "offset": 119566,
+    "source": "オルトロスの体質が変化した！{pause}\n３属性の攻撃に注意！！{pause}",
+    "original_hex": "90aa86ae789b1e2f1dc02b1e4c1df5777fc90501561d681d3b9b1e0a1e9c951cea1c67c9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118530,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119566,
+        "length": 39
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "monster_dialogue",
+    "index": 2,
+    "encoding": "nullTerminated",
+    "offset": 119605,
+    "source": "めざわりな　やつらめ！{pause}\nけちらしてくれるわ！！{pause}",
+    "original_hex": "a335b7a993ffb183a7a3c905017181a777856fadabb7c9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118532,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119605,
+        "length": 26
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "monster_dialogue",
+    "index": 3,
+    "encoding": "nullTerminated",
+    "offset": 119631,
+    "source": "ば、{pause}ばかな……{pause}\nこの私を倒すとは……{pause}",
+    "original_hex": "21cd05216b93c7c70501739b1ffcbb1e3b798761c7c70500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118534,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119631,
+        "length": 24
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "monster_dialogue",
+    "index": 4,
+    "encoding": "nullTerminated",
+    "offset": 119655,
+    "source": "今日もだめだったか……{pause}\nタコで　すみません。{pause}",
+    "original_hex": "1c061c1fa53fa33fbd7f6bc7c705017e7245ff799f9d7bb9d20500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118536,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119655,
+        "length": 27
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "monster_dialogue",
+    "index": 5,
+    "encoding": "nullTerminated",
+    "offset": 119682,
+    "source": "グゴゴゴゴ……{pause}",
+    "original_hex": "2e32323232c7c70500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118538,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119682,
+        "length": 9
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "monster_dialogue",
+    "index": 6,
+    "encoding": "nullTerminated",
+    "offset": 119691,
+    "source": "ダダルマーは　くちぶえをふいた！{pause}",
+    "original_hex": "3e3eaa9cc561ff6f81258fbb658d7fc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118540,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119691,
+        "length": 18
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "category": "monster_dialogue",
+    "index": 7,
+    "encoding": "nullTerminated",
+    "offset": 119709,
+    "source": "再生{pause}",
+    "original_hex": "1d121eb90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118542,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119709,
+        "length": 6
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "category": "monster_dialogue",
+    "index": 8,
+    "encoding": "nullTerminated",
+    "offset": 119715,
+    "source": "ヒ、{pause}ヒィーーーー！！{pause}",
+    "original_hex": "62cd0562c6c5c5c5c5c9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118544,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119715,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "category": "monster_dialogue",
+    "index": 9,
+    "encoding": "nullTerminated",
+    "offset": 119728,
+    "source": "グェグェ…{pause}ガボガボガボ……{pause}",
+    "original_hex": "2eca2ecac7052a282a282a28c7c70500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118546,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119728,
+        "length": 16
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "category": "monster_dialogue",
+    "index": 10,
+    "encoding": "nullTerminated",
+    "offset": 119744,
+    "source": "オラ　オラ　{pause}どうした！{pause}",
+    "original_hex": "90a6ff90a6ff054789777fc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118548,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119744,
+        "length": 14
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "category": "monster_dialogue",
+    "index": 11,
+    "encoding": "nullTerminated",
+    "offset": 119758,
+    "source": "アッチッチーー！！{pause}\nゆでだこ！？　ゆでだこ！？{pause}",
+    "original_hex": "8abc80bc80c5c5c9c90501b3453f73c9cbffb3453f73c9cb0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118550,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119758,
+        "length": 26
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "category": "monster_dialogue",
+    "index": 12,
+    "encoding": "nullTerminated",
+    "offset": 119784,
+    "source": "うひょひょ{pause}\nここは　とおせんぼ！{pause}\nとおさないよー{pause}\nイジワル　イジワル？{pause}",
+    "original_hex": "8963c363c30501737361ff87917bb929c90501879175938db5c505018c36b6aaff8c36b6aacb0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118552,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119784,
+        "length": 40
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "category": "monster_dialogue",
+    "index": 13,
+    "encoding": "nullTerminated",
+    "offset": 119824,
+    "source": "かわいい　女の子{pause}\nわいのこのみや……{pause}\nポッ{pause}",
+    "original_hex": "6bb78d8dff1c1a9b1c070501b78d9b739b9fb1c7c7050151bc0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118554,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119824,
+        "length": 27
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "category": "monster_dialogue",
+    "index": 14,
+    "encoding": "nullTerminated",
+    "offset": 119851,
+    "source": "きんにくモリモリ……{pause}きらいだー！{pause}",
+    "original_hex": "6db9956fa4a8a4a8c7c7056da78d3fc5c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118556,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119851,
+        "length": 19
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "category": "monster_dialogue",
+    "index": 15,
+    "encoding": "nullTerminated",
+    "offset": 119870,
+    "source": "せんぷうきゃく{pause}",
+    "original_hex": "7bb94e896dbf6f0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118558,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119870,
+        "length": 9
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "category": "monster_dialogue",
+    "index": 16,
+    "encoding": "nullTerminated",
+    "offset": 119879,
+    "source": "ギルを　ぬすむ{pause}",
+    "original_hex": "2caabbff9779a10500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118560,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119879,
+        "length": 9
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "category": "monster_dialogue",
+    "index": 17,
+    "encoding": "nullTerminated",
+    "offset": 119888,
+    "source": "グゥオォォーー！{pause}",
+    "original_hex": "2ec890ccccc5c5c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118562,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119888,
+        "length": 10
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "category": "monster_dialogue",
+    "index": 18,
+    "encoding": "nullTerminated",
+    "offset": 119898,
+    "source": "フッ……{pause}\nお前の命も　後わずかだ！{pause}",
+    "original_hex": "64bcc7c70501911ffd9b1edda5ff1e0bb7396b3fc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118564,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119898,
+        "length": 23
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "category": "monster_dialogue",
+    "index": 19,
+    "encoding": "nullTerminated",
+    "offset": 119921,
+    "source": "ひさしぶり……{pause}　また出たよ。{pause}\n待った？　待った？{pause}",
+    "original_hex": "63757725a9c7c705ff9d7f1e1b7fb5d205011c21bd7fcbff1c21bd7fcb0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118566,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119921,
+        "length": 31
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "category": "monster_dialogue",
+    "index": 20,
+    "encoding": "nullTerminated",
+    "offset": 119952,
+    "source": "イッ……{pause}　イッターーイ！{pause}",
+    "original_hex": "8cbcc7c705ff8cbc7ec5c58cc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118568,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119952,
+        "length": 15
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "category": "monster_dialogue",
+    "index": 21,
+    "encoding": "nullTerminated",
+    "offset": 119967,
+    "source": "クッ……！{pause}\nこれで勝ったと思うなよ！{pause}",
+    "original_hex": "6ebcc7c7c9050173ad451c92bd7f871c108993b5c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118570,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119967,
+        "length": 23
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "category": "monster_dialogue",
+    "index": 22,
+    "encoding": "nullTerminated",
+    "offset": 119990,
+    "source": "こっち　こっち{pause}",
+    "original_hex": "73bd81ff73bd810500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118572,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119990,
+        "length": 9
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "category": "monster_dialogue",
+    "index": 23,
+    "encoding": "nullTerminated",
+    "offset": 119999,
+    "source": "たのしい？　たのしい？{pause}",
+    "original_hex": "7f9b778dcbff7f9b778dcb0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118574,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 119999,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "category": "monster_dialogue",
+    "index": 24,
+    "encoding": "nullTerminated",
+    "offset": 120012,
+    "source": "よんだ？{pause}",
+    "original_hex": "b5b93fcb0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118576,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120012,
+        "length": 6
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "category": "monster_dialogue",
+    "index": 25,
+    "encoding": "nullTerminated",
+    "offset": 120018,
+    "source": "わいは、ただのタコじゃないよ{pause}",
+    "original_hex": "b78d61cd7f3f9b7e7237bf938db50500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118578,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120018,
+        "length": 16
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "category": "monster_dialogue",
+    "index": 26,
+    "encoding": "nullTerminated",
+    "offset": 120034,
+    "source": "わいが出ると、こまる？　こまる？{pause}",
+    "original_hex": "b78d2b1e1bab87cd739dabcbff739dabcb0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118580,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120034,
+        "length": 19
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "category": "monster_dialogue",
+    "index": 27,
+    "encoding": "nullTerminated",
+    "offset": 120053,
+    "source": "あなた方は誰……？{pause}",
+    "original_hex": "8b937f1e4e611c3dc7c7cb0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118582,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120053,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "category": "monster_dialogue",
+    "index": 28,
+    "encoding": "nullTerminated",
+    "offset": 120066,
+    "source": "俺達と同じ力を感じる……{pause}",
+    "original_hex": "1ffe1ffb871e3f371de6bb1c6437abc7c70500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118584,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120066,
+        "length": 19
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "category": "monster_dialogue",
+    "index": 29,
+    "encoding": "nullTerminated",
+    "offset": 120085,
+    "source": "お前達はラムウの力を……？{pause}\nまってくれ……{pause}\n俺達は……{pause}\n幻獣だ……{pause}",
+    "original_hex": "911ffd1ffb61a6a0889b1de6bbc7c7cb05019dbd856fadc7c705011ffe1ffb61c7c705011e9f1eaf3fc7c70500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118586,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120085,
+        "length": 45
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "category": "monster_dialogue",
+    "index": 30,
+    "encoding": "nullTerminated",
+    "offset": 120130,
+    "source": "まだ、かえらない{pause}",
+    "original_hex": "9d3fcd6b8fa7938d0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118588,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120130,
+        "length": 10
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "category": "monster_dialogue",
+    "index": 31,
+    "encoding": "nullTerminated",
+    "offset": 120140,
+    "source": "クレーンは、かんぱんをゆらした！{pause}",
+    "original_hex": "6eacc5b861cd6bb94ab9bbb3a7777fc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118590,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120140,
+        "length": 18
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "category": "monster_dialogue",
+    "index": 32,
+    "encoding": "nullTerminated",
+    "offset": 120158,
+    "source": "グググ……{pause}\nグワァーーー！！{pause}",
+    "original_hex": "2e2e2ec7c705012eb6c4c5c5c5c9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118592,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120158,
+        "length": 17
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "category": "monster_dialogue",
+    "index": 33,
+    "encoding": "nullTerminated",
+    "offset": 120175,
+    "source": "グオォォーーーー！！{pause}",
+    "original_hex": "2e90ccccc5c5c5c5c9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118594,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120175,
+        "length": 12
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "category": "monster_dialogue",
+    "index": 34,
+    "encoding": "nullTerminated",
+    "offset": 120187,
+    "source": "エアフォースはビットを放出した{pause}\nビットは魔法を吸収する！{pause}",
+    "original_hex": "8e8a64ccc5786122bc86bb1e4f1e1b777f050122bc86611eda1ed7bb1e031e1a79abc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118596,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120187,
+        "length": 37
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "category": "monster_dialogue",
+    "index": 35,
+    "encoding": "nullTerminated",
+    "offset": 120224,
+    "source": "ウウウ……{pause}　はらへった……{pause}",
+    "original_hex": "888888c7c705ff61a767bd7fc7c70500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118598,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120224,
+        "length": 16
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "category": "monster_dialogue",
+    "index": 36,
+    "encoding": "nullTerminated",
+    "offset": 120240,
+    "source": "ガウガウ、{pause}おれ{char[0B]}！{pause}\nみんなのなかま！　なかま！{pause}\nまたいっしょに、たびをするー！{pause}",
+    "original_hex": "2a882a88cd0591ad020bc905019fb9939b936b9dc9ff936b9dc905019d7f8dbd77c395cd7f23bb79abc5c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118600,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120240,
+        "length": 45
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "category": "monster_dialogue",
+    "index": 37,
+    "encoding": "nullTerminated",
+    "offset": 120285,
+    "source": "ヒドゥンに吸収される！{pause}",
+    "original_hex": "6246c8b8951e031e1a75adabc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118602,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120285,
+        "length": 15
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "category": "monster_dialogue",
+    "index": 38,
+    "encoding": "nullTerminated",
+    "offset": 120300,
+    "source": "でんきエネルギーを　開放する！{pause}",
+    "original_hex": "45b96d8e98aa2cc5bbff1c2f1e4f79abc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118604,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120300,
+        "length": 19
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "category": "monster_dialogue",
+    "index": 39,
+    "encoding": "nullTerminated",
+    "offset": 120319,
+    "source": "おっと！{pause}　手ぐせの悪いやつだ！{pause}\nそ～ら、{pause}おしおきだ！！{pause}",
+    "original_hex": "91bd87c905ff1e172f7b9b1c3f8db1833fc905017d1ff0a7cd059177916d3fc9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118606,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120319,
+        "length": 35
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "category": "monster_dialogue",
+    "index": 40,
+    "encoding": "nullTerminated",
+    "offset": 120354,
+    "source": "グオォーー！！{pause}",
+    "original_hex": "2e90ccc5c5c9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118608,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120354,
+        "length": 9
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "category": "monster_dialogue",
+    "index": 41,
+    "encoding": "nullTerminated",
+    "offset": 120363,
+    "source": "敵の戦闘力　ランク　Ａ",
+    "original_hex": "1e389b1e2a1ecb1de6ffa6b86eff1e5000",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118610,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120363,
+        "length": 17
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "category": "monster_dialogue",
+    "index": 42,
+    "encoding": "nullTerminated",
+    "offset": 120380,
+    "source": "敵の戦闘力　ランク　Ｂ",
+    "original_hex": "1e389b1e2a1ecb1de6ffa6b86eff1e5100",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118612,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120380,
+        "length": 17
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "category": "monster_dialogue",
+    "index": 43,
+    "encoding": "nullTerminated",
+    "offset": 120397,
+    "source": "敵の戦闘力　ランク　Ｃ",
+    "original_hex": "1e389b1e2a1ecb1de6ffa6b86eff1e5a00",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118614,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120397,
+        "length": 17
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "category": "monster_dialogue",
+    "index": 44,
+    "encoding": "nullTerminated",
+    "offset": 120414,
+    "source": "たいでん　レベル　１",
+    "original_hex": "7f8d45b9ffac26aaff5400",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118616,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120414,
+        "length": 11
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "category": "monster_dialogue",
+    "index": 45,
+    "encoding": "nullTerminated",
+    "offset": 120425,
+    "source": "たいでん　レベル　２",
+    "original_hex": "7f8d45b9ffac26aaff5500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118618,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120425,
+        "length": 11
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "category": "monster_dialogue",
+    "index": 46,
+    "encoding": "nullTerminated",
+    "offset": 120436,
+    "source": "むだだ！{pause}",
+    "original_hex": "a13f3fc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118620,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120436,
+        "length": 6
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "category": "monster_dialogue",
+    "index": 47,
+    "encoding": "nullTerminated",
+    "offset": 120442,
+    "source": "むだだ！{pause}",
+    "original_hex": "a13f3fc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118622,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120442,
+        "length": 6
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "category": "monster_dialogue",
+    "index": 48,
+    "encoding": "nullTerminated",
+    "offset": 120448,
+    "source": "ここは、とおさん！！{pause}",
+    "original_hex": "737361cd879175b9c9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118624,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120448,
+        "length": 12
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "category": "monster_dialogue",
+    "index": 49,
+    "encoding": "nullTerminated",
+    "offset": 120460,
+    "source": "たいでん　レベル　３",
+    "original_hex": "7f8d45b9ffac26aaff5600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118626,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120460,
+        "length": 11
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "category": "monster_dialogue",
+    "index": 50,
+    "encoding": "nullTerminated",
+    "offset": 120471,
+    "source": "ねつエネルギーを　開放する！{pause}",
+    "original_hex": "99838e98aa2cc5bbff1c2f1e4f79abc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118628,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120471,
+        "length": 18
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "category": "monster_dialogue",
+    "index": 51,
+    "encoding": "nullTerminated",
+    "offset": 120489,
+    "source": "ねつ源レベル１",
+    "original_hex": "99831fedac26aa5400",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118630,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120489,
+        "length": 9
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "category": "monster_dialogue",
+    "index": 52,
+    "encoding": "nullTerminated",
+    "offset": 120498,
+    "source": "波動ほう！　びょう読み開始！！{pause}\nカウント　１０{pause}",
+    "original_hex": "1ecc1e3e6989c9ff23c3891d429f1c2f1c63c9c905016a88b886ff54530500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118632,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120498,
+        "length": 31
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "category": "monster_dialogue",
+    "index": 53,
+    "encoding": "nullTerminated",
+    "offset": 120529,
+    "source": "カウント　９{pause}",
+    "original_hex": "6a88b886ff5c0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118634,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120529,
+        "length": 8
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "category": "monster_dialogue",
+    "index": 54,
+    "encoding": "nullTerminated",
+    "offset": 120537,
+    "source": "カウント　８{pause}",
+    "original_hex": "6a88b886ff5b0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118636,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120537,
+        "length": 8
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "category": "monster_dialogue",
+    "index": 55,
+    "encoding": "nullTerminated",
+    "offset": 120545,
+    "source": "カウント　７{pause}",
+    "original_hex": "6a88b886ff5a0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118638,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120545,
+        "length": 8
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "category": "monster_dialogue",
+    "index": 56,
+    "encoding": "nullTerminated",
+    "offset": 120553,
+    "source": "カウント　６{pause}",
+    "original_hex": "6a88b886ff590500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118640,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120553,
+        "length": 8
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "category": "monster_dialogue",
+    "index": 57,
+    "encoding": "nullTerminated",
+    "offset": 120561,
+    "source": "カウント　５{pause}",
+    "original_hex": "6a88b886ff580500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118642,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120561,
+        "length": 8
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "category": "monster_dialogue",
+    "index": 58,
+    "encoding": "nullTerminated",
+    "offset": 120569,
+    "source": "カウント　４{pause}",
+    "original_hex": "6a88b886ff570500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118644,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120569,
+        "length": 8
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "category": "monster_dialogue",
+    "index": 59,
+    "encoding": "nullTerminated",
+    "offset": 120577,
+    "source": "カウント　３{pause}",
+    "original_hex": "6a88b886ff560500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118646,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120577,
+        "length": 8
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "category": "monster_dialogue",
+    "index": 60,
+    "encoding": "nullTerminated",
+    "offset": 120585,
+    "source": "カウント　２{pause}",
+    "original_hex": "6a88b886ff550500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118648,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120585,
+        "length": 8
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "category": "monster_dialogue",
+    "index": 61,
+    "encoding": "nullTerminated",
+    "offset": 120593,
+    "source": "デスゲイズの傷はいやされた！{pause}\n冷気の攻撃能力が回復する{pause}",
+    "original_hex": "4478308c389b1e1e618db175ad7fc905011d5c1e949b1e0a1e9c1e421de62b1df81e4979ab0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118650,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120593,
+        "length": 39
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "category": "monster_dialogue",
+    "index": 62,
+    "encoding": "nullTerminated",
+    "offset": 120632,
+    "source": "グォオオーー！",
+    "original_hex": "2ecc9090c5c5c900",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118652,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120632,
+        "length": 8
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "category": "monster_dialogue",
+    "index": 63,
+    "encoding": "nullTerminated",
+    "offset": 120640,
+    "source": "デスゲイズの目を封じた！{pause}\n死の攻撃が出来ない！！{pause}",
+    "original_hex": "4478308c389b1c23bb1c56377fc905011eac9b1e0a1e9c2b1e1b1c05938dc9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118654,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120640,
+        "length": 34
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "category": "monster_dialogue",
+    "index": 64,
+    "encoding": "nullTerminated",
+    "offset": 120674,
+    "source": "デスゲイズの口を封じた！{pause}\n冷気の攻撃が出来ない！！{pause}",
+    "original_hex": "4478308c389b1c78bb1c56377fc905011d5c1e949b1e0a1e9c2b1e1b1c05938dc9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118656,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120674,
+        "length": 36
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "category": "monster_dialogue",
+    "index": 65,
+    "encoding": "nullTerminated",
+    "offset": 120710,
+    "source": "デスゲイズの毒のつめを封じた！{pause}\n毒の攻撃が出来ない！！{pause}",
+    "original_hex": "4478308c389b1dfe9b83a3bb1c56377fc905011dfe9b1e0a1e9c2b1e1b1c05938dc9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118658,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120710,
+        "length": 37
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "category": "monster_dialogue",
+    "index": 66,
+    "encoding": "nullTerminated",
+    "offset": 120747,
+    "source": "チィ！{pause}　こざかしい！！{pause}\nまとめて、あの世に送ってやる！！{pause}",
+    "original_hex": "80c6c905ff73356b778dc9c905019d87a385cd8b9b1c00951cf1bd85b1abc9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118660,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120747,
+        "length": 34
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "category": "monster_dialogue",
+    "index": 67,
+    "encoding": "nullTerminated",
+    "offset": 120781,
+    "source": "どうした{char[05]}！{pause}\n後がないぞ！！{pause}",
+    "original_hex": "4789777f0205c905011e0b2b938d3dc9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118662,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120781,
+        "length": 19
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "category": "monster_dialogue",
+    "index": 68,
+    "encoding": "nullTerminated",
+    "offset": 120800,
+    "source": "警報がなりひびく{pause}",
+    "original_hex": "1db71cdd2b93a963236f0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118664,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120800,
+        "length": 12
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "category": "monster_dialogue",
+    "index": 69,
+    "encoding": "nullTerminated",
+    "offset": 120812,
+    "source": "カウント　１{pause}",
+    "original_hex": "6a88b886ff540500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118666,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120812,
+        "length": 8
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "category": "monster_dialogue",
+    "index": 70,
+    "encoding": "nullTerminated",
+    "offset": 120820,
+    "source": "ねつ源レベル２",
+    "original_hex": "99831fedac26aa5500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118668,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120820,
+        "length": 9
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "category": "monster_dialogue",
+    "index": 71,
+    "encoding": "nullTerminated",
+    "offset": 120829,
+    "source": "ねつ源レベル３",
+    "original_hex": "99831fedac26aa5600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118670,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120829,
+        "length": 9
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "category": "monster_dialogue",
+    "index": 72,
+    "encoding": "nullTerminated",
+    "offset": 120838,
+    "source": "デスゲイズの傷はいやされた！{pause}\n死の攻撃能力が回復する{pause}",
+    "original_hex": "4478308c389b1e1e618db175ad7fc905011eac9b1e0a1e9c1e421de62b1df81e4979ab0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118672,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120838,
+        "length": 37
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "category": "monster_dialogue",
+    "index": 73,
+    "encoding": "nullTerminated",
+    "offset": 120875,
+    "source": "元気１００倍！{pause}\n防御力がアップした{pause}\n魔法防御力がアップした{pause}\n素早さがアップした{pause}\n回復能力がアップした{pause}",
+    "original_hex": "1e091e945453531e43c905011e001e621de62b8abc4d777f05011eda1ed71e001e621de62b8abc4d777f05011e2c1c68752b8abc4d777f05011df81e491e421de62b8abc4d777f0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118674,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120875,
+        "length": 73
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "category": "monster_dialogue",
+    "index": 74,
+    "encoding": "nullTerminated",
+    "offset": 120948,
+    "source": "ヒヒドゥンはヒドゥンに変化する{pause}",
+    "original_hex": "626246c8b8616246c8b8951e4c1df579ab0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118676,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120948,
+        "length": 19
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "category": "monster_dialogue",
+    "index": 75,
+    "encoding": "nullTerminated",
+    "offset": 120967,
+    "source": "あ！、{pause}\nと、とびらが開きますですよ！{pause}",
+    "original_hex": "8bc9cd050187cd8723a72b1c2f6d9d794579b5c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118678,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120967,
+        "length": 22
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "category": "monster_dialogue",
+    "index": 76,
+    "encoding": "nullTerminated",
+    "offset": 120989,
+    "source": "くくくく……{pause}\n欲にかられし人間どもよ……{pause}\nよくぞ、我を開放した……{pause}\n我は、恐怖を与えるもの……{pause}\n我は、破壊をもたらすもの……{pause}\n我の名はカイザー……{pause}\nさらばだ人間どもよ……{pause}",
+    "original_hex": "6f6f6f6fc7c705011cd6956ba7ad771e231e0147a5b5c7c70501b56f3dcd1e8fbb1c2f1e4f777fc7c705011e8f61cd1c861d7ebb1de18faba59bc7c705011e8f61cd1ecd1c8abba57fa779a59bc7c705011e8f9b1c25616a8c34c5c7c7050175a7213f1e231e0147a5b5c7c70500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118680,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 120989,
+        "length": 110
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "category": "monster_dialogue",
+    "index": 77,
+    "encoding": "nullTerminated",
+    "offset": 121099,
+    "source": "おまえのかお……{pause}こわーーい！！{pause}",
+    "original_hex": "919d8f9b6b91c7c70573b7c5c58dc9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118682,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121099,
+        "length": 18
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "category": "monster_dialogue",
+    "index": 78,
+    "encoding": "nullTerminated",
+    "offset": 121117,
+    "source": "いま、むかつくタコ野郎と{pause}\n思わなかった？{pause}\nごめんね　ごめんね{pause}",
+    "original_hex": "8d9dcda16b836f7e721d061ff78705011c10b7936bbd7fcb050133a3b999ff33a3b9990500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118684,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121117,
+        "length": 37
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "category": "monster_dialogue",
+    "index": 79,
+    "encoding": "nullTerminated",
+    "offset": 121154,
+    "source": "また出ちゃった{pause}　しつこい？{pause}\nだって、タコだもん。{pause}",
+    "original_hex": "9d7f1e1b81bfbd7f05ff7783738dcb05013fbd85cd7e723fa5b9d20500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118686,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121154,
+        "length": 29
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "category": "monster_dialogue",
+    "index": 80,
+    "encoding": "nullTerminated",
+    "offset": 121183,
+    "source": "そんな…{pause}それじゃまるで……{pause}\nまるっきり　タコじゃん！{pause}",
+    "original_hex": "7db993c7057dad37bf9dab45c7c705019dabbd6da9ff7e7237bfb9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118688,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121183,
+        "length": 30
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "category": "monster_dialogue",
+    "index": 81,
+    "encoding": "nullTerminated",
+    "offset": 121213,
+    "source": "これが最後のバトル{pause}\nほんと！　ほんと！{pause}",
+    "original_hex": "73ad2b1c271e0b9b2086aa050169b987c9ff69b987c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118690,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121213,
+        "length": 24
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "category": "monster_dialogue",
+    "index": 82,
+    "encoding": "nullTerminated",
+    "offset": 121237,
+    "source": "オルトロス{pause}\n先生を怒らせると怖いよ～{pause}\nほんと、おっかないんだから～！{pause}\nおまえら、食われちゃうかもよ～{pause}",
+    "original_hex": "90aa86ae7805011e291eb9bb1ec9a77bab871d7e8db51ff0050169b987cd91bd6b938db93f6ba71ff0c90501919d8fa7cd1c9bb7ad81bf896ba5b51ff00500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118692,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121237,
+        "length": 63
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "category": "monster_dialogue",
+    "index": 83,
+    "encoding": "nullTerminated",
+    "offset": 121300,
+    "source": "オルトロス{pause}\nう、{pause}また負けちゃうかも……{pause}\nしかし、今日はつおーい味方が{pause}\nいるのだ！{pause}\nテュポーン大先生、そろそろ来て～{pause}",
+    "original_hex": "90aa86ae78050189cd059d7f1cd97181bf896ba5c7c70501776b77cd1c061c1f618391c58d1dfd1e4e2b05018dab9b3fc9050184c051c5b81ec01e291eb9cd7daf7daf1c05851ff00500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118694,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121300,
+        "length": 74
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "category": "monster_dialogue",
+    "index": 84,
+    "encoding": "nullTerminated",
+    "offset": 121374,
+    "source": "オルトロス{pause}\nテュポーン大先生は無口だけど{pause}\nものすごくつおいのだ！{pause}",
+    "original_hex": "90aa86ae78050184c051c5b81ec01e291eb9611edb1c783f71470501a59b79336f83918d9b3fc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118696,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121374,
+        "length": 41
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "category": "monster_dialogue",
+    "index": 85,
+    "encoding": "nullTerminated",
+    "offset": 121415,
+    "source": "我が使命は",
+    "original_hex": "1e8f2b1e0f1edd6100",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118698,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121415,
+        "length": 9
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "category": "monster_dialogue",
+    "index": 86,
+    "encoding": "nullTerminated",
+    "offset": 121424,
+    "source": "オルトロス{pause}\nわいなんか、このあいだ{pause}\nねぼけて、頭をかじられたんだから{pause}\n先生の牙はいたいよ～～！{pause}",
+    "original_hex": "90aa86ae780501b78d93b96bcd739b8b8d3f050199297185cd1cbfbb6b37a7ad7fb93f6ba705011e291eb99b1e90618d7f8db51ff01ff0c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118700,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121424,
+        "length": 58
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "category": "monster_dialogue",
+    "index": 87,
+    "encoding": "nullTerminated",
+    "offset": 121482,
+    "source": "テュポーン{pause}\nフンガーーー！！{pause}",
+    "original_hex": "84c051c5b8050164b82ac5c5c5c9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118702,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121482,
+        "length": 17
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "category": "monster_dialogue",
+    "index": 88,
+    "encoding": "nullTerminated",
+    "offset": 121499,
+    "source": "みちづれだー！{pause}",
+    "original_hex": "9f8143ad3fc5c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118704,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121499,
+        "length": 9
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "category": "monster_dialogue",
+    "index": 89,
+    "encoding": "nullTerminated",
+    "offset": 121508,
+    "source": "最近、俺のニセモノが{pause}\n宝をあらしているようだけど{pause}\nおめえたち{pause}\nだまされちゃーいけねえぜ！{pause}\nお宝って～のは、まってりゃ～{pause}\nむこうから、近づいてくるもんだぜ{pause}\nさあ、おっぱじめるとするか{pause}",
+    "original_hex": "1c271c4fcd1ffe9b947aa49a2b05011c51bb8ba777858dabb5893f7147050191a38f7f8105013f9d75ad81bfc58d71998f3bc90501911c51bd851ff09b61cd9dbd85a9bf1ff00501a173896ba7cd1c4f438d856faba5b93f3b0501758bcd91bd4a37a3ab8779ab6b0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118706,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121508,
+        "length": 106
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "category": "monster_dialogue",
+    "index": 90,
+    "encoding": "nullTerminated",
+    "offset": 121614,
+    "source": "リフレクの効果がきえた",
+    "original_hex": "a864ac6e9b1e651e722b6d8f7f00",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118708,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121614,
+        "length": 14
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "category": "monster_dialogue",
+    "index": 91,
+    "encoding": "nullTerminated",
+    "offset": 121628,
+    "source": "ソーニョは逃げ出した{pause}",
+    "original_hex": "7cc594c2611c20311e1b777f0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118710,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121628,
+        "length": 14
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "category": "monster_dialogue",
+    "index": 92,
+    "encoding": "nullTerminated",
+    "offset": 121642,
+    "source": "つ、{pause}強い……{pause}\nさすがは、{pause}{char[02]}……{pause}\n見事だ……{pause}",
+    "original_hex": "83cd051c618dc7c7050175792b61cd050202c7c705011c011ffa3fc7c70500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118712,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121642,
+        "length": 31
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "category": "monster_dialogue",
+    "index": 93,
+    "encoding": "nullTerminated",
+    "offset": 121673,
+    "source": "いくぞ！{pause}　こわっぱども！！{pause}\nうりゃりゃりゃーー！！{pause}",
+    "original_hex": "8d6f3dc905ff73b7bd4a47a5c9c9050189a9bfa9bfa9bfc5c5c9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118714,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121673,
+        "length": 29
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "category": "monster_dialogue",
+    "index": 94,
+    "encoding": "nullTerminated",
+    "offset": 121702,
+    "source": "ぜえ{pause}　ぜえ{pause}　ぜえ{pause}\nど、どうだ！{pause}　まいったか！！{pause}",
+    "original_hex": "3b8f05ff3b8f05ff3b8f050147cd47893fc905ff9d8dbd7f6bc9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118716,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121702,
+        "length": 29
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "category": "monster_dialogue",
+    "index": 95,
+    "encoding": "nullTerminated",
+    "offset": 121731,
+    "source": "あくりょう{pause}\nこの絵の女は、わしがいただいた……{pause}\nそう簡単には返さないぜ……{pause}",
+    "original_hex": "8b6fa9c3890501739b1d139b1c1a61cdb7772b8d7f3f8d7fc7c705017d891cd11e3295611c3c75938d3bc7c70500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118718,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121731,
+        "length": 46
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "category": "monster_dialogue",
+    "index": 96,
+    "encoding": "nullTerminated",
+    "offset": 121777,
+    "source": "ふふふ……{pause}どうした？{pause}\n顔色がすぐれないぞ{pause}\nしょうがない{pause}　少し助けてやるか{pause}",
+    "original_hex": "656565c7c7054789777fcb05011c951e212b792fad938d3d050177c3892b938d05ff1c5a771c287185b1ab6b0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118720,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121777,
+        "length": 46
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "category": "monster_dialogue",
+    "index": 97,
+    "encoding": "nullTerminated",
+    "offset": 121823,
+    "source": "やつが……{pause}やつが来るわ……{pause}\nあやつられてしまう……{pause}",
+    "original_hex": "b1832bc7c705b1832b1c05abb7c7c705018bb183a7ad85779d89c7c70500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118722,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121823,
+        "length": 30
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "category": "monster_dialogue",
+    "index": 98,
+    "encoding": "nullTerminated",
+    "offset": 121853,
+    "source": "かっぱ{pause}　ともだち　ともだち！{pause}",
+    "original_hex": "6bbd4a05ff87a53f81ff87a53f81c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118724,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121853,
+        "length": 17
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "category": "monster_dialogue",
+    "index": 99,
+    "encoding": "nullTerminated",
+    "offset": 121870,
+    "source": "サムライソウルはパワーをあげた{pause}",
+    "original_hex": "74a0a68c7c88aa6149b6c5bb8b317f0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118726,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121870,
+        "length": 17
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "category": "monster_dialogue",
+    "index": 100,
+    "encoding": "nullTerminated",
+    "offset": 121887,
+    "source": "ソーニョは戻ってきた{pause}",
+    "original_hex": "7cc594c2611c54bd856d7f0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118728,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121887,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "category": "monster_dialogue",
+    "index": 101,
+    "encoding": "nullTerminated",
+    "offset": 121900,
+    "source": "ぼう大なエネルギーが集中する{pause}",
+    "original_hex": "29891ec0938e98aa2cc52b1cf51e3479ab0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118730,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121900,
+        "length": 19
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "category": "monster_dialogue",
+    "index": 102,
+    "encoding": "nullTerminated",
+    "offset": 121919,
+    "source": "くくく……{pause}逃がさぬぞ……！{pause}",
+    "original_hex": "6f6f6fc7c7051c202b75973dc7c7c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118732,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121919,
+        "length": 17
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "category": "monster_dialogue",
+    "index": 103,
+    "encoding": "nullTerminated",
+    "offset": 121936,
+    "source": "波動ほう！　びょう読み開始！！{pause}\nカウント　３{pause}",
+    "original_hex": "1ecc1e3e6989c9ff23c3891d429f1c2f1c63c9c905016a88b886ff560500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118734,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121936,
+        "length": 30
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "category": "monster_dialogue",
+    "index": 104,
+    "encoding": "nullTerminated",
+    "offset": 121966,
+    "source": "きほんプログラム作動！{pause}",
+    "original_hex": "6d69b94dae2ea6a01c661e3ec90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118736,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121966,
+        "length": 15
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "category": "monster_dialogue",
+    "index": 105,
+    "encoding": "nullTerminated",
+    "offset": 121981,
+    "source": "敵の攻撃回数集計中{pause}",
+    "original_hex": "1e389b1e0a1e9c1df81e251cf51c9c1e340500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118738,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 121981,
+        "length": 19
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "category": "monster_dialogue",
+    "index": 106,
+    "encoding": "nullTerminated",
+    "offset": 122000,
+    "source": "フリーズドラゴンは仲間を呼んだ！{pause}\nスカルドラゴンしょうかん！{pause}",
+    "original_hex": "64a8c53846a632b8611e351e01bb1c4bb93fc90501786aaa46a632b877c3896bb9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118740,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122000,
+        "length": 36
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "category": "monster_dialogue",
+    "index": 107,
+    "encoding": "nullTerminated",
+    "offset": 122036,
+    "source": "ストームドラゴンは仲間を呼んだ！{pause}\nアースドラゴンしょうかん！{pause}",
+    "original_hex": "7886c5a046a632b8611e351e01bb1c4bb93fc905018ac57846a632b877c3896bb9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118742,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122036,
+        "length": 36
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "category": "monster_dialogue",
+    "index": 108,
+    "encoding": "nullTerminated",
+    "offset": 122072,
+    "source": "アースドラゴンは仲間を呼んだ！{pause}\nイエロードラゴンしょうかん！{pause}",
+    "original_hex": "8ac57846a632b8611e351e01bb1c4bb93fc905018c8eaec546a632b877c3896bb9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118744,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122072,
+        "length": 36
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "category": "monster_dialogue",
+    "index": 109,
+    "encoding": "nullTerminated",
+    "offset": 122108,
+    "source": "イエロードラゴンは仲間を呼んだ！{pause}\nストームドラゴンしょうかん！{pause}",
+    "original_hex": "8c8eaec546a632b8611e351e01bb1c4bb93fc905017886c5a046a632b877c3896bb9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118746,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122108,
+        "length": 37
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "category": "monster_dialogue",
+    "index": 110,
+    "encoding": "nullTerminated",
+    "offset": 122145,
+    "source": "スカルドラゴンは仲間を呼んだ！{pause}\nブルードラゴンしょうかん！{pause}",
+    "original_hex": "786aaa46a632b8611e351e01bb1c4bb93fc9050124aac546a632b877c3896bb9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118748,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122145,
+        "length": 35
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "category": "monster_dialogue",
+    "index": 111,
+    "encoding": "nullTerminated",
+    "offset": 122180,
+    "source": "ブルードラゴンは仲間を呼んだ！{pause}\nアースドラゴンしょうかん！{pause}",
+    "original_hex": "24aac546a632b8611e351e01bb1c4bb93fc905018ac57846a632b877c3896bb9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118750,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122180,
+        "length": 35
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "category": "monster_dialogue",
+    "index": 112,
+    "encoding": "nullTerminated",
+    "offset": 122215,
+    "source": "レッドドラゴンは仲間を呼んだ！{pause}\nフリーズドラゴンしょうかん！{pause}",
+    "original_hex": "acbc4646a632b8611e351e01bb1c4bb93fc9050164a8c53846a632b877c3896bb9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118752,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122215,
+        "length": 36
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "category": "monster_dialogue",
+    "index": 113,
+    "encoding": "nullTerminated",
+    "offset": 122251,
+    "source": "ホーリードラゴンは仲間を呼んだ！{pause}\nレッドドラゴンしょうかん！{pause}",
+    "original_hex": "68c5a8c546a632b8611e351e01bb1c4bb93fc90501acbc4646a632b877c3896bb9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118754,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122251,
+        "length": 36
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "category": "monster_dialogue",
+    "index": 114,
+    "encoding": "nullTerminated",
+    "offset": 122287,
+    "source": "ストームドラゴンに変化がおきる！{pause}",
+    "original_hex": "7886c5a046a632b8951e4c1df52b916dabc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118756,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122287,
+        "length": 20
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "category": "monster_dialogue",
+    "index": 115,
+    "encoding": "nullTerminated",
+    "offset": 122307,
+    "source": "イエロードラゴンは{pause}\nエネルギーをたくわえ始めた！{pause}",
+    "original_hex": "8c8eaec546a632b86105018e98aa2cc5bb7f6fb78f1c63a37fc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118758,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122307,
+        "length": 28
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "category": "monster_dialogue",
+    "index": 116,
+    "encoding": "nullTerminated",
+    "offset": 122335,
+    "source": "アースドラゴンは理性を矢った！{pause}",
+    "original_hex": "8ac57846a632b8611de41d3bbb1c9fbd7fc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118760,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122335,
+        "length": 20
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "category": "monster_dialogue",
+    "index": 117,
+    "encoding": "nullTerminated",
+    "offset": 122355,
+    "source": "スカルドラゴンは魔力で生きている{pause}",
+    "original_hex": "786aaa46a632b8611eda1de6451eb96d858dab0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118762,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122355,
+        "length": 21
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "category": "monster_dialogue",
+    "index": 118,
+    "encoding": "nullTerminated",
+    "offset": 122376,
+    "source": "リフレクを消しさる",
+    "original_hex": "a864ac6ebb1e1c7775ab00",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118764,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122376,
+        "length": 11
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "category": "monster_dialogue",
+    "index": 119,
+    "encoding": "nullTerminated",
+    "offset": 122387,
+    "source": "キャーーー！{pause}",
+    "original_hex": "6cbec5c5c5c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118766,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122387,
+        "length": 8
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "category": "monster_dialogue",
+    "index": 120,
+    "encoding": "nullTerminated",
+    "offset": 122395,
+    "source": "ああ、私の存在が…消えてしまう…{pause}",
+    "original_hex": "8b8bcd1ffc9b1d0f1d142bc71e1c8f85779d89c70500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118768,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122395,
+        "length": 22
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "category": "monster_dialogue",
+    "index": 121,
+    "encoding": "nullTerminated",
+    "offset": 122417,
+    "source": "こいつは…{pause}俺の女だ……{pause}",
+    "original_hex": "738d8361c7051ffe9b1c1a3fc7c70500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118770,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122417,
+        "length": 16
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "category": "monster_dialogue",
+    "index": 122,
+    "encoding": "nullTerminated",
+    "offset": 122433,
+    "source": "お、おのれ……{pause}\nこんなはずでは……{pause}",
+    "original_hex": "91cd919badc7c7050173b99361394561c7c70500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118772,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122433,
+        "length": 20
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "category": "monster_dialogue",
+    "index": 123,
+    "encoding": "nullTerminated",
+    "offset": 122453,
+    "source": "帰れ……{pause}帰れ……{pause}",
+    "original_hex": "1c4aadc7c7051c4aadc7c70500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118774,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122453,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "category": "monster_dialogue",
+    "index": 124,
+    "encoding": "nullTerminated",
+    "offset": 122466,
+    "source": "後ろに敵の気配！{pause}",
+    "original_hex": "1e0baf951e389b1e941c2bc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118776,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122466,
+        "length": 14
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "category": "monster_dialogue",
+    "index": 125,
+    "encoding": "nullTerminated",
+    "offset": 122480,
+    "source": "もう一体、モンスターが現われた！{pause}",
+    "original_hex": "a5891dff1e2fcda4b8787ec52b1e08b7ad7fc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118778,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122480,
+        "length": 21
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "category": "monster_dialogue",
+    "index": 126,
+    "encoding": "nullTerminated",
+    "offset": 122501,
+    "source": "オルトロス戦闘プログラム作動！{pause}",
+    "original_hex": "90aa86ae781e2a1ecb4dae2ea6a01c661e3ec90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118780,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122501,
+        "length": 21
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "category": "monster_dialogue",
+    "index": 127,
+    "encoding": "nullTerminated",
+    "offset": 122522,
+    "source": "ダダルマー戦闘プログラム作動！{pause}",
+    "original_hex": "3e3eaa9cc51e2a1ecb4dae2ea6a01c661e3ec90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118782,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122522,
+        "length": 21
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "category": "monster_dialogue",
+    "index": 128,
+    "encoding": "nullTerminated",
+    "offset": 122543,
+    "source": "エアホース戦闘プログラム作動！{pause}",
+    "original_hex": "8e8a68c5781e2a1ecb4dae2ea6a01c661e3ec90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118784,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122543,
+        "length": 21
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "category": "monster_dialogue",
+    "index": 129,
+    "encoding": "nullTerminated",
+    "offset": 122564,
+    "source": "アルテマ戦闘プログラム作動！{pause}",
+    "original_hex": "8aaa849c1e2a1ecb4dae2ea6a01c661e3ec90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118786,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122564,
+        "length": 20
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "category": "monster_dialogue",
+    "index": 130,
+    "encoding": "nullTerminated",
+    "offset": 122584,
+    "source": "戦闘プログラムを読み込む{pause}",
+    "original_hex": "1e2a1ecb4dae2ea6a0bb1d429f1c24a10500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118788,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122584,
+        "length": 18
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "category": "monster_dialogue",
+    "index": 131,
+    "encoding": "nullTerminated",
+    "offset": 122602,
+    "source": "未知の光がアルテマをつつむ！{pause}",
+    "original_hex": "1d3f1c139b1ea32b8aaa849cbb8383a1c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118790,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122602,
+        "length": 19
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "category": "monster_dialogue",
+    "index": 132,
+    "encoding": "nullTerminated",
+    "offset": 122621,
+    "source": "アルテマはパワーを上げた！{pause}",
+    "original_hex": "8aaa849c6149b6c5bb1e20317fc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118792,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122621,
+        "length": 16
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "category": "monster_dialogue",
+    "index": 133,
+    "encoding": "nullTerminated",
+    "offset": 122637,
+    "source": "我が名はアルテマ……{pause}\nたい古に作られし最高の力なり……{pause}\n我は力であり、生命にあらず……{pause}\n弱き生命体よ、きえされ！！{pause}",
+    "original_hex": "1e8f2b1c25618aaa849cc7c705017f8d1d11951c66a7ad771c271c9d9b1de693a9c7c705011e8f611de6458ba9cd1eb91edd958ba739c7c705011e166d1eb91edd1e2fb5cd6d8f75adc9c90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118794,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122637,
+        "length": 77
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "category": "monster_dialogue",
+    "index": 134,
+    "encoding": "nullTerminated",
+    "offset": 122714,
+    "source": "なにかを束ねている{pause}",
+    "original_hex": "93956bbb1cff99858dab0500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118796,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122714,
+        "length": 12
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "category": "monster_dialogue",
+    "index": 135,
+    "encoding": "nullTerminated",
+    "offset": 122726,
+    "source": "仕事量を１０倍にした！{pause}",
+    "original_hex": "1da91ffa1e74bb54531e4395777fc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118798,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122726,
+        "length": 17
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "category": "monster_dialogue",
+    "index": 136,
+    "encoding": "nullTerminated",
+    "offset": 122743,
+    "source": "魔神のオーラが激しくゆれる！{pause}",
+    "original_hex": "1eda1eb59b90c5a62b1e9b776fb3adabc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118800,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122743,
+        "length": 19
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "category": "monster_dialogue",
+    "index": 137,
+    "encoding": "nullTerminated",
+    "offset": 122762,
+    "source": "ガーディアンは仲間を呼んだ！{pause}",
+    "original_hex": "2ac544c68ab8611e351e01bb1c4bb93fc90500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118802,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122762,
+        "length": 19
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "category": "monster_dialogue",
+    "index": 138,
+    "encoding": "nullTerminated",
+    "offset": 122781,
+    "source": "４連打！！",
+    "original_hex": "571de81d78c9c900",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118804,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122781,
+        "length": 8
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "category": "monster_dialogue",
+    "index": 139,
+    "encoding": "nullTerminated",
+    "offset": 122789,
+    "source": "我が名はアルテマ……{pause}\n時のかなたに忘れ去られし者……{pause}\n我はそう造されて間もなく{pause}\nこの地に安置された……{pause}\n我は何をすべきなのか考え続けた…{pause}\n永い間、考え続けた……{pause}\nその答えがようやく出たようだ……{pause}",
+    "original_hex": "1e8f2b1c25618aaa849cc7c705011e109b6b937f951cc6ad1d2ca7ad771e15c7c705011e8f617d891dc575ad851e01a5936f0501739b1ec3951c821d7d75ad7fc7c705011e8f611df4bb79276d939b6b1c458f1e2e717fc705011d6c8d1e01cd1c458f1e2e717fc7c705017d9b1d8e8f2bb589b16f1e1b7fb5893fc7c70500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118806,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122789,
+        "length": 127
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "category": "monster_dialogue",
+    "index": 140,
+    "encoding": "nullTerminated",
+    "offset": 122916,
+    "source": "カオスをこえて終末が近づく…{pause}",
+    "original_hex": "6a9078bb738f851cc01d6e2b1c4f436fc70500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118808,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122916,
+        "length": 19
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "category": "monster_dialogue",
+    "index": 141,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118810,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "category": "monster_dialogue",
+    "index": 142,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118812,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "category": "monster_dialogue",
+    "index": 143,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118814,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "category": "monster_dialogue",
+    "index": 144,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118816,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "category": "monster_dialogue",
+    "index": 145,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118818,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "category": "monster_dialogue",
+    "index": 146,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118820,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "category": "monster_dialogue",
+    "index": 147,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118822,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "category": "monster_dialogue",
+    "index": 148,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118824,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "category": "monster_dialogue",
+    "index": 149,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118826,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "category": "monster_dialogue",
+    "index": 150,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118828,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "category": "monster_dialogue",
+    "index": 151,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118830,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "category": "monster_dialogue",
+    "index": 152,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118832,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "category": "monster_dialogue",
+    "index": 153,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118834,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "category": "monster_dialogue",
+    "index": 154,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118836,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "category": "monster_dialogue",
+    "index": 155,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118838,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "category": "monster_dialogue",
+    "index": 156,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118840,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "category": "monster_dialogue",
+    "index": 157,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118842,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "category": "monster_dialogue",
+    "index": 158,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118844,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "category": "monster_dialogue",
+    "index": 159,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118846,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "category": "monster_dialogue",
+    "index": 160,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118848,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "category": "monster_dialogue",
+    "index": 161,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118850,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "category": "monster_dialogue",
+    "index": 162,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118852,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "category": "monster_dialogue",
+    "index": 163,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118854,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "category": "monster_dialogue",
+    "index": 164,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118856,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "category": "monster_dialogue",
+    "index": 165,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118858,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "category": "monster_dialogue",
+    "index": 166,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118860,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "category": "monster_dialogue",
+    "index": 167,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118862,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "category": "monster_dialogue",
+    "index": 168,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118864,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "category": "monster_dialogue",
+    "index": 169,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118866,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "category": "monster_dialogue",
+    "index": 170,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118868,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "category": "monster_dialogue",
+    "index": 171,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118870,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "category": "monster_dialogue",
+    "index": 172,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118872,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "category": "monster_dialogue",
+    "index": 173,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118874,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "category": "monster_dialogue",
+    "index": 174,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118876,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "category": "monster_dialogue",
+    "index": 175,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118878,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "category": "monster_dialogue",
+    "index": 176,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118880,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "category": "monster_dialogue",
+    "index": 177,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118882,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "category": "monster_dialogue",
+    "index": 178,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118884,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "category": "monster_dialogue",
+    "index": 179,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118886,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "category": "monster_dialogue",
+    "index": 180,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118888,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "category": "monster_dialogue",
+    "index": 181,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118890,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "category": "monster_dialogue",
+    "index": 182,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118892,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "category": "monster_dialogue",
+    "index": 183,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118894,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "category": "monster_dialogue",
+    "index": 184,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118896,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "category": "monster_dialogue",
+    "index": 185,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118898,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "category": "monster_dialogue",
+    "index": 186,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118900,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "category": "monster_dialogue",
+    "index": 187,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118902,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "category": "monster_dialogue",
+    "index": 188,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118904,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "category": "monster_dialogue",
+    "index": 189,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118906,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "category": "monster_dialogue",
+    "index": 190,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118908,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "category": "monster_dialogue",
+    "index": 191,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118910,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "category": "monster_dialogue",
+    "index": 192,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118912,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "category": "monster_dialogue",
+    "index": 193,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118914,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "category": "monster_dialogue",
+    "index": 194,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118916,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "category": "monster_dialogue",
+    "index": 195,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118918,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "category": "monster_dialogue",
+    "index": 196,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118920,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "category": "monster_dialogue",
+    "index": 197,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118922,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "category": "monster_dialogue",
+    "index": 198,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118924,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "category": "monster_dialogue",
+    "index": 199,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118926,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "category": "monster_dialogue",
+    "index": 200,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118928,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "category": "monster_dialogue",
+    "index": 201,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118930,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "category": "monster_dialogue",
+    "index": 202,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118932,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "category": "monster_dialogue",
+    "index": 203,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118934,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "category": "monster_dialogue",
+    "index": 204,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118936,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "category": "monster_dialogue",
+    "index": 205,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118938,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "category": "monster_dialogue",
+    "index": 206,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118940,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "category": "monster_dialogue",
+    "index": 207,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118942,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "category": "monster_dialogue",
+    "index": 208,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118944,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "category": "monster_dialogue",
+    "index": 209,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118946,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "category": "monster_dialogue",
+    "index": 210,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118948,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "category": "monster_dialogue",
+    "index": 211,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118950,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "category": "monster_dialogue",
+    "index": 212,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118952,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "category": "monster_dialogue",
+    "index": 213,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118954,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "category": "monster_dialogue",
+    "index": 214,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118956,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "category": "monster_dialogue",
+    "index": 215,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118958,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "category": "monster_dialogue",
+    "index": 216,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118960,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "category": "monster_dialogue",
+    "index": 217,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118962,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "category": "monster_dialogue",
+    "index": 218,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118964,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "category": "monster_dialogue",
+    "index": 219,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118966,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "category": "monster_dialogue",
+    "index": 220,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118968,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "category": "monster_dialogue",
+    "index": 221,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118970,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "category": "monster_dialogue",
+    "index": 222,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118972,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "category": "monster_dialogue",
+    "index": 223,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118974,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "category": "monster_dialogue",
+    "index": 224,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118976,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "category": "monster_dialogue",
+    "index": 225,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118978,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "category": "monster_dialogue",
+    "index": 226,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118980,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "category": "monster_dialogue",
+    "index": 227,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118982,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "category": "monster_dialogue",
+    "index": 228,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118984,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "category": "monster_dialogue",
+    "index": 229,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118986,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "category": "monster_dialogue",
+    "index": 230,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118988,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "category": "monster_dialogue",
+    "index": 231,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118990,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "category": "monster_dialogue",
+    "index": 232,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118992,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "category": "monster_dialogue",
+    "index": 233,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118994,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "category": "monster_dialogue",
+    "index": 234,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118996,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "category": "monster_dialogue",
+    "index": 235,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 118998,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "category": "monster_dialogue",
+    "index": 236,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119000,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "category": "monster_dialogue",
+    "index": 237,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119002,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "category": "monster_dialogue",
+    "index": 238,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119004,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "category": "monster_dialogue",
+    "index": 239,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119006,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "category": "monster_dialogue",
+    "index": 240,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119008,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "category": "monster_dialogue",
+    "index": 241,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119010,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "category": "monster_dialogue",
+    "index": 242,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119012,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "category": "monster_dialogue",
+    "index": 243,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119014,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "category": "monster_dialogue",
+    "index": 244,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119016,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "category": "monster_dialogue",
+    "index": 245,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119018,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "category": "monster_dialogue",
+    "index": 246,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119020,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "category": "monster_dialogue",
+    "index": 247,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119022,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "category": "monster_dialogue",
+    "index": 248,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119024,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "category": "monster_dialogue",
+    "index": 249,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119026,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "category": "monster_dialogue",
+    "index": 250,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119028,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "category": "monster_dialogue",
+    "index": 251,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119030,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "category": "monster_dialogue",
+    "index": 252,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119032,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "category": "monster_dialogue",
+    "index": 253,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119034,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "category": "monster_dialogue",
+    "index": 254,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119036,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "category": "monster_dialogue",
+    "index": 255,
+    "encoding": "nullTerminated",
+    "offset": 122935,
+    "source": "もうちょっと{pause}まってね。",
+    "original_hex": "a58981c3bd87059dbd8599d200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 119038,
+        "pointer_bias": 58368,
+        "base": 119552,
+        "capacity": 4096,
+        "offset": 122935,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "category": "blitz_description",
+    "index": 0,
+    "encoding": "nullTerminated",
+    "offset": 125696,
+    "source": "敵１体に防御無視ダメージ",
+    "original_hex": "1e38541e2f951e001e621edb1e0e3ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126622,
+        "pointer_bias": 0,
+        "base": 125696,
+        "capacity": 132,
+        "offset": 125696,
+        "length": 19
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 61017,
+        "pointer_bias": 0,
+        "base": 60091,
+        "capacity": 132,
+        "offset": 60091,
+        "length": 19
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "category": "blitz_description",
+    "index": 1,
+    "encoding": "nullTerminated",
+    "offset": 125715,
+    "source": "敵１体に聖なる気のダメージ",
+    "original_hex": "1e38541e2f951f1b93ab1e949b3ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126624,
+        "pointer_bias": 0,
+        "base": 125696,
+        "capacity": 132,
+        "offset": 125715,
+        "length": 18
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 61019,
+        "pointer_bias": 0,
+        "base": 60091,
+        "capacity": 132,
+        "offset": 60110,
+        "length": 18
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "category": "blitz_description",
+    "index": 2,
+    "encoding": "nullTerminated",
+    "offset": 125733,
+    "source": "敵１体に投げ落とし技",
+    "original_hex": "1e38541e2f951d18311de387771e9700",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126626,
+        "pointer_bias": 0,
+        "base": 125696,
+        "capacity": 132,
+        "offset": 125733,
+        "length": 16
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 61021,
+        "pointer_bias": 0,
+        "base": 60091,
+        "capacity": 132,
+        "offset": 60128,
+        "length": 16
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "category": "blitz_description",
+    "index": 3,
+    "encoding": "nullTerminated",
+    "offset": 125749,
+    "source": "炎属性の複数ダメージ",
+    "original_hex": "1e851d681d3b9b1e671e253ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126628,
+        "pointer_bias": 0,
+        "base": 125696,
+        "capacity": 132,
+        "offset": 125749,
+        "length": 16
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 61023,
+        "pointer_bias": 0,
+        "base": 60091,
+        "capacity": 132,
+        "offset": 60144,
+        "length": 16
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "category": "blitz_description",
+    "index": 4,
+    "encoding": "nullTerminated",
+    "offset": 125765,
+    "source": "本人以外をリフレッシュ",
+    "original_hex": "1c221e231df11df9bba864acbc76c000",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126630,
+        "pointer_bias": 0,
+        "base": 125696,
+        "capacity": 132,
+        "offset": 125765,
+        "length": 16
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 61025,
+        "pointer_bias": 0,
+        "base": 60091,
+        "capacity": 132,
+        "offset": 60160,
+        "length": 16
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "category": "blitz_description",
+    "index": 5,
+    "encoding": "nullTerminated",
+    "offset": 125781,
+    "source": "風属性の複数ダメージ",
+    "original_hex": "1ed61d681d3b9b1e671e253ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126632,
+        "pointer_bias": 0,
+        "base": 125696,
+        "capacity": 132,
+        "offset": 125781,
+        "length": 16
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 61027,
+        "pointer_bias": 0,
+        "base": 60091,
+        "capacity": 132,
+        "offset": 60176,
+        "length": 16
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "category": "blitz_description",
+    "index": 6,
+    "encoding": "nullTerminated",
+    "offset": 125797,
+    "source": "命とひきかえに仲間を回復",
+    "original_hex": "1edd87636d6b8f951e351e01bb1df81e4900",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126634,
+        "pointer_bias": 0,
+        "base": 125696,
+        "capacity": 132,
+        "offset": 125797,
+        "length": 18
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 61029,
+        "pointer_bias": 0,
+        "base": 60091,
+        "capacity": 132,
+        "offset": 60192,
+        "length": 18
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "category": "blitz_description",
+    "index": 7,
+    "encoding": "nullTerminated",
+    "offset": 125815,
+    "source": "敵１体に大ダメージ",
+    "original_hex": "1e38541e2f951ec03ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126636,
+        "pointer_bias": 0,
+        "base": 125696,
+        "capacity": 132,
+        "offset": 125815,
+        "length": 13
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 61031,
+        "pointer_bias": 0,
+        "base": 60091,
+        "capacity": 132,
+        "offset": 60210,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "category": "swdtech_description",
+    "index": 0,
+    "encoding": "nullTerminated",
+    "offset": 125952,
+    "source": "敵１体にダメージ",
+    "original_hex": "1e38541e2f953ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126638,
+        "pointer_bias": 0,
+        "base": 125952,
+        "capacity": 127,
+        "offset": 125952,
+        "length": 11
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 61033,
+        "pointer_bias": 0,
+        "base": 60347,
+        "capacity": 127,
+        "offset": 60347,
+        "length": 11
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "category": "swdtech_description",
+    "index": 1,
+    "encoding": "nullTerminated",
+    "offset": 125963,
+    "source": "敵１体に反撃で大ダメージ",
+    "original_hex": "1e38541e2f951e461e9c451ec03ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126640,
+        "pointer_bias": 0,
+        "base": 125952,
+        "capacity": 127,
+        "offset": 125963,
+        "length": 18
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 61035,
+        "pointer_bias": 0,
+        "base": 60347,
+        "capacity": 127,
+        "offset": 60358,
+        "length": 18
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "category": "swdtech_description",
+    "index": 2,
+    "encoding": "nullTerminated",
+    "offset": 125981,
+    "source": "敵１体のＨＰを半分にする",
+    "original_hex": "1e38541e2f9b1e571e59bb1e451e4b9579ab00",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126642,
+        "pointer_bias": 0,
+        "base": 125952,
+        "capacity": 127,
+        "offset": 125981,
+        "length": 19
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 61037,
+        "pointer_bias": 0,
+        "base": 60347,
+        "capacity": 127,
+        "offset": 60376,
+        "length": 19
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "category": "swdtech_description",
+    "index": 3,
+    "encoding": "nullTerminated",
+    "offset": 126000,
+    "source": "敵に４回ダメージ",
+    "original_hex": "1e3895571df83ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126644,
+        "pointer_bias": 0,
+        "base": 125952,
+        "capacity": 127,
+        "offset": 126000,
+        "length": 11
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 61039,
+        "pointer_bias": 0,
+        "base": 60347,
+        "capacity": 127,
+        "offset": 60395,
+        "length": 11
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "category": "swdtech_description",
+    "index": 4,
+    "encoding": "nullTerminated",
+    "offset": 126011,
+    "source": "敵１体からＨＰ・ＭＰ吸収",
+    "original_hex": "1e38541e2f6ba71e571e59d71e581e591e031e1a00",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126646,
+        "pointer_bias": 0,
+        "base": 125952,
+        "capacity": 127,
+        "offset": 126011,
+        "length": 21
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 61041,
+        "pointer_bias": 0,
+        "base": 60347,
+        "capacity": 127,
+        "offset": 60406,
+        "length": 21
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "category": "swdtech_description",
+    "index": 5,
+    "encoding": "nullTerminated",
+    "offset": 126032,
+    "source": "敵複数にダメージ＋ストップ",
+    "original_hex": "1e381e671e25953ea2c536d37886bc4d00",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126648,
+        "pointer_bias": 0,
+        "base": 125952,
+        "capacity": 127,
+        "offset": 126032,
+        "length": 17
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 61043,
+        "pointer_bias": 0,
+        "base": 60347,
+        "capacity": 127,
+        "offset": 60427,
+        "length": 17
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "category": "swdtech_description",
+    "index": 6,
+    "encoding": "nullTerminated",
+    "offset": 126049,
+    "source": "敵に４回ダメージ",
+    "original_hex": "1e3895571df83ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126650,
+        "pointer_bias": 0,
+        "base": 125952,
+        "capacity": 127,
+        "offset": 126049,
+        "length": 11
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 61045,
+        "pointer_bias": 0,
+        "base": 60347,
+        "capacity": 127,
+        "offset": 60444,
+        "length": 11
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "category": "swdtech_description",
+    "index": 7,
+    "encoding": "nullTerminated",
+    "offset": 126060,
+    "source": "敵複数を一刀両断",
+    "original_hex": "1e381e671e25bb1dff1eca1de51ec200",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126652,
+        "pointer_bias": 0,
+        "base": 125952,
+        "capacity": 127,
+        "offset": 126060,
+        "length": 16
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 61047,
+        "pointer_bias": 0,
+        "base": 60347,
+        "capacity": 127,
+        "offset": 60455,
+        "length": 16
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "category": "lore_description",
+    "index": 0,
+    "encoding": "nullTerminated",
+    "offset": 190584,
+    "source": "カウントダウンする　デス",
+    "original_hex": "6a88b8863e88b879abff447800",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126526,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190584,
+        "length": 13
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60921,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105691,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "category": "lore_description",
+    "index": 1,
+    "encoding": "nullTerminated",
+    "offset": 190597,
+    "source": "ルーレットする　デス",
+    "original_hex": "aac5acbc8679abff447800",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126528,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190597,
+        "length": 11
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60923,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105704,
+        "length": 11
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "category": "lore_description",
+    "index": 2,
+    "encoding": "nullTerminated",
+    "offset": 190608,
+    "source": "水属性のダメージ",
+    "original_hex": "1e241d681d3b9b3ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126530,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190608,
+        "length": 12
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60925,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105715,
+        "length": 12
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "category": "lore_description",
+    "index": 3,
+    "encoding": "nullTerminated",
+    "offset": 190620,
+    "source": "風・水属性のダメージ",
+    "original_hex": "1ed6d71e241d681d3b9b3ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126532,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190620,
+        "length": 15
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60927,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105727,
+        "length": 15
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "category": "lore_description",
+    "index": 4,
+    "encoding": "nullTerminated",
+    "offset": 190635,
+    "source": "風属性のダメージ",
+    "original_hex": "1ed61d681d3b9b3ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126534,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190635,
+        "length": 12
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60929,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105742,
+        "length": 12
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "category": "lore_description",
+    "index": 5,
+    "encoding": "nullTerminated",
+    "offset": 190647,
+    "source": "１０００ダメージ",
+    "original_hex": "545353533ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126536,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190647,
+        "length": 9
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60931,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105754,
+        "length": 9
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "category": "lore_description",
+    "index": 6,
+    "encoding": "nullTerminated",
+    "offset": 190656,
+    "source": "味方全員にシェル・プロテス",
+    "original_hex": "1dfd1e4e1e2b1df39576caaad74dae847800",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126538,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190656,
+        "length": 18
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60933,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105763,
+        "length": 18
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "category": "lore_description",
+    "index": 7,
+    "encoding": "nullTerminated",
+    "offset": 190674,
+    "source": "へったＨＰ分　ダメージ",
+    "original_hex": "67bd7f1e571e591e4bff3ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126540,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190674,
+        "length": 15
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60935,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105781,
+        "length": 15
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "category": "lore_description",
+    "index": 8,
+    "encoding": "nullTerminated",
+    "offset": 190689,
+    "source": "自分のＨＰ分　味方を回復",
+    "original_hex": "1e121e4b9b1e571e591e4bff1dfd1e4ebb1df81e4900",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126542,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190689,
+        "length": 22
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60937,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105796,
+        "length": 22
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "category": "lore_description",
+    "index": 9,
+    "encoding": "nullTerminated",
+    "offset": 190711,
+    "source": "レベルが５の倍数の敵にデス",
+    "original_hex": "ac26aa2b589b1e431e259b1e3895447800",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126544,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190711,
+        "length": 17
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60939,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105818,
+        "length": 17
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "category": "lore_description",
+    "index": 10,
+    "encoding": "nullTerminated",
+    "offset": 190728,
+    "source": "レベル４の倍数の敵にフレア",
+    "original_hex": "ac26aa579b1e431e259b1e389564ac8a00",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126546,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190728,
+        "length": 17
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60941,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105835,
+        "length": 17
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "category": "lore_description",
+    "index": 11,
+    "encoding": "nullTerminated",
+    "offset": 190745,
+    "source": "レベルが３の倍数の敵を混乱",
+    "original_hex": "ac26aa2b569b1e431e259b1e38bb1e0c1ee500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126548,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190745,
+        "length": 19
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60943,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105852,
+        "length": 19
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "category": "lore_description",
+    "index": 12,
+    "encoding": "nullTerminated",
+    "offset": 190764,
+    "source": "リフレク敵にステータス攻撃",
+    "original_hex": "a864ac6e1e38957884c57e781e0a1e9c00",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126550,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190764,
+        "length": 17
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60945,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105871,
+        "length": 17
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "category": "lore_description",
+    "index": 13,
+    "encoding": "nullTerminated",
+    "offset": 190781,
+    "source": "レベルが？の敵にホーリー",
+    "original_hex": "ac26aa2bcb9b1e389568c5a8c500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126552,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190781,
+        "length": 14
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60947,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105888,
+        "length": 14
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "category": "lore_description",
+    "index": 14,
+    "encoding": "nullTerminated",
+    "offset": 190795,
+    "source": "歩数に応じたダメージ",
+    "original_hex": "1e4d1e25951d1a377f3ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126554,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190795,
+        "length": 14
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60949,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105902,
+        "length": 14
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "category": "lore_description",
+    "index": 15,
+    "encoding": "nullTerminated",
+    "offset": 190809,
+    "source": "空間に属性無効バリアをはる",
+    "original_hex": "1e9a1e01951d681d3b1edb1e6520a88abb61ab00",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126556,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190809,
+        "length": 20
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60951,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105916,
+        "length": 20
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "category": "lore_description",
+    "index": 16,
+    "encoding": "nullTerminated",
+    "offset": 190829,
+    "source": "敵のレベルを半分にする",
+    "original_hex": "1e389bac26aabb1e451e4b9579ab00",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126558,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190829,
+        "length": 15
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60953,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105936,
+        "length": 15
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "category": "lore_description",
+    "index": 17,
+    "encoding": "nullTerminated",
+    "offset": 190844,
+    "source": "敵にステータス攻撃",
+    "original_hex": "1e38957884c57e781e0a1e9c00",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126560,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190844,
+        "length": 13
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60955,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105951,
+        "length": 13
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "category": "lore_description",
+    "index": 18,
+    "encoding": "nullTerminated",
+    "offset": 190857,
+    "source": "自分の命を仲間にたくす",
+    "original_hex": "1e121e4b9b1eddbb1e351e01957f6f7900",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126562,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190857,
+        "length": 17
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60957,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105964,
+        "length": 17
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "category": "lore_description",
+    "index": 19,
+    "encoding": "nullTerminated",
+    "offset": 190874,
+    "source": "敵とステータスをこうかん",
+    "original_hex": "1e38877884c57e78bb73896bb900",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126564,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190874,
+        "length": 14
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60959,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105981,
+        "length": 14
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "category": "lore_description",
+    "index": 20,
+    "encoding": "nullTerminated",
+    "offset": 190888,
+    "source": "ダメージ＋混乱",
+    "original_hex": "3ea2c536d31e0c1ee500",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126566,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190888,
+        "length": 10
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60961,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 105995,
+        "length": 10
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "category": "lore_description",
+    "index": 21,
+    "encoding": "nullTerminated",
+    "offset": 190898,
+    "source": "全敵に防御無視ダメージ",
+    "original_hex": "1e2b1e38951e001e621edb1e0e3ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126568,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190898,
+        "length": 18
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60963,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 106005,
+        "length": 18
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "category": "lore_description",
+    "index": 22,
+    "encoding": "nullTerminated",
+    "offset": 190916,
+    "source": "全敵に防御無視の大ダメージ",
+    "original_hex": "1e2b1e38951e001e621edb1e0e9b1ec03ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126570,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190916,
+        "length": 21
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60965,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 106023,
+        "length": 21
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "category": "lore_description",
+    "index": 23,
+    "encoding": "nullTerminated",
+    "offset": 190937,
+    "source": "命とひきかえに大ダメージ",
+    "original_hex": "1edd87636d6b8f951ec03ea2c53600",
+    "occurrences": [
+      {
+        "file": "BTL/FF6_BTL.BIN",
+        "pointer_offset": 126572,
+        "pointer_bias": 0,
+        "base": 190584,
+        "capacity": 368,
+        "offset": 190937,
+        "length": 15
+      },
+      {
+        "file": "HAR/MENUMENU.BIN",
+        "pointer_offset": 60967,
+        "pointer_bias": 0,
+        "base": 105691,
+        "capacity": 368,
+        "offset": 106044,
+        "length": 15
+      }
+    ]
+  }
+]

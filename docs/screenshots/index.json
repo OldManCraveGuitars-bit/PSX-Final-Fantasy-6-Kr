@@ -1,0 +1,110 @@
+[
+  {
+    "file": "prologue.png",
+    "source_capture": "kr-v053-prologue-original-size.png",
+    "caption": "프롤로그 · 원래 큰 글씨 크기와 가운데 정렬",
+    "sha256": "041726957a9be5b7c5d8722c1b0993cca20296f86feb95c041cf48a2d40f8f1b"
+  },
+  {
+    "file": "opening-caption.png",
+    "source_capture": "kr-v061-opening-attack-order.png",
+    "caption": "오프닝 · 원본 영상 위 별도 한국어 자막",
+    "sha256": "4a09f4f710db1071d2986c9839362e3ae26e31bb96aaee2cba8d1d4dcbd08c7d"
+  },
+  {
+    "file": "ending-caption.png",
+    "source_capture": "v076-ending-caption-155.png",
+    "caption": "엔딩 영상 · 화면 문구 자막",
+    "sha256": "8ac32af459bc9b232a0b9b4daa4725fd449fefacfdb912354640313fa79a0e74"
+  },
+  {
+    "file": "locke-job.png",
+    "source_capture": "v084-locke-menu-job.png",
+    "caption": "록 직업 · 트레저 헌터",
+    "sha256": "da64188482e8a04a3e2e1480add318a0e27a1a746b60f7032c8948473f21f8ce"
+  },
+  {
+    "file": "enemy-fang.png",
+    "source_capture": "v084-native-enemy-special-25.png",
+    "caption": "적 공격명 · 엄니 전체 표시",
+    "sha256": "6eb94cec694615ab4518527d8b54978a27f96d6c137ee4407ebdab023022f370"
+  },
+  {
+    "file": "volts-counter.png",
+    "source_capture": "v083-volts-counter-name.png",
+    "caption": "껍질 반격 · 1만 볼트 숫자 표시",
+    "sha256": "3996260a8c94c59a19200a55cc56e7cae163f446ba967239b5366c969d577087"
+  },
+  {
+    "file": "battle-dialogue.png",
+    "source_capture": "kr-v083-whelk-battle_dialogue-8.png",
+    "caption": "전투 대사 · 원래의 하단 전체 폭 창",
+    "sha256": "0907afe18b476fe05747eff99b75ccb9f784934918496b27734b4ce5c30b8208"
+  },
+  {
+    "file": "boost-off.png",
+    "source_capture": "kr-v075-boost-final-all-off.png",
+    "caption": "부스트 · 네 항목 기본 OFF",
+    "sha256": "9186ba73c663129cadef0e3c9b842745647eda49732ee52cacb267636aaa33f2"
+  },
+  {
+    "file": "boost-on.png",
+    "source_capture": "kr-v075-boost-final-all-on.png",
+    "caption": "부스트 · 실시간 설정",
+    "sha256": "2a857bace119399185ef3481149579449d7748be3d699e95b54f731bb80e5661"
+  },
+  {
+    "file": "magic-order.png",
+    "source_capture": "kr-v075-boost-magic-order-final.png",
+    "caption": "설정 · 마법 정렬",
+    "sha256": "57815e6f6993d6b5fc9e5ba987d1f93f04d198402aaeb1dd272a62a0243dd60a"
+  },
+  {
+    "file": "name-editor.png",
+    "source_capture": "v081-name-composed.png",
+    "caption": "이름 작성기 · 자음과 모음으로 한글 조합",
+    "sha256": "5a75e514d860fd029ac3f8cc9b2f084626f75a3074c9eb2f2831e2ae7cd140b5"
+  },
+  {
+    "file": "save-confirm.png",
+    "source_capture": "v081-save-regression-question.png",
+    "caption": "메모리 카드 저장 확인 문구",
+    "sha256": "6560e2dfdd26355bc4c1509819b0de7fc5d03f88917f20a22e50d9aff8d23446"
+  },
+  {
+    "file": "temporary-save.png",
+    "source_capture": "v081-save-regression-temp-after-wait.png",
+    "caption": "임시 저장 · 테두리 표시",
+    "sha256": "5f5ba1f5def05284c8c16001630ef4ea8d3b3eec0935ea6a5e8bd84b09e8a9f2"
+  },
+  {
+    "file": "bonus-menu.png",
+    "source_capture": "kr-v071-cold-bonus-root.png",
+    "caption": "부록 · 추가 메뉴",
+    "sha256": "7588649dde09f78b2190c1871907a397d039361d082eaf6a65b09f390460737c"
+  },
+  {
+    "file": "blue-magic.png",
+    "source_capture": "v076-blue-magic-list.png",
+    "caption": "부록 · 청마법 도감",
+    "sha256": "24bd004fbf47dbfad896aa2da3a292c74ace77da36344ef873fc737f84b1ff98"
+  },
+  {
+    "file": "colosseum.png",
+    "source_capture": "v076-colosseum-list.png",
+    "caption": "부록 · 용의 목 콜로세움",
+    "sha256": "1ac788a44199de4a0e6fdf5bfa4544a72ce568a3d0dd896dd32c222070c501d1"
+  },
+  {
+    "file": "records.png",
+    "source_capture": "v076-record-details-final.png",
+    "caption": "부록 · 최고/최저 기록 배치",
+    "sha256": "d80ab8cac5ac40be5ac9fc2be908be29eb7a789af4c5c1677059a0183af8f6b4"
+  },
+  {
+    "file": "gallery.png",
+    "source_capture": "kr-v071-cold-gallery5-design.png",
+    "caption": "갤러리 · 그림을 보존한 설명 번역",
+    "sha256": "a599d8c4fcf96bd1e9d60b4c95141c08c016129608562760992774ad163b8445"
+  }
+]

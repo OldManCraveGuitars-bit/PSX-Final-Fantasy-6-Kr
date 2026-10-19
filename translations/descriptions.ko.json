@@ -1,0 +1,2024 @@
+{
+  "0": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 25600
+  },
+  "1": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 25600
+  },
+  "2": {
+    "source": "時々　敵の攻撃を回避します",
+    "translation": "가끔 적의 공격을 피합니다.",
+    "status": "manual",
+    "offset": 25601
+  },
+  "3": {
+    "source": "風の属性",
+    "translation": "바람 속성",
+    "status": "manual",
+    "offset": 25622
+  },
+  "4": {
+    "source": "時々　アイテムを盗みます",
+    "translation": "가끔 도구을 훔칩니다.",
+    "status": "manual",
+    "offset": 25630
+  },
+  "5": {
+    "source": "時々　敵を即死させます",
+    "translation": "가끔 적을 즉사시킵니다.",
+    "status": "manual",
+    "offset": 25646
+  },
+  "6": {
+    "source": "人型の敵に２倍のダメージをあたえます",
+    "translation": "인간형 적에게 두 배의\n피해를 줍니다.",
+    "status": "manual",
+    "offset": 25663
+  },
+  "7": {
+    "source": "時々　敵の攻撃を回避します",
+    "translation": "가끔 적의 공격을 피합니다.",
+    "status": "manual",
+    "offset": 25686
+  },
+  "8": {
+    "source": "聖なる属性",
+    "translation": "성 속성",
+    "status": "manual",
+    "offset": 25707
+  },
+  "9": {
+    "source": "ＨＰが少ないほど\nいりょくをはっきします",
+    "translation": "HP가 낮을수록\n위력이 강해집니다.",
+    "status": "manual",
+    "offset": 25716
+  },
+  "10": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 25740
+  },
+  "11": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 25741
+  },
+  "12": {
+    "source": "ＭＰ消費と引き換えに\nクリティカルを出します",
+    "translation": "MP를 소비하여\n치명타를 가합니다.",
+    "status": "manual",
+    "offset": 25742
+  },
+  "13": {
+    "source": "時々　魔法「ファイア」を追加発動\nします",
+    "translation": "가끔 「파이어」를\n추가로 발동합니다.",
+    "status": "manual",
+    "offset": 25772
+  },
+  "14": {
+    "source": "時々　魔法「ブリザド」を追加発動\nします",
+    "translation": "가끔 「블리자드」를\n추가로 발동합니다.",
+    "status": "manual",
+    "offset": 25801
+  },
+  "15": {
+    "source": "時々　魔法「サンダー」を追加発動\nします",
+    "translation": "가끔 「선더」를\n추가로 발동합니다.",
+    "status": "manual",
+    "offset": 25830
+  },
+  "16": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 25859
+  },
+  "17": {
+    "source": "時々　魔法「ブレイク」を追加発動\nします",
+    "translation": "가끔 「브레이크」를\n추가로 발동합니다.",
+    "status": "manual",
+    "offset": 25860
+  },
+  "18": {
+    "source": "ダメージ分をＨＰとして吸収します",
+    "translation": "준 피해만큼 HP를\n흡수합니다.",
+    "status": "manual",
+    "offset": 25889
+  },
+  "19": {
+    "source": "装備すると魔力がアップします",
+    "translation": "장비하면 마력이 오릅니다.",
+    "status": "manual",
+    "offset": 25911
+  },
+  "20": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 25930
+  },
+  "21": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 25931
+  },
+  "22": {
+    "source": "ダメージ分をＭＰとして吸収し\n時々「デス」を追加発動します",
+    "translation": "준 피해만큼 MP를 흡수하며\n가끔 「데스」를 발동합니다.",
+    "status": "manual",
+    "offset": 25932
+  },
+  "23": {
+    "source": "ＭＰを消費してクリティカル\n運が悪いと　こわれてしまいます",
+    "translation": "MP를 소비하여 치명타를 가합니다.\n운이 나쁘면 부서집니다.",
+    "status": "manual",
+    "offset": 25973
+  },
+  "24": {
+    "source": "聖なる剣です",
+    "translation": "성스러운 검입니다.",
+    "status": "manual",
+    "offset": 26009
+  },
+  "25": {
+    "source": "時々　敵を一撃で斬りすてます",
+    "translation": "가끔 적을 한 번에\n베어 쓰러뜨립니다.",
+    "status": "manual",
+    "offset": 26018
+  },
+  "26": {
+    "source": "伝説の神剣です",
+    "translation": "전설의 신검입니다.",
+    "status": "manual",
+    "offset": 26039
+  },
+  "27": {
+    "source": "時々　魔法「フレア」を追加発動\nします",
+    "translation": "가끔 「플레어」를\n추가로 발동합니다.",
+    "status": "manual",
+    "offset": 26051
+  },
+  "28": {
+    "source": "ＨＰが多いほど強力な剣\nレベルにより成長変化します",
+    "translation": "HP가 높을수록 강해지는 검.\n레벨에 따라 성장합니다.",
+    "status": "manual",
+    "offset": 26079
+  },
+  "29": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26115
+  },
+  "30": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26116
+  },
+  "31": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26117
+  },
+  "32": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26118
+  },
+  "33": {
+    "source": "時々　魔法「ホーリー」を追加発動\nします",
+    "translation": "가끔 「홀리」를\n추가로 발동합니다.",
+    "status": "manual",
+    "offset": 26119
+  },
+  "34": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26148
+  },
+  "35": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26149
+  },
+  "36": {
+    "source": "カッパステータス時に装備すると…",
+    "translation": "임프 상태에서 장비하면...",
+    "status": "manual",
+    "offset": 26150
+  },
+  "37": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26170
+  },
+  "38": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26171
+  },
+  "39": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26172
+  },
+  "40": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26173
+  },
+  "41": {
+    "source": "時々　敵を一撃でしとめます",
+    "translation": "가끔 적을 일격에\n쓰러뜨립니다.",
+    "status": "manual",
+    "offset": 26174
+  },
+  "42": {
+    "source": "時々　魔法「ストップ」を追加発動\nします",
+    "translation": "가끔 「스톱」을\n추가로 발동합니다.",
+    "status": "manual",
+    "offset": 26193
+  },
+  "43": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26222
+  },
+  "44": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26223
+  },
+  "45": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26224
+  },
+  "46": {
+    "source": "時々　「かまいたち」を追加発動します",
+    "translation": "가끔 「칼바람」을\n추가로 발동합니다.",
+    "status": "manual",
+    "offset": 26225
+  },
+  "47": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26250
+  },
+  "48": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26251
+  },
+  "49": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26252
+  },
+  "50": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26253
+  },
+  "51": {
+    "source": "なぐった相手のＨＰを回復します",
+    "translation": "때린 상대의 HP를 회복시킵니다.",
+    "status": "manual",
+    "offset": 26254
+  },
+  "52": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26276
+  },
+  "53": {
+    "source": "道具として使うと「ファイラ」を\n放ちますが　折れて無くなります",
+    "translation": "도구로 쓰면 「파이라」를\n발동한 뒤 부서집니다.",
+    "status": "manual",
+    "offset": 26277
+  },
+  "54": {
+    "source": "道具として使うと「ブリザラ」を\n放ちますが　折れて無くなります",
+    "translation": "도구로 쓰면 「블리자라」를\n발동한 뒤 부서집니다.",
+    "status": "manual",
+    "offset": 26315
+  },
+  "55": {
+    "source": "道具として使うと「サンダラ」を\n放ちますが　折れて無くなります",
+    "translation": "도구로 쓰면 「선더라」를\n발동한 뒤 부서집니다.",
+    "status": "manual",
+    "offset": 26353
+  },
+  "56": {
+    "source": "道具として使うと「ポイズン」を\n放ちますが　折れて無くなります",
+    "translation": "도구로 쓰면 「포이즌」을\n발동한 뒤 부서집니다.",
+    "status": "manual",
+    "offset": 26391
+  },
+  "57": {
+    "source": "道具として使うと「ホーリー」を\n放ちますが　折れて無くなります",
+    "translation": "도구로 쓰면 「홀리」를\n발동한 뒤 부서집니다.",
+    "status": "manual",
+    "offset": 26429
+  },
+  "58": {
+    "source": "道具として使うと「グラビガ」を\n放ちますが　折れて無くなります",
+    "translation": "도구로 쓰면 「그라비가」를\n발동한 뒤 부서집니다.",
+    "status": "manual",
+    "offset": 26467
+  },
+  "59": {
+    "source": "ＭＰ消費と引き換えに　クリティカル\nを出します",
+    "translation": "MP를 소비하여\n치명타를 가합니다.",
+    "status": "manual",
+    "offset": 26505
+  },
+  "60": {
+    "source": "装備すると魔力がアップします",
+    "translation": "장비하면 마력이 오릅니다.",
+    "status": "manual",
+    "offset": 26536
+  },
+  "61": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26555
+  },
+  "62": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26556
+  },
+  "63": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26557
+  },
+  "64": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26558
+  },
+  "65": {
+    "source": "コマンド「なげる」で使用できます",
+    "translation": "「던지기」 명령으로 사용합니다.",
+    "status": "manual",
+    "offset": 26559
+  },
+  "66": {
+    "source": "コマンド「なげる」で使用できます",
+    "translation": "「던지기」 명령으로 사용합니다.",
+    "status": "manual",
+    "offset": 26578
+  },
+  "67": {
+    "source": "コマンド「なげる」で使用できます",
+    "translation": "「던지기」 명령으로 사용합니다.",
+    "status": "manual",
+    "offset": 26597
+  },
+  "68": {
+    "source": "後列からも同等の攻撃ができます",
+    "translation": "후열에서도 같은 위력으로\n공격할 수 있습니다.",
+    "status": "manual",
+    "offset": 26616
+  },
+  "69": {
+    "source": "後列からも同等の攻撃ができます",
+    "translation": "후열에서도 같은 위력으로\n공격할 수 있습니다.",
+    "status": "manual",
+    "offset": 26638
+  },
+  "70": {
+    "source": "後列からも同等の攻撃ができます",
+    "translation": "후열에서도 같은 위력으로\n공격할 수 있습니다.",
+    "status": "manual",
+    "offset": 26660
+  },
+  "71": {
+    "source": "後列からも同等の攻撃ができます",
+    "translation": "후열에서도 같은 위력으로\n공격할 수 있습니다.",
+    "status": "manual",
+    "offset": 26682
+  },
+  "72": {
+    "source": "後列からも同等の攻撃ができます",
+    "translation": "후열에서도 같은 위력으로\n공격할 수 있습니다.",
+    "status": "manual",
+    "offset": 26704
+  },
+  "73": {
+    "source": "後列からも同等の攻撃ができます",
+    "translation": "후열에서도 같은 위력으로\n공격할 수 있습니다.",
+    "status": "manual",
+    "offset": 26726
+  },
+  "74": {
+    "source": "きれいな彫刻がしてある",
+    "translation": "아름다운 조각이 새겨져 있습니다.",
+    "status": "manual",
+    "offset": 26748
+  },
+  "75": {
+    "source": "後列からも同等の攻撃ができます",
+    "translation": "후열에서도 같은 위력으로\n공격할 수 있습니다.",
+    "status": "manual",
+    "offset": 26762
+  },
+  "76": {
+    "source": "後列からも同等の攻撃ができます\nさらに　時々　敵を即死させます",
+    "translation": "후열에서도 같은 위력으로 공격하며\n가끔 적을 즉사시킵니다.",
+    "status": "manual",
+    "offset": 26784
+  },
+  "77": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26827
+  },
+  "78": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26828
+  },
+  "79": {
+    "source": "時々　魔法「デス」を追加発動します",
+    "translation": "가끔 「데스」를\n추가로 발동합니다.",
+    "status": "manual",
+    "offset": 26829
+  },
+  "80": {
+    "source": "時々　一撃で敵を倒します",
+    "translation": "가끔 적을 일격에 쓰러뜨립니다.",
+    "status": "manual",
+    "offset": 26855
+  },
+  "81": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26874
+  },
+  "82": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26875
+  },
+  "83": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26876
+  },
+  "84": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26877
+  },
+  "85": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26878
+  },
+  "86": {
+    "source": "時々　毒を与えます",
+    "translation": "가끔 독을 겁니다.",
+    "status": "manual",
+    "offset": 26879
+  },
+  "87": {
+    "source": "時々　魔法「ファイア」を追加発動\nします",
+    "translation": "가끔 「파이어」를\n추가로 발동합니다.",
+    "status": "manual",
+    "offset": 26893
+  },
+  "88": {
+    "source": "聖なる属性",
+    "translation": "성 속성",
+    "status": "manual",
+    "offset": 26922
+  },
+  "89": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26931
+  },
+  "90": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26932
+  },
+  "91": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26933
+  },
+  "92": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26934
+  },
+  "93": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26935
+  },
+  "94": {
+    "source": "時々　敵の魔法攻撃を回避します",
+    "translation": "가끔 적의 마법 공격을\n피합니다.",
+    "status": "manual",
+    "offset": 26936
+  },
+  "95": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 26961
+  },
+  "96": {
+    "source": "炎の属性攻撃を吸収します",
+    "translation": "불 속성 공격을 흡수합니다.",
+    "status": "manual",
+    "offset": 26962
+  },
+  "97": {
+    "source": "冷気の属性攻撃を吸収します",
+    "translation": "얼음 속성 공격을 흡수합니다.",
+    "status": "manual",
+    "offset": 26982
+  },
+  "98": {
+    "source": "雷の属性攻撃を吸収します",
+    "translation": "번개 속성 공격을 흡수합니다.",
+    "status": "manual",
+    "offset": 27004
+  },
+  "99": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27024
+  },
+  "100": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27025
+  },
+  "101": {
+    "source": "カッパステータス時に装備すると…",
+    "translation": "임프 상태에서 장비하면...",
+    "status": "manual",
+    "offset": 27026
+  },
+  "102": {
+    "source": "呪われています",
+    "translation": "저주받았습니다.",
+    "status": "manual",
+    "offset": 27046
+  },
+  "103": {
+    "source": "英雄の魂が宿る盾です",
+    "translation": "영웅의 혼이 깃든 방패입니다.",
+    "status": "manual",
+    "offset": 27055
+  },
+  "104": {
+    "source": "魔法だけを防ぐ盾です",
+    "translation": "마법만 막는 방패입니다.",
+    "status": "manual",
+    "offset": 27071
+  },
+  "105": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27086
+  },
+  "106": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27087
+  },
+  "107": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27088
+  },
+  "108": {
+    "source": "スケッチ成功率がアップします",
+    "translation": "스케치의 성공률이 오릅니다.",
+    "status": "manual",
+    "offset": 27089
+  },
+  "109": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27107
+  },
+  "110": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27108
+  },
+  "111": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27109
+  },
+  "112": {
+    "source": "あやつる確率がアップします",
+    "translation": "조종의 성공률이 오릅니다.",
+    "status": "manual",
+    "offset": 27110
+  },
+  "113": {
+    "source": "ＭＰが少しアップします",
+    "translation": "MP가 조금 오릅니다.",
+    "status": "manual",
+    "offset": 27126
+  },
+  "114": {
+    "source": "ＨＰが少しアップします",
+    "translation": "HP가 조금 오릅니다.",
+    "status": "manual",
+    "offset": 27141
+  },
+  "115": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27156
+  },
+  "116": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27157
+  },
+  "117": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27158
+  },
+  "118": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27159
+  },
+  "119": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27160
+  },
+  "120": {
+    "source": "ＨＰが２５％アップします",
+    "translation": "HP가 25% 오릅니다.",
+    "status": "manual",
+    "offset": 27161
+  },
+  "121": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27177
+  },
+  "122": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27178
+  },
+  "123": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27179
+  },
+  "124": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27180
+  },
+  "125": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27181
+  },
+  "126": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27182
+  },
+  "127": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27183
+  },
+  "128": {
+    "source": "１ギルも見おとさずにひろえるように\nなる",
+    "translation": "1길도 놓치지 않고\n주울 수 있게 됩니다.",
+    "status": "manual",
+    "offset": 27184
+  },
+  "129": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27206
+  },
+  "130": {
+    "source": "トゲが頭にささって　いたい",
+    "translation": "가시가 머리에 박혀 아픕니다.",
+    "status": "manual",
+    "offset": 27207
+  },
+  "131": {
+    "source": "カッパステータス時に装備すると…",
+    "translation": "임프 상태에서 장비하면...",
+    "status": "manual",
+    "offset": 27222
+  },
+  "132": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27242
+  },
+  "133": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27243
+  },
+  "134": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27244
+  },
+  "135": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27245
+  },
+  "136": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27246
+  },
+  "137": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27247
+  },
+  "138": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27248
+  },
+  "139": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27249
+  },
+  "140": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27250
+  },
+  "141": {
+    "source": "地の属性攻撃を吸収します",
+    "translation": "땅 속성 공격을 흡수합니다.",
+    "status": "manual",
+    "offset": 27251
+  },
+  "142": {
+    "source": "着ているだけで分身します",
+    "translation": "입고 있기만 해도 분신합니다.",
+    "status": "manual",
+    "offset": 27271
+  },
+  "143": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27287
+  },
+  "144": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27288
+  },
+  "145": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27289
+  },
+  "146": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27290
+  },
+  "147": {
+    "source": "伝説の格闘家の闘気が宿っています",
+    "translation": "전설적인 격투가의\n투기가 깃들어 있습니다.",
+    "status": "manual",
+    "offset": 27291
+  },
+  "148": {
+    "source": "魔法防御力の高いアーマーです",
+    "translation": "마법 방어력이 높은 갑옷입니다.",
+    "status": "manual",
+    "offset": 27316
+  },
+  "149": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27337
+  },
+  "150": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27338
+  },
+  "151": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27339
+  },
+  "152": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27340
+  },
+  "153": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27341
+  },
+  "154": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 27342
+  },
+  "155": {
+    "source": "カッパステータス時に装備すると…",
+    "translation": "임프 상태에서 장비하면...",
+    "status": "manual",
+    "offset": 27343
+  },
+  "156": {
+    "source": "ＭＰが２５％アップします",
+    "translation": "MP가 25% 오릅니다.",
+    "status": "manual",
+    "offset": 27363
+  },
+  "157": {
+    "source": "トラネコに似せてあるぬいぐるみ",
+    "translation": "얼룩고양이를 본뜬 인형옷입니다.",
+    "status": "manual",
+    "offset": 27379
+  },
+  "158": {
+    "source": "気分はもうチョコボ",
+    "translation": "기분만은 벌써 초코보.",
+    "status": "manual",
+    "offset": 27396
+  },
+  "159": {
+    "source": "モーグリそっくりだクポ",
+    "translation": "모그리와 똑같다쿠포.",
+    "status": "manual",
+    "offset": 27408
+  },
+  "160": {
+    "source": "大きなリスのぬいぐるみ",
+    "translation": "커다란 다람쥐 인형옷입니다.",
+    "status": "manual",
+    "offset": 27420
+  },
+  "161": {
+    "source": "ベヒーモスの毛皮でできている",
+    "translation": "베히모스의 모피로 만들었습니다.",
+    "status": "manual",
+    "offset": 27433
+  },
+  "162": {
+    "source": "ふかふかの毛が　あったかい",
+    "translation": "복슬복슬한 털이 따뜻합니다.",
+    "status": "manual",
+    "offset": 27450
+  },
+  "163": {
+    "source": "コマンド「きかい」で使用可\n敵複数を混乱させます",
+    "translation": "「기계」 명령으로 사용합니다.\n적 여럿을 혼란시킵니다.",
+    "status": "manual",
+    "offset": 27465
+  },
+  "164": {
+    "source": "コマンド「きかい」で使用可\n敵複数に毒のダメージを与えます",
+    "translation": "「기계」 명령으로 사용합니다.\n적 여럿에게 독 피해를 줍니다.",
+    "status": "manual",
+    "offset": 27498
+  },
+  "165": {
+    "source": "コマンド「きかい」で使用可\n敵複数に暗闇状態＋ダメージ",
+    "translation": "「기계」 명령으로 사용합니다.\n적 여럿에게 암흑과 피해를 줍니다.",
+    "status": "manual",
+    "offset": 27536
+  },
+  "166": {
+    "source": "コマンド「きかい」で使用可\n時々　敵単体を即死させます",
+    "translation": "「기계」 명령으로 사용합니다.\n가끔 적 하나를 즉사시킵니다.",
+    "status": "manual",
+    "offset": 27574
+  },
+  "167": {
+    "source": "コマンド「きかい」で使用可\n敵単体に弱点属性をつけます",
+    "translation": "「기계」 명령으로 사용합니다.\n적 하나에게 속성 약점을 만듭니다.",
+    "status": "manual",
+    "offset": 27612
+  },
+  "168": {
+    "source": "コマンド「きかい」で使用可\n防御力を無視してダメージを与えます",
+    "translation": "「기계」 명령으로 사용합니다.\n방어력을 무시하고 공격합니다.",
+    "status": "manual",
+    "offset": 27650
+  },
+  "169": {
+    "source": "コマンド「きかい」で使用可\n次のターンに敵を自滅させます",
+    "translation": "「기계」 명령으로 사용합니다.\n다음 턴에 적을 자멸시킵니다.",
+    "status": "manual",
+    "offset": 27691
+  },
+  "170": {
+    "source": "コマンド「きかい」で使用可\n敵複数にボーガン攻撃をします",
+    "translation": "「기계」 명령으로 사용합니다.\n적 여럿을 쇠뇌로 공격합니다.",
+    "status": "manual",
+    "offset": 27727
+  },
+  "171": {
+    "source": "コマンド「なげる」で使用可\nすべての敵に炎系のダメージ",
+    "translation": "「던지기」 명령으로 사용합니다.\n적 전체에게 불 피해를 줍니다.",
+    "status": "manual",
+    "offset": 27764
+  },
+  "172": {
+    "source": "コマンド「なげる」で使用可\nすべての敵に水系のダメージ",
+    "translation": "「던지기」 명령으로 사용합니다.\n적 전체에게 물 피해를 줍니다.",
+    "status": "manual",
+    "offset": 27798
+  },
+  "173": {
+    "source": "コマンド「なげる」で使用可\nすべての敵に雷系のダメージ",
+    "translation": "「던지기」 명령으로 사용합니다.\n적 전체에게 번개 피해를 줍니다.",
+    "status": "manual",
+    "offset": 27832
+  },
+  "174": {
+    "source": "コマンド「なげる」で使用可\n透明になります",
+    "translation": "「던지기」 명령으로 사용합니다.\n투명해집니다.",
+    "status": "manual",
+    "offset": 27866
+  },
+  "175": {
+    "source": "コマンド「なげる」で使用可\n分身します",
+    "translation": "「던지기」 명령으로 사용합니다.\n분신합니다.",
+    "status": "manual",
+    "offset": 27893
+  },
+  "176": {
+    "source": "「暗闇」状態を防ぎます",
+    "translation": "암흑 상태를 막습니다.",
+    "status": "manual",
+    "offset": 27918
+  },
+  "177": {
+    "source": "「毒」状態を防ぎます",
+    "translation": "독 상태를 막습니다.",
+    "status": "manual",
+    "offset": 27935
+  },
+  "178": {
+    "source": "「混乱」「バーサク」状態を防ぎます",
+    "translation": "혼란과 버서크를 막습니다.",
+    "status": "manual",
+    "offset": 27950
+  },
+  "179": {
+    "source": "「毒」「ゾンビ」「暗闇」状態を防ぎ\nます",
+    "translation": "독, 좀비, 암흑 상태를\n막습니다.",
+    "status": "manual",
+    "offset": 27973
+  },
+  "180": {
+    "source": "「カッパ」「沈黙」状態を防ぎます",
+    "translation": "임프와 침묵 상태를 막습니다.",
+    "status": "manual",
+    "offset": 28000
+  },
+  "181": {
+    "source": "「石化」状態を防ぎます",
+    "translation": "석화 상태를 막습니다.",
+    "status": "manual",
+    "offset": 28022
+  },
+  "182": {
+    "source": "「暗闇」「毒」を防ぎます",
+    "translation": "암흑과 독을 막습니다.",
+    "status": "manual",
+    "offset": 28039
+  },
+  "183": {
+    "source": "瀕死時に「シェル」が自動でかかります",
+    "translation": "빈사 시 「셸」이\n자동으로 걸립니다.",
+    "status": "manual",
+    "offset": 28056
+  },
+  "184": {
+    "source": "瀕死時に「プロテス」が自動でかかり\nます",
+    "translation": "빈사 시 「프로테스」가\n자동으로 걸립니다.",
+    "status": "manual",
+    "offset": 28080
+  },
+  "185": {
+    "source": "「プロテス」が自動でかかります",
+    "translation": "「프로테스」가 자동으로 걸립니다.",
+    "status": "manual",
+    "offset": 28106
+  },
+  "186": {
+    "source": "「ヘイスト」が自動でかかります",
+    "translation": "「헤이스트」가 자동으로 걸립니다.",
+    "status": "manual",
+    "offset": 28124
+  },
+  "187": {
+    "source": "「リフレク」が自動でかかります",
+    "translation": "「리플렉」이 자동으로 걸립니다.",
+    "status": "manual",
+    "offset": 28142
+  },
+  "188": {
+    "source": "「レビテト」が自動でかかります",
+    "translation": "「레비테트」가 자동으로 걸립니다.",
+    "status": "manual",
+    "offset": 28160
+  },
+  "189": {
+    "source": "「リジェネ」が自動でかかります",
+    "translation": "「리제네」가 자동으로 걸립니다.",
+    "status": "manual",
+    "offset": 28178
+  },
+  "190": {
+    "source": "自分以外の瀕死の仲間をかばいます",
+    "translation": "빈사 상태인 동료를\n대신 지켜 줍니다.",
+    "status": "manual",
+    "offset": 28196
+  },
+  "191": {
+    "source": "コマンド「たたかう」を「ジャンプ」\nに変えます",
+    "translation": "「공격」이 「점프」로 바뀝니다.",
+    "status": "manual",
+    "offset": 28221
+  },
+  "192": {
+    "source": "敵の攻撃をよけやすくなります",
+    "translation": "적의 공격을 피하기 쉬워집니다.",
+    "status": "manual",
+    "offset": 28246
+  },
+  "193": {
+    "source": "瀕死時に「プロテス」「シェル」が\n自動でかかります",
+    "translation": "빈사 시 「프로테스」와\n「셸」이 자동으로 걸립니다.",
+    "status": "manual",
+    "offset": 28264
+  },
+  "194": {
+    "source": "呪われています",
+    "translation": "저주받았습니다.",
+    "status": "manual",
+    "offset": 28295
+  },
+  "195": {
+    "source": "魔法ダメージがアップします\n二つつけるとさらにアップします",
+    "translation": "마법 피해량이 오릅니다.\n두 개 장비하면 더 오릅니다.",
+    "status": "manual",
+    "offset": 28304
+  },
+  "196": {
+    "source": "物理ダメージがアップします",
+    "translation": "물리 피해량이 오릅니다.",
+    "status": "manual",
+    "offset": 28337
+  },
+  "197": {
+    "source": "雪男が装備すると…",
+    "translation": "설인이 장비하면...",
+    "status": "manual",
+    "offset": 28353
+  },
+  "198": {
+    "source": "雪男が装備すると…",
+    "translation": "설인이 장비하면...",
+    "status": "manual",
+    "offset": 28367
+  },
+  "199": {
+    "source": "「ぬすむ」の成功率がアップします",
+    "translation": "「훔치기」의 성공률이 오릅니다.",
+    "status": "manual",
+    "offset": 28381
+  },
+  "200": {
+    "source": "「プロテス」「シェル」が自動で\nかかります",
+    "translation": "「프로테스」와 「셸」이\n자동으로 걸립니다.",
+    "status": "manual",
+    "offset": 28401
+  },
+  "201": {
+    "source": "物理・魔法ダメージがアップします",
+    "translation": "물리와 마법 피해량이 오릅니다.",
+    "status": "manual",
+    "offset": 28425
+  },
+  "202": {
+    "source": "様々な障害ステータスを防ぎます",
+    "translation": "여러 가지 상태 이상을 막습니다.",
+    "status": "manual",
+    "offset": 28446
+  },
+  "203": {
+    "source": "ＨＰが５０％アップします",
+    "translation": "HP가 50% 오릅니다.",
+    "status": "manual",
+    "offset": 28467
+  },
+  "204": {
+    "source": "ＭＰが５０％アップします",
+    "translation": "MP가 50% 오릅니다.",
+    "status": "manual",
+    "offset": 28483
+  },
+  "205": {
+    "source": "魔法使用時のＭＰ消費を半分に\nおさえます",
+    "translation": "마법의 MP 소비량을\n절반으로 줄입니다.",
+    "status": "manual",
+    "offset": 28499
+  },
+  "206": {
+    "source": "魔法使用時のＭＰ消費を１に\nおさえます",
+    "translation": "마법의 MP 소비량을\n1로 줄입니다.",
+    "status": "manual",
+    "offset": 28531
+  },
+  "207": {
+    "source": "コマンド「ぬすむ」を「ぶんどる」\nに変えます",
+    "translation": "「훔치기」가 「강탈」로 바뀝니다.",
+    "status": "manual",
+    "offset": 28560
+  },
+  "208": {
+    "source": "一本の武器を両手で持って攻撃可能\n与えるダメージが大きくなります",
+    "translation": "무기 하나를 양손으로 잡아\n더 큰 피해를 줍니다.",
+    "status": "manual",
+    "offset": 28584
+  },
+  "209": {
+    "source": "両手に一本ずつ武器を装備できます",
+    "translation": "양손에 무기를 하나씩\n장비할 수 있습니다.",
+    "status": "manual",
+    "offset": 28630
+  },
+  "210": {
+    "source": "「ちから」がアップします",
+    "translation": "힘이 오릅니다.",
+    "status": "manual",
+    "offset": 28655
+  },
+  "211": {
+    "source": "「みだれうち」で攻撃回数がふえます",
+    "translation": "난타로 공격 횟수가 늘어납니다.",
+    "status": "manual",
+    "offset": 28668
+  },
+  "212": {
+    "source": "敵の技を見切って一定確率で攻撃回避",
+    "translation": "적의 기술을 간파하여\n일정 확률로 공격을 피합니다.",
+    "status": "manual",
+    "offset": 28690
+  },
+  "213": {
+    "source": "敵の攻撃を受けると一定確率で反撃\nします",
+    "translation": "공격받으면 일정 확률로\n반격합니다.",
+    "status": "manual",
+    "offset": 28720
+  },
+  "214": {
+    "source": "コマンド「スロット」を「ぜになげ」\nに変えます",
+    "translation": "「슬롯」이\n「돈 던지기」로 바뀝니다.",
+    "status": "manual",
+    "offset": 28751
+  },
+  "215": {
+    "source": "コマンド「スケッチ」を「あやつる」\nに変えます",
+    "translation": "「스케치」가 「조종」으로 바뀝니다.",
+    "status": "manual",
+    "offset": 28776
+  },
+  "216": {
+    "source": "コマンド「まほう」を「れんぞくま」\nに変えます",
+    "translation": "「마법」이 「연속마법」으로\n바뀝니다.",
+    "status": "manual",
+    "offset": 28801
+  },
+  "217": {
+    "source": "コマンド「ジャンプ」で連続ジャンプが\n可能になります",
+    "translation": "「점프」로 연속 점프를\n할 수 있습니다.",
+    "status": "manual",
+    "offset": 28826
+  },
+  "218": {
+    "source": "戦士系の重装備が可能になります",
+    "translation": "전사 계열의 중장비를\n장비할 수 있습니다.",
+    "status": "manual",
+    "offset": 28857
+  },
+  "219": {
+    "source": "亡き母の愛が　即死魔法から\n身を守ってくれます",
+    "translation": "돌아가신 어머니의 사랑이\n즉사 마법으로부터 지켜 줍니다.",
+    "status": "manual",
+    "offset": 28881
+  },
+  "220": {
+    "source": "即死魔法から身を守ります",
+    "translation": "즉사 마법으로부터 지켜 줍니다.",
+    "status": "manual",
+    "offset": 28914
+  },
+  "221": {
+    "source": "体が冷たくなってゆく…",
+    "translation": "몸이 차가워진다...",
+    "status": "manual",
+    "offset": 28933
+  },
+  "222": {
+    "source": "特定以外の敵の出現率を０にします",
+    "translation": "일부 적을 제외하고\n적과 마주치지 않습니다.",
+    "status": "manual",
+    "offset": 28947
+  },
+  "223": {
+    "source": "特定以外の敵の出現率を下げます",
+    "translation": "일부 적을 제외하고\n적의 출현율이 낮아집니다.",
+    "status": "manual",
+    "offset": 28972
+  },
+  "224": {
+    "source": "色々な効果のあらわれる\nふしぎなくつです",
+    "translation": "여러 효과가 나타나는\n신비한 신발입니다.",
+    "status": "manual",
+    "offset": 28997
+  },
+  "225": {
+    "source": "バックアタック・はさみ撃ちを\n回避します",
+    "translation": "배후 공격과 협공을 피합니다.",
+    "status": "manual",
+    "offset": 29022
+  },
+  "226": {
+    "source": "先制攻撃の確率がアップします",
+    "translation": "선제공격 확률이 오릅니다.",
+    "status": "manual",
+    "offset": 29046
+  },
+  "227": {
+    "source": "物理攻撃が１００％成功します",
+    "translation": "물리 공격이 반드시 명중합니다.",
+    "status": "manual",
+    "offset": 29067
+  },
+  "228": {
+    "source": "経験値を通常の２倍取得できます",
+    "translation": "경험치를 두 배 얻습니다.",
+    "status": "manual",
+    "offset": 29089
+  },
+  "229": {
+    "source": "歩くたびにＨＰが回復します",
+    "translation": "걸을 때마다 HP가 회복됩니다.",
+    "status": "manual",
+    "offset": 29113
+  },
+  "230": {
+    "source": "ダッシュできるようになります",
+    "translation": "달릴 수 있게 됩니다.",
+    "status": "manual",
+    "offset": 29132
+  },
+  "231": {
+    "source": "秘密のアイテム",
+    "translation": "비밀 도구",
+    "status": "manual",
+    "offset": 29147
+  },
+  "232": {
+    "source": "ＨＰを　５０回復します",
+    "translation": "HP를 50 회복합니다.",
+    "status": "manual",
+    "offset": 29157
+  },
+  "233": {
+    "source": "ＨＰを　２５０回復します",
+    "translation": "HP를 250 회복합니다.",
+    "status": "manual",
+    "offset": 29173
+  },
+  "234": {
+    "source": "ＨＰを全回復します",
+    "translation": "HP를 모두 회복합니다.",
+    "status": "manual",
+    "offset": 29190
+  },
+  "235": {
+    "source": "ＭＰを　５０回復します",
+    "translation": "MP를 50 회복합니다.",
+    "status": "manual",
+    "offset": 29205
+  },
+  "236": {
+    "source": "ＭＰを　１５０回復します",
+    "translation": "MP를 150 회복합니다.",
+    "status": "manual",
+    "offset": 29221
+  },
+  "237": {
+    "source": "ＭＰを全回復します",
+    "translation": "MP를 모두 회복합니다.",
+    "status": "manual",
+    "offset": 29238
+  },
+  "238": {
+    "source": "ＨＰ・ＭＰを全回復します",
+    "translation": "HP와 MP를 모두 회복합니다.",
+    "status": "manual",
+    "offset": 29253
+  },
+  "239": {
+    "source": "味方全員のＨＰ・ＭＰを全回復します",
+    "translation": "동료 전원의 HP와 MP를\n모두 회복합니다.",
+    "status": "manual",
+    "offset": 29273
+  },
+  "240": {
+    "source": "戦闘不能者を回復させます",
+    "translation": "전투 불능인 동료를\n회복시킵니다.",
+    "status": "manual",
+    "offset": 29302
+  },
+  "241": {
+    "source": "ゾンビ状態を治します",
+    "translation": "좀비 상태를 치료합니다.",
+    "status": "manual",
+    "offset": 29322
+  },
+  "242": {
+    "source": "毒状態を治します",
+    "translation": "독 상태를 치료합니다.",
+    "status": "manual",
+    "offset": 29336
+  },
+  "243": {
+    "source": "暗闇状態を治します",
+    "translation": "암흑 상태를 치료합니다.",
+    "status": "manual",
+    "offset": 29349
+  },
+  "244": {
+    "source": "石化状態を治します",
+    "translation": "석화 상태를 치료합니다.",
+    "status": "manual",
+    "offset": 29364
+  },
+  "245": {
+    "source": "ゾンビ以外の　どんな病気も治します",
+    "translation": "좀비를 제외한\n모든 상태 이상을 치료합니다.",
+    "status": "manual",
+    "offset": 29379
+  },
+  "246": {
+    "source": "一人だけ休んで　元気になれます",
+    "translation": "한 명이 쉬면서\n기운을 되찾습니다.",
+    "status": "manual",
+    "offset": 29402
+  },
+  "247": {
+    "source": "一晩やすんで　みんな元気になれます",
+    "translation": "하룻밤 쉬어\n모두 기운을 되찾습니다.",
+    "status": "manual",
+    "offset": 29423
+  },
+  "248": {
+    "source": "カッパ状態を治します",
+    "translation": "임프 상태를 치료합니다.",
+    "status": "manual",
+    "offset": 29445
+  },
+  "249": {
+    "source": "ランダムで幻獣をよび出します",
+    "translation": "환수를 무작위로 소환합니다.",
+    "status": "manual",
+    "offset": 29459
+  },
+  "250": {
+    "source": "跳ねてダメージを与えます",
+    "translation": "튀어 오르며 피해를 줍니다.",
+    "status": "manual",
+    "offset": 29477
+  },
+  "251": {
+    "source": "沈黙状態を治します",
+    "translation": "침묵 상태를 치료합니다.",
+    "status": "manual",
+    "offset": 29492
+  },
+  "252": {
+    "source": "味方全員を戦闘から脱出させます",
+    "translation": "동료 전원이 전투에서 탈출합니다.",
+    "status": "manual",
+    "offset": 29507
+  },
+  "253": {
+    "source": "魔法「テレポ」と同じ効果です",
+    "translation": "「텔레포」와 같은 효과입니다.",
+    "status": "manual",
+    "offset": 29531
+  },
+  "254": {
+    "source": "おなかがすいた時にどうぞ",
+    "translation": "배고플 때 드세요.",
+    "status": "manual",
+    "offset": 29551
+  },
+  "255": {
+    "source": "ここはつかわない",
+    "translation": "사용하지 않는 곳",
+    "status": "manual",
+    "offset": 29565
+  },
+  "256": {
+    "source": "炎属性のダメージ魔法",
+    "translation": "불 속성 공격 마법",
+    "status": "manual",
+    "offset": 61115
+  },
+  "257": {
+    "source": "冷気属性のダメージ魔法",
+    "translation": "얼음 속성 공격 마법",
+    "status": "manual",
+    "offset": 61131
+  },
+  "258": {
+    "source": "雷属性のダメージ魔法",
+    "translation": "번개 속성 공격 마법",
+    "status": "manual",
+    "offset": 61149
+  },
+  "259": {
+    "source": "敵を毒におかします",
+    "translation": "적에게 독을 겁니다.",
+    "status": "manual",
+    "offset": 61165
+  },
+  "260": {
+    "source": "敵からＨＰを吸収します",
+    "translation": "적의 HP를 흡수합니다.",
+    "status": "manual",
+    "offset": 61177
+  },
+  "261": {
+    "source": "炎属性のダメージ魔法",
+    "translation": "불 속성 공격 마법",
+    "status": "manual",
+    "offset": 61194
+  },
+  "262": {
+    "source": "冷気属性のダメージ魔法",
+    "translation": "얼음 속성 공격 마법",
+    "status": "manual",
+    "offset": 61210
+  },
+  "263": {
+    "source": "雷属性のダメージ魔法",
+    "translation": "번개 속성 공격 마법",
+    "status": "manual",
+    "offset": 61228
+  },
+  "264": {
+    "source": "毒属性のダメージ魔法",
+    "translation": "독 속성 공격 마법",
+    "status": "manual",
+    "offset": 61244
+  },
+  "265": {
+    "source": "炎属性のダメージ魔法",
+    "translation": "불 속성 공격 마법",
+    "status": "manual",
+    "offset": 61260
+  },
+  "266": {
+    "source": "冷気属性のダメージ魔法",
+    "translation": "얼음 속성 공격 마법",
+    "status": "manual",
+    "offset": 61276
+  },
+  "267": {
+    "source": "雷属性のダメージ魔法",
+    "translation": "번개 속성 공격 마법",
+    "status": "manual",
+    "offset": 61294
+  },
+  "268": {
+    "source": "敵１体を石にかえます",
+    "translation": "적 하나를 돌로 만듭니다.",
+    "status": "manual",
+    "offset": 61310
+  },
+  "269": {
+    "source": "敵を即死させます",
+    "translation": "적을 즉사시킵니다.",
+    "status": "manual",
+    "offset": 61324
+  },
+  "270": {
+    "source": "聖なる属性のダメージ魔法",
+    "translation": "성 속성 공격 마법",
+    "status": "manual",
+    "offset": 61336
+  },
+  "271": {
+    "source": "魔法防御無視のダメージ魔法",
+    "translation": "마법 방어력을 무시하는\n공격 마법",
+    "status": "manual",
+    "offset": 61354
+  },
+  "272": {
+    "source": "敵のＨＰを　１／２にする",
+    "translation": "적의 HP를 절반으로 만듭니다.",
+    "status": "manual",
+    "offset": 61376
+  },
+  "273": {
+    "source": "敵のＨＰを　１／４にする",
+    "translation": "적의 HP를 4분의 1로 만듭니다.",
+    "status": "manual",
+    "offset": 61392
+  },
+  "274": {
+    "source": "敵を他次元に消し去ります",
+    "translation": "적을 다른 차원으로 없애 버립니다.",
+    "status": "manual",
+    "offset": 61408
+  },
+  "275": {
+    "source": "敵全てにダメージ",
+    "translation": "적 전체에게 피해를 줍니다.",
+    "status": "manual",
+    "offset": 61427
+  },
+  "276": {
+    "source": "敵全てにダメージ",
+    "translation": "적 전체에게 피해를 줍니다.",
+    "status": "manual",
+    "offset": 61438
+  },
+  "277": {
+    "source": "敵味方全てに地属性ダメージ",
+    "translation": "적과 아군 전체에게\n땅 속성 피해를 줍니다.",
+    "status": "manual",
+    "offset": 61449
+  },
+  "278": {
+    "source": "敵味方全てに瀕死ダメージ",
+    "translation": "적과 아군 전체를\n빈사 상태로 만듭니다.",
+    "status": "manual",
+    "offset": 61470
+  },
+  "279": {
+    "source": "敵味方全てに防御無視の炎",
+    "translation": "적과 아군 전체에게\n방어력을 무시하는 불 공격",
+    "status": "manual",
+    "offset": 61489
+  },
+  "280": {
+    "source": "敵１体のＨＰ・弱点をさぐる",
+    "translation": "적 하나의 HP와\n약점을 알아봅니다.",
+    "status": "manual",
+    "offset": 61511
+  },
+  "281": {
+    "source": "スピードをおそくします",
+    "translation": "속도를 늦춥니다.",
+    "status": "manual",
+    "offset": 61531
+  },
+  "282": {
+    "source": "ＭＰにダメージをあたえます",
+    "translation": "MP에 피해를 줍니다.",
+    "status": "manual",
+    "offset": 61543
+  },
+  "283": {
+    "source": "沈黙させます",
+    "translation": "침묵 상태로 만듭니다.",
+    "status": "manual",
+    "offset": 61559
+  },
+  "284": {
+    "source": "防御力を上げます",
+    "translation": "방어력을 높입니다.",
+    "status": "manual",
+    "offset": 61568
+  },
+  "285": {
+    "source": "眠らせます",
+    "translation": "잠들게 합니다.",
+    "status": "manual",
+    "offset": 61581
+  },
+  "286": {
+    "source": "混乱させます",
+    "translation": "혼란 상태로 만듭니다.",
+    "status": "manual",
+    "offset": 61588
+  },
+  "287": {
+    "source": "スピードを速くします",
+    "translation": "속도를 높입니다.",
+    "status": "manual",
+    "offset": 61597
+  },
+  "288": {
+    "source": "敵の動きを止めます",
+    "translation": "적의 움직임을 멈춥니다.",
+    "status": "manual",
+    "offset": 61609
+  },
+  "289": {
+    "source": "バーサク状態にします",
+    "translation": "버서크 상태로 만듭니다.",
+    "status": "manual",
+    "offset": 61622
+  },
+  "290": {
+    "source": "浮きます",
+    "translation": "공중에 뜹니다.",
+    "status": "manual",
+    "offset": 61635
+  },
+  "291": {
+    "source": "カッパにしたり　もどしたり",
+    "translation": "임프로 만들거나\n원래 모습으로 되돌립니다.",
+    "status": "manual",
+    "offset": 61641
+  },
+  "292": {
+    "source": "魔法を跳ね返すバリアを張る",
+    "translation": "마법을 반사하는\n장벽을 만듭니다.",
+    "status": "manual",
+    "offset": 61655
+  },
+  "293": {
+    "source": "魔法防御力を上げます",
+    "translation": "마법 방어력을 높입니다.",
+    "status": "manual",
+    "offset": 61674
+  },
+  "294": {
+    "source": "姿を消します",
+    "translation": "모습을 감춥니다.",
+    "status": "manual",
+    "offset": 61691
+  },
+  "295": {
+    "source": "味方複数のスピードをアップ",
+    "translation": "동료 여럿의 속도를 높입니다.",
+    "status": "manual",
+    "offset": 61700
+  },
+  "296": {
+    "source": "敵数体のスピードを下げます",
+    "translation": "적 여럿의 속도를 늦춥니다.",
+    "status": "manual",
+    "offset": 61718
+  },
+  "297": {
+    "source": "敵からＭＰを吸収します",
+    "translation": "적의 MP를 흡수합니다.",
+    "status": "manual",
+    "offset": 61736
+  },
+  "298": {
+    "source": "ダンジョン・戦闘から脱出",
+    "translation": "던전이나 전투에서 탈출합니다.",
+    "status": "manual",
+    "offset": 61753
+  },
+  "299": {
+    "source": "２回コマンド入力出来ます",
+    "translation": "명령을 두 번 입력할 수 있습니다.",
+    "status": "manual",
+    "offset": 61770
+  },
+  "300": {
+    "source": "有効ステータスを解除します",
+    "translation": "이로운 상태 효과를 해제합니다.",
+    "status": "manual",
+    "offset": 61788
+  },
+  "301": {
+    "source": "ＨＰを回復します",
+    "translation": "HP를 회복합니다.",
+    "status": "manual",
+    "offset": 61806
+  },
+  "302": {
+    "source": "ＨＰを回復します",
+    "translation": "HP를 회복합니다.",
+    "status": "manual",
+    "offset": 61819
+  },
+  "303": {
+    "source": "ＨＰを回復します",
+    "translation": "HP를 회복합니다.",
+    "status": "manual",
+    "offset": 61832
+  },
+  "304": {
+    "source": "戦闘不能を回復します",
+    "translation": "전투 불능을 회복시킵니다.",
+    "status": "manual",
+    "offset": 61845
+  },
+  "305": {
+    "source": "戦闘不能から完全回復します",
+    "translation": "전투 불능에서\nHP를 모두 회복시킵니다.",
+    "status": "manual",
+    "offset": 61862
+  },
+  "306": {
+    "source": "毒ステータスを治します",
+    "translation": "독 상태를 치료합니다.",
+    "status": "manual",
+    "offset": 61884
+  },
+  "307": {
+    "source": "障害ステータスを治します",
+    "translation": "상태 이상을 치료합니다.",
+    "status": "manual",
+    "offset": 61898
+  },
+  "308": {
+    "source": "少しずつＨＰを回復させます",
+    "translation": "HP를 조금씩 회복시킵니다.",
+    "status": "manual",
+    "offset": 61914
+  },
+  "309": {
+    "source": "戦闘不能になるのを防ぎます",
+    "translation": "전투 불능이 되는 것을 막습니다.",
+    "status": "manual",
+    "offset": 61933
+  },
+  "310": {
+    "source": "雷属性のダメージ攻撃",
+    "translation": "번개 속성 공격",
+    "status": "manual",
+    "offset": 62139
+  },
+  "311": {
+    "source": "炎属性のダメージ攻撃",
+    "translation": "불 속성 공격",
+    "status": "manual",
+    "offset": 62155
+  },
+  "312": {
+    "source": "冷気属性のダメージ攻撃",
+    "translation": "얼음 속성 공격",
+    "status": "manual",
+    "offset": 62171
+  },
+  "313": {
+    "source": "敵数体を沈黙させる",
+    "translation": "적 여럿 침묵",
+    "status": "manual",
+    "offset": 62189
+  },
+  "314": {
+    "source": "地属性のダメージ攻撃",
+    "translation": "땅 속성 공격",
+    "status": "manual",
+    "offset": 62204
+  },
+  "315": {
+    "source": "敵数体を石化させる",
+    "translation": "적 여럿 석화",
+    "status": "manual",
+    "offset": 62220
+  },
+  "316": {
+    "source": "無属性のダメージ攻撃",
+    "translation": "무속성 공격",
+    "status": "manual",
+    "offset": 62235
+  },
+  "317": {
+    "source": "水属性のダメージ攻撃",
+    "translation": "물 속성 공격",
+    "status": "manual",
+    "offset": 62251
+  },
+  "318": {
+    "source": "敵数体を混乱させる",
+    "translation": "적 여럿 혼란",
+    "status": "manual",
+    "offset": 62267
+  },
+  "319": {
+    "source": "味方全員でジャンプ攻撃",
+    "translation": "아군 전원 점프 공격",
+    "status": "manual",
+    "offset": 62282
+  },
+  "320": {
+    "source": "炎雷冷気の３属性ダメージ",
+    "translation": "불/번개/얼음 공격",
+    "status": "manual",
+    "offset": 62300
+  },
+  "321": {
+    "source": "敵全体を斬る",
+    "translation": "적 전체 베기",
+    "status": "manual",
+    "offset": 62319
+  },
+  "322": {
+    "source": "敵全体を斬る",
+    "translation": "적 전체 베기",
+    "status": "manual",
+    "offset": 62330
+  },
+  "323": {
+    "source": "魔法防御無視のダメージ",
+    "translation": "마법 방어 무시",
+    "status": "manual",
+    "offset": 62341
+  },
+  "324": {
+    "source": "聖なる属性のダメージ",
+    "translation": "성 속성 공격",
+    "status": "manual",
+    "offset": 62359
+  },
+  "325": {
+    "source": "敵・味方共に大ダメージ",
+    "translation": "적·아군 큰 피해",
+    "status": "manual",
+    "offset": 62373
+  },
+  "326": {
+    "source": "敵をアイテムに変える",
+    "translation": "적 도구 변환",
+    "status": "manual",
+    "offset": 62390
+  },
+  "327": {
+    "source": "じょじょにＨＰを回復",
+    "translation": "HP 점차 회복",
+    "status": "manual",
+    "offset": 62403
+  },
+  "328": {
+    "source": "味方全員にシェル",
+    "translation": "아군 전원 셸",
+    "status": "manual",
+    "offset": 62418
+  },
+  "329": {
+    "source": "味方全員にリフレク",
+    "translation": "아군 전원 리플렉",
+    "status": "manual",
+    "offset": 62431
+  },
+  "330": {
+    "source": "味方全員にバニシュ",
+    "translation": "아군 전원 배니시",
+    "status": "manual",
+    "offset": 62445
+  },
+  "331": {
+    "source": "ＨＰを回復",
+    "translation": "HP 회복",
+    "status": "manual",
+    "offset": 62459
+  },
+  "332": {
+    "source": "味方全員を守る",
+    "translation": "아군 전원 보호",
+    "status": "manual",
+    "offset": 62469
+  },
+  "333": {
+    "source": "味方全員にエスナ",
+    "translation": "아군 전원 에스나",
+    "status": "manual",
+    "offset": 62482
+  },
+  "334": {
+    "source": "味方全員を分身",
+    "translation": "아군 전원 분신",
+    "status": "manual",
+    "offset": 62495
+  },
+  "335": {
+    "source": "ＨＰを回復",
+    "translation": "HP 회복",
+    "status": "manual",
+    "offset": 62509
+  },
+  "336": {
+    "source": "戦闘不能を回復",
+    "translation": "전투 불능 회복",
+    "status": "manual",
+    "offset": 62519
+  }
+}

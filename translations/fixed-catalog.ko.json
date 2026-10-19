@@ -1,0 +1,8420 @@
+{
+  "0": {
+    "source": "ティナ",
+    "translation": "티나",
+    "status": "manual_context_checked",
+    "offset": 466000
+  },
+  "1": {
+    "source": "ロック",
+    "translation": "록",
+    "status": "manual_context_checked",
+    "offset": 466006
+  },
+  "2": {
+    "source": "カイエン",
+    "translation": "카이엔",
+    "status": "manual_context_checked",
+    "offset": 466012
+  },
+  "3": {
+    "source": "シャドウ",
+    "translation": "섀도",
+    "status": "manual_context_checked",
+    "offset": 466018
+  },
+  "4": {
+    "source": "エドガー",
+    "translation": "에드거",
+    "status": "manual_context_checked",
+    "offset": 466024
+  },
+  "5": {
+    "source": "マッシュ",
+    "translation": "매시",
+    "status": "manual_context_checked",
+    "offset": 466030
+  },
+  "6": {
+    "source": "セリス",
+    "translation": "셀리스",
+    "status": "manual_context_checked",
+    "offset": 466036
+  },
+  "7": {
+    "source": "ストラゴス",
+    "translation": "스트라고스",
+    "status": "manual_context_checked",
+    "offset": 466042
+  },
+  "8": {
+    "source": "リルム",
+    "translation": "릴름",
+    "status": "manual_context_checked",
+    "offset": 466048
+  },
+  "9": {
+    "source": "セッツァー",
+    "translation": "셋저",
+    "status": "manual_context_checked",
+    "offset": 466054
+  },
+  "10": {
+    "source": "モグ",
+    "translation": "모그",
+    "status": "manual_context_checked",
+    "offset": 466060
+  },
+  "11": {
+    "source": "ガウ",
+    "translation": "가우",
+    "status": "manual_context_checked",
+    "offset": 466066
+  },
+  "12": {
+    "source": "ゴゴ",
+    "translation": "고고",
+    "status": "manual_context_checked",
+    "offset": 466072
+  },
+  "13": {
+    "source": "ウーマロ",
+    "translation": "우마로",
+    "status": "manual_context_checked",
+    "offset": 466078
+  },
+  "14": {
+    "source": "バナン",
+    "translation": "바난",
+    "status": "manual_context_checked",
+    "offset": 466084
+  },
+  "15": {
+    "source": "レオ",
+    "translation": "레오",
+    "status": "manual_context_checked",
+    "offset": 466090
+  },
+  "16": {
+    "source": "？？？？？？",
+    "translation": "？？？？？？",
+    "status": "manual_context_checked",
+    "offset": 466096
+  },
+  "17": {
+    "source": "？？？？？？",
+    "translation": "？？？？？？",
+    "status": "manual_context_checked",
+    "offset": 466102
+  },
+  "18": {
+    "source": "モグリン",
+    "translation": "모그린",
+    "status": "manual_context_checked",
+    "offset": 466108
+  },
+  "19": {
+    "source": "モグプウ",
+    "translation": "모그푸우",
+    "status": "manual_context_checked",
+    "offset": 466114
+  },
+  "20": {
+    "source": "モグッチ",
+    "translation": "모그치",
+    "status": "manual_context_checked",
+    "offset": 466120
+  },
+  "21": {
+    "source": "モルル",
+    "translation": "모루루",
+    "status": "manual_context_checked",
+    "offset": 466126
+  },
+  "22": {
+    "source": "モグタン",
+    "translation": "모그탄",
+    "status": "manual_context_checked",
+    "offset": 466132
+  },
+  "23": {
+    "source": "モグール",
+    "translation": "모굴",
+    "status": "manual_context_checked",
+    "offset": 466138
+  },
+  "24": {
+    "source": "モグシン",
+    "translation": "모그신",
+    "status": "manual_context_checked",
+    "offset": 466144
+  },
+  "25": {
+    "source": "モグポン",
+    "translation": "모그폰",
+    "status": "manual_context_checked",
+    "offset": 466150
+  },
+  "26": {
+    "source": "ムグムグ",
+    "translation": "무그무그",
+    "status": "manual_context_checked",
+    "offset": 466156
+  },
+  "27": {
+    "source": "ズモモグ",
+    "translation": "즈모모그",
+    "status": "manual_context_checked",
+    "offset": 466162
+  },
+  "28": {
+    "source": "モグ",
+    "translation": "모그",
+    "status": "manual_context_checked",
+    "offset": 466168
+  },
+  "29": {
+    "source": "？？？？？？",
+    "translation": "？？？？？？",
+    "status": "manual_context_checked",
+    "offset": 466174
+  },
+  "30": {
+    "source": "マディン",
+    "translation": "마딘",
+    "status": "manual_context_checked",
+    "offset": 466180
+  },
+  "31": {
+    "source": "？？？？？？",
+    "translation": "？？？？？？",
+    "status": "manual_context_checked",
+    "offset": 466186
+  },
+  "32": {
+    "source": "ウェッジ",
+    "translation": "웨지",
+    "status": "manual_context_checked",
+    "offset": 466192
+  },
+  "33": {
+    "source": "ビックス",
+    "translation": "빅스",
+    "status": "manual_context_checked",
+    "offset": 466198
+  },
+  "34": {
+    "source": "",
+    "translation": "",
+    "status": "manual_context_checked",
+    "offset": 466204
+  },
+  "35": {
+    "source": "",
+    "translation": "",
+    "status": "manual_context_checked",
+    "offset": 466210
+  },
+  "36": {
+    "source": "",
+    "translation": "",
+    "status": "manual_context_checked",
+    "offset": 466216
+  },
+  "37": {
+    "source": "",
+    "translation": "",
+    "status": "manual_context_checked",
+    "offset": 466222
+  },
+  "38": {
+    "source": "",
+    "translation": "",
+    "status": "manual_context_checked",
+    "offset": 466228
+  },
+  "39": {
+    "source": "",
+    "translation": "",
+    "status": "manual_context_checked",
+    "offset": 466234
+  },
+  "40": {
+    "source": "",
+    "translation": "",
+    "status": "manual_context_checked",
+    "offset": 466240
+  },
+  "41": {
+    "source": "ケフカ",
+    "translation": "케프카",
+    "status": "manual_context_checked",
+    "offset": 466246
+  },
+  "42": {
+    "source": "ケフカ",
+    "translation": "케프카",
+    "status": "manual_context_checked",
+    "offset": 466252
+  },
+  "43": {
+    "source": "ケフカ",
+    "translation": "케프카",
+    "status": "manual_context_checked",
+    "offset": 466258
+  },
+  "44": {
+    "source": "ケフカ",
+    "translation": "케프카",
+    "status": "manual_context_checked",
+    "offset": 466264
+  },
+  "45": {
+    "source": "ケフカ",
+    "translation": "케프카",
+    "status": "manual_context_checked",
+    "offset": 466270
+  },
+  "46": {
+    "source": "ケフカ",
+    "translation": "케프카",
+    "status": "manual_context_checked",
+    "offset": 466276
+  },
+  "47": {
+    "source": "ケフカ",
+    "translation": "케프카",
+    "status": "manual_context_checked",
+    "offset": 466282
+  },
+  "48": {
+    "source": "トルク",
+    "translation": "토크",
+    "status": "manual_context_checked",
+    "offset": 466288
+  },
+  "49": {
+    "source": "ジェイド",
+    "translation": "제이드",
+    "status": "manual_context_checked",
+    "offset": 466294
+  },
+  "50": {
+    "source": "カスター",
+    "translation": "커스터",
+    "status": "manual_context_checked",
+    "offset": 466300
+  },
+  "51": {
+    "source": "ファビアン",
+    "translation": "파비안",
+    "status": "manual_context_checked",
+    "offset": 466306
+  },
+  "52": {
+    "source": "ディック",
+    "translation": "딕",
+    "status": "manual_context_checked",
+    "offset": 466312
+  },
+  "53": {
+    "source": "サラ",
+    "translation": "사라",
+    "status": "manual_context_checked",
+    "offset": 466318
+  },
+  "54": {
+    "source": "ケイス",
+    "translation": "케이스",
+    "status": "manual_context_checked",
+    "offset": 466324
+  },
+  "55": {
+    "source": "シィル",
+    "translation": "실",
+    "status": "manual_context_checked",
+    "offset": 466330
+  },
+  "56": {
+    "source": "ライ",
+    "translation": "라이",
+    "status": "manual_context_checked",
+    "offset": 466336
+  },
+  "57": {
+    "source": "ライク",
+    "translation": "라이크",
+    "status": "manual_context_checked",
+    "offset": 466342
+  },
+  "58": {
+    "source": "ランス",
+    "translation": "랜스",
+    "status": "manual_context_checked",
+    "offset": 466348
+  },
+  "59": {
+    "source": "バブ",
+    "translation": "바브",
+    "status": "manual_context_checked",
+    "offset": 466354
+  },
+  "60": {
+    "source": "ぺたぺた",
+    "translation": "페타페타",
+    "status": "manual_context_checked",
+    "offset": 466360
+  },
+  "61": {
+    "source": "たうー",
+    "translation": "타우",
+    "status": "manual_context_checked",
+    "offset": 466366
+  },
+  "62": {
+    "source": "ビクター",
+    "translation": "빅터",
+    "status": "manual_context_checked",
+    "offset": 466372
+  },
+  "63": {
+    "source": "ホー",
+    "translation": "호",
+    "status": "manual_context_checked",
+    "offset": 466378
+  },
+  "64": {
+    "source": "{black}ファイア",
+    "translation": "{black}파이어",
+    "status": "manual_context_checked",
+    "offset": 476732
+  },
+  "65": {
+    "source": "{black}ブリザド",
+    "translation": "{black}블리자드",
+    "status": "manual_context_checked",
+    "offset": 476737
+  },
+  "66": {
+    "source": "{black}サンダー",
+    "translation": "{black}선더",
+    "status": "manual_context_checked",
+    "offset": 476742
+  },
+  "67": {
+    "source": "{black}ポイズン",
+    "translation": "{black}포이즌",
+    "status": "manual_context_checked",
+    "offset": 476747
+  },
+  "68": {
+    "source": "{black}ドレイン",
+    "translation": "{black}드레인",
+    "status": "manual_context_checked",
+    "offset": 476752
+  },
+  "69": {
+    "source": "{black}ファイラ",
+    "translation": "{black}파이라",
+    "status": "manual_context_checked",
+    "offset": 476757
+  },
+  "70": {
+    "source": "{black}ブリザラ",
+    "translation": "{black}블리자라",
+    "status": "manual_context_checked",
+    "offset": 476762
+  },
+  "71": {
+    "source": "{black}サンダラ",
+    "translation": "{black}선더라",
+    "status": "manual_context_checked",
+    "offset": 476767
+  },
+  "72": {
+    "source": "{black}バイオ",
+    "translation": "{black}바이오",
+    "status": "manual_context_checked",
+    "offset": 476772
+  },
+  "73": {
+    "source": "{black}ファイガ",
+    "translation": "{black}파이가",
+    "status": "manual_context_checked",
+    "offset": 476777
+  },
+  "74": {
+    "source": "{black}ブリザガ",
+    "translation": "{black}블리자가",
+    "status": "manual_context_checked",
+    "offset": 476782
+  },
+  "75": {
+    "source": "{black}サンダガ",
+    "translation": "{black}선더가",
+    "status": "manual_context_checked",
+    "offset": 476787
+  },
+  "76": {
+    "source": "{black}ブレイク",
+    "translation": "{black}브레이크",
+    "status": "manual_context_checked",
+    "offset": 476792
+  },
+  "77": {
+    "source": "{black}デス",
+    "translation": "{black}데스",
+    "status": "manual_context_checked",
+    "offset": 476797
+  },
+  "78": {
+    "source": "{black}ホーリー",
+    "translation": "{black}홀리",
+    "status": "manual_context_checked",
+    "offset": 476802
+  },
+  "79": {
+    "source": "{black}フレア",
+    "translation": "{black}플레어",
+    "status": "manual_context_checked",
+    "offset": 476807
+  },
+  "80": {
+    "source": "{black}グラビデ",
+    "translation": "{black}그라비데",
+    "status": "manual_context_checked",
+    "offset": 476812
+  },
+  "81": {
+    "source": "{black}グラビガ",
+    "translation": "{black}그라비가",
+    "status": "manual_context_checked",
+    "offset": 476817
+  },
+  "82": {
+    "source": "{black}デジョン",
+    "translation": "{black}데존",
+    "status": "manual_context_checked",
+    "offset": 476822
+  },
+  "83": {
+    "source": "{black}メテオ",
+    "translation": "{black}메테오",
+    "status": "manual_context_checked",
+    "offset": 476827
+  },
+  "84": {
+    "source": "{black}アルテマ",
+    "translation": "{black}알테마",
+    "status": "manual_context_checked",
+    "offset": 476832
+  },
+  "85": {
+    "source": "{black}クエイク",
+    "translation": "{black}퀘이크",
+    "status": "manual_context_checked",
+    "offset": 476837
+  },
+  "86": {
+    "source": "{black}トルネド",
+    "translation": "{black}토네이도",
+    "status": "manual_context_checked",
+    "offset": 476842
+  },
+  "87": {
+    "source": "{black}メルトン",
+    "translation": "{black}멜튼",
+    "status": "manual_context_checked",
+    "offset": 476847
+  },
+  "88": {
+    "source": "{effect}ライブラ",
+    "translation": "{effect}라이브라",
+    "status": "manual_context_checked",
+    "offset": 476852
+  },
+  "89": {
+    "source": "{effect}スロウ",
+    "translation": "{effect}슬로우",
+    "status": "manual_context_checked",
+    "offset": 476857
+  },
+  "90": {
+    "source": "{effect}ラスピル",
+    "translation": "{effect}라스필",
+    "status": "manual_context_checked",
+    "offset": 476862
+  },
+  "91": {
+    "source": "{effect}サイレス",
+    "translation": "{effect}사일레스",
+    "status": "manual_context_checked",
+    "offset": 476867
+  },
+  "92": {
+    "source": "{effect}プロテス",
+    "translation": "{effect}프로테스",
+    "status": "manual_context_checked",
+    "offset": 476872
+  },
+  "93": {
+    "source": "{effect}スリプル",
+    "translation": "{effect}슬리플",
+    "status": "manual_context_checked",
+    "offset": 476877
+  },
+  "94": {
+    "source": "{effect}コンフュ",
+    "translation": "{effect}콘퓨",
+    "status": "manual_context_checked",
+    "offset": 476882
+  },
+  "95": {
+    "source": "{effect}ヘイスト",
+    "translation": "{effect}헤이스트",
+    "status": "manual_context_checked",
+    "offset": 476887
+  },
+  "96": {
+    "source": "{effect}ストップ",
+    "translation": "{effect}스톱",
+    "status": "manual_context_checked",
+    "offset": 476892
+  },
+  "97": {
+    "source": "{effect}バーサク",
+    "translation": "{effect}버서크",
+    "status": "manual_context_checked",
+    "offset": 476897
+  },
+  "98": {
+    "source": "{effect}レビテト",
+    "translation": "{effect}레비테트",
+    "status": "manual_context_checked",
+    "offset": 476902
+  },
+  "99": {
+    "source": "{effect}カッパー",
+    "translation": "{effect}임프",
+    "status": "manual",
+    "offset": 476907
+  },
+  "100": {
+    "source": "{effect}リフレク",
+    "translation": "{effect}리플렉",
+    "status": "manual_context_checked",
+    "offset": 476912
+  },
+  "101": {
+    "source": "{effect}シェル",
+    "translation": "{effect}셸",
+    "status": "manual_context_checked",
+    "offset": 476917
+  },
+  "102": {
+    "source": "{effect}バニシュ",
+    "translation": "{effect}배니시",
+    "status": "manual_context_checked",
+    "offset": 476922
+  },
+  "103": {
+    "source": "{effect}ヘイスガ",
+    "translation": "{effect}헤이스가",
+    "status": "manual_context_checked",
+    "offset": 476927
+  },
+  "104": {
+    "source": "{effect}スロウガ",
+    "translation": "{effect}슬로우가",
+    "status": "manual_context_checked",
+    "offset": 476932
+  },
+  "105": {
+    "source": "{effect}アスピル",
+    "translation": "{effect}아스필",
+    "status": "manual_context_checked",
+    "offset": 476937
+  },
+  "106": {
+    "source": "{effect}テレポ",
+    "translation": "{effect}텔레포",
+    "status": "manual_context_checked",
+    "offset": 476942
+  },
+  "107": {
+    "source": "{effect}クイック",
+    "translation": "{effect}퀵",
+    "status": "manual_context_checked",
+    "offset": 476947
+  },
+  "108": {
+    "source": "{effect}デスペル",
+    "translation": "{effect}디스펠",
+    "status": "manual_context_checked",
+    "offset": 476952
+  },
+  "109": {
+    "source": "{white}ケアル",
+    "translation": "{white}케알",
+    "status": "manual_context_checked",
+    "offset": 476957
+  },
+  "110": {
+    "source": "{white}ケアルラ",
+    "translation": "{white}케알라",
+    "status": "manual_context_checked",
+    "offset": 476962
+  },
+  "111": {
+    "source": "{white}ケアルガ",
+    "translation": "{white}케알가",
+    "status": "manual_context_checked",
+    "offset": 476967
+  },
+  "112": {
+    "source": "{white}レイズ",
+    "translation": "{white}레이즈",
+    "status": "manual_context_checked",
+    "offset": 476972
+  },
+  "113": {
+    "source": "{white}アレイズ",
+    "translation": "{white}어레이즈",
+    "status": "manual_context_checked",
+    "offset": 476977
+  },
+  "114": {
+    "source": "{white}ポイゾナ",
+    "translation": "{white}포이조나",
+    "status": "manual_context_checked",
+    "offset": 476982
+  },
+  "115": {
+    "source": "{white}エスナ",
+    "translation": "{white}에스나",
+    "status": "manual_context_checked",
+    "offset": 476987
+  },
+  "116": {
+    "source": "{white}リジェネ",
+    "translation": "{white}리제네",
+    "status": "manual_context_checked",
+    "offset": 476992
+  },
+  "117": {
+    "source": "{white}リレイズ",
+    "translation": "{white}리레이즈",
+    "status": "manual_context_checked",
+    "offset": 476997
+  },
+  "118": {
+    "source": "ラムウ",
+    "translation": "라무",
+    "status": "manual_context_checked",
+    "offset": 477002
+  },
+  "119": {
+    "source": "イフリート",
+    "translation": "이프리트",
+    "status": "manual_context_checked",
+    "offset": 477010
+  },
+  "120": {
+    "source": "シヴァ",
+    "translation": "시바",
+    "status": "manual_context_checked",
+    "offset": 477018
+  },
+  "121": {
+    "source": "セイレーン",
+    "translation": "세이렌",
+    "status": "manual_context_checked",
+    "offset": 477026
+  },
+  "122": {
+    "source": "ミドガルズオルム",
+    "translation": "미드가르드오름",
+    "status": "manual_context_checked",
+    "offset": 477034
+  },
+  "123": {
+    "source": "カトブレパス",
+    "translation": "카토블레파스",
+    "status": "manual_context_checked",
+    "offset": 477042
+  },
+  "124": {
+    "source": "マディン",
+    "translation": "마딘",
+    "status": "manual_context_checked",
+    "offset": 477050
+  },
+  "125": {
+    "source": "ビスマルク",
+    "translation": "비스마르크",
+    "status": "manual_context_checked",
+    "offset": 477058
+  },
+  "126": {
+    "source": "ケットていシー",
+    "translation": "케트시",
+    "status": "manual_context_checked",
+    "offset": 477066
+  },
+  "127": {
+    "source": "ケーツハリー",
+    "translation": "케찰리",
+    "status": "manual_context_checked",
+    "offset": 477074
+  },
+  "128": {
+    "source": "ヴァリガルマンダ",
+    "translation": "발리가르만다",
+    "status": "manual_context_checked",
+    "offset": 477082
+  },
+  "129": {
+    "source": "オーディン",
+    "translation": "오딘",
+    "status": "manual_context_checked",
+    "offset": 477090
+  },
+  "130": {
+    "source": "ライディーン",
+    "translation": "라이딘",
+    "status": "manual_context_checked",
+    "offset": 477098
+  },
+  "131": {
+    "source": "バハムート",
+    "translation": "바하무트",
+    "status": "manual_context_checked",
+    "offset": 477106
+  },
+  "132": {
+    "source": "アレクサンダー",
+    "translation": "알렉산더",
+    "status": "manual_context_checked",
+    "offset": 477114
+  },
+  "133": {
+    "source": "ジハード",
+    "translation": "지하드",
+    "status": "manual_context_checked",
+    "offset": 477122
+  },
+  "134": {
+    "source": "ラグナロック",
+    "translation": "라그나로크",
+    "status": "manual_context_checked",
+    "offset": 477130
+  },
+  "135": {
+    "source": "キリン",
+    "translation": "기린",
+    "status": "manual_context_checked",
+    "offset": 477138
+  },
+  "136": {
+    "source": "ゾーナていシーカー",
+    "translation": "조나시커",
+    "status": "manual_context_checked",
+    "offset": 477146
+  },
+  "137": {
+    "source": "カーバンクル",
+    "translation": "카벙클",
+    "status": "manual_context_checked",
+    "offset": 477154
+  },
+  "138": {
+    "source": "ファントム",
+    "translation": "팬텀",
+    "status": "manual_context_checked",
+    "offset": 477162
+  },
+  "139": {
+    "source": "セラフィム",
+    "translation": "세라핌",
+    "status": "manual_context_checked",
+    "offset": 477170
+  },
+  "140": {
+    "source": "ゴーレム",
+    "translation": "골렘",
+    "status": "manual_context_checked",
+    "offset": 477178
+  },
+  "141": {
+    "source": "ユニコーン",
+    "translation": "유니콘",
+    "status": "manual_context_checked",
+    "offset": 477186
+  },
+  "142": {
+    "source": "フェンリル",
+    "translation": "펜리르",
+    "status": "manual_context_checked",
+    "offset": 477194
+  },
+  "143": {
+    "source": "ラクシュミ",
+    "translation": "락슈미",
+    "status": "manual_context_checked",
+    "offset": 477202
+  },
+  "144": {
+    "source": "フェニックス",
+    "translation": "피닉스",
+    "status": "manual_context_checked",
+    "offset": 477210
+  },
+  "145": {
+    "source": "かとん",
+    "translation": "화둔",
+    "status": "manual_context_checked",
+    "offset": 477218
+  },
+  "146": {
+    "source": "すいとん",
+    "translation": "수둔",
+    "status": "manual_context_checked",
+    "offset": 477226
+  },
+  "147": {
+    "source": "らいじん",
+    "translation": "뇌신",
+    "status": "manual_context_checked",
+    "offset": 477234
+  },
+  "148": {
+    "source": "ふぶき",
+    "translation": "눈보라",
+    "status": "manual_context_checked",
+    "offset": 477242
+  },
+  "149": {
+    "source": "ジョーカーデス",
+    "translation": "조커 데스",
+    "status": "manual_context_checked",
+    "offset": 477250
+  },
+  "150": {
+    "source": "",
+    "translation": "",
+    "status": "manual_context_checked",
+    "offset": 477258
+  },
+  "151": {
+    "source": "",
+    "translation": "",
+    "status": "manual_context_checked",
+    "offset": 477266
+  },
+  "152": {
+    "source": "",
+    "translation": "",
+    "status": "manual_context_checked",
+    "offset": 477274
+  },
+  "153": {
+    "source": "",
+    "translation": "",
+    "status": "manual_context_checked",
+    "offset": 477282
+  },
+  "154": {
+    "source": "",
+    "translation": "",
+    "status": "manual_context_checked",
+    "offset": 477290
+  },
+  "155": {
+    "source": "",
+    "translation": "",
+    "status": "manual_context_checked",
+    "offset": 477298
+  },
+  "156": {
+    "source": "",
+    "translation": "",
+    "status": "manual_context_checked",
+    "offset": 477306
+  },
+  "157": {
+    "source": "ばくれつけん",
+    "translation": "폭렬권",
+    "status": "manual_context_checked",
+    "offset": 477314
+  },
+  "158": {
+    "source": "オーラキャノン",
+    "translation": "오라 캐논",
+    "status": "manual_context_checked",
+    "offset": 477322
+  },
+  "159": {
+    "source": "メテオストライク",
+    "translation": "메테오스트라이크",
+    "status": "manual_context_checked",
+    "offset": 477330
+  },
+  "160": {
+    "source": "ほうおうのまい",
+    "translation": "봉황의 춤",
+    "status": "manual_context_checked",
+    "offset": 477338
+  },
+  "161": {
+    "source": "チャクラ",
+    "translation": "차크라",
+    "status": "manual_context_checked",
+    "offset": 477346
+  },
+  "162": {
+    "source": "しんくうは",
+    "translation": "진공파",
+    "status": "manual_context_checked",
+    "offset": 477354
+  },
+  "163": {
+    "source": "スパイラルソウル",
+    "translation": "스파이럴 소울",
+    "status": "manual_context_checked",
+    "offset": 477362
+  },
+  "164": {
+    "source": "むげんとうぶ",
+    "translation": "몽환투무",
+    "status": "manual_context_checked",
+    "offset": 477370
+  },
+  "165": {
+    "source": "かまいたち",
+    "translation": "칼바람",
+    "status": "manual_context_checked",
+    "offset": 477378
+  },
+  "166": {
+    "source": "にっこうよく",
+    "translation": "일광욕",
+    "status": "manual_context_checked",
+    "offset": 477386
+  },
+  "167": {
+    "source": "このはらんぶ",
+    "translation": "나뭇잎 난무",
+    "status": "manual_context_checked",
+    "offset": 477394
+  },
+  "168": {
+    "source": "しんりんよく",
+    "translation": "삼림욕",
+    "status": "manual_context_checked",
+    "offset": 477402
+  },
+  "169": {
+    "source": "すなあらし",
+    "translation": "모래바람",
+    "status": "manual_context_checked",
+    "offset": 477410
+  },
+  "170": {
+    "source": "ありじごく",
+    "translation": "개미지옥",
+    "status": "manual_context_checked",
+    "offset": 477418
+  },
+  "171": {
+    "source": "おにび",
+    "translation": "도깨비불",
+    "status": "manual_context_checked",
+    "offset": 477426
+  },
+  "172": {
+    "source": "ぼうれい",
+    "translation": "망령",
+    "status": "manual_context_checked",
+    "offset": 477434
+  },
+  "173": {
+    "source": "がけくずれ",
+    "translation": "절벽 붕괴",
+    "status": "manual_context_checked",
+    "offset": 477442
+  },
+  "174": {
+    "source": "ソニックブーム",
+    "translation": "소닉 붐",
+    "status": "manual_context_checked",
+    "offset": 477450
+  },
+  "175": {
+    "source": "エルニーニョ",
+    "translation": "엘니뇨",
+    "status": "manual_context_checked",
+    "offset": 477458
+  },
+  "176": {
+    "source": "プラズマ",
+    "translation": "플라스마",
+    "status": "manual_context_checked",
+    "offset": 477466
+  },
+  "177": {
+    "source": "おとしあな",
+    "translation": "함정",
+    "status": "manual_context_checked",
+    "offset": 477474
+  },
+  "178": {
+    "source": "らくばん",
+    "translation": "낙반",
+    "status": "manual_context_checked",
+    "offset": 477482
+  },
+  "179": {
+    "source": "スノーボール",
+    "translation": "눈덩이",
+    "status": "manual_context_checked",
+    "offset": 477490
+  },
+  "180": {
+    "source": "なだれ",
+    "translation": "눈사태",
+    "status": "manual_context_checked",
+    "offset": 477498
+  },
+  "181": {
+    "source": "コカトリス",
+    "translation": "코카트리스",
+    "status": "manual_context_checked",
+    "offset": 477506
+  },
+  "182": {
+    "source": "ウォンバット",
+    "translation": "웜뱃",
+    "status": "manual_context_checked",
+    "offset": 477514
+  },
+  "183": {
+    "source": "ミーアキャット",
+    "translation": "미어캣",
+    "status": "manual_context_checked",
+    "offset": 477522
+  },
+  "184": {
+    "source": "バク",
+    "translation": "맥",
+    "status": "manual_context_checked",
+    "offset": 477530
+  },
+  "185": {
+    "source": "うりんこ",
+    "translation": "멧돼지 새끼",
+    "status": "manual_context_checked",
+    "offset": 477538
+  },
+  "186": {
+    "source": "あらいぐま",
+    "translation": "라쿤",
+    "status": "manual",
+    "offset": 477546
+  },
+  "187": {
+    "source": "どくがえる",
+    "translation": "독개구리",
+    "status": "manual_context_checked",
+    "offset": 477554
+  },
+  "188": {
+    "source": "ゆきうさぎ",
+    "translation": "눈토끼",
+    "status": "manual_context_checked",
+    "offset": 477562
+  },
+  "189": {
+    "source": "バイオブラスト",
+    "translation": "바이오블래스트",
+    "status": "manual",
+    "offset": 477570
+  },
+  "190": {
+    "source": "サンビーム",
+    "translation": "선빔",
+    "status": "manual",
+    "offset": 477578
+  },
+  "191": {
+    "source": "チョコボラッシュ",
+    "translation": "초코보 러시",
+    "status": "manual_context_checked",
+    "offset": 477586
+  },
+  "192": {
+    "source": "ダイビング・ボム",
+    "translation": "다이빙 봄",
+    "status": "manual_context_checked",
+    "offset": 477594
+  },
+  "193": {
+    "source": "セブンフラッシュ",
+    "translation": "세븐 플래시",
+    "status": "manual_context_checked",
+    "offset": 477602
+  },
+  "194": {
+    "source": "メガショック",
+    "translation": "메가 쇼크",
+    "status": "manual_context_checked",
+    "offset": 477610
+  },
+  "195": {
+    "source": "ファイアビーム",
+    "translation": "파이어 빔",
+    "status": "manual_context_checked",
+    "offset": 477618
+  },
+  "196": {
+    "source": "サンダービーム",
+    "translation": "선더 빔",
+    "status": "manual_context_checked",
+    "offset": 477626
+  },
+  "197": {
+    "source": "ブリザービーム",
+    "translation": "블리자 빔",
+    "status": "manual_context_checked",
+    "offset": 477634
+  },
+  "198": {
+    "source": "バイオブラスター",
+    "translation": "바이오블래스터",
+    "status": "manual_context_checked",
+    "offset": 477642
+  },
+  "199": {
+    "source": "ヒールフォース",
+    "translation": "힐 포스",
+    "status": "manual_context_checked",
+    "offset": 477650
+  },
+  "200": {
+    "source": "コンフューザー",
+    "translation": "컨퓨저",
+    "status": "manual_context_checked",
+    "offset": 477658
+  },
+  "201": {
+    "source": "デジョネーター",
+    "translation": "데조네이터",
+    "status": "manual_context_checked",
+    "offset": 477666
+  },
+  "202": {
+    "source": "まどうミサイル",
+    "translation": "마도 미사일",
+    "status": "manual_context_checked",
+    "offset": 477674
+  },
+  "203": {
+    "source": "しのせんこく",
+    "translation": "죽음의 선고",
+    "status": "manual_context_checked",
+    "offset": 477682
+  },
+  "204": {
+    "source": "しのルーレット",
+    "translation": "죽음의 룰렛",
+    "status": "manual_context_checked",
+    "offset": 477690
+  },
+  "205": {
+    "source": "だいかいしょう",
+    "translation": "대해일",
+    "status": "manual_context_checked",
+    "offset": 477698
+  },
+  "206": {
+    "source": "アクアブレス",
+    "translation": "아쿠아브레스",
+    "status": "manual_context_checked",
+    "offset": 477706
+  },
+  "207": {
+    "source": "エアロガ",
+    "translation": "에어로가",
+    "status": "manual_context_checked",
+    "offset": 477714
+  },
+  "208": {
+    "source": "はりせんぼん",
+    "translation": "바늘천개",
+    "status": "manual_context_checked",
+    "offset": 477722
+  },
+  "209": {
+    "source": "マイティガード",
+    "translation": "마이티 가드",
+    "status": "manual_context_checked",
+    "offset": 477730
+  },
+  "210": {
+    "source": "リベンジブラスト",
+    "translation": "리벤지블라스트",
+    "status": "manual_context_checked",
+    "offset": 477738
+  },
+  "211": {
+    "source": "ホワイトウィンド",
+    "translation": "화이트 윈드",
+    "status": "manual_context_checked",
+    "offset": 477746
+  },
+  "212": {
+    "source": "レベル５デス",
+    "translation": "레벨 5 데스",
+    "status": "manual_context_checked",
+    "offset": 477754
+  },
+  "213": {
+    "source": "レベル４フレア",
+    "translation": "레벨 4 플레어",
+    "status": "manual_context_checked",
+    "offset": 477762
+  },
+  "214": {
+    "source": "レベル３コンフュ",
+    "translation": "레벨 3 컨퓨",
+    "status": "manual_context_checked",
+    "offset": 477770
+  },
+  "215": {
+    "source": "リフレク？？？？",
+    "translation": "리플렉????",
+    "status": "manual",
+    "offset": 477778
+  },
+  "216": {
+    "source": "レベル？ホーリー",
+    "translation": "레벨? 홀리",
+    "status": "manual_context_checked",
+    "offset": 477786
+  },
+  "217": {
+    "source": "ほすうダメージ",
+    "translation": "걸음 수 피해",
+    "status": "manual_context_checked",
+    "offset": 477794
+  },
+  "218": {
+    "source": "フォースフィルド",
+    "translation": "포스 필드",
+    "status": "manual_context_checked",
+    "offset": 477802
+  },
+  "219": {
+    "source": "かいおんぱ",
+    "translation": "괴음파",
+    "status": "manual_context_checked",
+    "offset": 477810
+  },
+  "220": {
+    "source": "くさいいき",
+    "translation": "썩은 입김",
+    "status": "manual_context_checked",
+    "offset": 477818
+  },
+  "221": {
+    "source": "ゆうごう",
+    "translation": "융합",
+    "status": "manual_context_checked",
+    "offset": 477826
+  },
+  "222": {
+    "source": "はもん",
+    "translation": "파문",
+    "status": "manual_context_checked",
+    "offset": 477834
+  },
+  "223": {
+    "source": "いしつぶて",
+    "translation": "돌팔매",
+    "status": "manual_context_checked",
+    "offset": 477842
+  },
+  "224": {
+    "source": "クエーサー",
+    "translation": "퀘이사",
+    "status": "manual_context_checked",
+    "offset": 477850
+  },
+  "225": {
+    "source": "グランドトライン",
+    "translation": "그랜드 트라인",
+    "status": "manual_context_checked",
+    "offset": 477858
+  },
+  "226": {
+    "source": "じばく",
+    "translation": "자폭",
+    "status": "manual_context_checked",
+    "offset": 477866
+  },
+  "227": {
+    "source": "カッパソング",
+    "translation": "임프 송",
+    "status": "manual",
+    "offset": 477874
+  },
+  "228": {
+    "source": "とうめい",
+    "translation": "투명화",
+    "status": "manual_context_checked",
+    "offset": 477882
+  },
+  "229": {
+    "source": "どくぎり",
+    "translation": "독안개",
+    "status": "manual_context_checked",
+    "offset": 477890
+  },
+  "230": {
+    "source": "ガストスモーク",
+    "translation": "가스트 스모크",
+    "status": "manual_context_checked",
+    "offset": 477898
+  },
+  "231": {
+    "source": "せんこうだん",
+    "translation": "섬광탄",
+    "status": "manual_context_checked",
+    "offset": 477906
+  },
+  "232": {
+    "source": "こもりうた",
+    "translation": "자장가",
+    "status": "manual_context_checked",
+    "offset": 477914
+  },
+  "233": {
+    "source": "さんせいう",
+    "translation": "산성비",
+    "status": "manual_context_checked",
+    "offset": 477922
+  },
+  "234": {
+    "source": "こんらん",
+    "translation": "혼란",
+    "status": "manual_context_checked",
+    "offset": 477930
+  },
+  "235": {
+    "source": "メガバーサク",
+    "translation": "메가 버서크",
+    "status": "manual_context_checked",
+    "offset": 477938
+  },
+  "236": {
+    "source": "ちんもく",
+    "translation": "침묵",
+    "status": "manual_context_checked",
+    "offset": 477946
+  },
+  "237": {
+    "source": "ネット",
+    "translation": "그물",
+    "status": "manual_context_checked",
+    "offset": 477954
+  },
+  "238": {
+    "source": "ねんえきネバネバ",
+    "translation": "끈적한 점액",
+    "status": "manual_context_checked",
+    "offset": 477962
+  },
+  "239": {
+    "source": "デルタアタック",
+    "translation": "델타 어택",
+    "status": "manual_context_checked",
+    "offset": 477970
+  },
+  "240": {
+    "source": "からみつき",
+    "translation": "휘감기",
+    "status": "manual_context_checked",
+    "offset": 477978
+  },
+  "241": {
+    "source": "ブラスター",
+    "translation": "블래스터",
+    "status": "manual_context_checked",
+    "offset": 477986
+  },
+  "242": {
+    "source": "だいせんぷう",
+    "translation": "대선풍",
+    "status": "manual_context_checked",
+    "offset": 477994
+  },
+  "243": {
+    "source": "ファイアーボール",
+    "translation": "파이어볼",
+    "status": "manual_context_checked",
+    "offset": 478002
+  },
+  "244": {
+    "source": "アトミックレイ",
+    "translation": "아토믹 레이",
+    "status": "manual_context_checked",
+    "offset": 478010
+  },
+  "245": {
+    "source": "まどうレーザー",
+    "translation": "마도 레이저",
+    "status": "manual_context_checked",
+    "offset": 478018
+  },
+  "246": {
+    "source": "かくさんレーザー",
+    "translation": "확산 레이저",
+    "status": "manual_context_checked",
+    "offset": 478026
+  },
+  "247": {
+    "source": "はどうほう",
+    "translation": "파동포",
+    "status": "manual_context_checked",
+    "offset": 478034
+  },
+  "248": {
+    "source": "１まんボルト",
+    "translation": "1만 볼트",
+    "status": "manual_context_checked",
+    "offset": 478042
+  },
+  "249": {
+    "source": "１００まんボルト",
+    "translation": "100만 볼트",
+    "status": "manual_context_checked",
+    "offset": 478050
+  },
+  "250": {
+    "source": "ブリザード",
+    "translation": "블리자드",
+    "status": "manual_context_checked",
+    "offset": 478058
+  },
+  "251": {
+    "source": "ぜったいれいど",
+    "translation": "절대영도",
+    "status": "manual_context_checked",
+    "offset": 478066
+  },
+  "252": {
+    "source": "マグニチュード８",
+    "translation": "매그니튜드 8",
+    "status": "manual_context_checked",
+    "offset": 478074
+  },
+  "253": {
+    "source": "きゅうしゅう",
+    "translation": "흡수",
+    "status": "manual_context_checked",
+    "offset": 478082
+  },
+  "254": {
+    "source": "フラッシュレイン",
+    "translation": "플래시 레인",
+    "status": "manual_context_checked",
+    "offset": 478090
+  },
+  "255": {
+    "source": "まどうバリアー",
+    "translation": "마도 배리어",
+    "status": "manual_context_checked",
+    "offset": 478098
+  },
+  "256": {
+    "source": "こころないてんし",
+    "translation": "마음 없는 천사",
+    "status": "manual",
+    "offset": 478106
+  },
+  "257": {
+    "source": "バリアチェンジ",
+    "translation": "배리어 체인지",
+    "status": "manual_context_checked",
+    "offset": 478114
+  },
+  "258": {
+    "source": "とうそう",
+    "translation": "도주",
+    "status": "manual_context_checked",
+    "offset": 478122
+  },
+  "259": {
+    "source": "じゅうりょく５０",
+    "translation": "중력 50",
+    "status": "manual_context_checked",
+    "offset": 478130
+  },
+  "260": {
+    "source": "マインドブラスト",
+    "translation": "마인드블라스트",
+    "status": "manual_context_checked",
+    "offset": 478138
+  },
+  "261": {
+    "source": "ノーザンクロス",
+    "translation": "노던 크로스",
+    "status": "manual_context_checked",
+    "offset": 478146
+  },
+  "262": {
+    "source": "フレアスター",
+    "translation": "플레어 스타",
+    "status": "manual_context_checked",
+    "offset": 478154
+  },
+  "263": {
+    "source": "あいのせんこく",
+    "translation": "사랑의 선고",
+    "status": "manual_context_checked",
+    "offset": 478162
+  },
+  "264": {
+    "source": "ほかく",
+    "translation": "포획",
+    "status": "manual_context_checked",
+    "offset": 478170
+  },
+  "265": {
+    "source": "じばてんかん",
+    "translation": "자기장 변환",
+    "status": "manual_context_checked",
+    "offset": 478178
+  },
+  "266": {
+    "source": "ターゲッティング",
+    "translation": "타기팅",
+    "status": "manual_context_checked",
+    "offset": 478186
+  },
+  "267": {
+    "source": "はないき",
+    "translation": "콧바람",
+    "status": "manual_context_checked",
+    "offset": 478194
+  },
+  "268": {
+    "source": "サザンクロス",
+    "translation": "서던 크로스",
+    "status": "manual_context_checked",
+    "offset": 478202
+  },
+  "269": {
+    "source": "ランチャー",
+    "translation": "런처",
+    "status": "manual_context_checked",
+    "offset": 478210
+  },
+  "270": {
+    "source": "ゆうわく",
+    "translation": "유혹",
+    "status": "manual_context_checked",
+    "offset": 478218
+  },
+  "271": {
+    "source": "フリジングダスト",
+    "translation": "프리징 더스트",
+    "status": "manual_context_checked",
+    "offset": 478226
+  },
+  "272": {
+    "source": "たこあし",
+    "translation": "문어발",
+    "status": "manual_context_checked",
+    "offset": 478234
+  },
+  "273": {
+    "source": "ハイパードライブ",
+    "translation": "하이퍼드라이브",
+    "status": "manual_context_checked",
+    "offset": 478242
+  },
+  "274": {
+    "source": "トライン",
+    "translation": "트라인",
+    "status": "manual_context_checked",
+    "offset": 478250
+  },
+  "275": {
+    "source": "まかいのきてき",
+    "translation": "마계의 기적",
+    "status": "manual_context_checked",
+    "offset": 478258
+  },
+  "276": {
+    "source": "グラビティーボム",
+    "translation": "그래비티 봄",
+    "status": "manual_context_checked",
+    "offset": 478266
+  },
+  "277": {
+    "source": "すいこみ",
+    "translation": "빨아들이기",
+    "status": "manual_context_checked",
+    "offset": 478274
+  },
+  "278": {
+    "source": "ディスアスター",
+    "translation": "디재스터",
+    "status": "manual_context_checked",
+    "offset": 478282
+  },
+  "279": {
+    "source": "メタルカッター",
+    "translation": "메탈 커터",
+    "status": "manual_context_checked",
+    "offset": 478290
+  },
+  "280": {
+    "source": "ボムベアラー",
+    "translation": "봄 베어러",
+    "status": "manual_context_checked",
+    "offset": 478298
+  },
+  "281": {
+    "source": "しょうかえき",
+    "translation": "소화액",
+    "status": "manual_context_checked",
+    "offset": 478306
+  },
+  "282": {
+    "source": "ヒューリー",
+    "translation": "퓨리",
+    "status": "manual_context_checked",
+    "offset": 478314
+  },
+  "283": {
+    "source": "なげすてる",
+    "translation": "내던지기",
+    "status": "manual_context_checked",
+    "offset": 478322
+  },
+  "284": {
+    "source": "クラウディヘヴン",
+    "translation": "클라우디 헤븐",
+    "status": "manual_context_checked",
+    "offset": 478330
+  },
+  "285": {
+    "source": "ミサイル",
+    "translation": "미사일",
+    "status": "manual_context_checked",
+    "offset": 478338
+  },
+  "286": {
+    "source": "ミッシング",
+    "translation": "미싱",
+    "status": "manual_context_checked",
+    "offset": 478346
+  },
+  "287": {
+    "source": "メテオ",
+    "translation": "메테오",
+    "status": "manual_context_checked",
+    "offset": 478354
+  },
+  "288": {
+    "source": "リベンジャー",
+    "translation": "리벤저",
+    "status": "manual_context_checked",
+    "offset": 478362
+  },
+  "289": {
+    "source": "ポルターガイスト",
+    "translation": "폴터가이스트",
+    "status": "manual_context_checked",
+    "offset": 478370
+  },
+  "290": {
+    "source": "きょうふのしせん",
+    "translation": "공포의 시선",
+    "status": "manual_context_checked",
+    "offset": 478378
+  },
+  "291": {
+    "source": "しょうげきは",
+    "translation": "충격파",
+    "status": "manual_context_checked",
+    "offset": 478386
+  },
+  "292": {
+    "source": "かえん",
+    "translation": "화염",
+    "status": "manual_context_checked",
+    "offset": 478394
+  },
+  "293": {
+    "source": "ソウルアウト",
+    "translation": "소울 아웃",
+    "status": "manual_context_checked",
+    "offset": 478402
+  },
+  "294": {
+    "source": "れっぷうさつ",
+    "translation": "열풍살",
+    "status": "manual_context_checked",
+    "offset": 478410
+  },
+  "295": {
+    "source": "シャムシール",
+    "translation": "샴시르",
+    "status": "manual_context_checked",
+    "offset": 478418
+  },
+  "296": {
+    "source": "ヘールストーン",
+    "translation": "헤일스톤",
+    "status": "manual_context_checked",
+    "offset": 478426
+  },
+  "297": {
+    "source": "セイントビーム",
+    "translation": "세인트 빔",
+    "status": "manual_context_checked",
+    "offset": 478434
+  },
+  "298": {
+    "source": "フンババブレス",
+    "translation": "푼바바브레스",
+    "status": "manual",
+    "offset": 478442
+  },
+  "299": {
+    "source": "ライフシェイバー",
+    "translation": "라이프 셰이버",
+    "status": "manual_context_checked",
+    "offset": 478450
+  },
+  "300": {
+    "source": "ファイアウォール",
+    "translation": "파이어 월",
+    "status": "manual_context_checked",
+    "offset": 478458
+  },
+  "301": {
+    "source": "ランドスライド",
+    "translation": "랜드슬라이드",
+    "status": "manual_context_checked",
+    "offset": 478466
+  },
+  "302": {
+    "source": "たたかう",
+    "translation": "공격",
+    "status": "manual_context_checked",
+    "offset": 478474
+  },
+  "303": {
+    "source": "とくしゅ",
+    "translation": "특수",
+    "status": "manual_context_checked",
+    "offset": 478482
+  },
+  "304": {
+    "source": "ライオットソード",
+    "translation": "라이엇 소드",
+    "status": "manual_context_checked",
+    "offset": 478490
+  },
+  "305": {
+    "source": "ミラージュダイブ",
+    "translation": "미라주 다이브",
+    "status": "manual_context_checked",
+    "offset": 478498
+  },
+  "306": {
+    "source": "つばめがえし",
+    "translation": "제비반환",
+    "status": "manual_context_checked",
+    "offset": 478506
+  },
+  "307": {
+    "source": "シャドウファング",
+    "translation": "섀도 팽",
+    "status": "manual_context_checked",
+    "offset": 478514
+  },
+  "308": {
+    "source": "ロイヤルショック",
+    "translation": "로열 쇼크",
+    "status": "manual_context_checked",
+    "offset": 478522
+  },
+  "309": {
+    "source": "タイガーブレイク",
+    "translation": "타이거 브레이크",
+    "status": "manual_context_checked",
+    "offset": 478530
+  },
+  "310": {
+    "source": "スピニングエッジ",
+    "translation": "스피닝 에지",
+    "status": "manual_context_checked",
+    "offset": 478538
+  },
+  "311": {
+    "source": "セバーソウル",
+    "translation": "세이버 소울",
+    "status": "manual_context_checked",
+    "offset": 478546
+  },
+  "312": {
+    "source": "スタープリズム",
+    "translation": "스타 프리즘",
+    "status": "manual_context_checked",
+    "offset": 478554
+  },
+  "313": {
+    "source": "ブラッディカード",
+    "translation": "블러디 카드",
+    "status": "manual_context_checked",
+    "offset": 478562
+  },
+  "314": {
+    "source": "モーグリらんぶ",
+    "translation": "모그리 난무",
+    "status": "manual_context_checked",
+    "offset": 478570
+  },
+  "315": {
+    "source": "おしおきメテオ",
+    "translation": "응징의 메테오",
+    "status": "manual_context_checked",
+    "offset": 478578
+  },
+  "316": {
+    "source": "ハウンドタックル",
+    "translation": "하운드 태클",
+    "status": "manual_context_checked",
+    "offset": 478586
+  },
+  "317": {
+    "source": "ワイルドファング",
+    "translation": "와일드 팽",
+    "status": "manual_context_checked",
+    "offset": 478594
+  },
+  "318": {
+    "source": "ミシディアうさぎ",
+    "translation": "미시디아 토끼",
+    "status": "manual_context_checked",
+    "offset": 478602
+  },
+  "319": {
+    "source": "みしようちゃんよ",
+    "translation": "미사용",
+    "status": "manual_context_checked",
+    "offset": 478610
+  },
+  "320": {
+    "source": "さばきのいかづち",
+    "translation": "심판의 번개",
+    "status": "manual_context_checked",
+    "offset": 478618
+  },
+  "321": {
+    "source": "じごくのかえん",
+    "translation": "지옥의 화염",
+    "status": "manual_context_checked",
+    "offset": 478627
+  },
+  "322": {
+    "source": "ダイアモンドダスト",
+    "translation": "다이아몬드더스트",
+    "status": "manual_context_checked",
+    "offset": 478636
+  },
+  "323": {
+    "source": "ルナティックボイス",
+    "translation": "루나틱 보이스",
+    "status": "manual_context_checked",
+    "offset": 478645
+  },
+  "324": {
+    "source": "アースサラウンド",
+    "translation": "어스 서라운드",
+    "status": "manual_context_checked",
+    "offset": 478654
+  },
+  "325": {
+    "source": "あくまのひとみ",
+    "translation": "악마의 눈동자",
+    "status": "manual_context_checked",
+    "offset": 478663
+  },
+  "326": {
+    "source": "ケイオスウェイヴ",
+    "translation": "카오스 웨이브",
+    "status": "manual_context_checked",
+    "offset": 478672
+  },
+  "327": {
+    "source": "バブルブロウ",
+    "translation": "버블 블로",
+    "status": "manual_context_checked",
+    "offset": 478681
+  },
+  "328": {
+    "source": "キャットレイン",
+    "translation": "캣 레인",
+    "status": "manual_context_checked",
+    "offset": 478690
+  },
+  "329": {
+    "source": "ソニックダイブ",
+    "translation": "소닉 다이브",
+    "status": "manual_context_checked",
+    "offset": 478699
+  },
+  "330": {
+    "source": "トライディザスター",
+    "translation": "트라이디재스터",
+    "status": "manual_context_checked",
+    "offset": 478708
+  },
+  "331": {
+    "source": "斬鉄剣",
+    "translation": "참철검",
+    "status": "manual_context_checked",
+    "offset": 478717
+  },
+  "332": {
+    "source": "真・斬鉄剣",
+    "translation": "진·참철검",
+    "status": "manual_context_checked",
+    "offset": 478726
+  },
+  "333": {
+    "source": "メガフレア",
+    "translation": "메가플레어",
+    "status": "manual_context_checked",
+    "offset": 478735
+  },
+  "334": {
+    "source": "聖なるしんぱん",
+    "translation": "성스러운 심판",
+    "status": "manual_context_checked",
+    "offset": 478744
+  },
+  "335": {
+    "source": "てんちほうかい",
+    "translation": "천지붕괴",
+    "status": "manual_context_checked",
+    "offset": 478753
+  },
+  "336": {
+    "source": "メタモルフォース",
+    "translation": "메타모르포스",
+    "status": "manual_context_checked",
+    "offset": 478762
+  },
+  "337": {
+    "source": "ホーリーブライトン",
+    "translation": "홀리 브라이튼",
+    "status": "manual_context_checked",
+    "offset": 478771
+  },
+  "338": {
+    "source": "マジックシールド",
+    "translation": "매직 실드",
+    "status": "manual_context_checked",
+    "offset": 478780
+  },
+  "339": {
+    "source": "ルビーのひかり",
+    "translation": "루비의 빛",
+    "status": "manual_context_checked",
+    "offset": 478789
+  },
+  "340": {
+    "source": "バニシングボディー",
+    "translation": "배니싱 보디",
+    "status": "manual_context_checked",
+    "offset": 478798
+  },
+  "341": {
+    "source": "エンジェルフェザー",
+    "translation": "엔젤 페더",
+    "status": "manual_context_checked",
+    "offset": 478807
+  },
+  "342": {
+    "source": "アースウォール",
+    "translation": "어스 월",
+    "status": "manual_context_checked",
+    "offset": 478816
+  },
+  "343": {
+    "source": "ヒールホーン",
+    "translation": "힐 혼",
+    "status": "manual_context_checked",
+    "offset": 478825
+  },
+  "344": {
+    "source": "ハウリングムーン",
+    "translation": "하울링 문",
+    "status": "manual_context_checked",
+    "offset": 478834
+  },
+  "345": {
+    "source": "みわくのほうよう",
+    "translation": "매혹의 포옹",
+    "status": "manual_context_checked",
+    "offset": 478843
+  },
+  "346": {
+    "source": "てんせいのほのお",
+    "translation": "전생의 불꽃",
+    "status": "manual_context_checked",
+    "offset": 478852
+  },
+  "347": {
+    "source": "たたかう",
+    "translation": "공격",
+    "status": "manual_context_checked",
+    "offset": 66587
+  },
+  "348": {
+    "source": "アイテム",
+    "translation": "도구",
+    "status": "manual_context_checked",
+    "offset": 66593
+  },
+  "349": {
+    "source": "まほう",
+    "translation": "마법",
+    "status": "manual_context_checked",
+    "offset": 66599
+  },
+  "350": {
+    "source": "トランス",
+    "translation": "트랜스",
+    "status": "manual_context_checked",
+    "offset": 66605
+  },
+  "351": {
+    "source": "もどる",
+    "translation": "돌아가기",
+    "status": "manual_context_checked",
+    "offset": 66611
+  },
+  "352": {
+    "source": "ぬすむ",
+    "translation": "훔치기",
+    "status": "manual_context_checked",
+    "offset": 66617
+  },
+  "353": {
+    "source": "ぶんどる",
+    "translation": "강탈",
+    "status": "manual_context_checked",
+    "offset": 66623
+  },
+  "354": {
+    "source": "ひっさつけん",
+    "translation": "필살검",
+    "status": "manual_context_checked",
+    "offset": 66629
+  },
+  "355": {
+    "source": "なげる",
+    "translation": "던지기",
+    "status": "manual_context_checked",
+    "offset": 66635
+  },
+  "356": {
+    "source": "きかい",
+    "translation": "기계",
+    "status": "manual_context_checked",
+    "offset": 66641
+  },
+  "357": {
+    "source": "ひっさつわざ",
+    "translation": "필살기",
+    "status": "manual_context_checked",
+    "offset": 66647
+  },
+  "358": {
+    "source": "まふうけん",
+    "translation": "마봉검",
+    "status": "manual_context_checked",
+    "offset": 66653
+  },
+  "359": {
+    "source": "おぼえたわざ",
+    "translation": "청마법",
+    "status": "manual_context_checked",
+    "offset": 66659
+  },
+  "360": {
+    "source": "スケッチ",
+    "translation": "스케치",
+    "status": "manual_context_checked",
+    "offset": 66665
+  },
+  "361": {
+    "source": "あやつる",
+    "translation": "조종",
+    "status": "manual_context_checked",
+    "offset": 66671
+  },
+  "362": {
+    "source": "スロット",
+    "translation": "슬롯",
+    "status": "manual_context_checked",
+    "offset": 66677
+  },
+  "363": {
+    "source": "あばれる",
+    "translation": "날뛰기",
+    "status": "manual_context_checked",
+    "offset": 66683
+  },
+  "364": {
+    "source": "とびこむ",
+    "translation": "뛰어들기",
+    "status": "manual_context_checked",
+    "offset": 66689
+  },
+  "365": {
+    "source": "ものまね",
+    "translation": "흉내",
+    "status": "manual_context_checked",
+    "offset": 66695
+  },
+  "366": {
+    "source": "おどる",
+    "translation": "춤",
+    "status": "manual_context_checked",
+    "offset": 66701
+  },
+  "367": {
+    "source": "チェンジ",
+    "translation": "대열",
+    "status": "manual_context_checked",
+    "offset": 66707
+  },
+  "368": {
+    "source": "ぼうぎょ",
+    "translation": "방어",
+    "status": "manual_context_checked",
+    "offset": 66713
+  },
+  "369": {
+    "source": "ジャンプ",
+    "translation": "점프",
+    "status": "manual_context_checked",
+    "offset": 66719
+  },
+  "370": {
+    "source": "れんぞくま",
+    "translation": "연속마법",
+    "status": "manual_context_checked",
+    "offset": 66725
+  },
+  "371": {
+    "source": "ぜになげ",
+    "translation": "돈 던지기",
+    "status": "manual_context_checked",
+    "offset": 66731
+  },
+  "372": {
+    "source": "しょうかん",
+    "translation": "소환",
+    "status": "manual_context_checked",
+    "offset": 66737
+  },
+  "373": {
+    "source": "いのる",
+    "translation": "기도",
+    "status": "manual_context_checked",
+    "offset": 66743
+  },
+  "374": {
+    "source": "ショック",
+    "translation": "쇼크",
+    "status": "manual_context_checked",
+    "offset": 66749
+  },
+  "375": {
+    "source": "とりつく",
+    "translation": "빙의",
+    "status": "manual_context_checked",
+    "offset": 66755
+  },
+  "376": {
+    "source": "まどう",
+    "translation": "마도",
+    "status": "manual_context_checked",
+    "offset": 66761
+  },
+  "377": {
+    "source": "",
+    "translation": "",
+    "status": "manual_context_checked",
+    "offset": 66767
+  },
+  "378": {
+    "source": "",
+    "translation": "",
+    "status": "manual_context_checked",
+    "offset": 66773
+  },
+  "379": {
+    "source": "{dagger}ダガー",
+    "translation": "{dagger}대거",
+    "status": "manual_context_checked",
+    "offset": 474364
+  },
+  "380": {
+    "source": "{dagger}ミスリルナイフ",
+    "translation": "{dagger}미스릴나이프",
+    "status": "manual_context_checked",
+    "offset": 474373
+  },
+  "381": {
+    "source": "{dagger}マインゴーシュ",
+    "translation": "{dagger}망고슈",
+    "status": "manual_context_checked",
+    "offset": 474382
+  },
+  "382": {
+    "source": "{dagger}エアナイフ",
+    "translation": "{dagger}에어나이프",
+    "status": "manual_context_checked",
+    "offset": 474391
+  },
+  "383": {
+    "source": "{dagger}とうぞくのナイフ",
+    "translation": "{dagger}도적의 나이프",
+    "status": "manual_context_checked",
+    "offset": 474400
+  },
+  "384": {
+    "source": "{dagger}アサシンダガー",
+    "translation": "{dagger}어쌔신대거",
+    "status": "manual_context_checked",
+    "offset": 474409
+  },
+  "385": {
+    "source": "{dagger}マンイーター",
+    "translation": "{dagger}맨이터",
+    "status": "manual_context_checked",
+    "offset": 474418
+  },
+  "386": {
+    "source": "{dagger}ソードブレーカー",
+    "translation": "{dagger}소드브레이커",
+    "status": "manual_context_checked",
+    "offset": 474427
+  },
+  "387": {
+    "source": "{dagger}グラディウス",
+    "translation": "{dagger}글라디우스",
+    "status": "manual_context_checked",
+    "offset": 474436
+  },
+  "388": {
+    "source": "{dagger}バリアントナイフ",
+    "translation": "{dagger}발리언트나이프",
+    "status": "manual_context_checked",
+    "offset": 474445
+  },
+  "389": {
+    "source": "{sword}ミスリルソード",
+    "translation": "{sword}미스릴소드",
+    "status": "manual_context_checked",
+    "offset": 474454
+  },
+  "390": {
+    "source": "{sword}グレートソード",
+    "translation": "{sword}그레이트소드",
+    "status": "manual_context_checked",
+    "offset": 474463
+  },
+  "391": {
+    "source": "{sword}ルーンブレイド",
+    "translation": "{sword}룬블레이드",
+    "status": "manual_context_checked",
+    "offset": 474472
+  },
+  "392": {
+    "source": "{sword}フレイムタン",
+    "translation": "{sword}플레임텅",
+    "status": "manual_context_checked",
+    "offset": 474481
+  },
+  "393": {
+    "source": "{sword}アイスブランド",
+    "translation": "{sword}아이스브랜드",
+    "status": "manual_context_checked",
+    "offset": 474490
+  },
+  "394": {
+    "source": "{sword}サンダーブレード",
+    "translation": "{sword}선더블레이드",
+    "status": "manual_context_checked",
+    "offset": 474499
+  },
+  "395": {
+    "source": "{sword}バスタードソード",
+    "translation": "{sword}바스타드소드",
+    "status": "manual_context_checked",
+    "offset": 474508
+  },
+  "396": {
+    "source": "{sword}ブレイクブレイド",
+    "translation": "{sword}브레이크블레이드",
+    "status": "manual_context_checked",
+    "offset": 474517
+  },
+  "397": {
+    "source": "{sword}ブラッドソード",
+    "translation": "{sword}블러드소드",
+    "status": "manual_context_checked",
+    "offset": 474526
+  },
+  "398": {
+    "source": "{sword}エンハンスソード",
+    "translation": "{sword}인핸스소드",
+    "status": "manual_context_checked",
+    "offset": 474535
+  },
+  "399": {
+    "source": "{sword}クリスタルソード",
+    "translation": "{sword}크리스털소드",
+    "status": "manual_context_checked",
+    "offset": 474544
+  },
+  "400": {
+    "source": "{sword}ファルシオン",
+    "translation": "{sword}팔시온",
+    "status": "manual_context_checked",
+    "offset": 474553
+  },
+  "401": {
+    "source": "{sword}ソウルセイバー",
+    "translation": "{sword}소울세이버",
+    "status": "manual_context_checked",
+    "offset": 474562
+  },
+  "402": {
+    "source": "{sword}オーガニクス",
+    "translation": "{sword}오거닉스",
+    "status": "manual_context_checked",
+    "offset": 474571
+  },
+  "403": {
+    "source": "{sword}エクスカリバー",
+    "translation": "{sword}엑스칼리버",
+    "status": "manual_context_checked",
+    "offset": 474580
+  },
+  "404": {
+    "source": "{sword}ざんてつけん",
+    "translation": "{sword}참철검",
+    "status": "manual_context_checked",
+    "offset": 474589
+  },
+  "405": {
+    "source": "{sword}ライトブリンガー",
+    "translation": "{sword}라이트브링어",
+    "status": "manual_context_checked",
+    "offset": 474598
+  },
+  "406": {
+    "source": "{sword}ラグナロク",
+    "translation": "{sword}라그나로크",
+    "status": "manual_context_checked",
+    "offset": 474607
+  },
+  "407": {
+    "source": "{sword}アルテマウェポン",
+    "translation": "{sword}알테마웨폰",
+    "status": "manual_context_checked",
+    "offset": 474616
+  },
+  "408": {
+    "source": "{spear}ミスリルスピア",
+    "translation": "{spear}미스릴스피어",
+    "status": "manual_context_checked",
+    "offset": 474625
+  },
+  "409": {
+    "source": "{spear}トライデント",
+    "translation": "{spear}트라이던트",
+    "status": "manual_context_checked",
+    "offset": 474634
+  },
+  "410": {
+    "source": "{spear}ヘヴィランス",
+    "translation": "{spear}헤비랜스",
+    "status": "manual_context_checked",
+    "offset": 474643
+  },
+  "411": {
+    "source": "{spear}パルチザン",
+    "translation": "{spear}파르티잔",
+    "status": "manual_context_checked",
+    "offset": 474652
+  },
+  "412": {
+    "source": "{spear}ホーリーランス",
+    "translation": "{spear}홀리랜스",
+    "status": "manual_context_checked",
+    "offset": 474661
+  },
+  "413": {
+    "source": "{spear}ゴールデンスピア",
+    "translation": "{spear}골든스피어",
+    "status": "manual_context_checked",
+    "offset": 474670
+  },
+  "414": {
+    "source": "{spear}グローランス",
+    "translation": "{spear}글로우랜스",
+    "status": "manual_context_checked",
+    "offset": 474679
+  },
+  "415": {
+    "source": "{spear}さごじょうのやり",
+    "translation": "{spear}사오정의 창",
+    "status": "manual_context_checked",
+    "offset": 474688
+  },
+  "416": {
+    "source": "{dagger}くない",
+    "translation": "{dagger}쿠나이",
+    "status": "manual_context_checked",
+    "offset": 474697
+  },
+  "417": {
+    "source": "{dagger}こだち",
+    "translation": "{dagger}소도",
+    "status": "manual_context_checked",
+    "offset": 474706
+  },
+  "418": {
+    "source": "{dagger}さくらふぶき",
+    "translation": "{dagger}벚꽃보라",
+    "status": "manual_context_checked",
+    "offset": 474715
+  },
+  "419": {
+    "source": "{dagger}さすけのかたな",
+    "translation": "{dagger}사스케의 검",
+    "status": "manual_context_checked",
+    "offset": 474724
+  },
+  "420": {
+    "source": "{dagger}いちげきのやいば",
+    "translation": "{dagger}일격의 칼",
+    "status": "manual_context_checked",
+    "offset": 474733
+  },
+  "421": {
+    "source": "{dagger}かげぬい",
+    "translation": "{dagger}그림자꿰기",
+    "status": "manual_context_checked",
+    "offset": 474742
+  },
+  "422": {
+    "source": "{katana}あしゅら",
+    "translation": "{katana}아수라",
+    "status": "manual_context_checked",
+    "offset": 474751
+  },
+  "423": {
+    "source": "{katana}こてつ",
+    "translation": "{katana}코테쓰",
+    "status": "manual_context_checked",
+    "offset": 474760
+  },
+  "424": {
+    "source": "{katana}きくいちもんじ",
+    "translation": "{katana}키쿠이치몬지",
+    "status": "manual_context_checked",
+    "offset": 474769
+  },
+  "425": {
+    "source": "{katana}かぜきりのやいば",
+    "translation": "{katana}바람 가르는 칼",
+    "status": "manual_context_checked",
+    "offset": 474778
+  },
+  "426": {
+    "source": "{katana}むらさめ",
+    "translation": "{katana}무라사메",
+    "status": "manual_context_checked",
+    "offset": 474787
+  },
+  "427": {
+    "source": "{katana}まさむね",
+    "translation": "{katana}마사무네",
+    "status": "manual_context_checked",
+    "offset": 474796
+  },
+  "428": {
+    "source": "{katana}あめのむらくも",
+    "translation": "{katana}아마노무라쿠모",
+    "status": "manual_context_checked",
+    "offset": 474805
+  },
+  "429": {
+    "source": "{katana}むつのかみ",
+    "translation": "{katana}무쓰노카미",
+    "status": "manual_context_checked",
+    "offset": 474814
+  },
+  "430": {
+    "source": "{staff}ヒールロッド",
+    "translation": "{staff}치유의 로드",
+    "status": "manual_context_checked",
+    "offset": 474823
+  },
+  "431": {
+    "source": "{staff}ミスリルロッド",
+    "translation": "{staff}미스릴로드",
+    "status": "manual_context_checked",
+    "offset": 474832
+  },
+  "432": {
+    "source": "{staff}ほのおのロッド",
+    "translation": "{staff}불꽃의 로드",
+    "status": "manual_context_checked",
+    "offset": 474841
+  },
+  "433": {
+    "source": "{staff}こおりのロッド",
+    "translation": "{staff}얼음의 로드",
+    "status": "manual_context_checked",
+    "offset": 474850
+  },
+  "434": {
+    "source": "{staff}いかづちのロッド",
+    "translation": "{staff}번개의 로드",
+    "status": "manual_context_checked",
+    "offset": 474859
+  },
+  "435": {
+    "source": "{staff}ポイズンロッド",
+    "translation": "{staff}포이즌로드",
+    "status": "manual_context_checked",
+    "offset": 474868
+  },
+  "436": {
+    "source": "{staff}ホーリーロッド",
+    "translation": "{staff}홀리로드",
+    "status": "manual_context_checked",
+    "offset": 474877
+  },
+  "437": {
+    "source": "{staff}グラビティロッド",
+    "translation": "{staff}그래비티로드",
+    "status": "manual_context_checked",
+    "offset": 474886
+  },
+  "438": {
+    "source": "{staff}パニッシャー",
+    "translation": "{staff}퍼니셔",
+    "status": "manual_context_checked",
+    "offset": 474895
+  },
+  "439": {
+    "source": "{staff}ウィザードロッド",
+    "translation": "{staff}위저드로드",
+    "status": "manual_context_checked",
+    "offset": 474904
+  },
+  "440": {
+    "source": "{brush}チョコボのふで",
+    "translation": "{brush}초코보의 붓",
+    "status": "manual_context_checked",
+    "offset": 474913
+  },
+  "441": {
+    "source": "{brush}ダビンチのふで",
+    "translation": "{brush}다빈치의 붓",
+    "status": "manual_context_checked",
+    "offset": 474922
+  },
+  "442": {
+    "source": "{brush}マジカルブラシ",
+    "translation": "{brush}마법의 붓",
+    "status": "manual_context_checked",
+    "offset": 474931
+  },
+  "443": {
+    "source": "{brush}レインボーブラシ",
+    "translation": "{brush}무지개 붓",
+    "status": "manual_context_checked",
+    "offset": 474940
+  },
+  "444": {
+    "source": "{star}しゅりけん",
+    "translation": "{star}수리검",
+    "status": "manual_context_checked",
+    "offset": 474949
+  },
+  "445": {
+    "source": "{star}ふうましゅりけん",
+    "translation": "{star}풍마수리검",
+    "status": "manual_context_checked",
+    "offset": 474958
+  },
+  "446": {
+    "source": "{star}かざぐるま",
+    "translation": "{star}풍차",
+    "status": "manual_context_checked",
+    "offset": 474967
+  },
+  "447": {
+    "source": "{special}チェインフレイル",
+    "translation": "{special}체인플레일",
+    "status": "manual_context_checked",
+    "offset": 474976
+  },
+  "448": {
+    "source": "{special}えんげつりん",
+    "translation": "{special}원월륜",
+    "status": "manual_context_checked",
+    "offset": 474985
+  },
+  "449": {
+    "source": "{special}モーニングスター",
+    "translation": "{special}모닝스타",
+    "status": "manual_context_checked",
+    "offset": 474994
+  },
+  "450": {
+    "source": "{special}ブーメラン",
+    "translation": "{special}부메랑",
+    "status": "manual_context_checked",
+    "offset": 475003
+  },
+  "451": {
+    "source": "{special}ライジングサン",
+    "translation": "{special}라이징선",
+    "status": "manual_context_checked",
+    "offset": 475012
+  },
+  "452": {
+    "source": "{special}ホークアイ",
+    "translation": "{special}호크아이",
+    "status": "manual_context_checked",
+    "offset": 475021
+  },
+  "453": {
+    "source": "{special}ボーンクラブ",
+    "translation": "{special}뼈몽둥이",
+    "status": "manual_context_checked",
+    "offset": 475030
+  },
+  "454": {
+    "source": "{special}スナイパー",
+    "translation": "{special}스나이퍼",
+    "status": "manual_context_checked",
+    "offset": 475039
+  },
+  "455": {
+    "source": "{special}ウィングエッジ",
+    "translation": "{special}윙에지",
+    "status": "manual_context_checked",
+    "offset": 475048
+  },
+  "456": {
+    "source": "{card}カード",
+    "translation": "{card}카드",
+    "status": "manual_context_checked",
+    "offset": 475057
+  },
+  "457": {
+    "source": "{card}ダーツ",
+    "translation": "{card}다트",
+    "status": "manual_context_checked",
+    "offset": 475066
+  },
+  "458": {
+    "source": "{card}しにがみのカード",
+    "translation": "{card}사신의 카드",
+    "status": "manual_context_checked",
+    "offset": 475075
+  },
+  "459": {
+    "source": "{card}いちげきのダーツ",
+    "translation": "{card}일격의 다트",
+    "status": "manual_context_checked",
+    "offset": 475084
+  },
+  "460": {
+    "source": "{card}ダイス",
+    "translation": "{card}주사위",
+    "status": "manual_context_checked",
+    "offset": 475093
+  },
+  "461": {
+    "source": "{card}イカサマのダイス",
+    "translation": "{card}사기 주사위",
+    "status": "manual_context_checked",
+    "offset": 475102
+  },
+  "462": {
+    "source": "{claw}メタルナックル",
+    "translation": "{claw}메탈너클",
+    "status": "manual_context_checked",
+    "offset": 475111
+  },
+  "463": {
+    "source": "{claw}ミスリルクロー",
+    "translation": "{claw}미스릴클로",
+    "status": "manual_context_checked",
+    "offset": 475120
+  },
+  "464": {
+    "source": "{claw}カイザーナックル",
+    "translation": "{claw}카이저너클",
+    "status": "manual_context_checked",
+    "offset": 475129
+  },
+  "465": {
+    "source": "{claw}ダーククロー",
+    "translation": "{claw}다크클로",
+    "status": "manual_context_checked",
+    "offset": 475138
+  },
+  "466": {
+    "source": "{claw}バーニンナックル",
+    "translation": "{claw}버닝너클",
+    "status": "manual_context_checked",
+    "offset": 475147
+  },
+  "467": {
+    "source": "{claw}ドラゴンクロー",
+    "translation": "{claw}드래곤클로",
+    "status": "manual_context_checked",
+    "offset": 475156
+  },
+  "468": {
+    "source": "{claw}タイガーファング",
+    "translation": "{claw}타이거팽",
+    "status": "manual_context_checked",
+    "offset": 475165
+  },
+  "469": {
+    "source": "{shield}バックラー",
+    "translation": "{shield}버클러",
+    "status": "manual_context_checked",
+    "offset": 475174
+  },
+  "470": {
+    "source": "{shield}ラージシールド",
+    "translation": "{shield}대형 방패",
+    "status": "manual_context_checked",
+    "offset": 475183
+  },
+  "471": {
+    "source": "{shield}ミスリルシールド",
+    "translation": "{shield}미스릴실드",
+    "status": "manual_context_checked",
+    "offset": 475192
+  },
+  "472": {
+    "source": "{shield}ゴールドシールド",
+    "translation": "{shield}골드실드",
+    "status": "manual_context_checked",
+    "offset": 475201
+  },
+  "473": {
+    "source": "{shield}イージスのたて",
+    "translation": "{shield}이지스의 방패",
+    "status": "manual_context_checked",
+    "offset": 475210
+  },
+  "474": {
+    "source": "{shield}ダイアのたて",
+    "translation": "{shield}다이아 방패",
+    "status": "manual_context_checked",
+    "offset": 475219
+  },
+  "475": {
+    "source": "{shield}フレイムシールド",
+    "translation": "{shield}불꽃 방패",
+    "status": "manual_context_checked",
+    "offset": 475228
+  },
+  "476": {
+    "source": "{shield}アイスシールド",
+    "translation": "{shield}얼음 방패",
+    "status": "manual_context_checked",
+    "offset": 475237
+  },
+  "477": {
+    "source": "{shield}らいじんのたて",
+    "translation": "{shield}뇌신의 방패",
+    "status": "manual_context_checked",
+    "offset": 475246
+  },
+  "478": {
+    "source": "{shield}クリスタルのたて",
+    "translation": "{shield}크리스털 방패",
+    "status": "manual_context_checked",
+    "offset": 475255
+  },
+  "479": {
+    "source": "{shield}げんじのたて",
+    "translation": "{shield}겐지의 방패",
+    "status": "manual_context_checked",
+    "offset": 475264
+  },
+  "480": {
+    "source": "{shield}こうらのたて",
+    "translation": "{shield}등껍질 방패",
+    "status": "manual_context_checked",
+    "offset": 475273
+  },
+  "481": {
+    "source": "{shield}ちぬられたたて",
+    "translation": "{shield}피 묻은 방패",
+    "status": "manual_context_checked",
+    "offset": 475282
+  },
+  "482": {
+    "source": "{shield}えいゆうのたて",
+    "translation": "{shield}영웅의 방패",
+    "status": "manual_context_checked",
+    "offset": 475291
+  },
+  "483": {
+    "source": "{shield}フォースシールド",
+    "translation": "{shield}포스실드",
+    "status": "manual_context_checked",
+    "offset": 475300
+  },
+  "484": {
+    "source": "{helm}かわのぼうし",
+    "translation": "{helm}가죽 모자",
+    "status": "manual_context_checked",
+    "offset": 475309
+  },
+  "485": {
+    "source": "{helm}ヘアバンド",
+    "translation": "{helm}헤어밴드",
+    "status": "manual_context_checked",
+    "offset": 475318
+  },
+  "486": {
+    "source": "{helm}はねつきぼうし",
+    "translation": "{helm}깃털 모자",
+    "status": "manual_context_checked",
+    "offset": 475327
+  },
+  "487": {
+    "source": "{helm}ベレーぼう",
+    "translation": "{helm}베레모",
+    "status": "manual_context_checked",
+    "offset": 475336
+  },
+  "488": {
+    "source": "{helm}さんかくぼうし",
+    "translation": "{helm}고깔모자",
+    "status": "manual_context_checked",
+    "offset": 475345
+  },
+  "489": {
+    "source": "{helm}バンダナ",
+    "translation": "{helm}반다나",
+    "status": "manual_context_checked",
+    "offset": 475354
+  },
+  "490": {
+    "source": "{helm}アイアンヘルム",
+    "translation": "{helm}아이언헬름",
+    "status": "manual_context_checked",
+    "offset": 475363
+  },
+  "491": {
+    "source": "{helm}ヒュプノクラウン",
+    "translation": "{helm}히프노크라운",
+    "status": "manual_context_checked",
+    "offset": 475372
+  },
+  "492": {
+    "source": "{helm}しさいのぼうし",
+    "translation": "{helm}사제의 모자",
+    "status": "manual_context_checked",
+    "offset": 475381
+  },
+  "493": {
+    "source": "{helm}グリーンベレー",
+    "translation": "{helm}그린베레",
+    "status": "manual_context_checked",
+    "offset": 475390
+  },
+  "494": {
+    "source": "{helm}ねじりはちまき",
+    "translation": "{helm}꼬인 머리띠",
+    "status": "manual_context_checked",
+    "offset": 475399
+  },
+  "495": {
+    "source": "{helm}ミスリルヘルム",
+    "translation": "{helm}미스릴헬름",
+    "status": "manual_context_checked",
+    "offset": 475408
+  },
+  "496": {
+    "source": "{helm}ティアラ",
+    "translation": "{helm}티아라",
+    "status": "manual_context_checked",
+    "offset": 475417
+  },
+  "497": {
+    "source": "{helm}ゴールドヘルム",
+    "translation": "{helm}골드헬름",
+    "status": "manual_context_checked",
+    "offset": 475426
+  },
+  "498": {
+    "source": "{helm}タイガーマスク",
+    "translation": "{helm}타이거마스크",
+    "status": "manual_context_checked",
+    "offset": 475435
+  },
+  "499": {
+    "source": "{helm}レッドキャップ",
+    "translation": "{helm}레드캡",
+    "status": "manual_context_checked",
+    "offset": 475444
+  },
+  "500": {
+    "source": "{helm}しんぴのヴェール",
+    "translation": "{helm}신비의 베일",
+    "status": "manual_context_checked",
+    "offset": 475453
+  },
+  "501": {
+    "source": "{helm}サークレット",
+    "translation": "{helm}서클릿",
+    "status": "manual_context_checked",
+    "offset": 475462
+  },
+  "502": {
+    "source": "{helm}ロイヤルクラウン",
+    "translation": "{helm}로열크라운",
+    "status": "manual_context_checked",
+    "offset": 475471
+  },
+  "503": {
+    "source": "{helm}ダイアのかぶと",
+    "translation": "{helm}다이아 투구",
+    "status": "manual_context_checked",
+    "offset": 475480
+  },
+  "504": {
+    "source": "{helm}くろずきん",
+    "translation": "{helm}검은 두건",
+    "status": "manual_context_checked",
+    "offset": 475489
+  },
+  "505": {
+    "source": "{helm}クリスタルヘルム",
+    "translation": "{helm}크리스털헬름",
+    "status": "manual_context_checked",
+    "offset": 475498
+  },
+  "506": {
+    "source": "{helm}ちかいのヴェール",
+    "translation": "{helm}맹세의 베일",
+    "status": "manual_context_checked",
+    "offset": 475507
+  },
+  "507": {
+    "source": "{helm}ネコみみフード",
+    "translation": "{helm}고양이 귀 두건",
+    "status": "manual_context_checked",
+    "offset": 475516
+  },
+  "508": {
+    "source": "{helm}げんじのかぶと",
+    "translation": "{helm}겐지의 투구",
+    "status": "manual_context_checked",
+    "offset": 475525
+  },
+  "509": {
+    "source": "{helm}いばらのかんむり",
+    "translation": "{helm}가시 왕관",
+    "status": "manual_context_checked",
+    "offset": 475534
+  },
+  "510": {
+    "source": "{helm}さら",
+    "translation": "{helm}접시",
+    "status": "manual_context_checked",
+    "offset": 475543
+  },
+  "511": {
+    "source": "{armor}レザーアーマー",
+    "translation": "{armor}가죽 갑옷",
+    "status": "manual_context_checked",
+    "offset": 475552
+  },
+  "512": {
+    "source": "{armor}もめんのローブ",
+    "translation": "{armor}무명 로브",
+    "status": "manual_context_checked",
+    "offset": 475561
+  },
+  "513": {
+    "source": "{armor}けんぽうぎ",
+    "translation": "{armor}도복",
+    "status": "manual_context_checked",
+    "offset": 475570
+  },
+  "514": {
+    "source": "{armor}アイアンアーマー",
+    "translation": "{armor}아이언아머",
+    "status": "manual_context_checked",
+    "offset": 475579
+  },
+  "515": {
+    "source": "{armor}シルクのローブ",
+    "translation": "{armor}비단 로브",
+    "status": "manual_context_checked",
+    "offset": 475588
+  },
+  "516": {
+    "source": "{armor}ミスリルプレート",
+    "translation": "{armor}미스릴플레이트",
+    "status": "manual_context_checked",
+    "offset": 475597
+  },
+  "517": {
+    "source": "{armor}しのびのころも",
+    "translation": "{armor}닌자의 옷",
+    "status": "manual_context_checked",
+    "offset": 475606
+  },
+  "518": {
+    "source": "{armor}ホワイトドレス",
+    "translation": "{armor}화이트드레스",
+    "status": "manual_context_checked",
+    "offset": 475615
+  },
+  "519": {
+    "source": "{armor}ミスリルメイル",
+    "translation": "{armor}미스릴메일",
+    "status": "manual_context_checked",
+    "offset": 475624
+  },
+  "520": {
+    "source": "{armor}だいちのころも",
+    "translation": "{armor}대지의 옷",
+    "status": "manual_context_checked",
+    "offset": 475633
+  },
+  "521": {
+    "source": "{armor}ミラージュベスト",
+    "translation": "{armor}미라주베스트",
+    "status": "manual_context_checked",
+    "offset": 475642
+  },
+  "522": {
+    "source": "{armor}ゴールドアーマー",
+    "translation": "{armor}골드아머",
+    "status": "manual_context_checked",
+    "offset": 475651
+  },
+  "523": {
+    "source": "{armor}ちからだすき",
+    "translation": "{armor}힘의 띠",
+    "status": "manual_context_checked",
+    "offset": 475660
+  },
+  "524": {
+    "source": "{armor}ひかりのローブ",
+    "translation": "{armor}빛의 로브",
+    "status": "manual_context_checked",
+    "offset": 475669
+  },
+  "525": {
+    "source": "{armor}ダイアのむねあて",
+    "translation": "{armor}다이아 흉갑",
+    "status": "manual_context_checked",
+    "offset": 475678
+  },
+  "526": {
+    "source": "{armor}レッドジャケット",
+    "translation": "{armor}레드재킷",
+    "status": "manual_context_checked",
+    "offset": 475687
+  },
+  "527": {
+    "source": "{armor}フォースアーマー",
+    "translation": "{armor}포스아머",
+    "status": "manual_context_checked",
+    "offset": 475696
+  },
+  "528": {
+    "source": "{armor}ダイアのよろい",
+    "translation": "{armor}다이아 갑옷",
+    "status": "manual_context_checked",
+    "offset": 475705
+  },
+  "529": {
+    "source": "{armor}くろしょうぞく",
+    "translation": "{armor}검은 도복",
+    "status": "manual_context_checked",
+    "offset": 475714
+  },
+  "530": {
+    "source": "{armor}どうしのローブ",
+    "translation": "{armor}도사의 로브",
+    "status": "manual_context_checked",
+    "offset": 475723
+  },
+  "531": {
+    "source": "{armor}クリスタルメイル",
+    "translation": "{armor}크리스털메일",
+    "status": "manual_context_checked",
+    "offset": 475732
+  },
+  "532": {
+    "source": "{armor}プリンセスドレス",
+    "translation": "{armor}프린세스드레스",
+    "status": "manual_context_checked",
+    "offset": 475741
+  },
+  "533": {
+    "source": "{armor}げんじのよろい",
+    "translation": "{armor}겐지의 갑옷",
+    "status": "manual_context_checked",
+    "offset": 475750
+  },
+  "534": {
+    "source": "{armor}アーマーガッパ",
+    "translation": "{armor}임프 아머",
+    "status": "manual",
+    "offset": 475759
+  },
+  "535": {
+    "source": "{armor}ミネルバビスチェ",
+    "translation": "{armor}미네르바 뷔스티에",
+    "status": "manual",
+    "offset": 475768
+  },
+  "536": {
+    "source": "{armor}ゴロネコスーツ",
+    "translation": "{armor}고로네코슈트",
+    "status": "manual_context_checked",
+    "offset": 475777
+  },
+  "537": {
+    "source": "{armor}チョコボスーツ",
+    "translation": "{armor}초코보슈트",
+    "status": "manual_context_checked",
+    "offset": 475786
+  },
+  "538": {
+    "source": "{armor}モーグリスーツ",
+    "translation": "{armor}모그리슈트",
+    "status": "manual_context_checked",
+    "offset": 475795
+  },
+  "539": {
+    "source": "{armor}ナッツンスーツ",
+    "translation": "{armor}나쯘슈트",
+    "status": "manual_context_checked",
+    "offset": 475804
+  },
+  "540": {
+    "source": "{armor}ベヒーモスーツ",
+    "translation": "{armor}베히모슈트",
+    "status": "manual_context_checked",
+    "offset": 475813
+  },
+  "541": {
+    "source": "{armor}スノーマフラー",
+    "translation": "{armor}스노머플러",
+    "status": "manual_context_checked",
+    "offset": 475822
+  },
+  "542": {
+    "source": "{tool}ブラストボイス",
+    "translation": "{tool}블래스트보이스",
+    "status": "manual_context_checked",
+    "offset": 475831
+  },
+  "543": {
+    "source": "{tool}バイオブラスト",
+    "translation": "{tool}바이오블래스트",
+    "status": "manual_context_checked",
+    "offset": 475840
+  },
+  "544": {
+    "source": "{tool}サンビーム",
+    "translation": "{tool}선빔",
+    "status": "manual_context_checked",
+    "offset": 475849
+  },
+  "545": {
+    "source": "{tool}かいてんのこぎり",
+    "translation": "{tool}회전톱",
+    "status": "manual_context_checked",
+    "offset": 475858
+  },
+  "546": {
+    "source": "{tool}ウイークメーカー",
+    "translation": "{tool}위크메이커",
+    "status": "manual_context_checked",
+    "offset": 475867
+  },
+  "547": {
+    "source": "{tool}ドリル",
+    "translation": "{tool}드릴",
+    "status": "manual_context_checked",
+    "offset": 475876
+  },
+  "548": {
+    "source": "{tool}エアアンカー",
+    "translation": "{tool}에어앵커",
+    "status": "manual_context_checked",
+    "offset": 475885
+  },
+  "549": {
+    "source": "{tool}オートボウガン",
+    "translation": "{tool}자동쇠뇌",
+    "status": "manual_context_checked",
+    "offset": 475894
+  },
+  "550": {
+    "source": "{scroll}かとん",
+    "translation": "{scroll}화둔",
+    "status": "manual_context_checked",
+    "offset": 475903
+  },
+  "551": {
+    "source": "{scroll}すいとん",
+    "translation": "{scroll}수둔",
+    "status": "manual_context_checked",
+    "offset": 475912
+  },
+  "552": {
+    "source": "{scroll}らいじん",
+    "translation": "{scroll}뇌신",
+    "status": "manual_context_checked",
+    "offset": 475921
+  },
+  "553": {
+    "source": "{scroll}このはがくれ",
+    "translation": "{scroll}나뭇잎 은신",
+    "status": "manual_context_checked",
+    "offset": 475930
+  },
+  "554": {
+    "source": "{scroll}かげぶんしん",
+    "translation": "{scroll}그림자 분신",
+    "status": "manual_context_checked",
+    "offset": 475939
+  },
+  "555": {
+    "source": "{relic}ぎんぶちめがね",
+    "translation": "{relic}은테 안경",
+    "status": "manual_context_checked",
+    "offset": 475948
+  },
+  "556": {
+    "source": "{relic}ほしのペンダント",
+    "translation": "{relic}별의 펜던트",
+    "status": "manual_context_checked",
+    "offset": 475957
+  },
+  "557": {
+    "source": "{relic}やすらぎのゆびわ",
+    "translation": "{relic}평온의 반지",
+    "status": "manual_context_checked",
+    "offset": 475966
+  },
+  "558": {
+    "source": "{relic}アミュレット",
+    "translation": "{relic}아뮬렛",
+    "status": "manual_context_checked",
+    "offset": 475975
+  },
+  "559": {
+    "source": "{relic}ホワイトケープ",
+    "translation": "{relic}화이트케이프",
+    "status": "manual_context_checked",
+    "offset": 475984
+  },
+  "560": {
+    "source": "{relic}ジュエルリング",
+    "translation": "{relic}보석 반지",
+    "status": "manual_context_checked",
+    "offset": 475993
+  },
+  "561": {
+    "source": "{relic}フェアリーリング",
+    "translation": "{relic}페어리링",
+    "status": "manual_context_checked",
+    "offset": 476002
+  },
+  "562": {
+    "source": "{relic}バリアリング",
+    "translation": "{relic}배리어링",
+    "status": "manual_context_checked",
+    "offset": 476011
+  },
+  "563": {
+    "source": "{relic}ミスリルのこて",
+    "translation": "{relic}미스릴 장갑",
+    "status": "manual_context_checked",
+    "offset": 476020
+  },
+  "564": {
+    "source": "{relic}プロテクトリング",
+    "translation": "{relic}프로텍트링",
+    "status": "manual_context_checked",
+    "offset": 476029
+  },
+  "565": {
+    "source": "{relic}エルメスのくつ",
+    "translation": "{relic}에르메스 신발",
+    "status": "manual_context_checked",
+    "offset": 476038
+  },
+  "566": {
+    "source": "{relic}リフレクトリング",
+    "translation": "{relic}리플렉트링",
+    "status": "manual_context_checked",
+    "offset": 476047
+  },
+  "567": {
+    "source": "{relic}てんしのはね",
+    "translation": "{relic}천사의 날개",
+    "status": "manual_context_checked",
+    "offset": 476056
+  },
+  "568": {
+    "source": "{relic}てんしのゆびわ",
+    "translation": "{relic}천사의 반지",
+    "status": "manual_context_checked",
+    "offset": 476065
+  },
+  "569": {
+    "source": "{relic}ナイトのこころえ",
+    "translation": "{relic}기사의 마음",
+    "status": "manual_context_checked",
+    "offset": 476074
+  },
+  "570": {
+    "source": "{relic}りゅうきしのくつ",
+    "translation": "{relic}용기사 신발",
+    "status": "manual_context_checked",
+    "offset": 476083
+  },
+  "571": {
+    "source": "{relic}そよかぜのマント",
+    "translation": "{relic}산들바람 망토",
+    "status": "manual_context_checked",
+    "offset": 476092
+  },
+  "572": {
+    "source": "{relic}プリンセスリング",
+    "translation": "{relic}프린세스링",
+    "status": "manual_context_checked",
+    "offset": 476101
+  },
+  "573": {
+    "source": "{relic}のろいのゆびわ",
+    "translation": "{relic}저주의 반지",
+    "status": "manual_context_checked",
+    "offset": 476110
+  },
+  "574": {
+    "source": "{relic}イヤリング",
+    "translation": "{relic}이어링",
+    "status": "manual_context_checked",
+    "offset": 476119
+  },
+  "575": {
+    "source": "{relic}きょじんのこて",
+    "translation": "{relic}거인의 장갑",
+    "status": "manual_context_checked",
+    "offset": 476128
+  },
+  "576": {
+    "source": "{relic}ふぶきのオーブ",
+    "translation": "{relic}눈보라 오브",
+    "status": "manual_context_checked",
+    "offset": 476137
+  },
+  "577": {
+    "source": "{relic}いかりのリング",
+    "translation": "{relic}분노의 반지",
+    "status": "manual_context_checked",
+    "offset": 476146
+  },
+  "578": {
+    "source": "{relic}とうぞくのうでわ",
+    "translation": "{relic}도적의 팔찌",
+    "status": "manual_context_checked",
+    "offset": 476155
+  },
+  "579": {
+    "source": "{relic}まもりのうでわ",
+    "translation": "{relic}수호의 팔찌",
+    "status": "manual_context_checked",
+    "offset": 476164
+  },
+  "580": {
+    "source": "{relic}ブレイブリング",
+    "translation": "{relic}브레이브링",
+    "status": "manual_context_checked",
+    "offset": 476173
+  },
+  "581": {
+    "source": "{relic}リボン",
+    "translation": "{relic}리본",
+    "status": "manual_context_checked",
+    "offset": 476182
+  },
+  "582": {
+    "source": "{relic}マッスルベルト",
+    "translation": "{relic}머슬벨트",
+    "status": "manual_context_checked",
+    "offset": 476191
+  },
+  "583": {
+    "source": "{relic}クリスタルオーブ",
+    "translation": "{relic}크리스털오브",
+    "status": "manual_context_checked",
+    "offset": 476200
+  },
+  "584": {
+    "source": "{relic}きんのかみかざり",
+    "translation": "{relic}금 머리장식",
+    "status": "manual_context_checked",
+    "offset": 476209
+  },
+  "585": {
+    "source": "{relic}スリースターズ",
+    "translation": "{relic}쓰리스타즈",
+    "status": "manual_context_checked",
+    "offset": 476218
+  },
+  "586": {
+    "source": "{relic}とうぞくのこて",
+    "translation": "{relic}도적의 장갑",
+    "status": "manual_context_checked",
+    "offset": 476227
+  },
+  "587": {
+    "source": "{relic}ガントレット",
+    "translation": "{relic}건틀릿",
+    "status": "manual_context_checked",
+    "offset": 476236
+  },
+  "588": {
+    "source": "{relic}げんじのこて",
+    "translation": "{relic}겐지의 장갑",
+    "status": "manual_context_checked",
+    "offset": 476245
+  },
+  "589": {
+    "source": "{relic}ハイパーリスト",
+    "translation": "{relic}하이퍼리스트",
+    "status": "manual_context_checked",
+    "offset": 476254
+  },
+  "590": {
+    "source": "{relic}かいでんのあかし",
+    "translation": "{relic}달인의 증표",
+    "status": "manual_context_checked",
+    "offset": 476263
+  },
+  "591": {
+    "source": "{relic}みきりのじゅず",
+    "translation": "{relic}회피의 염주",
+    "status": "manual_context_checked",
+    "offset": 476272
+  },
+  "592": {
+    "source": "{relic}ブラックベルト",
+    "translation": "{relic}블랙벨트",
+    "status": "manual_context_checked",
+    "offset": 476281
+  },
+  "593": {
+    "source": "{relic}へいじのじって",
+    "translation": "{relic}헤이지의 십수",
+    "status": "manual_context_checked",
+    "offset": 476290
+  },
+  "594": {
+    "source": "{relic}だんちょうのヒゲ",
+    "translation": "{relic}단장의 수염",
+    "status": "manual_context_checked",
+    "offset": 476299
+  },
+  "595": {
+    "source": "{relic}ソウルオブサマサ",
+    "translation": "{relic}사마사의 영혼",
+    "status": "manual_context_checked",
+    "offset": 476308
+  },
+  "596": {
+    "source": "{relic}ひりゅうのつの",
+    "translation": "{relic}비룡의 뿔",
+    "status": "manual_context_checked",
+    "offset": 476317
+  },
+  "597": {
+    "source": "{relic}くんしょう",
+    "translation": "{relic}훈장",
+    "status": "manual_context_checked",
+    "offset": 476326
+  },
+  "598": {
+    "source": "{relic}かたみのゆびわ",
+    "translation": "{relic}유품의 반지",
+    "status": "manual_context_checked",
+    "offset": 476335
+  },
+  "599": {
+    "source": "{relic}セーフティビット",
+    "translation": "{relic}세이프티비트",
+    "status": "manual_context_checked",
+    "offset": 476344
+  },
+  "600": {
+    "source": "{relic}ししゃのゆびわ",
+    "translation": "{relic}망자의 반지",
+    "status": "manual_context_checked",
+    "offset": 476353
+  },
+  "601": {
+    "source": "{relic}モルルのおまもり",
+    "translation": "{relic}모루루의 부적",
+    "status": "manual_context_checked",
+    "offset": 476362
+  },
+  "602": {
+    "source": "{relic}たいまのうでわ",
+    "translation": "{relic}퇴마의 팔찌",
+    "status": "manual_context_checked",
+    "offset": 476371
+  },
+  "603": {
+    "source": "{relic}ミラクルシューズ",
+    "translation": "{relic}미라클슈즈",
+    "status": "manual_context_checked",
+    "offset": 476380
+  },
+  "604": {
+    "source": "{relic}アラームピアス",
+    "translation": "{relic}알람피어스",
+    "status": "manual_context_checked",
+    "offset": 476389
+  },
+  "605": {
+    "source": "{relic}はやてのかんざし",
+    "translation": "{relic}질풍의 비녀",
+    "status": "manual_context_checked",
+    "offset": 476398
+  },
+  "606": {
+    "source": "{relic}スナイパーアイ",
+    "translation": "{relic}스나이퍼아이",
+    "status": "manual_context_checked",
+    "offset": 476407
+  },
+  "607": {
+    "source": "{relic}グロウエッグ",
+    "translation": "{relic}그로우에그",
+    "status": "manual_context_checked",
+    "offset": 476416
+  },
+  "608": {
+    "source": "{relic}タマのすず",
+    "translation": "{relic}타마의 방울",
+    "status": "manual_context_checked",
+    "offset": 476425
+  },
+  "609": {
+    "source": "{relic}ダッシューズ",
+    "translation": "{relic}대시슈즈",
+    "status": "manual_context_checked",
+    "offset": 476434
+  },
+  "610": {
+    "source": "□リネームカード",
+    "translation": "{pad}이름 변경 카드",
+    "status": "manual_context_checked",
+    "offset": 476443
+  },
+  "611": {
+    "source": "□ポーション",
+    "translation": "{pad}포션",
+    "status": "manual_context_checked",
+    "offset": 476452
+  },
+  "612": {
+    "source": "□ハイポーション",
+    "translation": "{pad}하이포션",
+    "status": "manual_context_checked",
+    "offset": 476461
+  },
+  "613": {
+    "source": "□エクスポーション",
+    "translation": "{pad}엑스포션",
+    "status": "manual_context_checked",
+    "offset": 476470
+  },
+  "614": {
+    "source": "□エーテル",
+    "translation": "{pad}에테르",
+    "status": "manual_context_checked",
+    "offset": 476479
+  },
+  "615": {
+    "source": "□エーテルターボ",
+    "translation": "{pad}터보에테르",
+    "status": "manual_context_checked",
+    "offset": 476488
+  },
+  "616": {
+    "source": "□エーテルスーパー",
+    "translation": "{pad}슈퍼에테르",
+    "status": "manual_context_checked",
+    "offset": 476497
+  },
+  "617": {
+    "source": "□エリクサー",
+    "translation": "{pad}엘릭서",
+    "status": "manual_context_checked",
+    "offset": 476506
+  },
+  "618": {
+    "source": "□ラストエリクサー",
+    "translation": "{pad}라스트엘릭서",
+    "status": "manual_context_checked",
+    "offset": 476515
+  },
+  "619": {
+    "source": "□フェニックスのお",
+    "translation": "{pad}불사조의 꼬리",
+    "status": "manual_context_checked",
+    "offset": 476524
+  },
+  "620": {
+    "source": "□せいすい",
+    "translation": "{pad}성수",
+    "status": "manual_context_checked",
+    "offset": 476533
+  },
+  "621": {
+    "source": "□どくけし",
+    "translation": "{pad}해독제",
+    "status": "manual_context_checked",
+    "offset": 476542
+  },
+  "622": {
+    "source": "□めぐすり",
+    "translation": "{pad}안약",
+    "status": "manual_context_checked",
+    "offset": 476551
+  },
+  "623": {
+    "source": "□きんのはり",
+    "translation": "{pad}금바늘",
+    "status": "manual_context_checked",
+    "offset": 476560
+  },
+  "624": {
+    "source": "□ばんのうやく",
+    "translation": "{pad}만능약",
+    "status": "manual_context_checked",
+    "offset": 476569
+  },
+  "625": {
+    "source": "□ねぶくろ",
+    "translation": "{pad}침낭",
+    "status": "manual_context_checked",
+    "offset": 476578
+  },
+  "626": {
+    "source": "□テント",
+    "translation": "{pad}텐트",
+    "status": "manual_context_checked",
+    "offset": 476587
+  },
+  "627": {
+    "source": "□イエローチェリー",
+    "translation": "{pad}옐로체리",
+    "status": "manual_context_checked",
+    "offset": 476596
+  },
+  "628": {
+    "source": "□ませきのかけら",
+    "translation": "{pad}마석 조각",
+    "status": "manual_context_checked",
+    "offset": 476605
+  },
+  "629": {
+    "source": "□スーパーボール",
+    "translation": "{pad}슈퍼볼",
+    "status": "manual_context_checked",
+    "offset": 476614
+  },
+  "630": {
+    "source": "□やまびこえんまく",
+    "translation": "{pad}메아리 연막",
+    "status": "manual_context_checked",
+    "offset": 476623
+  },
+  "631": {
+    "source": "□けむりだま",
+    "translation": "{pad}연막탄",
+    "status": "manual_context_checked",
+    "offset": 476632
+  },
+  "632": {
+    "source": "□テレポストーン",
+    "translation": "{pad}텔레포스톤",
+    "status": "manual_context_checked",
+    "offset": 476641
+  },
+  "633": {
+    "source": "□ほしにく",
+    "translation": "{pad}말린 고기",
+    "status": "manual_context_checked",
+    "offset": 476650
+  },
+  "634": {
+    "source": "□すで",
+    "translation": "{pad}맨손",
+    "status": "manual_context_checked",
+    "offset": 476659
+  },
+  "635": {
+    "source": "ガード",
+    "translation": "가드",
+    "status": "manual_context_checked",
+    "offset": 112384
+  },
+  "636": {
+    "source": "ていこくへい",
+    "translation": "제국병",
+    "status": "manual_context_checked",
+    "offset": 112392
+  },
+  "637": {
+    "source": "じゅうそうへい",
+    "translation": "중장병",
+    "status": "manual_context_checked",
+    "offset": 112400
+  },
+  "638": {
+    "source": "ニンジャ",
+    "translation": "닌자",
+    "status": "manual_context_checked",
+    "offset": 112408
+  },
+  "639": {
+    "source": "サムライ",
+    "translation": "사무라이",
+    "status": "manual_context_checked",
+    "offset": 112416
+  },
+  "640": {
+    "source": "ボルゲーゼ",
+    "translation": "보르게제",
+    "status": "manual_context_checked",
+    "offset": 112424
+  },
+  "641": {
+    "source": "マグナローダーズ",
+    "translation": "마그나로더스",
+    "status": "manual_context_checked",
+    "offset": 112432
+  },
+  "642": {
+    "source": "ようじんぼう",
+    "translation": "요짐보",
+    "status": "manual_context_checked",
+    "offset": 112440
+  },
+  "643": {
+    "source": "クラウド",
+    "translation": "클라우드",
+    "status": "manual_context_checked",
+    "offset": 112448
+  },
+  "644": {
+    "source": "ミスティ",
+    "translation": "미스티",
+    "status": "manual_context_checked",
+    "offset": 112456
+  },
+  "645": {
+    "source": "アルジャッブル",
+    "translation": "알자블",
+    "status": "manual_context_checked",
+    "offset": 112464
+  },
+  "646": {
+    "source": "ザグレム",
+    "translation": "자그렘",
+    "status": "manual_context_checked",
+    "offset": 112472
+  },
+  "647": {
+    "source": "アポクリファ",
+    "translation": "아포크리파",
+    "status": "manual_context_checked",
+    "offset": 112480
+  },
+  "648": {
+    "source": "ブラックフォース",
+    "translation": "블랙 포스",
+    "status": "manual_context_checked",
+    "offset": 112488
+  },
+  "649": {
+    "source": "エンゼルウィスパ",
+    "translation": "엔젤위스퍼",
+    "status": "manual_context_checked",
+    "offset": 112496
+  },
+  "650": {
+    "source": "オーバーソウル",
+    "translation": "오버소울",
+    "status": "manual_context_checked",
+    "offset": 112504
+  },
+  "651": {
+    "source": "デッドリーボーン",
+    "translation": "데들리본",
+    "status": "manual_context_checked",
+    "offset": 112512
+  },
+  "652": {
+    "source": "コマンダー",
+    "translation": "커맨더",
+    "status": "manual_context_checked",
+    "offset": 112520
+  },
+  "653": {
+    "source": "ムー",
+    "translation": "무",
+    "status": "manual_context_checked",
+    "offset": 112528
+  },
+  "654": {
+    "source": "ウェアラット",
+    "translation": "웨어랫",
+    "status": "manual_context_checked",
+    "offset": 112536
+  },
+  "655": {
+    "source": "ストールンベア",
+    "translation": "스톨른베어",
+    "status": "manual_context_checked",
+    "offset": 112544
+  },
+  "656": {
+    "source": "ベルモーダー",
+    "translation": "벨모더",
+    "status": "manual_context_checked",
+    "offset": 112552
+  },
+  "657": {
+    "source": "ムードスード",
+    "translation": "무드수드",
+    "status": "manual_context_checked",
+    "offset": 112560
+  },
+  "658": {
+    "source": "リフィーバニー",
+    "translation": "리피버니",
+    "status": "manual_context_checked",
+    "offset": 112568
+  },
+  "659": {
+    "source": "ストレイキャット",
+    "translation": "스트레이캣",
+    "status": "manual_context_checked",
+    "offset": 112576
+  },
+  "660": {
+    "source": "シルバリオ",
+    "translation": "실바리오",
+    "status": "manual_context_checked",
+    "offset": 112584
+  },
+  "661": {
+    "source": "ドーベルマン",
+    "translation": "도베르만",
+    "status": "manual_context_checked",
+    "offset": 112592
+  },
+  "662": {
+    "source": "メガロドルク",
+    "translation": "메갈로도르크",
+    "status": "manual_context_checked",
+    "offset": 112600
+  },
+  "663": {
+    "source": "ボス",
+    "translation": "보스",
+    "status": "manual_context_checked",
+    "offset": 112608
+  },
+  "664": {
+    "source": "ブリアレオス",
+    "translation": "브리아레오스",
+    "status": "manual_context_checked",
+    "offset": 112616
+  },
+  "665": {
+    "source": "ライジングビスト",
+    "translation": "라이징 비스트",
+    "status": "manual_context_checked",
+    "offset": 112624
+  },
+  "666": {
+    "source": "キマイラ",
+    "translation": "키마이라",
+    "status": "manual_context_checked",
+    "offset": 112632
+  },
+  "667": {
+    "source": "ベヒーモス",
+    "translation": "베히모스",
+    "status": "manual_context_checked",
+    "offset": 112640
+  },
+  "668": {
+    "source": "ファーブニル",
+    "translation": "파브닐",
+    "status": "manual_context_checked",
+    "offset": 112648
+  },
+  "669": {
+    "source": "レッサーロプロス",
+    "translation": "레서 로프로스",
+    "status": "manual_context_checked",
+    "offset": 112656
+  },
+  "670": {
+    "source": "ドラゴンフォシル",
+    "translation": "드래곤 포실",
+    "status": "manual_context_checked",
+    "offset": 112664
+  },
+  "671": {
+    "source": "ホーリードラゴン",
+    "translation": "홀리드래곤",
+    "status": "manual_context_checked",
+    "offset": 112672
+  },
+  "672": {
+    "source": "まじんりゅう",
+    "translation": "마신룡",
+    "status": "manual_context_checked",
+    "offset": 112680
+  },
+  "673": {
+    "source": "ブラキオレイドス",
+    "translation": "브라키오레이도스",
+    "status": "manual_context_checked",
+    "offset": 112688
+  },
+  "674": {
+    "source": "ティラノサウルス",
+    "translation": "티라노사우루스",
+    "status": "manual_context_checked",
+    "offset": 112696
+  },
+  "675": {
+    "source": "ブラックウィンド",
+    "translation": "블랙윈드",
+    "status": "manual_context_checked",
+    "offset": 112704
+  },
+  "676": {
+    "source": "エピオルニス",
+    "translation": "에피오르니스",
+    "status": "manual_context_checked",
+    "offset": 112712
+  },
+  "677": {
+    "source": "ヴァルチャー",
+    "translation": "벌처",
+    "status": "manual_context_checked",
+    "offset": 112720
+  },
+  "678": {
+    "source": "バセジアータ",
+    "translation": "바세지아타",
+    "status": "manual_context_checked",
+    "offset": 112728
+  },
+  "679": {
+    "source": "ゾッカ",
+    "translation": "조커",
+    "status": "manual_context_checked",
+    "offset": 112736
+  },
+  "680": {
+    "source": "トラッパー",
+    "translation": "트래퍼",
+    "status": "manual_context_checked",
+    "offset": 112744
+  },
+  "681": {
+    "source": "エポクスプレス",
+    "translation": "에포크스프레스",
+    "status": "manual_context_checked",
+    "offset": 112752
+  },
+  "682": {
+    "source": "セレイドホッパー",
+    "translation": "셀레이드 호퍼",
+    "status": "manual_context_checked",
+    "offset": 112760
+  },
+  "683": {
+    "source": "デルタビートル",
+    "translation": "델타 비틀",
+    "status": "manual_context_checked",
+    "offset": 112768
+  },
+  "684": {
+    "source": "キラーマンティス",
+    "translation": "킬러맨티스",
+    "status": "manual_context_checked",
+    "offset": 112776
+  },
+  "685": {
+    "source": "テラリウム",
+    "translation": "테라리움",
+    "status": "manual_context_checked",
+    "offset": 112784
+  },
+  "686": {
+    "source": "ロフレシュメドウ",
+    "translation": "로프레슈메도",
+    "status": "manual_context_checked",
+    "offset": 112792
+  },
+  "687": {
+    "source": "プレランタール",
+    "translation": "프레란타르",
+    "status": "manual_context_checked",
+    "offset": 112800
+  },
+  "688": {
+    "source": "バンパイアソーン",
+    "translation": "뱀파이어손",
+    "status": "manual_context_checked",
+    "offset": 112808
+  },
+  "689": {
+    "source": "カルタグラ",
+    "translation": "카르타그라",
+    "status": "manual_context_checked",
+    "offset": 112816
+  },
+  "690": {
+    "source": "ジークフリード",
+    "translation": "지크프리드",
+    "status": "manual_context_checked",
+    "offset": 112824
+  },
+  "691": {
+    "source": "イプルクラップル",
+    "translation": "이플크래플",
+    "status": "manual_context_checked",
+    "offset": 112832
+  },
+  "692": {
+    "source": "シビルアモル",
+    "translation": "시빌 아몰",
+    "status": "manual_context_checked",
+    "offset": 112840
+  },
+  "693": {
+    "source": "ディオルベーダ",
+    "translation": "디오르베다",
+    "status": "manual_context_checked",
+    "offset": 112848
+  },
+  "694": {
+    "source": "リーチフロッグ",
+    "translation": "리치프로그",
+    "status": "manual_context_checked",
+    "offset": 112856
+  },
+  "695": {
+    "source": "リザード",
+    "translation": "리자드",
+    "status": "manual_context_checked",
+    "offset": 112864
+  },
+  "696": {
+    "source": "リトワールビッヘ",
+    "translation": "리트와르비헤",
+    "status": "manual_context_checked",
+    "offset": 112872
+  },
+  "697": {
+    "source": "スラッグクロウラ",
+    "translation": "슬러그크롤러",
+    "status": "manual_context_checked",
+    "offset": 112880
+  },
+  "698": {
+    "source": "ヘルズハーレー",
+    "translation": "헬즈할리",
+    "status": "manual_context_checked",
+    "offset": 112888
+  },
+  "699": {
+    "source": "テュポーン",
+    "translation": "튜폰",
+    "status": "manual_context_checked",
+    "offset": 112896
+  },
+  "700": {
+    "source": "オニオン",
+    "translation": "어니언",
+    "status": "manual_context_checked",
+    "offset": 112904
+  },
+  "701": {
+    "source": "まどうアーマー",
+    "translation": "마도 아머",
+    "status": "manual",
+    "offset": 112912
+  },
+  "702": {
+    "source": "スカイアーマー",
+    "translation": "스카이 아머",
+    "status": "manual_context_checked",
+    "offset": 112920
+  },
+  "703": {
+    "source": "サテライト",
+    "translation": "새틀라이트",
+    "status": "manual_context_checked",
+    "offset": 112928
+  },
+  "704": {
+    "source": "アームドウェポン",
+    "translation": "암드 웨폰",
+    "status": "manual_context_checked",
+    "offset": 112936
+  },
+  "705": {
+    "source": "スピリッツァー",
+    "translation": "스피릿저",
+    "status": "manual_context_checked",
+    "offset": 112944
+  },
+  "706": {
+    "source": "プリン",
+    "translation": "푸딩",
+    "status": "manual_context_checked",
+    "offset": 112952
+  },
+  "707": {
+    "source": "ロゲノイア",
+    "translation": "로게노이아",
+    "status": "manual_context_checked",
+    "offset": 112960
+  },
+  "708": {
+    "source": "ハンプティ",
+    "translation": "햄프티",
+    "status": "manual_context_checked",
+    "offset": 112968
+  },
+  "709": {
+    "source": "コジャ",
+    "translation": "코자",
+    "status": "manual_context_checked",
+    "offset": 112976
+  },
+  "710": {
+    "source": "ドゥドゥフェドゥ",
+    "translation": "두두페두",
+    "status": "manual_context_checked",
+    "offset": 112984
+  },
+  "711": {
+    "source": "サボテンダー",
+    "translation": "사보텐더",
+    "status": "manual_context_checked",
+    "offset": 112992
+  },
+  "712": {
+    "source": "ハイウェイ",
+    "translation": "하이웨이",
+    "status": "manual_context_checked",
+    "offset": 113000
+  },
+  "713": {
+    "source": "ヴァイス",
+    "translation": "바이스",
+    "status": "manual_context_checked",
+    "offset": 113008
+  },
+  "714": {
+    "source": "ボム",
+    "translation": "봄",
+    "status": "manual_context_checked",
+    "offset": 113016
+  },
+  "715": {
+    "source": "ナラカミーチェ",
+    "translation": "나라카미체",
+    "status": "manual_context_checked",
+    "offset": 113024
+  },
+  "716": {
+    "source": "ルナティス",
+    "translation": "루나티스",
+    "status": "manual_context_checked",
+    "offset": 113032
+  },
+  "717": {
+    "source": "ベールダンス",
+    "translation": "베일 댄스",
+    "status": "manual_context_checked",
+    "offset": 113040
+  },
+  "718": {
+    "source": "ヒルギガース",
+    "translation": "힐기가스",
+    "status": "manual_context_checked",
+    "offset": 113048
+  },
+  "719": {
+    "source": "トンベリ",
+    "translation": "톤베리",
+    "status": "manual_context_checked",
+    "offset": 113056
+  },
+  "720": {
+    "source": "マジックポット",
+    "translation": "매직포트",
+    "status": "manual_context_checked",
+    "offset": 113064
+  },
+  "721": {
+    "source": "ムーバ",
+    "translation": "무버",
+    "status": "manual_context_checked",
+    "offset": 113072
+  },
+  "722": {
+    "source": "フィガロリザード",
+    "translation": "피가로리자드",
+    "status": "manual_context_checked",
+    "offset": 113080
+  },
+  "723": {
+    "source": "デボアハーン",
+    "translation": "데보아한",
+    "status": "manual_context_checked",
+    "offset": 113088
+  },
+  "724": {
+    "source": "アスピランス",
+    "translation": "아스피란스",
+    "status": "manual_context_checked",
+    "offset": 113096
+  },
+  "725": {
+    "source": "ゴースト",
+    "translation": "고스트",
+    "status": "manual_context_checked",
+    "offset": 113104
+  },
+  "726": {
+    "source": "クロウラ",
+    "translation": "크롤러",
+    "status": "manual_context_checked",
+    "offset": 113112
+  },
+  "727": {
+    "source": "デザートソーサー",
+    "translation": "데저트소서",
+    "status": "manual_context_checked",
+    "offset": 113120
+  },
+  "728": {
+    "source": "アラクラン",
+    "translation": "아라클란",
+    "status": "manual_context_checked",
+    "offset": 113128
+  },
+  "729": {
+    "source": "アクティニオン",
+    "translation": "액티니언",
+    "status": "manual_context_checked",
+    "offset": 113136
+  },
+  "730": {
+    "source": "サンドホース",
+    "translation": "샌드호스",
+    "status": "manual_context_checked",
+    "offset": 113144
+  },
+  "731": {
+    "source": "ダークサイド",
+    "translation": "다크 사이드",
+    "status": "manual_context_checked",
+    "offset": 113152
+  },
+  "732": {
+    "source": "モルボル",
+    "translation": "모르볼",
+    "status": "manual_context_checked",
+    "offset": 113160
+  },
+  "733": {
+    "source": "デミウルオク",
+    "translation": "데미우로크",
+    "status": "manual_context_checked",
+    "offset": 113168
+  },
+  "734": {
+    "source": "フォーパー",
+    "translation": "포퍼",
+    "status": "manual_context_checked",
+    "offset": 113176
+  },
+  "735": {
+    "source": "ガードリーダー",
+    "translation": "가드 리더",
+    "status": "manual_context_checked",
+    "offset": 113184
+  },
+  "736": {
+    "source": "そうちょう",
+    "translation": "상사",
+    "status": "manual_context_checked",
+    "offset": 113192
+  },
+  "737": {
+    "source": "ジェネラル",
+    "translation": "제너럴",
+    "status": "manual_context_checked",
+    "offset": 113200
+  },
+  "738": {
+    "source": "インビジブル",
+    "translation": "인비지블",
+    "status": "manual_context_checked",
+    "offset": 113208
+  },
+  "739": {
+    "source": "カムイ",
+    "translation": "카무이",
+    "status": "manual_context_checked",
+    "offset": 113216
+  },
+  "740": {
+    "source": "ウォーロック",
+    "translation": "워록",
+    "status": "manual_context_checked",
+    "offset": 113224
+  },
+  "741": {
+    "source": "ヴァージニティ",
+    "translation": "버지니티",
+    "status": "manual_context_checked",
+    "offset": 113232
+  },
+  "742": {
+    "source": "ジョーカー",
+    "translation": "조커",
+    "status": "manual_context_checked",
+    "offset": 113240
+  },
+  "743": {
+    "source": "モータードライブ",
+    "translation": "모터 드라이브",
+    "status": "manual_context_checked",
+    "offset": 113248
+  },
+  "744": {
+    "source": "サタン",
+    "translation": "사탄",
+    "status": "manual_context_checked",
+    "offset": 113256
+  },
+  "745": {
+    "source": "ポーカー",
+    "translation": "포커",
+    "status": "manual_context_checked",
+    "offset": 113264
+  },
+  "746": {
+    "source": "エナジーデーモン",
+    "translation": "에너지데몬",
+    "status": "manual_context_checked",
+    "offset": 113272
+  },
+  "747": {
+    "source": "マーハディーバ",
+    "translation": "마하디바",
+    "status": "manual_context_checked",
+    "offset": 113280
+  },
+  "748": {
+    "source": "ベクタハウンド",
+    "translation": "벡터하운드",
+    "status": "manual_context_checked",
+    "offset": 113288
+  },
+  "749": {
+    "source": "ピーピングベア",
+    "translation": "피핑 베어",
+    "status": "manual_context_checked",
+    "offset": 113296
+  },
+  "750": {
+    "source": "スタナー",
+    "translation": "스태너",
+    "status": "manual_context_checked",
+    "offset": 113304
+  },
+  "751": {
+    "source": "ソラト",
+    "translation": "소라토",
+    "status": "manual_context_checked",
+    "offset": 113312
+  },
+  "752": {
+    "source": "デストロイダー",
+    "translation": "디스트로이더",
+    "status": "manual_context_checked",
+    "offset": 113320
+  },
+  "753": {
+    "source": "シピーラビット",
+    "translation": "시피 래빗",
+    "status": "manual_context_checked",
+    "offset": 113328
+  },
+  "754": {
+    "source": "クアールキャット",
+    "translation": "쿠얼캣",
+    "status": "manual_context_checked",
+    "offset": 113336
+  },
+  "755": {
+    "source": "ブラッドファング",
+    "translation": "블러드팽",
+    "status": "manual_context_checked",
+    "offset": 113344
+  },
+  "756": {
+    "source": "バウンドハンター",
+    "translation": "바운드 헌터",
+    "status": "manual_context_checked",
+    "offset": 113352
+  },
+  "757": {
+    "source": "ゴルギアス",
+    "translation": "고르기아스",
+    "status": "manual_context_checked",
+    "offset": 113360
+  },
+  "758": {
+    "source": "ドン",
+    "translation": "돈",
+    "status": "manual_context_checked",
+    "offset": 113368
+  },
+  "759": {
+    "source": "ムルフシュ",
+    "translation": "무르프슈",
+    "status": "manual_context_checked",
+    "offset": 113376
+  },
+  "760": {
+    "source": "バルーンビスト",
+    "translation": "벌룬비스트",
+    "status": "manual_context_checked",
+    "offset": 113384
+  },
+  "761": {
+    "source": "ゴーキマイラ",
+    "translation": "고키마이라",
+    "status": "manual_context_checked",
+    "offset": 113392
+  },
+  "762": {
+    "source": "キングベヒーモス",
+    "translation": "킹 베히모스",
+    "status": "manual_context_checked",
+    "offset": 113400
+  },
+  "763": {
+    "source": "ベクタリトス",
+    "translation": "벡터리토스",
+    "status": "manual_context_checked",
+    "offset": 113408
+  },
+  "764": {
+    "source": "ワイバーン",
+    "translation": "와이번",
+    "status": "manual_context_checked",
+    "offset": 113416
+  },
+  "765": {
+    "source": "ドラゴンゾンビ",
+    "translation": "드래곤 좀비",
+    "status": "manual_context_checked",
+    "offset": 113424
+  },
+  "766": {
+    "source": "ドラゴン",
+    "translation": "드래곤",
+    "status": "manual_context_checked",
+    "offset": 113432
+  },
+  "767": {
+    "source": "オールドドラゴン",
+    "translation": "올드 드래곤",
+    "status": "manual_context_checked",
+    "offset": 113440
+  },
+  "768": {
+    "source": "ウェアドドラゴン",
+    "translation": "웨어드래곤",
+    "status": "manual_context_checked",
+    "offset": 113448
+  },
+  "769": {
+    "source": "セルピアス",
+    "translation": "세르피어스",
+    "status": "manual_context_checked",
+    "offset": 113456
+  },
+  "770": {
+    "source": "スプリンター",
+    "translation": "스프린터",
+    "status": "manual_context_checked",
+    "offset": 113464
+  },
+  "771": {
+    "source": "レネルジア",
+    "translation": "레넬지아",
+    "status": "manual_context_checked",
+    "offset": 113472
+  },
+  "772": {
+    "source": "マルコシアス",
+    "translation": "마르코시아스",
+    "status": "manual_context_checked",
+    "offset": 113480
+  },
+  "773": {
+    "source": "グルームウィンド",
+    "translation": "그룸 윈드",
+    "status": "manual_context_checked",
+    "offset": 113488
+  },
+  "774": {
+    "source": "ドロップ",
+    "translation": "드롭",
+    "status": "manual_context_checked",
+    "offset": 113496
+  },
+  "775": {
+    "source": "ブレインシュガー",
+    "translation": "브레인슈가",
+    "status": "manual_context_checked",
+    "offset": 113504
+  },
+  "776": {
+    "source": "グラスウィルム",
+    "translation": "그래스윔",
+    "status": "manual_context_checked",
+    "offset": 113512
+  },
+  "777": {
+    "source": "ルリダン",
+    "translation": "루리단",
+    "status": "manual_context_checked",
+    "offset": 113520
+  },
+  "778": {
+    "source": "トゥカッター",
+    "translation": "투커터",
+    "status": "manual_context_checked",
+    "offset": 113528
+  },
+  "779": {
+    "source": "パララディア",
+    "translation": "패러라디아",
+    "status": "manual_context_checked",
+    "offset": 113536
+  },
+  "780": {
+    "source": "アンテサンサン",
+    "translation": "안테상산",
+    "status": "manual_context_checked",
+    "offset": 113544
+  },
+  "781": {
+    "source": "マインボール",
+    "translation": "마인볼",
+    "status": "manual_context_checked",
+    "offset": 113552
+  },
+  "782": {
+    "source": "ウロボロス",
+    "translation": "우로보로스",
+    "status": "manual_context_checked",
+    "offset": 113560
+  },
+  "783": {
+    "source": "アクロフィーズ",
+    "translation": "아크로피즈",
+    "status": "manual_context_checked",
+    "offset": 113568
+  },
+  "784": {
+    "source": "シュミット",
+    "translation": "슈미트",
+    "status": "manual_context_checked",
+    "offset": 113576
+  },
+  "785": {
+    "source": "デバウアー",
+    "translation": "디바우어",
+    "status": "manual_context_checked",
+    "offset": 113584
+  },
+  "786": {
+    "source": "キャンサー",
+    "translation": "캔서",
+    "status": "manual_context_checked",
+    "offset": 113592
+  },
+  "787": {
+    "source": "ギガントード",
+    "translation": "기간토드",
+    "status": "manual_context_checked",
+    "offset": 113600
+  },
+  "788": {
+    "source": "バジリスク",
+    "translation": "바실리스크",
+    "status": "manual_context_checked",
+    "offset": 113608
+  },
+  "789": {
+    "source": "チキンメデューサ",
+    "translation": "치킨 메두사",
+    "status": "manual_context_checked",
+    "offset": 113616
+  },
+  "790": {
+    "source": "ランドウォーム",
+    "translation": "랜드 웜",
+    "status": "manual_context_checked",
+    "offset": 113624
+  },
+  "791": {
+    "source": "トライアライド",
+    "translation": "트라이얼라이드",
+    "status": "manual_context_checked",
+    "offset": 113632
+  },
+  "792": {
+    "source": "プルトアーマー",
+    "translation": "플루토아머",
+    "status": "manual_context_checked",
+    "offset": 113640
+  },
+  "793": {
+    "source": "オニオンダッシュ",
+    "translation": "어니언대시",
+    "status": "manual_context_checked",
+    "offset": 113648
+  },
+  "794": {
+    "source": "ヘビーアーマー",
+    "translation": "헤비 아머",
+    "status": "manual_context_checked",
+    "offset": 113656
+  },
+  "795": {
+    "source": "チェイサー",
+    "translation": "체이서",
+    "status": "manual_context_checked",
+    "offset": 113664
+  },
+  "796": {
+    "source": "ガンマ",
+    "translation": "감마",
+    "status": "manual_context_checked",
+    "offset": 113672
+  },
+  "797": {
+    "source": "パウポリウム",
+    "translation": "파우폴리움",
+    "status": "manual_context_checked",
+    "offset": 113680
+  },
+  "798": {
+    "source": "ねむれるしし",
+    "translation": "잠자는 사자",
+    "status": "manual_context_checked",
+    "offset": 113688
+  },
+  "799": {
+    "source": "ミスフィト",
+    "translation": "미스피토",
+    "status": "manual_context_checked",
+    "offset": 113696
+  },
+  "800": {
+    "source": "クリーチャー",
+    "translation": "크리처",
+    "status": "manual_context_checked",
+    "offset": 113704
+  },
+  "801": {
+    "source": "エヌオー",
+    "translation": "에누오",
+    "status": "manual_context_checked",
+    "offset": 113712
+  },
+  "802": {
+    "source": "ディープアイ",
+    "translation": "딥 아이",
+    "status": "manual_context_checked",
+    "offset": 113720
+  },
+  "803": {
+    "source": "アンシリーコート",
+    "translation": "언실리코트",
+    "status": "manual_context_checked",
+    "offset": 113728
+  },
+  "804": {
+    "source": "ネックハンター",
+    "translation": "넥 헌터",
+    "status": "manual_context_checked",
+    "offset": 113736
+  },
+  "805": {
+    "source": "グレネード",
+    "translation": "그레네이드",
+    "status": "manual_context_checked",
+    "offset": 113744
+  },
+  "806": {
+    "source": "チャーミーライド",
+    "translation": "차미라이드",
+    "status": "manual_context_checked",
+    "offset": 113752
+  },
+  "807": {
+    "source": "パンドラ",
+    "translation": "판도라",
+    "status": "manual_context_checked",
+    "offset": 113760
+  },
+  "808": {
+    "source": "ネイショリズム",
+    "translation": "네이셔리즘",
+    "status": "manual_context_checked",
+    "offset": 113768
+  },
+  "809": {
+    "source": "ギガントス",
+    "translation": "기간토스",
+    "status": "manual_context_checked",
+    "offset": 113776
+  },
+  "810": {
+    "source": "マグナローダーズ",
+    "translation": "마그나로더스",
+    "status": "manual_context_checked",
+    "offset": 113784
+  },
+  "811": {
+    "source": "リカオン",
+    "translation": "리카온",
+    "status": "manual_context_checked",
+    "offset": 113792
+  },
+  "812": {
+    "source": "パラサイト",
+    "translation": "패러사이트",
+    "status": "manual_context_checked",
+    "offset": 113800
+  },
+  "813": {
+    "source": "アースプロテクタ",
+    "translation": "어스프로텍터",
+    "status": "manual_context_checked",
+    "offset": 113808
+  },
+  "814": {
+    "source": "アンタレス",
+    "translation": "안타레스",
+    "status": "manual_context_checked",
+    "offset": 113816
+  },
+  "815": {
+    "source": "アネモーヌ",
+    "translation": "아네모네",
+    "status": "manual_context_checked",
+    "offset": 113824
+  },
+  "816": {
+    "source": "ムーンフォルム",
+    "translation": "문포름",
+    "status": "manual_context_checked",
+    "offset": 113832
+  },
+  "817": {
+    "source": "スペクター",
+    "translation": "스펙터",
+    "status": "manual_context_checked",
+    "offset": 113840
+  },
+  "818": {
+    "source": "モルボルグレート",
+    "translation": "모르볼 그레이트",
+    "status": "manual_context_checked",
+    "offset": 113848
+  },
+  "819": {
+    "source": "ボナコン",
+    "translation": "보나콘",
+    "status": "manual_context_checked",
+    "offset": 113856
+  },
+  "820": {
+    "source": "オケアノス",
+    "translation": "오케아노스",
+    "status": "manual_context_checked",
+    "offset": 113864
+  },
+  "821": {
+    "source": "リビングデッド",
+    "translation": "리빙 데드",
+    "status": "manual_context_checked",
+    "offset": 113872
+  },
+  "822": {
+    "source": "デスペナルティー",
+    "translation": "데스페널티",
+    "status": "manual_context_checked",
+    "offset": 113880
+  },
+  "823": {
+    "source": "フェイズ",
+    "translation": "페이즈",
+    "status": "manual_context_checked",
+    "offset": 113888
+  },
+  "824": {
+    "source": "アウトサイダー",
+    "translation": "아웃사이더",
+    "status": "manual_context_checked",
+    "offset": 113896
+  },
+  "825": {
+    "source": "ココ",
+    "translation": "코코",
+    "status": "manual_context_checked",
+    "offset": 113904
+  },
+  "826": {
+    "source": "ゼウェアク",
+    "translation": "제웨아크",
+    "status": "manual_context_checked",
+    "offset": 113912
+  },
+  "827": {
+    "source": "ナイトウォーカー",
+    "translation": "나이트워커",
+    "status": "manual_context_checked",
+    "offset": 113920
+  },
+  "828": {
+    "source": "あくまのきし",
+    "translation": "악마의 기사",
+    "status": "manual_context_checked",
+    "offset": 113928
+  },
+  "829": {
+    "source": "しんえいたい",
+    "translation": "친위대",
+    "status": "manual_context_checked",
+    "offset": 113936
+  },
+  "830": {
+    "source": "キュアローター",
+    "translation": "큐어 로터",
+    "status": "manual_context_checked",
+    "offset": 113944
+  },
+  "831": {
+    "source": "ウィザード",
+    "translation": "위저드",
+    "status": "manual_context_checked",
+    "offset": 113952
+  },
+  "832": {
+    "source": "オリエントデビル",
+    "translation": "오리엔트 데빌",
+    "status": "manual_context_checked",
+    "offset": 113960
+  },
+  "833": {
+    "source": "イルルカンカシュ",
+    "translation": "일루르칸카슈",
+    "status": "manual_context_checked",
+    "offset": 113968
+  },
+  "834": {
+    "source": "サージェント",
+    "translation": "서젠트",
+    "status": "manual_context_checked",
+    "offset": 113976
+  },
+  "835": {
+    "source": "アスピドケロン",
+    "translation": "아스피도케론",
+    "status": "manual_context_checked",
+    "offset": 113984
+  },
+  "836": {
+    "source": "ノーティ",
+    "translation": "노티",
+    "status": "manual_context_checked",
+    "offset": 113992
+  },
+  "837": {
+    "source": "ルナドック",
+    "translation": "루나독",
+    "status": "manual_context_checked",
+    "offset": 114000
+  },
+  "838": {
+    "source": "ベルゼキュー",
+    "translation": "베르제큐",
+    "status": "manual_context_checked",
+    "offset": 114008
+  },
+  "839": {
+    "source": "カラドリウス",
+    "translation": "칼라드리우스",
+    "status": "manual_context_checked",
+    "offset": 114016
+  },
+  "840": {
+    "source": "ツァマキエル",
+    "translation": "차마키엘",
+    "status": "manual_context_checked",
+    "offset": 114024
+  },
+  "841": {
+    "source": "ルガヴィ",
+    "translation": "루가비",
+    "status": "manual_context_checked",
+    "offset": 114032
+  },
+  "842": {
+    "source": "リン",
+    "translation": "린",
+    "status": "manual_context_checked",
+    "offset": 114040
+  },
+  "843": {
+    "source": "ランドグリヨン",
+    "translation": "랜드 그리옹",
+    "status": "manual_context_checked",
+    "offset": 114048
+  },
+  "844": {
+    "source": "ゴエティア",
+    "translation": "고에티아",
+    "status": "manual_context_checked",
+    "offset": 114056
+  },
+  "845": {
+    "source": "グランインセクト",
+    "translation": "그란 인섹트",
+    "status": "manual_context_checked",
+    "offset": 114064
+  },
+  "846": {
+    "source": "ボギー",
+    "translation": "보기",
+    "status": "manual_context_checked",
+    "offset": 114072
+  },
+  "847": {
+    "source": "プルシャ",
+    "translation": "푸르샤",
+    "status": "manual_context_checked",
+    "offset": 114080
+  },
+  "848": {
+    "source": "ブラックドラゴン",
+    "translation": "블랙 드래곤",
+    "status": "manual_context_checked",
+    "offset": 114088
+  },
+  "849": {
+    "source": "アダマンキャリー",
+    "translation": "아다만 캐리",
+    "status": "manual_context_checked",
+    "offset": 114096
+  },
+  "850": {
+    "source": "ダンテ",
+    "translation": "단테",
+    "status": "manual_context_checked",
+    "offset": 114104
+  },
+  "851": {
+    "source": "プラチナドラゴン",
+    "translation": "플래티나드래곤",
+    "status": "manual_context_checked",
+    "offset": 114112
+  },
+  "852": {
+    "source": "デュエルアーマー",
+    "translation": "듀얼 아머",
+    "status": "manual_context_checked",
+    "offset": 114120
+  },
+  "853": {
+    "source": "サイコ",
+    "translation": "사이코",
+    "status": "manual_context_checked",
+    "offset": 114128
+  },
+  "854": {
+    "source": "ムース",
+    "translation": "무스",
+    "status": "manual_context_checked",
+    "offset": 114136
+  },
+  "855": {
+    "source": "コープス",
+    "translation": "코프스",
+    "status": "manual_context_checked",
+    "offset": 114144
+  },
+  "856": {
+    "source": "パニッシャー",
+    "translation": "파니셔",
+    "status": "manual_context_checked",
+    "offset": 114152
+  },
+  "857": {
+    "source": "バルーン",
+    "translation": "벌룬",
+    "status": "manual_context_checked",
+    "offset": 114160
+  },
+  "858": {
+    "source": "ガブルデガック",
+    "translation": "가블데가크",
+    "status": "manual_context_checked",
+    "offset": 114168
+  },
+  "859": {
+    "source": "グランベヒーモス",
+    "translation": "그란베히모스",
+    "status": "manual_context_checked",
+    "offset": 114176
+  },
+  "860": {
+    "source": "スコーピオン",
+    "translation": "스콜피온",
+    "status": "manual_context_checked",
+    "offset": 114184
+  },
+  "861": {
+    "source": "カオスドラゴン",
+    "translation": "카오스드래곤",
+    "status": "manual_context_checked",
+    "offset": 114192
+  },
+  "862": {
+    "source": "スピットファイア",
+    "translation": "스핏파이어",
+    "status": "manual_context_checked",
+    "offset": 114200
+  },
+  "863": {
+    "source": "ベクタキマイラ",
+    "translation": "벡터키마이라",
+    "status": "manual_context_checked",
+    "offset": 114208
+  },
+  "864": {
+    "source": "リッチ",
+    "translation": "리치",
+    "status": "manual_context_checked",
+    "offset": 114216
+  },
+  "865": {
+    "source": "ルク",
+    "translation": "룩",
+    "status": "manual_context_checked",
+    "offset": 114224
+  },
+  "866": {
+    "source": "マグナローダーズ",
+    "translation": "마그나로더스",
+    "status": "manual_context_checked",
+    "offset": 114232
+  },
+  "867": {
+    "source": "バグ",
+    "translation": "버그",
+    "status": "manual_context_checked",
+    "offset": 114240
+  },
+  "868": {
+    "source": "シーフラワー",
+    "translation": "시플라워",
+    "status": "manual_context_checked",
+    "offset": 114248
+  },
+  "869": {
+    "source": "アーマーベース",
+    "translation": "아머베이스",
+    "status": "manual_context_checked",
+    "offset": 114256
+  },
+  "870": {
+    "source": "プワゾンベンヌ",
+    "translation": "푸아종벤누",
+    "status": "manual_context_checked",
+    "offset": 114264
+  },
+  "871": {
+    "source": "ガリュプデス",
+    "translation": "가륍데스",
+    "status": "manual_context_checked",
+    "offset": 114272
+  },
+  "872": {
+    "source": "ジャンク",
+    "translation": "정크",
+    "status": "manual_context_checked",
+    "offset": 114280
+  },
+  "873": {
+    "source": "マンドレイク",
+    "translation": "맨드레이크",
+    "status": "manual_context_checked",
+    "offset": 114288
+  },
+  "874": {
+    "source": "ヴァレオル",
+    "translation": "발레오르",
+    "status": "manual_context_checked",
+    "offset": 114296
+  },
+  "875": {
+    "source": "アムドゥスキアス",
+    "translation": "암두스키아스",
+    "status": "manual_context_checked",
+    "offset": 114304
+  },
+  "876": {
+    "source": "ネクロマンサー",
+    "translation": "네크로맨서",
+    "status": "manual_context_checked",
+    "offset": 114312
+  },
+  "877": {
+    "source": "グラシャラボラス",
+    "translation": "그라샤라볼라스",
+    "status": "manual_context_checked",
+    "offset": 114320
+  },
+  "878": {
+    "source": "マグナローダーズ",
+    "translation": "마그나로더스",
+    "status": "manual_context_checked",
+    "offset": 114328
+  },
+  "879": {
+    "source": "ワイルドラット",
+    "translation": "와일드랫",
+    "status": "manual_context_checked",
+    "offset": 114336
+  },
+  "880": {
+    "source": "ビックベア",
+    "translation": "빅 베어",
+    "status": "manual_context_checked",
+    "offset": 114344
+  },
+  "881": {
+    "source": "イノセント",
+    "translation": "이노센트",
+    "status": "manual_context_checked",
+    "offset": 114352
+  },
+  "882": {
+    "source": "クリュメヌス",
+    "translation": "클뤼메누스",
+    "status": "manual_context_checked",
+    "offset": 114360
+  },
+  "883": {
+    "source": "ガルム",
+    "translation": "가름",
+    "status": "manual_context_checked",
+    "offset": 114368
+  },
+  "884": {
+    "source": "ダイダロス",
+    "translation": "다이달로스",
+    "status": "manual_context_checked",
+    "offset": 114376
+  },
+  "885": {
+    "source": "バールゼフォン",
+    "translation": "바알제폰",
+    "status": "manual_context_checked",
+    "offset": 114384
+  },
+  "886": {
+    "source": "アーリマン",
+    "translation": "아리만",
+    "status": "manual_context_checked",
+    "offset": 114392
+  },
+  "887": {
+    "source": "デスマシーン",
+    "translation": "데스머신",
+    "status": "manual_context_checked",
+    "offset": 114400
+  },
+  "888": {
+    "source": "メタルヒットマン",
+    "translation": "메탈 히트맨",
+    "status": "manual_context_checked",
+    "offset": 114408
+  },
+  "889": {
+    "source": "イオ",
+    "translation": "이오",
+    "status": "manual_context_checked",
+    "offset": 114416
+  },
+  "890": {
+    "source": "トンベリーズ",
+    "translation": "톤베리즈",
+    "status": "manual_context_checked",
+    "offset": 114424
+  },
+  "891": {
+    "source": "ユミール",
+    "translation": "유미르",
+    "status": "manual_context_checked",
+    "offset": 114432
+  },
+  "892": {
+    "source": "プレゼンター",
+    "translation": "프레젠터",
+    "status": "manual_context_checked",
+    "offset": 114440
+  },
+  "893": {
+    "source": "メガアーマー",
+    "translation": "메가 아머",
+    "status": "manual_context_checked",
+    "offset": 114448
+  },
+  "894": {
+    "source": "バルガス",
+    "translation": "바르가스",
+    "status": "manual_context_checked",
+    "offset": 114456
+  },
+  "895": {
+    "source": "ディッグアーマー",
+    "translation": "디그 아머",
+    "status": "manual",
+    "offset": 114464
+  },
+  "896": {
+    "source": "プロメテウス",
+    "translation": "프로메테우스",
+    "status": "manual_context_checked",
+    "offset": 114472
+  },
+  "897": {
+    "source": "まれっしゃ",
+    "translation": "마열차",
+    "status": "manual_context_checked",
+    "offset": 114480
+  },
+  "898": {
+    "source": "ダダルマー",
+    "translation": "다달마",
+    "status": "manual_context_checked",
+    "offset": 114488
+  },
+  "899": {
+    "source": "シヴァ",
+    "translation": "시바",
+    "status": "manual_context_checked",
+    "offset": 114496
+  },
+  "900": {
+    "source": "イフリート",
+    "translation": "이프리트",
+    "status": "manual_context_checked",
+    "offset": 114504
+  },
+  "901": {
+    "source": "ナンバー０２４",
+    "translation": "넘버024",
+    "status": "manual_context_checked",
+    "offset": 114512
+  },
+  "902": {
+    "source": "ナンバー１２８",
+    "translation": "넘버128",
+    "status": "manual_context_checked",
+    "offset": 114520
+  },
+  "903": {
+    "source": "インフェルノ",
+    "translation": "인페르노",
+    "status": "manual_context_checked",
+    "offset": 114528
+  },
+  "904": {
+    "source": "クレーン",
+    "translation": "크레인",
+    "status": "manual_context_checked",
+    "offset": 114536
+  },
+  "905": {
+    "source": "クレーン",
+    "translation": "크레인",
+    "status": "manual_context_checked",
+    "offset": 114544
+  },
+  "906": {
+    "source": "ゆきおとこ",
+    "translation": "설인",
+    "status": "manual_context_checked",
+    "offset": 114552
+  },
+  "907": {
+    "source": "ゆきおとこ",
+    "translation": "설인",
+    "status": "manual_context_checked",
+    "offset": 114560
+  },
+  "908": {
+    "source": "ガーディアン",
+    "translation": "가디언",
+    "status": "manual_context_checked",
+    "offset": 114568
+  },
+  "909": {
+    "source": "ガーディアン",
+    "translation": "가디언",
+    "status": "manual_context_checked",
+    "offset": 114576
+  },
+  "910": {
+    "source": "エアフォース",
+    "translation": "에어 포스",
+    "status": "manual_context_checked",
+    "offset": 114584
+  },
+  "911": {
+    "source": "なぞのげんじゅう",
+    "translation": "수수께끼의 환수",
+    "status": "manual_context_checked",
+    "offset": 114592
+  },
+  "912": {
+    "source": "なぞのげんじゅう",
+    "translation": "수수께끼의 환수",
+    "status": "manual_context_checked",
+    "offset": 114600
+  },
+  "913": {
+    "source": "フレイムイーター",
+    "translation": "플레임 이터",
+    "status": "manual_context_checked",
+    "offset": 114608
+  },
+  "914": {
+    "source": "アルテマウェポン",
+    "translation": "알테마웨폰",
+    "status": "manual_context_checked",
+    "offset": 114616
+  },
+  "915": {
+    "source": "ネラパ",
+    "translation": "네라파",
+    "status": "manual_context_checked",
+    "offset": 114624
+  },
+  "916": {
+    "source": "キングベヒーモス",
+    "translation": "킹 베히모스",
+    "status": "manual_context_checked",
+    "offset": 114632
+  },
+  "917": {
+    "source": "ケフカ",
+    "translation": "케프카",
+    "status": "manual_context_checked",
+    "offset": 114640
+  },
+  "918": {
+    "source": "しょくしゅ",
+    "translation": "촉수",
+    "status": "manual_context_checked",
+    "offset": 114648
+  },
+  "919": {
+    "source": "デュラハン",
+    "translation": "듀라한",
+    "status": "manual_context_checked",
+    "offset": 114656
+  },
+  "920": {
+    "source": "デスゲイズ",
+    "translation": "데스 게이즈",
+    "status": "manual_context_checked",
+    "offset": 114664
+  },
+  "921": {
+    "source": "チャダルヌーク",
+    "translation": "차다르누크",
+    "status": "manual_context_checked",
+    "offset": 114672
+  },
+  "922": {
+    "source": "レーヴ",
+    "translation": "레이브",
+    "status": "manual_context_checked",
+    "offset": 114680
+  },
+  "923": {
+    "source": "ソーニョ",
+    "translation": "소뇨",
+    "status": "manual_context_checked",
+    "offset": 114688
+  },
+  "924": {
+    "source": "スエーニョ",
+    "translation": "수에뇨",
+    "status": "manual_context_checked",
+    "offset": 114696
+  },
+  "925": {
+    "source": "アレクソウル",
+    "translation": "알렉소울",
+    "status": "manual_context_checked",
+    "offset": 114704
+  },
+  "926": {
+    "source": "ヒドゥン",
+    "translation": "히든",
+    "status": "manual_context_checked",
+    "offset": 114712
+  },
+  "927": {
+    "source": "サムライソウル",
+    "translation": "사무라이소울",
+    "status": "manual_context_checked",
+    "offset": 114720
+  },
+  "928": {
+    "source": "まほうレベル３０",
+    "translation": "마법 레벨30",
+    "status": "manual_context_checked",
+    "offset": 114728
+  },
+  "929": {
+    "source": "エレボス",
+    "translation": "엘레보스",
+    "status": "manual_context_checked",
+    "offset": 114736
+  },
+  "930": {
+    "source": "まじん",
+    "translation": "마신",
+    "status": "manual_context_checked",
+    "offset": 114744
+  },
+  "931": {
+    "source": "めがみ",
+    "translation": "여신",
+    "status": "manual_context_checked",
+    "offset": 114752
+  },
+  "932": {
+    "source": "きしん",
+    "translation": "귀신",
+    "status": "manual_context_checked",
+    "offset": 114760
+  },
+  "933": {
+    "source": "ケフカ",
+    "translation": "케프카",
+    "status": "manual_context_checked",
+    "offset": 114768
+  },
+  "934": {
+    "source": "まほうレベル４０",
+    "translation": "마법 레벨40",
+    "status": "manual_context_checked",
+    "offset": 114776
+  },
+  "935": {
+    "source": "オルトロス",
+    "translation": "올트로스",
+    "status": "manual_context_checked",
+    "offset": 114784
+  },
+  "936": {
+    "source": "オルトロス",
+    "translation": "올트로스",
+    "status": "manual_context_checked",
+    "offset": 114792
+  },
+  "937": {
+    "source": "オルトロス",
+    "translation": "올트로스",
+    "status": "manual_context_checked",
+    "offset": 114800
+  },
+  "938": {
+    "source": "テュポーン",
+    "translation": "튜폰",
+    "status": "manual_context_checked",
+    "offset": 114808
+  },
+  "939": {
+    "source": "まほうレベル２０",
+    "translation": "마법 레벨20",
+    "status": "manual_context_checked",
+    "offset": 114816
+  },
+  "940": {
+    "source": "ジークフリード",
+    "translation": "지크프리드",
+    "status": "manual_context_checked",
+    "offset": 114824
+  },
+  "941": {
+    "source": "まほうレベル１０",
+    "translation": "마법 레벨10",
+    "status": "manual_context_checked",
+    "offset": 114832
+  },
+  "942": {
+    "source": "まほうレベル５０",
+    "translation": "마법 레벨50",
+    "status": "manual_context_checked",
+    "offset": 114840
+  },
+  "943": {
+    "source": "ヘッド",
+    "translation": "헤드",
+    "status": "manual_context_checked",
+    "offset": 114848
+  },
+  "944": {
+    "source": "ユミールヘッド",
+    "translation": "유미르 헤드",
+    "status": "manual_context_checked",
+    "offset": 114856
+  },
+  "945": {
+    "source": "ジャイアント",
+    "translation": "자이언트",
+    "status": "manual_context_checked",
+    "offset": 114864
+  },
+  "946": {
+    "source": "カイザードラゴン",
+    "translation": "카이저 드래곤",
+    "status": "manual_context_checked",
+    "offset": 114872
+  },
+  "947": {
+    "source": "トンベリマスター",
+    "translation": "톤베리마스터",
+    "status": "manual_context_checked",
+    "offset": 114880
+  },
+  "948": {
+    "source": "まほうレベル６０",
+    "translation": "마법 레벨60",
+    "status": "manual_context_checked",
+    "offset": 114888
+  },
+  "949": {
+    "source": "しょうにん",
+    "translation": "상인",
+    "status": "manual_context_checked",
+    "offset": 114896
+  },
+  "950": {
+    "source": "はだか",
+    "translation": "알몸",
+    "status": "manual_context_checked",
+    "offset": 114904
+  },
+  "951": {
+    "source": "しょくしゅ",
+    "translation": "촉수",
+    "status": "manual_context_checked",
+    "offset": 114912
+  },
+  "952": {
+    "source": "しょくしゅ",
+    "translation": "촉수",
+    "status": "manual_context_checked",
+    "offset": 114920
+  },
+  "953": {
+    "source": "しょくしゅ",
+    "translation": "촉수",
+    "status": "manual_context_checked",
+    "offset": 114928
+  },
+  "954": {
+    "source": "ライトブレード",
+    "translation": "라이트 블레이드",
+    "status": "manual_context_checked",
+    "offset": 114936
+  },
+  "955": {
+    "source": "レフトブレード",
+    "translation": "레프트 블레이드",
+    "status": "manual_context_checked",
+    "offset": 114944
+  },
+  "956": {
+    "source": "ラフ",
+    "translation": "러프",
+    "status": "manual_context_checked",
+    "offset": 114952
+  },
+  "957": {
+    "source": "ケトゥ",
+    "translation": "케투",
+    "status": "manual_context_checked",
+    "offset": 114960
+  },
+  "958": {
+    "source": "まほうレベル７０",
+    "translation": "마법 레벨70",
+    "status": "manual_context_checked",
+    "offset": 114968
+  },
+  "959": {
+    "source": "ヴァリガルマンダ",
+    "translation": "발리가르만다",
+    "status": "manual_context_checked",
+    "offset": 114976
+  },
+  "960": {
+    "source": "レーザーほう",
+    "translation": "레이저포",
+    "status": "manual_context_checked",
+    "offset": 114984
+  },
+  "961": {
+    "source": "ビット",
+    "translation": "비트",
+    "status": "manual_context_checked",
+    "offset": 114992
+  },
+  "962": {
+    "source": "ミサイルポット",
+    "translation": "미사일 포트",
+    "status": "manual_context_checked",
+    "offset": 115000
+  },
+  "963": {
+    "source": "チャダルヌーク",
+    "translation": "차다르누크",
+    "status": "manual_context_checked",
+    "offset": 115008
+  },
+  "964": {
+    "source": "フリーズドラゴン",
+    "translation": "프리즈드래곤",
+    "status": "manual_context_checked",
+    "offset": 115016
+  },
+  "965": {
+    "source": "ケフカ",
+    "translation": "케프카",
+    "status": "manual_context_checked",
+    "offset": 115024
+  },
+  "966": {
+    "source": "ストームドラゴン",
+    "translation": "스톰드래곤",
+    "status": "manual_context_checked",
+    "offset": 115032
+  },
+  "967": {
+    "source": "アースドラゴン",
+    "translation": "어스 드래곤",
+    "status": "manual_context_checked",
+    "offset": 115040
+  },
+  "968": {
+    "source": "イプー",
+    "translation": "이푸",
+    "status": "manual_context_checked",
+    "offset": 115048
+  },
+  "969": {
+    "source": "たいちょう",
+    "translation": "대장",
+    "status": "manual_context_checked",
+    "offset": 115056
+  },
+  "970": {
+    "source": "ソルジャー",
+    "translation": "솔저",
+    "status": "manual_context_checked",
+    "offset": 115064
+  },
+  "971": {
+    "source": "イエロードラゴン",
+    "translation": "옐로 드래곤",
+    "status": "manual_context_checked",
+    "offset": 115072
+  },
+  "972": {
+    "source": "スカルドラゴン",
+    "translation": "스컬 드래곤",
+    "status": "manual_context_checked",
+    "offset": 115080
+  },
+  "973": {
+    "source": "ブルードラゴン",
+    "translation": "블루 드래곤",
+    "status": "manual_context_checked",
+    "offset": 115088
+  },
+  "974": {
+    "source": "レッドドラゴン",
+    "translation": "레드 드래곤",
+    "status": "manual_context_checked",
+    "offset": 115096
+  },
+  "975": {
+    "source": "オピニンクス",
+    "translation": "오피닉스",
+    "status": "manual_context_checked",
+    "offset": 115104
+  },
+  "976": {
+    "source": "リゾーパス",
+    "translation": "리조파스",
+    "status": "manual_context_checked",
+    "offset": 115112
+  },
+  "977": {
+    "source": "ぼうれい",
+    "translation": "망령",
+    "status": "manual_context_checked",
+    "offset": 115120
+  },
+  "978": {
+    "source": "みじかいうで",
+    "translation": "짧은 팔",
+    "status": "manual_context_checked",
+    "offset": 115128
+  },
+  "979": {
+    "source": "ながいうで",
+    "translation": "긴 팔",
+    "status": "manual_context_checked",
+    "offset": 115136
+  },
+  "980": {
+    "source": "かお",
+    "translation": "얼굴",
+    "status": "manual_context_checked",
+    "offset": 115144
+  },
+  "981": {
+    "source": "とら",
+    "translation": "호랑이",
+    "status": "manual_context_checked",
+    "offset": 115152
+  },
+  "982": {
+    "source": "きかい",
+    "translation": "기계",
+    "status": "manual_context_checked",
+    "offset": 115160
+  },
+  "983": {
+    "source": "まほう",
+    "translation": "마법",
+    "status": "manual_context_checked",
+    "offset": 115168
+  },
+  "984": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 115176
+  },
+  "985": {
+    "source": "まりあ",
+    "translation": "마리아",
+    "status": "manual_context_checked",
+    "offset": 115184
+  },
+  "986": {
+    "source": "ねむり",
+    "translation": "잠",
+    "status": "manual_context_checked",
+    "offset": 115192
+  },
+  "987": {
+    "source": "エレボス",
+    "translation": "엘레보스",
+    "status": "manual_context_checked",
+    "offset": 115200
+  },
+  "988": {
+    "source": "エレボス",
+    "translation": "엘레보스",
+    "status": "manual_context_checked",
+    "offset": 115208
+  },
+  "989": {
+    "source": "エレボス",
+    "translation": "엘레보스",
+    "status": "manual_context_checked",
+    "offset": 115216
+  },
+  "990": {
+    "source": "まほうレベル８０",
+    "translation": "마법 레벨80",
+    "status": "manual_context_checked",
+    "offset": 115224
+  },
+  "991": {
+    "source": "まほうレベル９０",
+    "translation": "마법 레벨90",
+    "status": "manual_context_checked",
+    "offset": 115232
+  },
+  "992": {
+    "source": "プロトアーマー",
+    "translation": "프로토 아머",
+    "status": "manual",
+    "offset": 115240
+  },
+  "993": {
+    "source": "マジックマスター",
+    "translation": "매직 마스터",
+    "status": "manual_context_checked",
+    "offset": 115248
+  },
+  "994": {
+    "source": "ソウルセイバー",
+    "translation": "소울세이버",
+    "status": "manual_context_checked",
+    "offset": 115256
+  },
+  "995": {
+    "source": "オルトロス",
+    "translation": "올트로스",
+    "status": "manual_context_checked",
+    "offset": 115264
+  },
+  "996": {
+    "source": "ノーデ",
+    "translation": "노데",
+    "status": "manual_context_checked",
+    "offset": 115272
+  },
+  "997": {
+    "source": "フンババ",
+    "translation": "푼바바",
+    "status": "manual_context_checked",
+    "offset": 115280
+  },
+  "998": {
+    "source": "フンババ",
+    "translation": "푼바바",
+    "status": "manual_context_checked",
+    "offset": 115288
+  },
+  "999": {
+    "source": "フンババ",
+    "translation": "푼바바",
+    "status": "manual_context_checked",
+    "offset": 115296
+  },
+  "1000": {
+    "source": "フンババ",
+    "translation": "푼바바",
+    "status": "manual_context_checked",
+    "offset": 115304
+  },
+  "1001": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 115312
+  },
+  "1002": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 115320
+  },
+  "1003": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 115328
+  },
+  "1004": {
+    "source": "ゾーンイーター",
+    "translation": "존이터",
+    "status": "manual_context_checked",
+    "offset": 115336
+  },
+  "1005": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 115344
+  },
+  "1006": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 115352
+  },
+  "1007": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 115360
+  },
+  "1008": {
+    "source": "かきゅうへいし",
+    "translation": "하급병사",
+    "status": "manual_context_checked",
+    "offset": 115368
+  },
+  "1009": {
+    "source": "しかん",
+    "translation": "장교",
+    "status": "manual_context_checked",
+    "offset": 115376
+  },
+  "1010": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 115384
+  },
+  "1011": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 115392
+  },
+  "1012": {
+    "source": "ていこくへい",
+    "translation": "제국병",
+    "status": "manual_context_checked",
+    "offset": 115400
+  },
+  "1013": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 115408
+  },
+  "1014": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 115416
+  },
+  "1015": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 115424
+  },
+  "1016": {
+    "source": "アルテマバスター",
+    "translation": "알테마버스터",
+    "status": "manual_context_checked",
+    "offset": 115432
+  },
+  "1017": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 115440
+  },
+  "1018": {
+    "source": "",
+    "translation": "",
+    "status": "manual",
+    "offset": 115448
+  },
+  "1019": {
+    "source": "クリティカル",
+    "translation": "크리티컬",
+    "status": "manual_context_checked",
+    "offset": 115456
+  },
+  "1020": {
+    "source": "はんげき",
+    "translation": "반격",
+    "status": "manual_context_checked",
+    "offset": 115464
+  },
+  "1021": {
+    "source": "アックス",
+    "translation": "액스",
+    "status": "manual_context_checked",
+    "offset": 115472
+  },
+  "1022": {
+    "source": "かくれみのじゅつ",
+    "translation": "은신술",
+    "status": "manual_context_checked",
+    "offset": 115480
+  },
+  "1023": {
+    "source": "しんでもらいます",
+    "translation": "죽어 주시죠",
+    "status": "manual_context_checked",
+    "offset": 115488
+  },
+  "1024": {
+    "source": "ゾンビタッチ",
+    "translation": "좀비 터치",
+    "status": "manual_context_checked",
+    "offset": 115496
+  },
+  "1025": {
+    "source": "ホイール",
+    "translation": "휠",
+    "status": "manual_context_checked",
+    "offset": 115504
+  },
+  "1026": {
+    "source": "あいうち",
+    "translation": "동귀어진",
+    "status": "manual_context_checked",
+    "offset": 115512
+  },
+  "1027": {
+    "source": "みえないいちげき",
+    "translation": "보이지 않는 일격",
+    "status": "manual_context_checked",
+    "offset": 115520
+  },
+  "1028": {
+    "source": "くろくぬりつぶす",
+    "translation": "검게 칠하기",
+    "status": "manual_context_checked",
+    "offset": 115528
+  },
+  "1029": {
+    "source": "かいてんするかさ",
+    "translation": "회전 우산",
+    "status": "manual_context_checked",
+    "offset": 115536
+  },
+  "1030": {
+    "source": "せいけんづき",
+    "translation": "정권 지르기",
+    "status": "manual_context_checked",
+    "offset": 115544
+  },
+  "1031": {
+    "source": "ちんもくのゆび",
+    "translation": "침묵의 손가락",
+    "status": "manual_context_checked",
+    "offset": 115552
+  },
+  "1032": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 115560
+  },
+  "1033": {
+    "source": "カッパになるゆめ",
+    "translation": "임프가 되는 꿈",
+    "status": "manual",
+    "offset": 115568
+  },
+  "1034": {
+    "source": "さくらんタッチ",
+    "translation": "혼란 터치",
+    "status": "manual_context_checked",
+    "offset": 115576
+  },
+  "1035": {
+    "source": "ふるいほね",
+    "translation": "낡은 뼈",
+    "status": "manual_context_checked",
+    "offset": 115584
+  },
+  "1036": {
+    "source": "やぶれかぶれ",
+    "translation": "막무가내",
+    "status": "manual_context_checked",
+    "offset": 115592
+  },
+  "1037": {
+    "source": "さいごっぺ",
+    "translation": "최후의 발악",
+    "status": "manual_context_checked",
+    "offset": 115600
+  },
+  "1038": {
+    "source": "かみつく",
+    "translation": "물어뜯기",
+    "status": "manual_context_checked",
+    "offset": 115608
+  },
+  "1039": {
+    "source": "くびすじにつめ",
+    "translation": "목덜미 할퀴기",
+    "status": "manual_context_checked",
+    "offset": 115616
+  },
+  "1040": {
+    "source": "とっしん",
+    "translation": "돌진",
+    "status": "manual_context_checked",
+    "offset": 115624
+  },
+  "1041": {
+    "source": "たいあたり",
+    "translation": "몸통 박치기",
+    "status": "manual_context_checked",
+    "offset": 115632
+  },
+  "1042": {
+    "source": "まえば",
+    "translation": "앞니",
+    "status": "manual_context_checked",
+    "offset": 115640
+  },
+  "1043": {
+    "source": "ネコキック",
+    "translation": "고양이 킥",
+    "status": "manual_context_checked",
+    "offset": 115648
+  },
+  "1044": {
+    "source": "キバ",
+    "translation": "엄니",
+    "status": "manual_context_checked",
+    "offset": 115656
+  },
+  "1045": {
+    "source": "かみつき",
+    "translation": "물어뜯기",
+    "status": "manual_context_checked",
+    "offset": 115664
+  },
+  "1046": {
+    "source": "くまのて",
+    "translation": "곰의 앞발",
+    "status": "manual_context_checked",
+    "offset": 115672
+  },
+  "1047": {
+    "source": "とびつく",
+    "translation": "달려들기",
+    "status": "manual_context_checked",
+    "offset": 115680
+  },
+  "1049": {
+    "source": "あくび",
+    "translation": "하품",
+    "status": "manual_context_checked",
+    "offset": 115696
+  },
+  "1050": {
+    "source": "じゃれる",
+    "translation": "재롱",
+    "status": "manual_context_checked",
+    "offset": 115704
+  },
+  "1051": {
+    "source": "なぐりたおす",
+    "translation": "때려눕히기",
+    "status": "manual_context_checked",
+    "offset": 115712
+  },
+  "1052": {
+    "source": "ベロベロなめる",
+    "translation": "할짝할짝",
+    "status": "manual_context_checked",
+    "offset": 115720
+  },
+  "1053": {
+    "source": "ウイング",
+    "translation": "윙",
+    "status": "manual_context_checked",
+    "offset": 115728
+  },
+  "1054": {
+    "source": "ボーン",
+    "translation": "본",
+    "status": "manual_context_checked",
+    "offset": 115736
+  },
+  "1055": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 115744
+  },
+  "1056": {
+    "source": "とけこむ",
+    "translation": "스며들기",
+    "status": "manual_context_checked",
+    "offset": 115752
+  },
+  "1057": {
+    "source": "ぶんまわす",
+    "translation": "휘두르기",
+    "status": "manual_context_checked",
+    "offset": 115760
+  },
+  "1058": {
+    "source": "かみつき",
+    "translation": "물어뜯기",
+    "status": "manual_context_checked",
+    "offset": 115768
+  },
+  "1059": {
+    "source": "きゅうこうか",
+    "translation": "급강하",
+    "status": "manual_context_checked",
+    "offset": 115776
+  },
+  "1060": {
+    "source": "はねのこな",
+    "translation": "날개 가루",
+    "status": "manual_context_checked",
+    "offset": 115784
+  },
+  "1061": {
+    "source": "めつぶし",
+    "translation": "눈속임",
+    "status": "manual_context_checked",
+    "offset": 115792
+  },
+  "1062": {
+    "source": "わしづかみ",
+    "translation": "움켜잡기",
+    "status": "manual_context_checked",
+    "offset": 115800
+  },
+  "1063": {
+    "source": "ロック",
+    "translation": "록",
+    "status": "manual_context_checked",
+    "offset": 115808
+  },
+  "1064": {
+    "source": "プログラム１８",
+    "translation": "프로그램 18",
+    "status": "manual_context_checked",
+    "offset": 115816
+  },
+  "1065": {
+    "source": "てつのはり",
+    "translation": "쇠바늘",
+    "status": "manual_context_checked",
+    "offset": 115824
+  },
+  "1066": {
+    "source": "はおと",
+    "translation": "날갯소리",
+    "status": "manual_context_checked",
+    "offset": 115832
+  },
+  "1067": {
+    "source": "たいあたり",
+    "translation": "몸통 박치기",
+    "status": "manual_context_checked",
+    "offset": 115840
+  },
+  "1068": {
+    "source": "カマ",
+    "translation": "낫",
+    "status": "manual_context_checked",
+    "offset": 115848
+  },
+  "1069": {
+    "source": "ポイズンタッチ",
+    "translation": "포이즌 터치",
+    "status": "manual_context_checked",
+    "offset": 115856
+  },
+  "1070": {
+    "source": "ポイズンシード",
+    "translation": "포이즌 시드",
+    "status": "manual_context_checked",
+    "offset": 115864
+  },
+  "1071": {
+    "source": "めつぶし",
+    "translation": "눈속임",
+    "status": "manual_context_checked",
+    "offset": 115872
+  },
+  "1072": {
+    "source": "エナジードレイン",
+    "translation": "에너지 드레인",
+    "status": "manual_context_checked",
+    "offset": 115880
+  },
+  "1073": {
+    "source": "どくばり",
+    "translation": "독침",
+    "status": "manual_context_checked",
+    "offset": 115888
+  },
+  "1074": {
+    "source": "ベアナックル",
+    "translation": "베어 너클",
+    "status": "manual_context_checked",
+    "offset": 115896
+  },
+  "1075": {
+    "source": "すみ",
+    "translation": "먹물",
+    "status": "manual_context_checked",
+    "offset": 115904
+  },
+  "1076": {
+    "source": "ハサミ",
+    "translation": "집게",
+    "status": "manual_context_checked",
+    "offset": 115912
+  },
+  "1077": {
+    "source": "まきつきしめる",
+    "translation": "휘감아 조이기",
+    "status": "manual_context_checked",
+    "offset": 115920
+  },
+  "1078": {
+    "source": "した",
+    "translation": "혀",
+    "status": "manual_context_checked",
+    "offset": 115928
+  },
+  "1079": {
+    "source": "カッパにらみ",
+    "translation": "임프의 눈빛",
+    "status": "manual",
+    "offset": 115936
+  },
+  "1080": {
+    "source": "なめる",
+    "translation": "핥기",
+    "status": "manual_context_checked",
+    "offset": 115944
+  },
+  "1081": {
+    "source": "おしつぶす",
+    "translation": "짓누르기",
+    "status": "manual_context_checked",
+    "offset": 115952
+  },
+  "1082": {
+    "source": "シルバーランス",
+    "translation": "실버 랜스",
+    "status": "manual_context_checked",
+    "offset": 115960
+  },
+  "1083": {
+    "source": "カッパにするえき",
+    "translation": "임프로 만드는 액",
+    "status": "manual",
+    "offset": 115968
+  },
+  "1084": {
+    "source": "プログラム５５",
+    "translation": "프로그램 55",
+    "status": "manual_context_checked",
+    "offset": 115976
+  },
+  "1085": {
+    "source": "メタルキック",
+    "translation": "메탈 킥",
+    "status": "manual_context_checked",
+    "offset": 115984
+  },
+  "1086": {
+    "source": "ぎゃくふんしゃ",
+    "translation": "역분사",
+    "status": "manual_context_checked",
+    "offset": 115992
+  },
+  "1087": {
+    "source": "ちょうおんぱ",
+    "translation": "초음파",
+    "status": "manual_context_checked",
+    "offset": 116000
+  },
+  "1088": {
+    "source": "メタルアーム",
+    "translation": "메탈 암",
+    "status": "manual_context_checked",
+    "offset": 116008
+  },
+  "1089": {
+    "source": "まとわりつく",
+    "translation": "달라붙기",
+    "status": "manual_context_checked",
+    "offset": 116016
+  },
+  "1090": {
+    "source": "スリップリキッド",
+    "translation": "슬립 리퀴드",
+    "status": "manual_context_checked",
+    "offset": 116024
+  },
+  "1091": {
+    "source": "にらみつける",
+    "translation": "노려보기",
+    "status": "manual_context_checked",
+    "offset": 116032
+  },
+  "1092": {
+    "source": "だきつく",
+    "translation": "껴안기",
+    "status": "manual_context_checked",
+    "offset": 116040
+  },
+  "1093": {
+    "source": "うすらわらい",
+    "translation": "비웃음",
+    "status": "manual_context_checked",
+    "offset": 116048
+  },
+  "1094": {
+    "source": "ブレインシェイク",
+    "translation": "브레인 셰이크",
+    "status": "manual_context_checked",
+    "offset": 116056
+  },
+  "1095": {
+    "source": "はっきょうのとげ",
+    "translation": "광기의 가시",
+    "status": "manual_context_checked",
+    "offset": 116064
+  },
+  "1096": {
+    "source": "スパナ",
+    "translation": "스패너",
+    "status": "manual_context_checked",
+    "offset": 116072
+  },
+  "1097": {
+    "source": "シックル",
+    "translation": "시클",
+    "status": "manual_context_checked",
+    "offset": 116080
+  },
+  "1098": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 116088
+  },
+  "1099": {
+    "source": "ポイズンキッス",
+    "translation": "포이즌 키스",
+    "status": "manual_context_checked",
+    "offset": 116096
+  },
+  "1100": {
+    "source": "ミラーボール",
+    "translation": "미러볼",
+    "status": "manual_context_checked",
+    "offset": 116104
+  },
+  "1101": {
+    "source": "ふしぎなおどり",
+    "translation": "이상한 춤",
+    "status": "manual_context_checked",
+    "offset": 116112
+  },
+  "1102": {
+    "source": "ずつき",
+    "translation": "박치기",
+    "status": "manual_context_checked",
+    "offset": 116120
+  },
+  "1103": {
+    "source": "ほうちょう",
+    "translation": "식칼",
+    "status": "manual_context_checked",
+    "offset": 116128
+  },
+  "1104": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 116136
+  },
+  "1105": {
+    "source": "サイレントタッチ",
+    "translation": "사일런트 터치",
+    "status": "manual_context_checked",
+    "offset": 116144
+  },
+  "1106": {
+    "source": "へばりつく",
+    "translation": "들러붙기",
+    "status": "manual_context_checked",
+    "offset": 116152
+  },
+  "1107": {
+    "source": "あばれる",
+    "translation": "날뛰기",
+    "status": "manual_context_checked",
+    "offset": 116160
+  },
+  "1108": {
+    "source": "しびれとげ",
+    "translation": "마비 가시",
+    "status": "manual_context_checked",
+    "offset": 116168
+  },
+  "1109": {
+    "source": "じかんよとまれ",
+    "translation": "시간이여 멈춰라",
+    "status": "manual_context_checked",
+    "offset": 116176
+  },
+  "1110": {
+    "source": "しょくしゅ",
+    "translation": "촉수",
+    "status": "manual_context_checked",
+    "offset": 116184
+  },
+  "1111": {
+    "source": "しっぽ",
+    "translation": "꼬리",
+    "status": "manual_context_checked",
+    "offset": 116192
+  },
+  "1112": {
+    "source": "しびれさせる",
+    "translation": "마비시키기",
+    "status": "manual_context_checked",
+    "offset": 116200
+  },
+  "1113": {
+    "source": "すいつく",
+    "translation": "빨아붙기",
+    "status": "manual_context_checked",
+    "offset": 116208
+  },
+  "1114": {
+    "source": "すいつく",
+    "translation": "빨아붙기",
+    "status": "manual_context_checked",
+    "offset": 116216
+  },
+  "1115": {
+    "source": "スリップタッチ",
+    "translation": "슬립 터치",
+    "status": "manual_context_checked",
+    "offset": 116224
+  },
+  "1116": {
+    "source": "よだれ",
+    "translation": "침",
+    "status": "manual_context_checked",
+    "offset": 116232
+  },
+  "1117": {
+    "source": "しょうかえき",
+    "translation": "소화액",
+    "status": "manual_context_checked",
+    "offset": 116240
+  },
+  "1118": {
+    "source": "ねむくなれ",
+    "translation": "졸려라",
+    "status": "manual_context_checked",
+    "offset": 116248
+  },
+  "1119": {
+    "source": "とつげき",
+    "translation": "돌격",
+    "status": "manual_context_checked",
+    "offset": 116256
+  },
+  "1120": {
+    "source": "ふりあげる",
+    "translation": "치켜들기",
+    "status": "manual_context_checked",
+    "offset": 116264
+  },
+  "1121": {
+    "source": "バイオアタック",
+    "translation": "바이오 어택",
+    "status": "manual_context_checked",
+    "offset": 116272
+  },
+  "1122": {
+    "source": "ディスアピア",
+    "translation": "디스어피어",
+    "status": "manual_context_checked",
+    "offset": 116280
+  },
+  "1123": {
+    "source": "ゾンビタッチ",
+    "translation": "좀비 터치",
+    "status": "manual_context_checked",
+    "offset": 116288
+  },
+  "1124": {
+    "source": "マジックドレイン",
+    "translation": "매직 드레인",
+    "status": "manual_context_checked",
+    "offset": 116296
+  },
+  "1125": {
+    "source": "ブラインドタッチ",
+    "translation": "블라인드 터치",
+    "status": "manual_context_checked",
+    "offset": 116304
+  },
+  "1126": {
+    "source": "かさ",
+    "translation": "우산",
+    "status": "manual_context_checked",
+    "offset": 116312
+  },
+  "1127": {
+    "source": "ひざげり",
+    "translation": "무릎 차기",
+    "status": "manual_context_checked",
+    "offset": 116320
+  },
+  "1128": {
+    "source": "ためなぐり",
+    "translation": "힘 모아 때리기",
+    "status": "manual_context_checked",
+    "offset": 116328
+  },
+  "1129": {
+    "source": "スリップタッチ",
+    "translation": "슬립 터치",
+    "status": "manual_context_checked",
+    "offset": 116336
+  },
+  "1130": {
+    "source": "ふしぎなおどり",
+    "translation": "이상한 춤",
+    "status": "manual_context_checked",
+    "offset": 116344
+  },
+  "1131": {
+    "source": "ろっこつ",
+    "translation": "갈비뼈",
+    "status": "manual_context_checked",
+    "offset": 116352
+  },
+  "1132": {
+    "source": "かみつき",
+    "translation": "물어뜯기",
+    "status": "manual_context_checked",
+    "offset": 116360
+  },
+  "1133": {
+    "source": "しっぽ",
+    "translation": "꼬리",
+    "status": "manual_context_checked",
+    "offset": 116368
+  },
+  "1134": {
+    "source": "まえば",
+    "translation": "앞니",
+    "status": "manual_context_checked",
+    "offset": 116376
+  },
+  "1135": {
+    "source": "くびしめ",
+    "translation": "목 조르기",
+    "status": "manual_context_checked",
+    "offset": 116384
+  },
+  "1136": {
+    "source": "ポイズンアタック",
+    "translation": "포이즌 어택",
+    "status": "manual_context_checked",
+    "offset": 116392
+  },
+  "1137": {
+    "source": "まえば",
+    "translation": "앞니",
+    "status": "manual_context_checked",
+    "offset": 116400
+  },
+  "1138": {
+    "source": "とびつく",
+    "translation": "달려들기",
+    "status": "manual_context_checked",
+    "offset": 116408
+  },
+  "1139": {
+    "source": "きょうけんびょう",
+    "translation": "광견병",
+    "status": "manual_context_checked",
+    "offset": 116416
+  },
+  "1140": {
+    "source": "かみつく",
+    "translation": "물어뜯기",
+    "status": "manual_context_checked",
+    "offset": 116424
+  },
+  "1141": {
+    "source": "キバでつきあげる",
+    "translation": "엄니로 들이받기",
+    "status": "manual_context_checked",
+    "offset": 116432
+  },
+  "1142": {
+    "source": "タックル",
+    "translation": "태클",
+    "status": "manual_context_checked",
+    "offset": 116440
+  },
+  "1143": {
+    "source": "こうら",
+    "translation": "등딱지",
+    "status": "manual_context_checked",
+    "offset": 116448
+  },
+  "1144": {
+    "source": "あくび",
+    "translation": "하품",
+    "status": "manual_context_checked",
+    "offset": 116456
+  },
+  "1145": {
+    "source": "あれくるう",
+    "translation": "날뛰기",
+    "status": "manual_context_checked",
+    "offset": 116464
+  },
+  "1146": {
+    "source": "すいみんガス",
+    "translation": "수면 가스",
+    "status": "manual_context_checked",
+    "offset": 116472
+  },
+  "1147": {
+    "source": "キバ",
+    "translation": "엄니",
+    "status": "manual_context_checked",
+    "offset": 116480
+  },
+  "1148": {
+    "source": "スリップウイング",
+    "translation": "슬립 윙",
+    "status": "manual_context_checked",
+    "offset": 116488
+  },
+  "1149": {
+    "source": "ほね",
+    "translation": "뼈",
+    "status": "manual_context_checked",
+    "offset": 116496
+  },
+  "1150": {
+    "source": "しっぽ",
+    "translation": "꼬리",
+    "status": "manual_context_checked",
+    "offset": 116504
+  },
+  "1151": {
+    "source": "しゃくりあげる",
+    "translation": "치켜올리기",
+    "status": "manual_context_checked",
+    "offset": 116512
+  },
+  "1152": {
+    "source": "どくのつめ",
+    "translation": "독 발톱",
+    "status": "manual_context_checked",
+    "offset": 116520
+  },
+  "1153": {
+    "source": "くちばし",
+    "translation": "부리",
+    "status": "manual_context_checked",
+    "offset": 116528
+  },
+  "1154": {
+    "source": "アスピルビーク",
+    "translation": "아스필 비크",
+    "status": "manual_context_checked",
+    "offset": 116536
+  },
+  "1155": {
+    "source": "サイレスアタック",
+    "translation": "사일런스 어택",
+    "status": "manual_context_checked",
+    "offset": 116544
+  },
+  "1156": {
+    "source": "かぎづめ",
+    "translation": "갈고리 발톱",
+    "status": "manual_context_checked",
+    "offset": 116552
+  },
+  "1157": {
+    "source": "ロック",
+    "translation": "록",
+    "status": "manual_context_checked",
+    "offset": 116560
+  },
+  "1158": {
+    "source": "くるったしんごう",
+    "translation": "잘못된 신호",
+    "status": "manual_context_checked",
+    "offset": 116568
+  },
+  "1159": {
+    "source": "ねむりのはり",
+    "translation": "수면 바늘",
+    "status": "manual_context_checked",
+    "offset": 116576
+  },
+  "1160": {
+    "source": "はおと",
+    "translation": "날갯소리",
+    "status": "manual_context_checked",
+    "offset": 116584
+  },
+  "1161": {
+    "source": "つの",
+    "translation": "뿔",
+    "status": "manual_context_checked",
+    "offset": 116592
+  },
+  "1162": {
+    "source": "ブラッドシックル",
+    "translation": "블러드 시클",
+    "status": "manual_context_checked",
+    "offset": 116600
+  },
+  "1163": {
+    "source": "ポイズンタッチ",
+    "translation": "포이즌 터치",
+    "status": "manual_context_checked",
+    "offset": 116608
+  },
+  "1164": {
+    "source": "しのかふん",
+    "translation": "죽음의 꽃가루",
+    "status": "manual_context_checked",
+    "offset": 116616
+  },
+  "1165": {
+    "source": "ちょくげき",
+    "translation": "직격",
+    "status": "manual_context_checked",
+    "offset": 116624
+  },
+  "1166": {
+    "source": "アンライフタッチ",
+    "translation": "언라이프 터치",
+    "status": "manual_context_checked",
+    "offset": 116632
+  },
+  "1167": {
+    "source": "しびれバサミ",
+    "translation": "마비 집게",
+    "status": "manual_context_checked",
+    "offset": 116640
+  },
+  "1168": {
+    "source": "スリップアンカー",
+    "translation": "슬립 앵커",
+    "status": "manual_context_checked",
+    "offset": 116648
+  },
+  "1169": {
+    "source": "から",
+    "translation": "껍질",
+    "status": "manual_context_checked",
+    "offset": 116656
+  },
+  "1170": {
+    "source": "ハサミ",
+    "translation": "집게",
+    "status": "manual_context_checked",
+    "offset": 116664
+  },
+  "1171": {
+    "source": "ゲロゲーロ",
+    "translation": "개굴개굴",
+    "status": "manual_context_checked",
+    "offset": 116672
+  },
+  "1172": {
+    "source": "せきかにらみ",
+    "translation": "석화의 눈빛",
+    "status": "manual_context_checked",
+    "offset": 116680
+  },
+  "1173": {
+    "source": "なめる",
+    "translation": "핥기",
+    "status": "manual_context_checked",
+    "offset": 116688
+  },
+  "1174": {
+    "source": "あっさく",
+    "translation": "압착",
+    "status": "manual_context_checked",
+    "offset": 116696
+  },
+  "1175": {
+    "source": "ゴールドランス",
+    "translation": "골드 랜스",
+    "status": "manual_context_checked",
+    "offset": 116704
+  },
+  "1176": {
+    "source": "げきとつ",
+    "translation": "격돌",
+    "status": "manual_context_checked",
+    "offset": 116712
+  },
+  "1177": {
+    "source": "ダッシュ",
+    "translation": "대시",
+    "status": "manual_context_checked",
+    "offset": 116720
+  },
+  "1178": {
+    "source": "メタルナックル",
+    "translation": "메탈너클",
+    "status": "manual_context_checked",
+    "offset": 116728
+  },
+  "1179": {
+    "source": "プログラム１７",
+    "translation": "프로그램 17",
+    "status": "manual_context_checked",
+    "offset": 116736
+  },
+  "1180": {
+    "source": "ガンマせん",
+    "translation": "감마선",
+    "status": "manual_context_checked",
+    "offset": 116744
+  },
+  "1181": {
+    "source": "まとわりつく",
+    "translation": "달라붙기",
+    "status": "manual_context_checked",
+    "offset": 116752
+  },
+  "1182": {
+    "source": "ねむりにつく",
+    "translation": "잠들기",
+    "status": "manual_context_checked",
+    "offset": 116760
+  },
+  "1183": {
+    "source": "にらみつける",
+    "translation": "노려보기",
+    "status": "manual_context_checked",
+    "offset": 116768
+  },
+  "1184": {
+    "source": "やなにおい",
+    "translation": "역겨운 냄새",
+    "status": "manual_context_checked",
+    "offset": 116776
+  },
+  "1185": {
+    "source": "ぬるぬる",
+    "translation": "미끈미끈",
+    "status": "manual_context_checked",
+    "offset": 116784
+  },
+  "1186": {
+    "source": "ゆめのなかへ",
+    "translation": "꿈속으로",
+    "status": "manual_context_checked",
+    "offset": 116792
+  },
+  "1187": {
+    "source": "ミスリルスパナ",
+    "translation": "미스릴 스패너",
+    "status": "manual_context_checked",
+    "offset": 116800
+  },
+  "1188": {
+    "source": "マッドシックル",
+    "translation": "매드 시클",
+    "status": "manual_context_checked",
+    "offset": 116808
+  },
+  "1189": {
+    "source": "みつめさせる",
+    "translation": "시선 유도",
+    "status": "manual_context_checked",
+    "offset": 116816
+  },
+  "1190": {
+    "source": "スリップシード",
+    "translation": "슬립 시드",
+    "status": "manual_context_checked",
+    "offset": 116824
+  },
+  "1191": {
+    "source": "さいみんガス",
+    "translation": "최면 가스",
+    "status": "manual_context_checked",
+    "offset": 116832
+  },
+  "1192": {
+    "source": "ブラッドダンス",
+    "translation": "블러드 댄스",
+    "status": "manual_context_checked",
+    "offset": 116840
+  },
+  "1193": {
+    "source": "のどわ",
+    "translation": "목 조르기",
+    "status": "manual_context_checked",
+    "offset": 116848
+  },
+  "1194": {
+    "source": "たいあたり",
+    "translation": "몸통 박치기",
+    "status": "manual_context_checked",
+    "offset": 116856
+  },
+  "1195": {
+    "source": "ひっかく",
+    "translation": "할퀴기",
+    "status": "manual_context_checked",
+    "offset": 116864
+  },
+  "1196": {
+    "source": "マインドストップ",
+    "translation": "마인드 스톱",
+    "status": "manual_context_checked",
+    "offset": 116872
+  },
+  "1197": {
+    "source": "ポイズンテール",
+    "translation": "포이즌 테일",
+    "status": "manual_context_checked",
+    "offset": 116880
+  },
+  "1198": {
+    "source": "すいみんばり",
+    "translation": "수면 침",
+    "status": "manual_context_checked",
+    "offset": 116888
+  },
+  "1199": {
+    "source": "カッパタッチ",
+    "translation": "임프 터치",
+    "status": "manual",
+    "offset": 116896
+  },
+  "1200": {
+    "source": "すいつく",
+    "translation": "빨아붙기",
+    "status": "manual_context_checked",
+    "offset": 116904
+  },
+  "1201": {
+    "source": "ロッド",
+    "translation": "로드",
+    "status": "manual_context_checked",
+    "offset": 116912
+  },
+  "1202": {
+    "source": "あくまのキッス",
+    "translation": "악마의 키스",
+    "status": "manual_context_checked",
+    "offset": 116920
+  },
+  "1203": {
+    "source": "しょうかえき",
+    "translation": "소화액",
+    "status": "manual_context_checked",
+    "offset": 116928
+  },
+  "1204": {
+    "source": "うねる、はねる",
+    "translation": "꿈틀 팔딱",
+    "status": "manual_context_checked",
+    "offset": 116936
+  },
+  "1205": {
+    "source": "スリップタッチ",
+    "translation": "슬립 터치",
+    "status": "manual_context_checked",
+    "offset": 116944
+  },
+  "1206": {
+    "source": "デッドエンド",
+    "translation": "데드 엔드",
+    "status": "manual_context_checked",
+    "offset": 116952
+  },
+  "1207": {
+    "source": "うすらわらい",
+    "translation": "비웃음",
+    "status": "manual_context_checked",
+    "offset": 116960
+  },
+  "1208": {
+    "source": "じがい",
+    "translation": "자결",
+    "status": "manual_context_checked",
+    "offset": 116968
+  },
+  "1209": {
+    "source": "ひらてうち",
+    "translation": "따귀",
+    "status": "manual_context_checked",
+    "offset": 116976
+  },
+  "1210": {
+    "source": "うずまきガサ",
+    "translation": "소용돌이 우산",
+    "status": "manual_context_checked",
+    "offset": 116984
+  },
+  "1211": {
+    "source": "スリップタッチ",
+    "translation": "슬립 터치",
+    "status": "manual_context_checked",
+    "offset": 116992
+  },
+  "1212": {
+    "source": "のろいのしせん",
+    "translation": "저주의 시선",
+    "status": "manual_context_checked",
+    "offset": 117000
+  },
+  "1213": {
+    "source": "はらにいちげき",
+    "translation": "복부 강타",
+    "status": "manual_context_checked",
+    "offset": 117008
+  },
+  "1214": {
+    "source": "にんじん",
+    "translation": "당근",
+    "status": "manual_context_checked",
+    "offset": 117016
+  },
+  "1215": {
+    "source": "ししゃのあしおと",
+    "translation": "죽은 자의 발소리",
+    "status": "manual_context_checked",
+    "offset": 117024
+  },
+  "1216": {
+    "source": "とびだしナイフ",
+    "translation": "돌출 나이프",
+    "status": "manual_context_checked",
+    "offset": 117032
+  },
+  "1217": {
+    "source": "なかまづくり",
+    "translation": "동료 만들기",
+    "status": "manual_context_checked",
+    "offset": 117040
+  },
+  "1218": {
+    "source": "プログラム６５",
+    "translation": "프로그램 65",
+    "status": "manual_context_checked",
+    "offset": 117048
+  },
+  "1219": {
+    "source": "あばれる",
+    "translation": "날뛰기",
+    "status": "manual_context_checked",
+    "offset": 117056
+  },
+  "1220": {
+    "source": "しっぽ",
+    "translation": "꼬리",
+    "status": "manual_context_checked",
+    "offset": 117064
+  },
+  "1221": {
+    "source": "がんめんかみつき",
+    "translation": "얼굴 물어뜯기",
+    "status": "manual_context_checked",
+    "offset": 117072
+  },
+  "1222": {
+    "source": "プログラム９５",
+    "translation": "프로그램 95",
+    "status": "manual_context_checked",
+    "offset": 117080
+  },
+  "1223": {
+    "source": "くちばし",
+    "translation": "부리",
+    "status": "manual_context_checked",
+    "offset": 117088
+  },
+  "1224": {
+    "source": "つっつく",
+    "translation": "쪼기",
+    "status": "manual_context_checked",
+    "offset": 117096
+  },
+  "1225": {
+    "source": "だきつく",
+    "translation": "껴안기",
+    "status": "manual_context_checked",
+    "offset": 117104
+  },
+  "1226": {
+    "source": "からみつく",
+    "translation": "휘감기",
+    "status": "manual_context_checked",
+    "offset": 117112
+  },
+  "1227": {
+    "source": "はおと",
+    "translation": "날갯소리",
+    "status": "manual_context_checked",
+    "offset": 117120
+  },
+  "1228": {
+    "source": "ばいきん",
+    "translation": "세균",
+    "status": "manual_context_checked",
+    "offset": 117128
+  },
+  "1229": {
+    "source": "マインドシックル",
+    "translation": "마인드 시클",
+    "status": "manual_context_checked",
+    "offset": 117136
+  },
+  "1230": {
+    "source": "ガルルルルル",
+    "translation": "그르르르르",
+    "status": "manual_context_checked",
+    "offset": 117144
+  },
+  "1231": {
+    "source": "ベアハッグ",
+    "translation": "베어 허그",
+    "status": "manual_context_checked",
+    "offset": 117152
+  },
+  "1232": {
+    "source": "ほねのこな",
+    "translation": "뼛가루",
+    "status": "manual_context_checked",
+    "offset": 117160
+  },
+  "1234": {
+    "source": "クリスタルランス",
+    "translation": "크리스털 랜스",
+    "status": "manual_context_checked",
+    "offset": 117176
+  },
+  "1235": {
+    "source": "ウイング",
+    "translation": "윙",
+    "status": "manual_context_checked",
+    "offset": 117184
+  },
+  "1236": {
+    "source": "メガショック",
+    "translation": "메가 쇼크",
+    "status": "manual_context_checked",
+    "offset": 117192
+  },
+  "1237": {
+    "source": "マインドショック",
+    "translation": "마인드 쇼크",
+    "status": "manual_context_checked",
+    "offset": 117200
+  },
+  "1238": {
+    "source": "ベトベト",
+    "translation": "끈적끈적",
+    "status": "manual_context_checked",
+    "offset": 117208
+  },
+  "1239": {
+    "source": "フィガロのさけ",
+    "translation": "피가로의 술",
+    "status": "manual_context_checked",
+    "offset": 117216
+  },
+  "1240": {
+    "source": "ふくろだたき",
+    "translation": "집단 구타",
+    "status": "manual_context_checked",
+    "offset": 117224
+  },
+  "1241": {
+    "source": "めらめら",
+    "translation": "활활",
+    "status": "manual_context_checked",
+    "offset": 117232
+  },
+  "1242": {
+    "source": "ゴールデンスパナ",
+    "translation": "골든 스패너",
+    "status": "manual_context_checked",
+    "offset": 117240
+  },
+  "1243": {
+    "source": "つきあげる",
+    "translation": "치받기",
+    "status": "manual_context_checked",
+    "offset": 117248
+  },
+  "1244": {
+    "source": "しのとげ",
+    "translation": "죽음의 가시",
+    "status": "manual_context_checked",
+    "offset": 117256
+  },
+  "1245": {
+    "source": "はいにする",
+    "translation": "재로 만들기",
+    "status": "manual_context_checked",
+    "offset": 117264
+  },
+  "1246": {
+    "source": "プロペラ",
+    "translation": "프로펠러",
+    "status": "manual_context_checked",
+    "offset": 117272
+  },
+  "1247": {
+    "source": "はんげき",
+    "translation": "반격",
+    "status": "manual_context_checked",
+    "offset": 117280
+  },
+  "1248": {
+    "source": "さくらんタッチ",
+    "translation": "혼란 터치",
+    "status": "manual_context_checked",
+    "offset": 117288
+  },
+  "1249": {
+    "source": "くちばし",
+    "translation": "부리",
+    "status": "manual_context_checked",
+    "offset": 117296
+  },
+  "1250": {
+    "source": "ホイール",
+    "translation": "휠",
+    "status": "manual_context_checked",
+    "offset": 117304
+  },
+  "1251": {
+    "source": "ストーンニードル",
+    "translation": "스톤 니들",
+    "status": "manual_context_checked",
+    "offset": 117312
+  },
+  "1252": {
+    "source": "しょくしゅ",
+    "translation": "촉수",
+    "status": "manual_context_checked",
+    "offset": 117320
+  },
+  "1253": {
+    "source": "ダブルアーム",
+    "translation": "더블 암",
+    "status": "manual_context_checked",
+    "offset": 117328
+  },
+  "1254": {
+    "source": "はねのこな",
+    "translation": "날개 가루",
+    "status": "manual_context_checked",
+    "offset": 117336
+  },
+  "1255": {
+    "source": "はばたく",
+    "translation": "날갯짓",
+    "status": "manual_context_checked",
+    "offset": 117344
+  },
+  "1256": {
+    "source": "パラレルアウト",
+    "translation": "패럴렐 아웃",
+    "status": "manual_context_checked",
+    "offset": 117352
+  },
+  "1257": {
+    "source": "ストーンタッチ",
+    "translation": "스톤 터치",
+    "status": "manual_context_checked",
+    "offset": 117360
+  },
+  "1258": {
+    "source": "ニッケルスパナ",
+    "translation": "니켈 스패너",
+    "status": "manual_context_checked",
+    "offset": 117368
+  },
+  "1259": {
+    "source": "こしをふる",
+    "translation": "허리 흔들기",
+    "status": "manual_context_checked",
+    "offset": 117376
+  },
+  "1260": {
+    "source": "ゾンビスティック",
+    "translation": "좀비 스틱",
+    "status": "manual_context_checked",
+    "offset": 117384
+  },
+  "1261": {
+    "source": "みぎアッパー",
+    "translation": "오른쪽 어퍼",
+    "status": "manual_context_checked",
+    "offset": 117392
+  },
+  "1262": {
+    "source": "たいあたり",
+    "translation": "몸통 박치기",
+    "status": "manual_context_checked",
+    "offset": 117400
+  },
+  "1263": {
+    "source": "ひっかく",
+    "translation": "할퀴기",
+    "status": "manual_context_checked",
+    "offset": 117408
+  },
+  "1264": {
+    "source": "えぐる",
+    "translation": "도려내기",
+    "status": "manual_context_checked",
+    "offset": 117416
+  },
+  "1265": {
+    "source": "ブレインブラスト",
+    "translation": "브레인블라스트",
+    "status": "manual_context_checked",
+    "offset": 117424
+  },
+  "1266": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117432
+  },
+  "1267": {
+    "source": "たいあたり",
+    "translation": "몸통 박치기",
+    "status": "manual_context_checked",
+    "offset": 117440
+  },
+  "1268": {
+    "source": "どくのキバ",
+    "translation": "독 엄니",
+    "status": "manual_context_checked",
+    "offset": 117448
+  },
+  "1269": {
+    "source": "きょうらんびょう",
+    "translation": "광란병",
+    "status": "manual_context_checked",
+    "offset": 117456
+  },
+  "1270": {
+    "source": "クリティカル",
+    "translation": "크리티컬",
+    "status": "manual_context_checked",
+    "offset": 117464
+  },
+  "1271": {
+    "source": "マインドストップ",
+    "translation": "마인드 스톱",
+    "status": "manual_context_checked",
+    "offset": 117472
+  },
+  "1272": {
+    "source": "デストロイド",
+    "translation": "디스트로이드",
+    "status": "manual_context_checked",
+    "offset": 117480
+  },
+  "1273": {
+    "source": "おしつぶす",
+    "translation": "짓누르기",
+    "status": "manual_context_checked",
+    "offset": 117488
+  },
+  "1274": {
+    "source": "ほうちょう",
+    "translation": "식칼",
+    "status": "manual_context_checked",
+    "offset": 117496
+  },
+  "1275": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117504
+  },
+  "1276": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117512
+  },
+  "1277": {
+    "source": "メタルパンチ",
+    "translation": "메탈 펀치",
+    "status": "manual_context_checked",
+    "offset": 117520
+  },
+  "1278": {
+    "source": "終死拳",
+    "translation": "종사권",
+    "status": "manual_context_checked",
+    "offset": 117528
+  },
+  "1279": {
+    "source": "ドリル",
+    "translation": "드릴",
+    "status": "manual_context_checked",
+    "offset": 117536
+  },
+  "1280": {
+    "source": "ドリル",
+    "translation": "드릴",
+    "status": "manual_context_checked",
+    "offset": 117544
+  },
+  "1281": {
+    "source": "車輪",
+    "translation": "차륜",
+    "status": "manual_context_checked",
+    "offset": 117552
+  },
+  "1282": {
+    "source": "あしばらい",
+    "translation": "다리 후리기",
+    "status": "manual_context_checked",
+    "offset": 117560
+  },
+  "1283": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117568
+  },
+  "1284": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117576
+  },
+  "1285": {
+    "source": "オーバーフロー",
+    "translation": "오버플로",
+    "status": "manual_context_checked",
+    "offset": 117584
+  },
+  "1286": {
+    "source": "きゅうけつ",
+    "translation": "흡혈",
+    "status": "manual_context_checked",
+    "offset": 117592
+  },
+  "1287": {
+    "source": "ソバット",
+    "translation": "소바트",
+    "status": "manual_context_checked",
+    "offset": 117600
+  },
+  "1288": {
+    "source": "てっきゅう",
+    "translation": "철구",
+    "status": "manual_context_checked",
+    "offset": 117608
+  },
+  "1289": {
+    "source": "てっきゅう",
+    "translation": "철구",
+    "status": "manual_context_checked",
+    "offset": 117616
+  },
+  "1290": {
+    "source": "タックル",
+    "translation": "태클",
+    "status": "manual_context_checked",
+    "offset": 117624
+  },
+  "1291": {
+    "source": "タックル",
+    "translation": "태클",
+    "status": "manual_context_checked",
+    "offset": 117632
+  },
+  "1292": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117640
+  },
+  "1293": {
+    "source": "すみ",
+    "translation": "먹물",
+    "status": "manual_context_checked",
+    "offset": 117648
+  },
+  "1294": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117656
+  },
+  "1295": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117664
+  },
+  "1296": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117672
+  },
+  "1297": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117680
+  },
+  "1298": {
+    "source": "パワーぜんかい！",
+    "translation": "최대 출력!",
+    "status": "manual",
+    "offset": 117688
+  },
+  "1299": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117696
+  },
+  "1300": {
+    "source": "ましょうのつめ",
+    "translation": "마성의 발톱",
+    "status": "manual_context_checked",
+    "offset": 117704
+  },
+  "1301": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117712
+  },
+  "1302": {
+    "source": "ほかくじゅんび",
+    "translation": "포획 준비",
+    "status": "manual_context_checked",
+    "offset": 117720
+  },
+  "1303": {
+    "source": "モーニングスター",
+    "translation": "모닝스타",
+    "status": "manual_context_checked",
+    "offset": 117728
+  },
+  "1304": {
+    "source": "どくのつめ",
+    "translation": "독 발톱",
+    "status": "manual_context_checked",
+    "offset": 117736
+  },
+  "1305": {
+    "source": "しのくちづけ",
+    "translation": "죽음의 입맞춤",
+    "status": "manual_context_checked",
+    "offset": 117744
+  },
+  "1306": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117752
+  },
+  "1307": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117760
+  },
+  "1308": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117768
+  },
+  "1309": {
+    "source": "よげんのいちげき",
+    "translation": "예언의 일격",
+    "status": "manual_context_checked",
+    "offset": 117776
+  },
+  "1310": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117784
+  },
+  "1311": {
+    "source": "あんさつけん",
+    "translation": "암살검",
+    "status": "manual_context_checked",
+    "offset": 117792
+  },
+  "1312": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117800
+  },
+  "1313": {
+    "source": "ポイズンクロー",
+    "translation": "포이즌 클로",
+    "status": "manual_context_checked",
+    "offset": 117808
+  },
+  "1314": {
+    "source": "まじんのいかり",
+    "translation": "마신의 분노",
+    "status": "manual_context_checked",
+    "offset": 117816
+  },
+  "1315": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117824
+  },
+  "1316": {
+    "source": "ティルフィング",
+    "translation": "티르빙",
+    "status": "manual_context_checked",
+    "offset": 117832
+  },
+  "1317": {
+    "source": "はかいのつばさ",
+    "translation": "파괴의 날개",
+    "status": "manual_context_checked",
+    "offset": 117840
+  },
+  "1318": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117848
+  },
+  "1319": {
+    "source": "すみ",
+    "translation": "먹물",
+    "status": "manual_context_checked",
+    "offset": 117856
+  },
+  "1320": {
+    "source": "すみ",
+    "translation": "먹물",
+    "status": "manual_context_checked",
+    "offset": 117864
+  },
+  "1321": {
+    "source": "すみ",
+    "translation": "먹물",
+    "status": "manual_context_checked",
+    "offset": 117872
+  },
+  "1322": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117880
+  },
+  "1323": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117888
+  },
+  "1324": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117896
+  },
+  "1325": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117904
+  },
+  "1326": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117912
+  },
+  "1327": {
+    "source": "ねんえき",
+    "translation": "점액",
+    "status": "manual_context_checked",
+    "offset": 117920
+  },
+  "1328": {
+    "source": "せきかのいちげき",
+    "translation": "석화의 일격",
+    "status": "manual_context_checked",
+    "offset": 117928
+  },
+  "1329": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117936
+  },
+  "1330": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117944
+  },
+  "1331": {
+    "source": "ほうちょう",
+    "translation": "식칼",
+    "status": "manual_context_checked",
+    "offset": 117952
+  },
+  "1332": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117960
+  },
+  "1333": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117968
+  },
+  "1334": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 117976
+  },
+  "1335": {
+    "source": "ほかくじゅんび",
+    "translation": "포획 준비",
+    "status": "manual_context_checked",
+    "offset": 117984
+  },
+  "1336": {
+    "source": "ほかくじゅんび",
+    "translation": "포획 준비",
+    "status": "manual_context_checked",
+    "offset": 117992
+  },
+  "1337": {
+    "source": "ほかくじゅんび",
+    "translation": "포획 준비",
+    "status": "manual_context_checked",
+    "offset": 118000
+  },
+  "1338": {
+    "source": "レイピア",
+    "translation": "레이피어",
+    "status": "manual_context_checked",
+    "offset": 118008
+  },
+  "1339": {
+    "source": "スラッシュ",
+    "translation": "슬래시",
+    "status": "manual_context_checked",
+    "offset": 118016
+  },
+  "1340": {
+    "source": "レイピア",
+    "translation": "레이피어",
+    "status": "manual_context_checked",
+    "offset": 118024
+  },
+  "1341": {
+    "source": "スラッシュ",
+    "translation": "슬래시",
+    "status": "manual_context_checked",
+    "offset": 118032
+  },
+  "1342": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118040
+  },
+  "1343": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118048
+  },
+  "1344": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118056
+  },
+  "1345": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118064
+  },
+  "1346": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118072
+  },
+  "1347": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118080
+  },
+  "1348": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118088
+  },
+  "1349": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118096
+  },
+  "1350": {
+    "source": "ウィングセーバー",
+    "translation": "윙 세이버",
+    "status": "manual_context_checked",
+    "offset": 118104
+  },
+  "1351": {
+    "source": "するどいきば",
+    "translation": "날카로운 엄니",
+    "status": "manual_context_checked",
+    "offset": 118112
+  },
+  "1353": {
+    "source": "アックス",
+    "translation": "액스",
+    "status": "manual_context_checked",
+    "offset": 118128
+  },
+  "1354": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118136
+  },
+  "1355": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118144
+  },
+  "1356": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118152
+  },
+  "1357": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118160
+  },
+  "1358": {
+    "source": "イレイサー",
+    "translation": "이레이서",
+    "status": "manual_context_checked",
+    "offset": 118168
+  },
+  "1359": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118176
+  },
+  "1360": {
+    "source": "かみつき",
+    "translation": "물어뜯기",
+    "status": "manual_context_checked",
+    "offset": 118184
+  },
+  "1361": {
+    "source": "イナズマ",
+    "translation": "번개",
+    "status": "manual_context_checked",
+    "offset": 118192
+  },
+  "1362": {
+    "source": "しんくうは",
+    "translation": "진공파",
+    "status": "manual_context_checked",
+    "offset": 118200
+  },
+  "1363": {
+    "source": "ブラッドクロー",
+    "translation": "블러드 클로",
+    "status": "manual_context_checked",
+    "offset": 118208
+  },
+  "1364": {
+    "source": "スリップなぐる",
+    "translation": "슬립 타격",
+    "status": "manual_context_checked",
+    "offset": 118216
+  },
+  "1365": {
+    "source": "ししゃのきば",
+    "translation": "죽은 자의 엄니",
+    "status": "manual_context_checked",
+    "offset": 118224
+  },
+  "1366": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118232
+  },
+  "1367": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118240
+  },
+  "1368": {
+    "source": "１０れんだ",
+    "translation": "10연타",
+    "status": "manual_context_checked",
+    "offset": 118248
+  },
+  "1369": {
+    "source": "やすらぎ",
+    "translation": "안식",
+    "status": "manual_context_checked",
+    "offset": 118256
+  },
+  "1370": {
+    "source": "やすらぎ",
+    "translation": "안식",
+    "status": "manual_context_checked",
+    "offset": 118264
+  },
+  "1371": {
+    "source": "コンフュクロー",
+    "translation": "컨퓨 클로",
+    "status": "manual_context_checked",
+    "offset": 118272
+  },
+  "1372": {
+    "source": "アンデットクロー",
+    "translation": "언데드 클로",
+    "status": "manual_context_checked",
+    "offset": 118280
+  },
+  "1373": {
+    "source": "メガクロー",
+    "translation": "메가 클로",
+    "status": "manual_context_checked",
+    "offset": 118288
+  },
+  "1374": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118296
+  },
+  "1375": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118304
+  },
+  "1376": {
+    "source": "プログラム３５",
+    "translation": "프로그램 35",
+    "status": "manual_context_checked",
+    "offset": 118312
+  },
+  "1377": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118320
+  },
+  "1378": {
+    "source": "マジックドレイン",
+    "translation": "매직 드레인",
+    "status": "manual_context_checked",
+    "offset": 118328
+  },
+  "1379": {
+    "source": "タコじるしのすみ",
+    "translation": "문어표 먹물",
+    "status": "manual_context_checked",
+    "offset": 118336
+  },
+  "1380": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118344
+  },
+  "1381": {
+    "source": "みぞおち",
+    "translation": "명치",
+    "status": "manual_context_checked",
+    "offset": 118352
+  },
+  "1382": {
+    "source": "みぞおち",
+    "translation": "명치",
+    "status": "manual_context_checked",
+    "offset": 118360
+  },
+  "1383": {
+    "source": "みぞおち",
+    "translation": "명치",
+    "status": "manual_context_checked",
+    "offset": 118368
+  },
+  "1384": {
+    "source": "みぞおち",
+    "translation": "명치",
+    "status": "manual_context_checked",
+    "offset": 118376
+  },
+  "1385": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118384
+  },
+  "1386": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118392
+  },
+  "1387": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118400
+  },
+  "1388": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118408
+  },
+  "1389": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118416
+  },
+  "1390": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118424
+  },
+  "1391": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118432
+  },
+  "1392": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118440
+  },
+  "1393": {
+    "source": "アックス",
+    "translation": "액스",
+    "status": "manual_context_checked",
+    "offset": 118448
+  },
+  "1394": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118456
+  },
+  "1395": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118464
+  },
+  "1396": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118472
+  },
+  "1397": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118480
+  },
+  "1398": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118488
+  },
+  "1399": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118496
+  },
+  "1400": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118504
+  },
+  "1401": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118512
+  },
+  "1402": {
+    "source": "なぐる",
+    "translation": "구타",
+    "status": "manual_context_checked",
+    "offset": 118520
+  },
+  "1048": {
+    "source": "つめ",
+    "translation": "발톱",
+    "status": "manual_context_checked",
+    "offset": 115688
+  },
+  "1233": {
+    "source": "つめ",
+    "translation": "발톱",
+    "status": "manual_context_checked",
+    "offset": 117168
+  },
+  "1352": {
+    "source": "つめ",
+    "translation": "발톱",
+    "status": "manual_context_checked",
+    "offset": 118120
+  }
+}

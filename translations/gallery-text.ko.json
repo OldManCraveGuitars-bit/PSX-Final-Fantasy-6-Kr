@@ -1,0 +1,4591 @@
+[
+  {
+    "id": "G2-00-1",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 0,
+    "rect": [
+      256,
+      49,
+      314,
+      61
+    ],
+    "source": "社名ロゴ表示\n（原文全文は画像領域を参照）",
+    "translation": "회사 로고 표시.\n크기는 FF4·5와 같다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        42,
+        316,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "1d9dd4d9e2f62878af0c30ac9a25eb3b4341959ab61603485a7254052259b965",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-00-2",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 0,
+    "rect": [
+      256,
+      136,
+      314,
+      62
+    ],
+    "source": "地平線に鉄の街が広がっている\n（原文全文は画像領域を参照）",
+    "translation": "지평선에 철의 도시가 펼쳐진다. 거리는 짙은 스모그에 덮여 있고, 석양의\n교차광이 붉은 녹빛 도시를 드러낸다.\n카메라는 트랙 업하며 도시에 접근한다. 떠 있는 느낌을 강조하는 각도로 잡는다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        129,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "1d9dd4d9e2f62878af0c30ac9a25eb3b4341959ab61603485a7254052259b965",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-00-3",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 0,
+    "rect": [
+      256,
+      223,
+      314,
+      61
+    ],
+    "source": "アップでフレームインするスカイアーマー\n（原文全文は画像領域を参照）",
+    "translation": "스카이 아머가 화면 가까이 들어온다. 뒤쪽을 크게 잡는다.\n엔진의 열기로 화면 전체에 아지랑이가 피어오른다.\n폭음과 함께 높은 엔진음을 울리며 등장한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        216,
+        316,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "1d9dd4d9e2f62878af0c30ac9a25eb3b4341959ab61603485a7254052259b965",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-00-4",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 0,
+    "rect": [
+      256,
+      310,
+      314,
+      61
+    ],
+    "source": "街へ向かうスカイアーマー\n（原文全文は画像領域を参照）",
+    "translation": "도시로 향하는 스카이 아머.\n이어 화면 뒤쪽에서 다른 스카이 아머가 들어온다.\n액션 장면과는 다르므로 천천히 비행하게 해 주세요.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        303,
+        316,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "1d9dd4d9e2f62878af0c30ac9a25eb3b4341959ab61603485a7254052259b965",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-00-5-1",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 0,
+    "rect": [
+      256,
+      396,
+      314,
+      10
+    ],
+    "source": "テロップ表示\n（原文全文は画像領域を参照）",
+    "translation": "자막 표시.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        394,
+        316,
+        13
+      ]
+    ],
+    "source_TIM_sha256": "1d9dd4d9e2f62878af0c30ac9a25eb3b4341959ab61603485a7254052259b965",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-00-5-2",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 0,
+    "rect": [
+      256,
+      424,
+      314,
+      20
+    ],
+    "source": "ガストラ帝国・首都「ベクタ」\n（原文全文は画像領域を参照）",
+    "translation": "「가스트라 제국·수도 벡터」",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        422,
+        316,
+        13
+      ]
+    ],
+    "source_TIM_sha256": "1d9dd4d9e2f62878af0c30ac9a25eb3b4341959ab61603485a7254052259b965",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-00-logo",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 0,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "1d9dd4d9e2f62878af0c30ac9a25eb3b4341959ab61603485a7254052259b965",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-01-1",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 1,
+    "rect": [
+      324,
+      49,
+      246,
+      61
+    ],
+    "source": "石炭を運び、街中を走るトロッコ\n（原文全文は画像領域を参照）",
+    "translation": "석탄을 싣고 시내를 달리는 광차.\n곡예비행하듯 철골 사이를 빠져나가는 스카이 아머.\n카메라는 왼쪽으로 따라가며 스카이 아머를 쫓는다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        322,
+        42,
+        248,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "dac7fb8a2ce9cead3bb06e3e00e51fb0ec08107127a46e7f1f25011d50d12fc2",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-01-2",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 1,
+    "rect": [
+      256,
+      136,
+      314,
+      62
+    ],
+    "source": "スカイアーマーの前方には巨大な帝国城の城壁\n（原文全文は画像領域を参照）",
+    "translation": "스카이 아머 앞에 거대한 제국 성의 성벽이 있다.\n수많은 스카이 아머가 그 주위를 선회하며 경비하고 있다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        129,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "dac7fb8a2ce9cead3bb06e3e00e51fb0ec08107127a46e7f1f25011d50d12fc2",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-01-3",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 1,
+    "rect": [
+      256,
+      223,
+      314,
+      62
+    ],
+    "source": "魔導工場内の通路\n（原文全文は画像領域を参照）",
+    "translation": "마도 공장 안의 통로.\n무겁고 차가운 금속음이 울리며 문 잠금장치가 풀린다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        216,
+        316,
+        43
+      ]
+    ],
+    "source_TIM_sha256": "dac7fb8a2ce9cead3bb06e3e00e51fb0ec08107127a46e7f1f25011d50d12fc2",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-01-4",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 1,
+    "rect": [
+      256,
+      309,
+      314,
+      63
+    ],
+    "source": "回転するバルブ状の取っ手\n（原文全文は画像領域を参照）",
+    "translation": "회전하는 밸브 모양 손잡이.\n쇠가 맞물리는 소리와 내부에서 무언가 돌아가는 소리가 동시에 들린다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        302,
+        316,
+        70
+      ]
+    ],
+    "source_TIM_sha256": "dac7fb8a2ce9cead3bb06e3e00e51fb0ec08107127a46e7f1f25011d50d12fc2",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-01-5",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 1,
+    "rect": [
+      256,
+      397,
+      314,
+      62
+    ],
+    "source": "開かれる扉\n（原文全文は画像領域を参照）",
+    "translation": "열리는 문.\n카메라는 낮은 각도를 유지하며 화면 안쪽으로 이동한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        390,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "dac7fb8a2ce9cead3bb06e3e00e51fb0ec08107127a46e7f1f25011d50d12fc2",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-01-logo",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 1,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "dac7fb8a2ce9cead3bb06e3e00e51fb0ec08107127a46e7f1f25011d50d12fc2",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-02-1",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 2,
+    "rect": [
+      256,
+      49,
+      314,
+      62
+    ],
+    "source": "扉の向こう、蒸気の中から帝国兵の足がイン\n（原文全文は画像領域を参照）",
+    "translation": "문 너머 증기 속에서 제국 병사의 발이 들어온다.\n건장한 남자 병사에 이어 다른 남자의 발이 들어온다.\n카메라는 왼쪽으로 살짝 따라간다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        42,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "fe7ea9cd62ec6c4eeb61fa0b86d85a8313f76d9ba1d0fb2619f2be4fcb4aa95d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-02-3",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 2,
+    "rect": [
+      256,
+      222,
+      314,
+      62
+    ],
+    "source": "細くしなやかな女性の足が現われる\n（原文全文は画像領域を参照）",
+    "translation": "가늘고 유연한 여성의 다리가 나타난다.\n세 번째 제국 병사, 티나의 다리다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        215,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "fe7ea9cd62ec6c4eeb61fa0b86d85a8313f76d9ba1d0fb2619f2be4fcb4aa95d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-02-4",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 2,
+    "rect": [
+      256,
+      310,
+      314,
+      61
+    ],
+    "source": "現われる３人の帝国兵\n（原文全文は画像領域を参照）",
+    "translation": "나타나는 제국 병사 세 명. 빅스, 웨지, 그리고 티나.\n카메라는 트랙 업하여 티나를 크게 잡는다.\n실제 장면을 만들 때는 카메라를 티나의 눈높이 정도로 조금 더 위에 두어 주세요.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        303,
+        316,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "fe7ea9cd62ec6c4eeb61fa0b86d85a8313f76d9ba1d0fb2619f2be4fcb4aa95d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-02-5",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 2,
+    "rect": [
+      256,
+      397,
+      314,
+      61
+    ],
+    "source": "ティナ、全くの無表情\n（原文全文は画像領域を参照）",
+    "translation": "티나는 완전히 무표정하다.\n머리에는 「꼭두각시의 고리」를 쓰고 있다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        390,
+        316,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "fe7ea9cd62ec6c4eeb61fa0b86d85a8313f76d9ba1d0fb2619f2be4fcb4aa95d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-02-logo",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 2,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "fe7ea9cd62ec6c4eeb61fa0b86d85a8313f76d9ba1d0fb2619f2be4fcb4aa95d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-03-1",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 3,
+    "rect": [
+      255,
+      49,
+      315,
+      148
+    ],
+    "source": "フィガロ城・王の間\n（原文全文は画像領域を参照）",
+    "translation": "피가로 성·왕의 방.\n생각에 잠긴 에드거가 있다.\n카메라는 아래로 팬한다.\n앞 장면과 다른 장소임을 보여 주도록 조금 밝게 조명한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        253,
+        42,
+        317,
+        155
+      ]
+    ],
+    "source_TIM_sha256": "620597d71c88f5a97ffb78bd75dd1b049572ca20f95ccd46434ab655613192a9",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-03-2",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 3,
+    "rect": [
+      255,
+      223,
+      315,
+      60
+    ],
+    "source": "じっと前方を見つめるエドガー\n（原文全文は画像領域を参照）",
+    "translation": "앞을 가만히 응시하는 에드거.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        253,
+        216,
+        317,
+        67
+      ]
+    ],
+    "source_TIM_sha256": "620597d71c88f5a97ffb78bd75dd1b049572ca20f95ccd46434ab655613192a9",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-03-3",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 3,
+    "rect": [
+      255,
+      309,
+      315,
+      61
+    ],
+    "source": "帝国の警備兵、サッと槍を引き\n（原文全文は画像領域を参照）",
+    "translation": "제국 경비병이 재빨리 창을 거두며 일행을 맞이한다.\n빅스의 시점으로 잡는다.\n불안하게 흔들리면서 경비병을 비춘다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        253,
+        302,
+        317,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "620597d71c88f5a97ffb78bd75dd1b049572ca20f95ccd46434ab655613192a9",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-03-4",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 3,
+    "rect": [
+      255,
+      395,
+      315,
+      62
+    ],
+    "source": "進む一同、強い光を受けて逆光になる\n（原文全文は画像領域を参照）",
+    "translation": "앞으로 나아가는 일행이 강한 빛을 받아 역광이 된다.\n이곳은 마도 아머 조종석으로 통하는 복도다.\n카메라는 트랙 업과 크레인 업으로 장내 전체를 보여 준다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        253,
+        388,
+        317,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "620597d71c88f5a97ffb78bd75dd1b049572ca20f95ccd46434ab655613192a9",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-03-logo",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 3,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "620597d71c88f5a97ffb78bd75dd1b049572ca20f95ccd46434ab655613192a9",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-04-1",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 4,
+    "rect": [
+      254,
+      48,
+      316,
+      61
+    ],
+    "source": "山の中にある木造の修行小屋\n（原文全文は画像領域を参照）",
+    "translation": "산속의 목조 수련장.\n명상 중인 매시가 있다.\n카메라는 왼쪽으로 돌아 들어가며 매시를 비춘다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        252,
+        41,
+        318,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "a12e67b11798486a6ab1efe005d2e971a912b8e66a953cc374a9d84c8ec2ae5d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-04-2",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 4,
+    "rect": [
+      254,
+      135,
+      316,
+      61
+    ],
+    "source": "目を開くマッシュ\n（原文全文は画像領域を参照）",
+    "translation": "눈을 뜨는 매시.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        252,
+        128,
+        318,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "a12e67b11798486a6ab1efe005d2e971a912b8e66a953cc374a9d84c8ec2ae5d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-04-3",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 4,
+    "rect": [
+      254,
+      223,
+      316,
+      61
+    ],
+    "source": "格納庫に通じる渡り廊下\n（原文全文は画像領域を参照）",
+    "translation": "격납고로 이어지는 연결 복도.\n다리 아래는 끝없는 심연이며, 너무 넓어 먼 풍경이 희미하게 보인다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        252,
+        216,
+        318,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "a12e67b11798486a6ab1efe005d2e971a912b8e66a953cc374a9d84c8ec2ae5d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-04-4",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 4,
+    "rect": [
+      254,
+      310,
+      316,
+      61
+    ],
+    "source": "ビッグス視点のアングル\n（原文全文は画像領域を参照）",
+    "translation": "빅스의 시점으로 잡는다.\n일행이 향하는 곳에 경비가 삼엄한 커다란 문이 있다.\n그 너머가 마도 아머의 격납고다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        252,
+        303,
+        318,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "a12e67b11798486a6ab1efe005d2e971a912b8e66a953cc374a9d84c8ec2ae5d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-04-5",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 4,
+    "rect": [
+      254,
+      396,
+      316,
+      62
+    ],
+    "source": "バルブ状の取っ手を握るビッグスの手\n（原文全文は画像領域を参照）",
+    "translation": "밸브 모양 손잡이를 잡는 빅스의 손.\n밸브를 돌리는 순간 컷한다. 템포 좋게 이어 간다.\n카메라는 밸브를 향해 뻗는 손을 따라 트랙 업한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        252,
+        389,
+        318,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "a12e67b11798486a6ab1efe005d2e971a912b8e66a953cc374a9d84c8ec2ae5d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-04-logo",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 4,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "a12e67b11798486a6ab1efe005d2e971a912b8e66a953cc374a9d84c8ec2ae5d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-05-1",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 5,
+    "rect": [
+      256,
+      49,
+      314,
+      62
+    ],
+    "source": "重い音を立てて開かれる扉\n（原文全文は画像領域を参照）",
+    "translation": "육중한 소리를 내며 열리는 문.\n안에서 마도의 빛이 흘러나온다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        42,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "202de5c088158f248b990800d1747e0f6574a02011d7c0633605c59df2f6badb",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-05-2",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 5,
+    "rect": [
+      256,
+      136,
+      314,
+      62
+    ],
+    "source": "扉の向こうを見つめるティナ\n（原文全文は画像領域を参照）",
+    "translation": "문 너머를 바라보는 티나.\n얼굴에 비친 빛의 줄기가 좌우로 퍼진다.\n여전히 무표정하다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        129,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "202de5c088158f248b990800d1747e0f6574a02011d7c0633605c59df2f6badb",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-05-3",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 5,
+    "rect": [
+      256,
+      223,
+      314,
+      61
+    ],
+    "source": "ティナの目のアップショット\n（原文全文は画像領域を参照）",
+    "translation": "티나의 눈을 크게 잡는다.\n마도의 빛을 받자 동공이 좁아진다.\n마도의 빛이 티나 안에 잠든 환수를 깨운다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        216,
+        316,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "202de5c088158f248b990800d1747e0f6574a02011d7c0633605c59df2f6badb",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-05-5-1",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 5,
+    "rect": [
+      256,
+      398,
+      314,
+      30
+    ],
+    "source": "テロップのみ表示\n（原文全文は画像領域を参照）",
+    "translation": "자막만 표시.\n무거운 소리와 함께 자막을 페이드 인한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        394,
+        316,
+        34
+      ]
+    ],
+    "source_TIM_sha256": "202de5c088158f248b990800d1747e0f6574a02011d7c0633605c59df2f6badb",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-05-5-2",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 5,
+    "rect": [
+      256,
+      450,
+      314,
+      20
+    ],
+    "source": "帝国軍特別指令\n（原文全文は画像領域を参照）",
+    "translation": "「제국군 특별 지령」",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        448,
+        316,
+        14
+      ]
+    ],
+    "source_TIM_sha256": "202de5c088158f248b990800d1747e0f6574a02011d7c0633605c59df2f6badb",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-05-logo",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 5,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "202de5c088158f248b990800d1747e0f6574a02011d7c0633605c59df2f6badb",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-06-1-1",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 6,
+    "rect": [
+      254,
+      49,
+      316,
+      10
+    ],
+    "source": "前と同じ要領でテロップ表示\n（原文全文は画像領域を参照）",
+    "translation": "앞과 같은 방식으로 자막 표시.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        252,
+        46,
+        318,
+        14
+      ]
+    ],
+    "source_TIM_sha256": "d0b39de13830d79304e58aeed868ab581e383ea1323adb25ba60d8139cf9eaf1",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-06-1-2",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 6,
+    "rect": [
+      254,
+      81,
+      316,
+      20
+    ],
+    "source": "炭坑都市ナルシェへの侵攻作戦開始\n（原文全文は画像領域を参照）",
+    "translation": "「탄광 도시 나르셰로의 침공 작전 개시」",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        252,
+        79,
+        318,
+        14
+      ]
+    ],
+    "source_TIM_sha256": "d0b39de13830d79304e58aeed868ab581e383ea1323adb25ba60d8139cf9eaf1",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-06-2",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 6,
+    "rect": [
+      254,
+      136,
+      316,
+      61
+    ],
+    "source": "始動前の魔導アーマー\n（原文全文は画像領域を参照）",
+    "translation": "시동 전의 마도 아머. 역광으로 등진 모습을 뚜렷하지 않게 보여 준다.\n마도 에너지가 주입되기 전이라 잠들어 있는 듯하다.\n기계와 유기체의 특징을 모두 갖춘 모습이다.\n카메라는 오른쪽으로 따라간다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        252,
+        129,
+        318,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "d0b39de13830d79304e58aeed868ab581e383ea1323adb25ba60d8139cf9eaf1",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-06-3",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 6,
+    "rect": [
+      254,
+      223,
+      316,
+      61
+    ],
+    "source": "ケフカのアップ\n（原文全文は画像領域を参照）",
+    "translation": "케프카를 크게 잡는다.\n액체가 찬 유리관 너머로 보이므로 얼굴이 일그러져 보인다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        252,
+        216,
+        318,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "d0b39de13830d79304e58aeed868ab581e383ea1323adb25ba60d8139cf9eaf1",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-06-4",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 6,
+    "rect": [
+      254,
+      310,
+      316,
+      60
+    ],
+    "source": "魔導エネルギー注入用の機械に沈むガラス管\n（原文全文は画像領域を参照）",
+    "translation": "마도 에너지 주입 장치 속으로 내려가는 유리관.\n이를 내려다보며 케프카가 씩 웃는다.\n유리관 안에는 마도 에너지가 들어 있다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        252,
+        303,
+        318,
+        67
+      ]
+    ],
+    "source_TIM_sha256": "d0b39de13830d79304e58aeed868ab581e383ea1323adb25ba60d8139cf9eaf1",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-06-5",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 6,
+    "rect": [
+      254,
+      396,
+      316,
+      61
+    ],
+    "source": "魔導エネルギー注入用の機械・内部\n（原文全文は画像領域を参照）",
+    "translation": "마도 에너지 주입 장치 내부.\n유리관이 들어오자 내부가 핏빛 마도의 빛으로 뒤덮인다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        252,
+        389,
+        318,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "d0b39de13830d79304e58aeed868ab581e383ea1323adb25ba60d8139cf9eaf1",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-06-logo",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 6,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "d0b39de13830d79304e58aeed868ab581e383ea1323adb25ba60d8139cf9eaf1",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-07-1",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 7,
+    "rect": [
+      254,
+      47,
+      316,
+      61
+    ],
+    "source": "魔導エネルギー注入用マシン\n（原文全文は画像領域を参照）",
+    "translation": "마도 에너지 주입 장치.\n유리 통로에서 이를 지켜보는 케프카와 많은 제국 병사들.\n이곳에서 뻗은 파이프는 모두 마도 아머로 연결된다.\n명령이 입력되듯 파이프가 점멸하고, 주변은 마도의 빛으로 가득해진다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        252,
+        40,
+        318,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "f74fc6f58c0204571c40c99f19d8891607ca9cb2eb7fb7d33c791d5202689a7f",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-07-2",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 7,
+    "rect": [
+      254,
+      134,
+      316,
+      148
+    ],
+    "source": "パイプの接着点\n（原文全文は画像領域を参照）",
+    "translation": "파이프 연결부.\n마도 에너지가 아머 안으로 흘러들어 증기가 새어 나오며 진동한다.\n카메라는 트랙 업하여 조종석에 앉은 티나의 옆모습을 잡는다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        252,
+        127,
+        318,
+        155
+      ]
+    ],
+    "source_TIM_sha256": "f74fc6f58c0204571c40c99f19d8891607ca9cb2eb7fb7d33c791d5202689a7f",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-07-3",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 7,
+    "rect": [
+      254,
+      309,
+      316,
+      61
+    ],
+    "source": "前ショットの続き\n（原文全文は画像領域を参照）",
+    "translation": "앞 쇼트에 이어진다.\n붉은빛이 티나를 비춘다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        252,
+        302,
+        318,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "f74fc6f58c0204571c40c99f19d8891607ca9cb2eb7fb7d33c791d5202689a7f",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-07-4",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 7,
+    "rect": [
+      254,
+      396,
+      316,
+      62
+    ],
+    "source": "ティナ専用アーマーの計器類\n（原文全文は画像領域を参照）",
+    "translation": "티나 전용 아머의 계기들.\n패널이 붉게 빛나며 계기 수치가 올라간다.\n화면 전체의 흔들림도 점차 커진다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        252,
+        389,
+        318,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "f74fc6f58c0204571c40c99f19d8891607ca9cb2eb7fb7d33c791d5202689a7f",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-07-logo",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 7,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "f74fc6f58c0204571c40c99f19d8891607ca9cb2eb7fb7d33c791d5202689a7f",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-08-1",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 8,
+    "rect": [
+      255,
+      47,
+      315,
+      60
+    ],
+    "source": "魔導アーマーのボディに接続されたパイプ\n（原文全文は画像領域を参照）",
+    "translation": "마도 아머 본체에 연결된 파이프로 대량의 마도 에너지가 주입된다.\n심장과 정맥을 연상시키는 장면.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        253,
+        40,
+        317,
+        67
+      ]
+    ],
+    "source_TIM_sha256": "b5785612904a694a29271867b495558abae5711fb8c448320040b59ecda292d7",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-08-2",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 8,
+    "rect": [
+      255,
+      135,
+      315,
+      62
+    ],
+    "source": "魔導エネルギーで満たされたガラス管\n（原文全文は画像領域を参照）",
+    "translation": "마도 에너지로 가득 찬 유리관.\n망원 렌즈로 원근감을 압축한 구도로 잡는다.\n액체가 핏빛으로 물들며 끓어오르듯 거품을 뿜는다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        253,
+        128,
+        317,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "b5785612904a694a29271867b495558abae5711fb8c448320040b59ecda292d7",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-08-3",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 8,
+    "rect": [
+      282,
+      223,
+      288,
+      61
+    ],
+    "source": "激しく振動したためにズレたヘルメット\n（原文全文は画像領域を参照）",
+    "translation": "심한 진동으로 삐뚤어진 헬멧을 고쳐 쓰는 빅스.\n휙 패닝하며 빠르게 컷 인한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        280,
+        216,
+        290,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "b5785612904a694a29271867b495558abae5711fb8c448320040b59ecda292d7",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-08-4",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 8,
+    "rect": [
+      255,
+      310,
+      315,
+      60
+    ],
+    "source": "揺れていようが何だろうがお構い無しのティナ\n（原文全文は画像領域を参照）",
+    "translation": "흔들림 따위는 전혀 아랑곳하지 않는 티나.\n그저 앞을 가만히 바라보고 있다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        253,
+        303,
+        317,
+        67
+      ]
+    ],
+    "source_TIM_sha256": "b5785612904a694a29271867b495558abae5711fb8c448320040b59ecda292d7",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-08-5",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 8,
+    "rect": [
+      255,
+      396,
+      315,
+      62
+    ],
+    "source": "外れるパイプ\n（原文全文は画像領域を参照）",
+    "translation": "빠져나가는 파이프.\n증기가 세차게 뿜어져 나온다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        253,
+        389,
+        317,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "b5785612904a694a29271867b495558abae5711fb8c448320040b59ecda292d7",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-08-logo",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 8,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "b5785612904a694a29271867b495558abae5711fb8c448320040b59ecda292d7",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-09-1",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 9,
+    "rect": [
+      255,
+      50,
+      315,
+      60
+    ],
+    "source": "Ｃ＃３３で外れたパイプがカメラ手前に落ちてくる\n（原文全文は画像領域を参照）",
+    "translation": "C#33에서 빠진 파이프가 카메라 앞으로 떨어진다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        253,
+        43,
+        317,
+        67
+      ]
+    ],
+    "source_TIM_sha256": "faef5d9e97068c57d633d70d15a3ec1eea033e8b7ae89a199c54b2f5de108164",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-09-2",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 9,
+    "rect": [
+      255,
+      136,
+      315,
+      61
+    ],
+    "source": "被写界深度を魔導アーマーの足に合わせる\n（原文全文は画像領域を参照）",
+    "translation": "초점을 마도 아머의 발에 맞춘다.\n마도 아머가 육중한 금속음을 울리며 천천히 일어선다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        253,
+        129,
+        317,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "faef5d9e97068c57d633d70d15a3ec1eea033e8b7ae89a199c54b2f5de108164",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-09-3",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 9,
+    "rect": [
+      255,
+      222,
+      315,
+      62
+    ],
+    "source": "立ち上がる魔導アーマー\n（原文全文は画像領域を参照）",
+    "translation": "일어서는 마도 아머.\n온몸에 연결된 파이프가 차례차례 빠져나간다.\n카메라는 마도 아머의 전신을 훑듯 돌아 들어간다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        253,
+        215,
+        317,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "faef5d9e97068c57d633d70d15a3ec1eea033e8b7ae89a199c54b2f5de108164",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-09-logo",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 9,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "faef5d9e97068c57d633d70d15a3ec1eea033e8b7ae89a199c54b2f5de108164",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-10-1",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 10,
+    "rect": [
+      255,
+      48,
+      315,
+      61
+    ],
+    "source": "全てのパイプが外れ、大量の蒸気に包まれる\n（原文全文は画像領域を参照）",
+    "translation": "모든 파이프가 빠지면서 짙은 증기에 둘러싸이는 마도 아머.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        253,
+        41,
+        317,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "0878df93de0aaaf57167fc243c0823339fe892033c70f1a0c53ddcfcd4e48f71",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-10-3",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 10,
+    "rect": [
+      255,
+      222,
+      315,
+      61
+    ],
+    "source": "魔導アーマーを見上げるケフカ\n（原文全文は画像領域を参照）",
+    "translation": "마도 아머를 올려다보는 케프카.\n케프카의 시선을 따라 왼쪽으로 휙 패닝한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        253,
+        215,
+        317,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "0878df93de0aaaf57167fc243c0823339fe892033c70f1a0c53ddcfcd4e48f71",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-10-4",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 10,
+    "rect": [
+      255,
+      310,
+      315,
+      60
+    ],
+    "source": "重い音を立てて一歩目を踏み出す\n（原文全文は画像領域を参照）",
+    "translation": "육중한 소리를 내며 첫발을 내딛는 마도 아머.\n오른쪽에서 휙 패닝하며 컷 인한다.\n불안정한 각도로 잡는다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        253,
+        303,
+        317,
+        67
+      ]
+    ],
+    "source_TIM_sha256": "0878df93de0aaaf57167fc243c0823339fe892033c70f1a0c53ddcfcd4e48f71",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-10-5",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 10,
+    "rect": [
+      255,
+      398,
+      315,
+      60
+    ],
+    "source": "前進する３体の魔導アーマー\n（原文全文は画像領域を参照）",
+    "translation": "전진하는 마도 아머 세 대.\n오른쪽부터 티나, 빅스, 웨지.\n한 걸음 내디딜 때마다 화면 전체가 진동한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        253,
+        391,
+        317,
+        67
+      ]
+    ],
+    "source_TIM_sha256": "0878df93de0aaaf57167fc243c0823339fe892033c70f1a0c53ddcfcd4e48f71",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-10-logo",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 10,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "0878df93de0aaaf57167fc243c0823339fe892033c70f1a0c53ddcfcd4e48f71",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-11-1",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 11,
+    "rect": [
+      256,
+      48,
+      314,
+      61
+    ],
+    "source": "前進する魔導アーマー\n（原文全文は画像領域を参照）",
+    "translation": "전진하는 마도 아머.\n카메라는 함께 움직이며 뒤로 빠진다.\n나뭇잎 사이로 빛이 비치듯 조명한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        41,
+        316,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "1269a334eaa5724ea5209c4060492c714149cd0f1e2f5cf14dee93fc5492e803",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-11-2",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 11,
+    "rect": [
+      256,
+      136,
+      314,
+      61
+    ],
+    "source": "扉へ向かう魔導アーマー\n（原文全文は画像領域を参照）",
+    "translation": "문으로 향하는 마도 아머.\n카메라는 트랙 업하여 아머의 다리를 따라간다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        129,
+        316,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "1269a334eaa5724ea5209c4060492c714149cd0f1e2f5cf14dee93fc5492e803",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-11-3",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 11,
+    "rect": [
+      256,
+      222,
+      314,
+      62
+    ],
+    "source": "正面のゲートが開く\n（原文全文は画像領域を参照）",
+    "translation": "정면의 게이트가 열린다.\n위쪽에 한 장, 양옆에 두 장의 철망과 철책 바리케이드가 각각 겹쳐지는 6중\n구조다.\n화면 안쪽에서 철망 사이로 여러 줄기의 빛, 곧 석양이 비쳐 들어온다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        215,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "1269a334eaa5724ea5209c4060492c714149cd0f1e2f5cf14dee93fc5492e803",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-11-4",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 11,
+    "rect": [
+      256,
+      312,
+      314,
+      61
+    ],
+    "source": "画面端からタイトルロゴの断片\n（原文全文は画像領域を参照）",
+    "translation": "화면 가장자리에서 타이틀 로고의 일부가 들어온다.\n문의 움직임과 잘 맞도록 동기화한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        305,
+        316,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "1269a334eaa5724ea5209c4060492c714149cd0f1e2f5cf14dee93fc5492e803",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-11-5",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 11,
+    "rect": [
+      256,
+      399,
+      314,
+      61
+    ],
+    "source": "メインタイトル表示\n（原文全文は画像領域を参照）",
+    "translation": "메인 타이틀 표시.\n땅울림 같은 여운이 남는다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        392,
+        316,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "1269a334eaa5724ea5209c4060492c714149cd0f1e2f5cf14dee93fc5492e803",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-11-logo",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 11,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "1269a334eaa5724ea5209c4060492c714149cd0f1e2f5cf14dee93fc5492e803",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-00-1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 0,
+    "rect": [
+      257,
+      49,
+      313,
+      62
+    ],
+    "source": "オペラ劇場\n（原文全文は画像領域を参照）",
+    "translation": "오페라 극장.\n카메라는 천천히 오른쪽으로 따라간다.\n글자만 플래시로 표시한 뒤 페이드 아웃한다.\n자막: 「너희는 무엇을 찾았단 말이냐?」",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        42,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "275a2ef3c9cc87a3411e14bfadb5fdaad328eb180dbe77126119d18312530b55",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-00-2",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 0,
+    "rect": [
+      257,
+      137,
+      313,
+      61
+    ],
+    "source": "オペラ劇場・楽屋\n（原文全文は画像領域を参照）",
+    "translation": "오페라 극장·분장실.\n리본을 묶는 셀리스를 크게 잡는다. 손은 보여 주지 않는다.\n앞 컷보다 빠르게 오른쪽으로 따라간다.\n셀리스의 손이 보이기 직전에 컷한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        130,
+        315,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "275a2ef3c9cc87a3411e14bfadb5fdaad328eb180dbe77126119d18312530b55",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-00-3",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 0,
+    "rect": [
+      257,
+      224,
+      313,
+      61
+    ],
+    "source": "オペラ劇場\n（原文全文は画像領域を参照）",
+    "translation": "오페라 극장.\n카메라는 천천히 오른쪽으로 따라간다.\n글자만 플래시로 표시한 뒤 페이드 아웃한다.\n자막: 「죽어 가고 있는」",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        217,
+        315,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "275a2ef3c9cc87a3411e14bfadb5fdaad328eb180dbe77126119d18312530b55",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-00-4",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 0,
+    "rect": [
+      257,
+      311,
+      313,
+      62
+    ],
+    "source": "リボンを終えて手を放すセリス\n（原文全文は画像領域を参照）",
+    "translation": "리본을 다 묶고 손을 떼는 셀리스. 손을 떼는 순간부터 컷 인한다.\n카메라는 앞 컷과 같은 속도로 왼쪽을 따라간다.\n거울에 비친 셀리스의 얼굴이 들어온다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        304,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "275a2ef3c9cc87a3411e14bfadb5fdaad328eb180dbe77126119d18312530b55",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-00-5",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 0,
+    "rect": [
+      257,
+      398,
+      313,
+      62
+    ],
+    "source": "鏡に映ったセリスに被写界深度を設定\n（原文全文は画像領域を参照）",
+    "translation": "거울에 비친 셀리스에게 초점을 맞춘다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        391,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "275a2ef3c9cc87a3411e14bfadb5fdaad328eb180dbe77126119d18312530b55",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-00-logo",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 0,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "275a2ef3c9cc87a3411e14bfadb5fdaad328eb180dbe77126119d18312530b55",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-01-1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 1,
+    "rect": [
+      256,
+      50,
+      314,
+      62
+    ],
+    "source": "オペラ劇場\n（原文全文は画像領域を参照）",
+    "translation": "오페라 극장.\n카메라는 천천히 오른쪽으로 따라간다.\n이어지는 오페라 극장 쇼트에서는 완성된 모델을 보며 적절한 부분을 골라 잡는다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        43,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "ed415996567f9bc3f7bbc6a0c5ba46d7d73cbb94fc6945e489c90ba01cc01d55",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-01-2",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 1,
+    "rect": [
+      256,
+      137,
+      314,
+      61
+    ],
+    "source": "サウスフィガロの地下牢\n（原文全文は画像領域を参照）",
+    "translation": "사우스 피가로의 지하 감옥.\n사슬에 묶여 고개를 숙이고 앉은 셀리스. 의상은 제국군 차림이다.\n문이 열리고 록의 그림자가 셀리스에게 다가간다. 록의 모습은 보여 주지 않는다.\n카메라는 록의 시점으로 트랙 업한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        130,
+        316,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "ed415996567f9bc3f7bbc6a0c5ba46d7d73cbb94fc6945e489c90ba01cc01d55",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-01-3",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 1,
+    "rect": [
+      256,
+      224,
+      314,
+      62
+    ],
+    "source": "目を覚ますセリス\n（原文全文は画像領域を参照）",
+    "translation": "눈을 뜨는 셀리스.\n힘없이 공허한 눈빛으로 올려다본다.\n제국 병사에게 고문당해 머리가 흐트러지고 피로 더럽혀져 있다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        217,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "ed415996567f9bc3f7bbc6a0c5ba46d7d73cbb94fc6945e489c90ba01cc01d55",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-01-4",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 1,
+    "rect": [
+      256,
+      311,
+      314,
+      62
+    ],
+    "source": "ロックを見つめるセリスのアップ\n（原文全文は画像領域を参照）",
+    "translation": "록을 바라보는 셀리스를 크게 잡는다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        304,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "ed415996567f9bc3f7bbc6a0c5ba46d7d73cbb94fc6945e489c90ba01cc01d55",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-01-5",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 1,
+    "rect": [
+      256,
+      398,
+      314,
+      62
+    ],
+    "source": "オペラ劇場・ライトのアップ\n（原文全文は画像領域を参照）",
+    "translation": "오페라 극장·조명을 크게 잡는다.\n화면 전체가 눈부신 빛에 휩싸인다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        391,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "ed415996567f9bc3f7bbc6a0c5ba46d7d73cbb94fc6945e489c90ba01cc01d55",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-01-logo",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 1,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "ed415996567f9bc3f7bbc6a0c5ba46d7d73cbb94fc6945e489c90ba01cc01d55",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-02-1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 2,
+    "rect": [
+      256,
+      49,
+      314,
+      62
+    ],
+    "source": "舞台のバルコニーに立つセリス\n（原文全文は画像領域を参照）",
+    "translation": "무대 발코니에 선 셀리스.\n본편에서 드라코와 춤추던 장소다.\n카메라는 천천히 트랙 업한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        42,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "05f67ce20943c23ef3631e649ae187bb72e32cb45a65f114de842974a689a9c7",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-02-2",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 2,
+    "rect": [
+      256,
+      137,
+      314,
+      61
+    ],
+    "source": "花束を抱え、何かを思い出すように\n（原文全文は画像領域を参照）",
+    "translation": "꽃다발을 안고 무언가를 떠올리듯 살며시 눈을 감는 셀리스.\n눈을 감고 나서 카메라는 천천히 왼쪽으로 따라간다.\n배경에 비친 달이 들어온다.\n계속 따라가면...",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        130,
+        316,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "05f67ce20943c23ef3631e649ae187bb72e32cb45a65f114de842974a689a9c7",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-02-3",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 2,
+    "rect": [
+      298,
+      224,
+      272,
+      61
+    ],
+    "source": "前ショットの続き\n（原文全文は画像領域を参照）",
+    "translation": "앞 쇼트에 이어진다.\n카메라는 달을 계속 따라가며 왼쪽으로 이동한다.\n그사이 무대는 피가로 성 옥상으로 바뀌어 있다.\n달빛을 받으며 이야기하는 에드거와 매시.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        296,
+        217,
+        274,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "05f67ce20943c23ef3631e649ae187bb72e32cb45a65f114de842974a689a9c7",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-02-4",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 2,
+    "rect": [
+      256,
+      311,
+      314,
+      61
+    ],
+    "source": "振り返るエドガー\n（原文全文は画像領域を参照）",
+    "translation": "돌아보는 에드거.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        304,
+        316,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "05f67ce20943c23ef3631e649ae187bb72e32cb45a65f114de842974a689a9c7",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-02-5",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 2,
+    "rect": [
+      256,
+      398,
+      314,
+      62
+    ],
+    "source": "バルコニーのセリス、花束を掲げる\n（原文全文は画像領域を参照）",
+    "translation": "발코니의 셀리스가 꽃다발을 들어 올린다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        391,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "05f67ce20943c23ef3631e649ae187bb72e32cb45a65f114de842974a689a9c7",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-02-logo",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 2,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "05f67ce20943c23ef3631e649ae187bb72e32cb45a65f114de842974a689a9c7",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-03-1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 3,
+    "rect": [
+      257,
+      49,
+      313,
+      62
+    ],
+    "source": "エドガー、懐から一枚のコイン\n（原文全文は画像領域を参照）",
+    "translation": "에드거가 품에서 동전 하나를 꺼낸다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        42,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "93ae941fc35ea8c81184abe2ed8fd29960dd37ca7cd11a6375c52a7cecafb07d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-03-2",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 3,
+    "rect": [
+      257,
+      137,
+      313,
+      62
+    ],
+    "source": "コインのアップ\n（原文全文は画像領域を参照）",
+    "translation": "동전을 크게 잡는다.\n앞뒤를 확인하듯 움직여 보인다.\n달빛을 받아 순간 반짝인다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        130,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "93ae941fc35ea8c81184abe2ed8fd29960dd37ca7cd11a6375c52a7cecafb07d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-03-3",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 3,
+    "rect": [
+      257,
+      225,
+      313,
+      62
+    ],
+    "source": "サウスフィガロの地下牢\n（原文全文は画像領域を参照）",
+    "translation": "사우스 피가로의 지하 감옥.\n록을 올려다보는 셀리스.\n카메라가 따라가자 록의 손이 들어온다.\n카메라는 그대로 셀리스의 정면으로 돌아 들어간다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        218,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "93ae941fc35ea8c81184abe2ed8fd29960dd37ca7cd11a6375c52a7cecafb07d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-03-4",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 3,
+    "rect": [
+      257,
+      313,
+      313,
+      62
+    ],
+    "source": "弱々しく手を伸ばすセリス\n（原文全文は画像領域を参照）",
+    "translation": "힘없이 손을 뻗는 셀리스.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        306,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "93ae941fc35ea8c81184abe2ed8fd29960dd37ca7cd11a6375c52a7cecafb07d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-03-5",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 3,
+    "rect": [
+      257,
+      400,
+      313,
+      62
+    ],
+    "source": "コインを弾くエドガー\n（原文全文は画像領域を参照）",
+    "translation": "동전을 튕기는 에드거.\n앞 컷에서 셀리스가 손을 움직이던 동작에 겹치도록 에드거도 손을 내민다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        393,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "93ae941fc35ea8c81184abe2ed8fd29960dd37ca7cd11a6375c52a7cecafb07d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-03-logo",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 3,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "93ae941fc35ea8c81184abe2ed8fd29960dd37ca7cd11a6375c52a7cecafb07d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-04-1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 4,
+    "rect": [
+      257,
+      49,
+      313,
+      62
+    ],
+    "source": "花束を投げるセリス\n（原文全文は画像領域を参照）",
+    "translation": "꽃다발을 던지는 셀리스.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        42,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "65a31345485536eeee33f51d422a60cc07a81e558298fde5e596812894dcdb0b",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-04-2",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 4,
+    "rect": [
+      257,
+      137,
+      313,
+      62
+    ],
+    "source": "月に向かって舞い上がるコイン\n（原文全文は画像領域を参照）",
+    "translation": "달을 향해 날아오르는 동전.\n카메라는 뒤로 빠진다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        130,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "65a31345485536eeee33f51d422a60cc07a81e558298fde5e596812894dcdb0b",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-04-3",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 4,
+    "rect": [
+      257,
+      225,
+      313,
+      62
+    ],
+    "source": "月を背に花束とコインが重なる\n（原文全文は画像領域を参照）",
+    "translation": "달을 배경으로 꽃다발과 동전이 겹친다.\nC#16부터 이어지는 움직임은 모두 슬로 모션으로 처리한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        218,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "65a31345485536eeee33f51d422a60cc07a81e558298fde5e596812894dcdb0b",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-04-4",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 4,
+    "rect": [
+      257,
+      313,
+      313,
+      62
+    ],
+    "source": "花束とコインのみフェードアウト\n（原文全文は画像領域を参照）",
+    "translation": "꽃다발과 동전만 페이드 아웃한다.\n카메라는 아래로 팬한다.\n눈이 페이드 인한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        306,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "65a31345485536eeee33f51d422a60cc07a81e558298fde5e596812894dcdb0b",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-04-5",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 4,
+    "rect": [
+      257,
+      400,
+      313,
+      61
+    ],
+    "source": "魔導アーマーの操縦席から雪の夜空\n（原文全文は画像領域を参照）",
+    "translation": "마도 아머 조종석에서 눈 내리는 밤하늘을 올려다보는 티나.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        393,
+        315,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "65a31345485536eeee33f51d422a60cc07a81e558298fde5e596812894dcdb0b",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-04-logo",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 4,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "65a31345485536eeee33f51d422a60cc07a81e558298fde5e596812894dcdb0b",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-05-1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 5,
+    "rect": [
+      257,
+      49,
+      313,
+      62
+    ],
+    "source": "ナルシェの炭坑内部\n（原文全文は画像領域を参照）",
+    "translation": "나르셰 탄광 내부. 본편에서 세이브 포인트가 있던 곳.\n눈 속에 조용히 서 있는 티나 전용 마도 아머.\n카메라는 천천히 크레인 업한다.\n마도 아머 하반신이 화면을 벗어나면 컷한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        42,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "89e88ed6a28ddbfcae8ccbe691e762946d656df496acc834df3b6c18dfb8a1f3",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-05-2",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 5,
+    "rect": [
+      257,
+      137,
+      313,
+      62
+    ],
+    "source": "これまでのほのぼのとした雰囲気\n（原文全文は画像領域を参照）",
+    "translation": "지금까지의 훈훈한 분위기를 모두 깨뜨리듯 나타나는 케프카 클로즈업.\n오프닝에서 사용한 것과 같은 컷이다.\nBGM이 확 바뀐다.\n플래시와 함께 들어온다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        130,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "89e88ed6a28ddbfcae8ccbe691e762946d656df496acc834df3b6c18dfb8a1f3",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-05-3",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 5,
+    "rect": [
+      257,
+      225,
+      313,
+      62
+    ],
+    "source": "突進してくる魔列車\n（原文全文は画像領域を参照）",
+    "translation": "돌진해 오는 마열차.\n카메라는 지면에 닿을 만큼 낮게 움직인다.\n마열차 바닥을 뚫고 객차 안으로 크레인 업한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        218,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "89e88ed6a28ddbfcae8ccbe691e762946d656df496acc834df3b6c18dfb8a1f3",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-05-4",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 5,
+    "rect": [
+      257,
+      313,
+      313,
+      61
+    ],
+    "source": "床から現われるカメラの動きに連動して\n（原文全文は画像領域を参照）",
+    "translation": "바닥에서 올라오는 카메라 움직임에 맞춰 고스트들이 바닥에서 나타난다.\n카메라는 그대로 뒤로 빠지며 차례차례 솟아나는 고스트들을 잡는다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        306,
+        315,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "89e88ed6a28ddbfcae8ccbe691e762946d656df496acc834df3b6c18dfb8a1f3",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-05-5",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 5,
+    "rect": [
+      309,
+      399,
+      261,
+      62
+    ],
+    "source": "ベクタ上空\n（原文全文は画像領域を参照）",
+    "translation": "벡터 상공.\n철의 도시를 고속으로 비행하는 블랙잭.\n이후 「블잭」으로 줄여 쓴다.\n카메라는 블잭을 따라 오른쪽 위로 팬한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        307,
+        392,
+        263,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "89e88ed6a28ddbfcae8ccbe691e762946d656df496acc834df3b6c18dfb8a1f3",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-05-logo",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 5,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "89e88ed6a28ddbfcae8ccbe691e762946d656df496acc834df3b6c18dfb8a1f3",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-06-1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 6,
+    "rect": [
+      256,
+      51,
+      314,
+      62
+    ],
+    "source": "ゴースト達に追い詰められるシャドウ\n（原文全文は画像領域を参照）",
+    "translation": "고스트들에게 몰린 섀도.\n카메라는 앞 컷과 같은 속도로 트랙 업한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        44,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "ffb30a82f519e0dc6d79b780c8257808aa17dbe79b7ff3def8a9c60329d80793",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-06-2",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 6,
+    "rect": [
+      256,
+      139,
+      314,
+      61
+    ],
+    "source": "目で敵の数を数えるシャドウ\n（原文全文は画像領域を参照）",
+    "translation": "눈으로 적의 수를 헤아리는 섀도.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        132,
+        316,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "ffb30a82f519e0dc6d79b780c8257808aa17dbe79b7ff3def8a9c60329d80793",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-06-3",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 6,
+    "rect": [
+      355,
+      225,
+      215,
+      62
+    ],
+    "source": "ブラックジャック視点のアングル\n（原文全文は画像領域を参照）",
+    "translation": "블잭의 시점으로 잡는다.\n좁은 공장 지대를 통과하다 탁 트인 곳에서 왼쪽으로\n팬한다.\n그곳에서 수많은 스카이 아머가 나타난다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        353,
+        218,
+        217,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "ffb30a82f519e0dc6d79b780c8257808aa17dbe79b7ff3def8a9c60329d80793",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-06-4",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 6,
+    "rect": [
+      256,
+      313,
+      314,
+      61
+    ],
+    "source": "ゴーストに立ち向かうシャドウ\n（原文全文は画像領域を参照）",
+    "translation": "고스트들에게 맞서는 섀도.\n한 발짝 내디딘 순간 컷한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        306,
+        316,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "ffb30a82f519e0dc6d79b780c8257808aa17dbe79b7ff3def8a9c60329d80793",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-06-5",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 6,
+    "rect": [
+      256,
+      400,
+      314,
+      62
+    ],
+    "source": "カメラの前を通過する魔列車の車輪\n（原文全文は画像領域を参照）",
+    "translation": "카메라 앞을 지나가는 마열차의 바퀴.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        393,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "ffb30a82f519e0dc6d79b780c8257808aa17dbe79b7ff3def8a9c60329d80793",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-06-logo",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 6,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "ffb30a82f519e0dc6d79b780c8257808aa17dbe79b7ff3def8a9c60329d80793",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-07-1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 7,
+    "rect": [
+      257,
+      50,
+      313,
+      61
+    ],
+    "source": "ベクタ上空\n（原文全文は画像領域を参照）",
+    "translation": "벡터 상공.\n블잭을 쫓는 스카이 아머 무리.\n카메라는 불안하게 흔들리며 고속으로 뒤로 빠진다.\n항상 블잭이 화면 안에 들어오도록 잡는다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        43,
+        315,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "94f0bce4a91bbc8d38f7502fdc95d92d77bd8e1f2f8d4b77cafd63604b2edc87",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-07-2",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 7,
+    "rect": [
+      328,
+      137,
+      242,
+      62
+    ],
+    "source": "魔列車内を駆け抜けるシャドウ\n（原文全文は画像領域を参照）",
+    "translation": "마열차 안을 달려 나가는 섀도.\n카메라는 섀도의 정면으로 돌아 들어간다.\n섀도가 지나간 뒤 배후의 고스트들이 차례로 소멸한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        326,
+        130,
+        244,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "94f0bce4a91bbc8d38f7502fdc95d92d77bd8e1f2f8d4b77cafd63604b2edc87",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-07-3",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 7,
+    "rect": [
+      328,
+      225,
+      242,
+      62
+    ],
+    "source": "オペラ劇場・ホールへ続く廊下\n（原文全文は画像領域を参照）",
+    "translation": "오페라 극장·홀로 이어지는 복도.\n화면 안쪽에서 셀리스가 달려온다. 슬로 모션.\n카메라는 앞 컷의 움직임을 이어 오른쪽으로 돌다가 셀리스를\n따라 왼쪽으로 팬한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        326,
+        218,
+        244,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "94f0bce4a91bbc8d38f7502fdc95d92d77bd8e1f2f8d4b77cafd63604b2edc87",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-07-4",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 7,
+    "rect": [
+      257,
+      313,
+      313,
+      61
+    ],
+    "source": "セリスの後ろがフレームアウトすると\n（原文全文は画像領域を参照）",
+    "translation": "셀리스의 뒷모습이 화면을 벗어나자 나르셰의 거리가 나타난다.\n도시 깊은 곳에서 기분 나쁜 발소리를 울리며 마도 아머 세 대가 다가온다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        306,
+        315,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "94f0bce4a91bbc8d38f7502fdc95d92d77bd8e1f2f8d4b77cafd63604b2edc87",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-07-5",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 7,
+    "rect": [
+      257,
+      400,
+      313,
+      61
+    ],
+    "source": "魔導アーマー視点のアングル\n（原文全文は画像領域を参照）",
+    "translation": "마도 아머의 시점으로 잡는다.\n길옆에서 뛰쳐나오는 나르셰의 가드들.\n마도 아머를 향해 일제히 사격한다.\n설정상 창이지만 총이 더 그럴듯해 보일 듯하다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        393,
+        315,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "94f0bce4a91bbc8d38f7502fdc95d92d77bd8e1f2f8d4b77cafd63604b2edc87",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-07-logo",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 7,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "94f0bce4a91bbc8d38f7502fdc95d92d77bd8e1f2f8d4b77cafd63604b2edc87",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-08-1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 8,
+    "rect": [
+      344,
+      49,
+      226,
+      62
+    ],
+    "source": "空中で旋回し、銃を乱射するスカイアーマー\n（原文全文は画像領域を参照）",
+    "translation": "공중을 선회하며 총을 난사하는 스카이 아머.\n카메라는 움직이는 스카이 아머를 화면 안에 붙잡으려\n애쓰듯 필사적으로 쫓는다.\n촬영자가 있는 듯한 불안정한 각도로 잡는다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        342,
+        42,
+        228,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "3c9684fb6c7995705ee5d6bd2107a72307926a487bb1008b102cda2612518f88",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-08-2",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 8,
+    "rect": [
+      257,
+      137,
+      313,
+      62
+    ],
+    "source": "魔導アーマーのボディ\n（原文全文は画像領域を参照）",
+    "translation": "마도 아머의 본체.\n불꽃이 튄다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        130,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "3c9684fb6c7995705ee5d6bd2107a72307926a487bb1008b102cda2612518f88",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-08-3",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 8,
+    "rect": [
+      257,
+      224,
+      313,
+      62
+    ],
+    "source": "魔導アーマーに向けて正面から射撃するガード達\n（原文全文は画像領域を参照）",
+    "translation": "마도 아머를 향해 정면에서 사격하는 가드들.\n마도 아머는 아랑곳하지 않고 전진한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        217,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "3c9684fb6c7995705ee5d6bd2107a72307926a487bb1008b102cda2612518f88",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-08-4",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 8,
+    "rect": [
+      257,
+      312,
+      313,
+      62
+    ],
+    "source": "魔導アーマー視点のアングル\n（原文全文は画像領域を参照）",
+    "translation": "마도 아머의 시점으로 잡는다.\n강한 빛이 가드들을 비춘다.\n놀라서 공격을 멈춘다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        305,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "3c9684fb6c7995705ee5d6bd2107a72307926a487bb1008b102cda2612518f88",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-08-5",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 8,
+    "rect": [
+      257,
+      400,
+      313,
+      61
+    ],
+    "source": "魔導アーマーの反撃\n（原文全文は画像領域を参照）",
+    "translation": "마도 아머의 반격.\n빛이 응축되어 마도 레이저로 발사된다.\n화면이 하얗게 덮인다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        393,
+        315,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "3c9684fb6c7995705ee5d6bd2107a72307926a487bb1008b102cda2612518f88",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-08-logo",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 8,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "3c9684fb6c7995705ee5d6bd2107a72307926a487bb1008b102cda2612518f88",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-09-1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 9,
+    "rect": [
+      257,
+      49,
+      313,
+      75
+    ],
+    "source": "ブラックジャック・デッキ\n（原文全文は画像領域を参照）",
+    "translation": "블잭의 갑판.\n조타륜을 잡고 있는 셋저.\n스카이 아머의 집중 공격을 받아 선체 곳곳에서 불꽃이 튄다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        42,
+        315,
+        82
+      ]
+    ],
+    "source_TIM_sha256": "80f3d5770338ec10ab6540c7cad2ed8504f87cd8cdb51f8295d27b559e594dd5",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-09-2",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 9,
+    "rect": [
+      345,
+      135,
+      225,
+      50
+    ],
+    "source": "火花のアップからインしてパンダウン\n（原文全文は画像領域を参照）",
+    "translation": "불꽃을 크게 잡으며 들어와 아래로 팬한다.\n오른쪽을 노려보는 셋저의 시선을 따라 재빨리 오른쪽으로\n휙 패닝한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        343,
+        128,
+        227,
+        57
+      ]
+    ],
+    "source_TIM_sha256": "80f3d5770338ec10ab6540c7cad2ed8504f87cd8cdb51f8295d27b559e594dd5",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-09-3",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 9,
+    "rect": [
+      337,
+      225,
+      233,
+      62
+    ],
+    "source": "ブラックジャックの側面スレスレを飛び抜ける\n（原文全文は画像領域を参照）",
+    "translation": "블잭의 옆면을 스치듯 날아가는 스카이 아머.\n블잭에 총격을 퍼부으며 화면을 벗어난다.\n이어서 두 대, 세 대가 뒤따른다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        335,
+        218,
+        235,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "80f3d5770338ec10ab6540c7cad2ed8504f87cd8cdb51f8295d27b559e594dd5",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-09-4",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 9,
+    "rect": [
+      256,
+      313,
+      314,
+      62
+    ],
+    "source": "帝国上空を旋回するブラックジャック\n（原文全文は画像領域を参照）",
+    "translation": "제국 상공을 선회하는 블잭.\n양옆에서 스카이 아머가 돌아 들어온다.\n비행선을 둘러싼 뒤에는 양옆으로 붙여 둔다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        306,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "80f3d5770338ec10ab6540c7cad2ed8504f87cd8cdb51f8295d27b559e594dd5",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-09-5",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 9,
+    "rect": [
+      296,
+      400,
+      274,
+      62
+    ],
+    "source": "オペラ劇場・ホール\n（原文全文は画像領域を参照）",
+    "translation": "오페라 극장·홀.\n돌로 지어진 널찍한 공간에 석양이 비쳐 들며 환상적인 분위기를\n만든다.\n카메라는 오른쪽으로 따라간다.\n셀리스를 바라보는 록이 들어온다. 아직 모습만 보여 준다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        294,
+        393,
+        276,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "80f3d5770338ec10ab6540c7cad2ed8504f87cd8cdb51f8295d27b559e594dd5",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-09-logo",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 9,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "80f3d5770338ec10ab6540c7cad2ed8504f87cd8cdb51f8295d27b559e594dd5",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-10-1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 10,
+    "rect": [
+      256,
+      49,
+      314,
+      62
+    ],
+    "source": "セリスの背後に立つロック\n（原文全文は画像領域を参照）",
+    "translation": "셀리스 뒤에 선 록이 기둥 사이로 나타난다.\nFF5의 레나 아버지와 같은 구도로 잡는다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        42,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "8a1283fe232d12c3987e691f53ccce6372e17faede42673233d7f3b9c6859244",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-10-2",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 10,
+    "rect": [
+      338,
+      137,
+      232,
+      62
+    ],
+    "source": "ブラックジャックの後方から接近する\n（原文全文は画像領域を参照）",
+    "translation": "블랙잭 뒤에서 접근하는 스카이 아머.\n카메라는 스카이 아머와 함께 트랙 업한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        336,
+        130,
+        234,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "8a1283fe232d12c3987e691f53ccce6372e17faede42673233d7f3b9c6859244",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-10-3",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 10,
+    "rect": [
+      307,
+      224,
+      263,
+      62
+    ],
+    "source": "前カットのスカイアーマーが急接近する\n（原文全文は画像領域を参照）",
+    "translation": "앞 컷의 스카이 아머가 급접근한다.\n카메라는 셋저의 손과 각도를 맞춘다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        305,
+        217,
+        265,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "8a1283fe232d12c3987e691f53ccce6372e17faede42673233d7f3b9c6859244",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-10-4",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 10,
+    "rect": [
+      277,
+      312,
+      293,
+      62
+    ],
+    "source": "マジシャンのような鮮やかな手つきで\n（原文全文は画像領域を参照）",
+    "translation": "마술사처럼 능숙한 손놀림으로 카드를 펼친다.\n카메라는 펼쳐지는 카드를 따라 왼쪽으로 이동한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        275,
+        305,
+        295,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "8a1283fe232d12c3987e691f53ccce6372e17faede42673233d7f3b9c6859244",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-10-5",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 10,
+    "rect": [
+      257,
+      400,
+      313,
+      62
+    ],
+    "source": "セッツァー、一斉カードを飛ばす\n（原文全文は画像領域を参照）",
+    "translation": "셋저가 카드를 한꺼번에 날린다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        393,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "8a1283fe232d12c3987e691f53ccce6372e17faede42673233d7f3b9c6859244",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-10-logo",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 10,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "8a1283fe232d12c3987e691f53ccce6372e17faede42673233d7f3b9c6859244",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-11-1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 11,
+    "rect": [
+      327,
+      49,
+      243,
+      62
+    ],
+    "source": "スカイアーマーのボディにカードが突き刺さり\n（原文全文は画像領域を参照）",
+    "translation": "스카이 아머의 본체에 카드가 꽂히고, 불을 뿜으며 날아간다.\n카메라는 스카이 아머를 따라 오른쪽으로 이동한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        325,
+        42,
+        245,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "fda26ea0f1520b593b555a3328bd504297252b674b008be1af1d7743771d9ac8",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-11-2",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 11,
+    "rect": [
+      257,
+      136,
+      313,
+      62
+    ],
+    "source": "ナルシェ\n（原文全文は画像領域を参照）",
+    "translation": "나르셰.\n마도 아머의 거대한 발이 들어온다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        129,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "fda26ea0f1520b593b555a3328bd504297252b674b008be1af1d7743771d9ac8",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-11-3",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 11,
+    "rect": [
+      257,
+      224,
+      313,
+      61
+    ],
+    "source": "バラバラに破壊されるスカイアーマー\n（原文全文は画像領域を参照）",
+    "translation": "산산조각 나는 스카이 아머.\n카메라는 뒤로 빠지며 스카이 아머가 부서지는 모습을 잡는다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        217,
+        315,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "fda26ea0f1520b593b555a3328bd504297252b674b008be1af1d7743771d9ac8",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-11-4",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 11,
+    "rect": [
+      257,
+      311,
+      313,
+      62
+    ],
+    "source": "大爆発を起こし、プロペラが画面手前に\n（原文全文は画像領域を参照）",
+    "translation": "대폭발이 일어나고 프로펠러가 화면 앞으로 날아든다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        304,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "fda26ea0f1520b593b555a3328bd504297252b674b008be1af1d7743771d9ac8",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-11-5",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 11,
+    "rect": [
+      257,
+      400,
+      313,
+      61
+    ],
+    "source": "ガード、魔導アーマーの足に踏み潰される\n（原文全文は画像領域を参照）",
+    "translation": "가드가 마도 아머의 발에 짓밟힌다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        393,
+        315,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "fda26ea0f1520b593b555a3328bd504297252b674b008be1af1d7743771d9ac8",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-11-logo",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 11,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "fda26ea0f1520b593b555a3328bd504297252b674b008be1af1d7743771d9ac8",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-12-1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 12,
+    "rect": [
+      257,
+      49,
+      313,
+      62
+    ],
+    "source": "ケフカ（最終形態）登場\n（原文全文は画像領域を参照）",
+    "translation": "케프카의 최종 형태가 등장한다.\n카메라는 케프카를 중심으로 왼쪽으로 돌아 들어간다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        42,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "8a773ed640f03dc7855d74a2380d0f26b101c3e714fa6b06d157543b7e904d22",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-12-2",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 12,
+    "rect": [
+      278,
+      137,
+      292,
+      61
+    ],
+    "source": "雲の向こうからゆっくりと現れるアレクサンダー\n（原文全文は画像領域を参照）",
+    "translation": "구름 너머에서 천천히 나타나는 알렉산더.\n마천사에게 심판을 내리는 신을 떠올리게 한다.\n종교화 같은 영상으로 만든다.\n페이드 인하듯 아주 천천히 등장한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        276,
+        130,
+        294,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "8a773ed640f03dc7855d74a2380d0f26b101c3e714fa6b06d157543b7e904d22",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-12-3",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 12,
+    "rect": [
+      257,
+      224,
+      313,
+      62
+    ],
+    "source": "アレクサンダーの顔が開き\n（原文全文は画像領域を参照）",
+    "translation": "알렉산더의 얼굴 같은 부분이 열리고 중심에서 강한 빛이 뿜어져 나오기 시작한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        217,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "8a773ed640f03dc7855d74a2380d0f26b101c3e714fa6b06d157543b7e904d22",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-12-4",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 12,
+    "rect": [
+      257,
+      313,
+      313,
+      62
+    ],
+    "source": "光りが集中し、それは一つの塊になる\n（原文全文は画像領域を参照）",
+    "translation": "빛이 한곳으로 모여 하나의 덩어리가 된다.\n케프카를 향해 광선이 발사된다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        306,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "8a773ed640f03dc7855d74a2380d0f26b101c3e714fa6b06d157543b7e904d22",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-12-5",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 12,
+    "rect": [
+      257,
+      400,
+      313,
+      62
+    ],
+    "source": "アレクサンダーの攻撃を真上から受ける\n（原文全文は画像領域を参照）",
+    "translation": "알렉산더의 공격을 바로 위에서 받는 케프카.\n화면 전체가 황금빛으로 물들어 간다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        255,
+        393,
+        315,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "8a773ed640f03dc7855d74a2380d0f26b101c3e714fa6b06d157543b7e904d22",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-12-logo",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 12,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "8a773ed640f03dc7855d74a2380d0f26b101c3e714fa6b06d157543b7e904d22",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-13-1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 13,
+    "rect": [
+      256,
+      50,
+      314,
+      61
+    ],
+    "source": "消滅するケフカ\n（原文全文は画像領域を参照）",
+    "translation": "소멸하는 케프카.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        43,
+        316,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "196e3b5fcb9283d909d2de6e956b0aaac5464dd1cf4c327f67a58b406410ddf5",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-13-2",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 13,
+    "rect": [
+      256,
+      136,
+      314,
+      62
+    ],
+    "source": "大爆発\n（原文全文は画像領域を参照）",
+    "translation": "대폭발!\n너무 가까이 잡아 무엇이 무엇인지 알 수 없다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        129,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "196e3b5fcb9283d909d2de6e956b0aaac5464dd1cf4c327f67a58b406410ddf5",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-13-3",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 13,
+    "rect": [
+      256,
+      224,
+      314,
+      150
+    ],
+    "source": "聖なる審判がケフカを貫き\n（原文全文は画像領域を参照）",
+    "translation": "「성스러운 심판」이 케프카를 관통하며 잔해의 탑을 무너뜨린다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        217,
+        316,
+        157
+      ]
+    ],
+    "source_TIM_sha256": "196e3b5fcb9283d909d2de6e956b0aaac5464dd1cf4c327f67a58b406410ddf5",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-13-4",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 13,
+    "rect": [
+      256,
+      401,
+      314,
+      62
+    ],
+    "source": "ナルシェの街、昼間\n（原文全文は画像領域を参照）",
+    "translation": "나르셰의 낮 거리를 뒤로 빠지는 카메라로 잡는다.\n자막: 「무너질 줄 알면서 왜 만드는가?」",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        394,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "196e3b5fcb9283d909d2de6e956b0aaac5464dd1cf4c327f67a58b406410ddf5",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-13-logo",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 13,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "196e3b5fcb9283d909d2de6e956b0aaac5464dd1cf4c327f67a58b406410ddf5",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-14-1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 14,
+    "rect": [
+      256,
+      49,
+      314,
+      62
+    ],
+    "source": "オペラ劇場内を行くカメラ\n（原文全文は画像領域を参照）",
+    "translation": "오페라 극장 안을 따라가는 카메라.\n창밖에서 여러 줄기의 빛이 비쳐 들어온다.\n자막: 「죽을 줄 알면서 왜 살아가려 하는가?」",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        42,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "916b915bba4b8c1557d996b5192f1cee47ffccc58b26628be422f46c6ac66f7d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-14-2",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 14,
+    "rect": [
+      256,
+      137,
+      314,
+      62
+    ],
+    "source": "セリスの手に握られたバンダナ\n（原文全文は画像領域を参照）",
+    "translation": "셀리스의 손에 쥐어진 반다나.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        254,
+        130,
+        316,
+        69
+      ]
+    ],
+    "source_TIM_sha256": "916b915bba4b8c1557d996b5192f1cee47ffccc58b26628be422f46c6ac66f7d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-14-3",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 14,
+    "rect": [
+      277,
+      225,
+      293,
+      61
+    ],
+    "source": "セリス、バンダナを抱きしめ\n（原文全文は画像領域を参照）",
+    "translation": "셀리스가 반다나를 끌어안고 살며시 눈을 감는다.\n카메라는 따라가다가 서서히 페이드 아웃한다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        275,
+        218,
+        295,
+        68
+      ]
+    ],
+    "source_TIM_sha256": "916b915bba4b8c1557d996b5192f1cee47ffccc58b26628be422f46c6ac66f7d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-14-logo",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 14,
+    "rect": [
+      80,
+      32,
+      104,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        130,
+        8,
+        36,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "916b915bba4b8c1557d996b5192f1cee47ffccc58b26628be422f46c6ac66f7d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-05-card",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 5,
+    "rect": [
+      116,
+      451,
+      125,
+      20
+    ],
+    "source": "帝国軍特別指令\n（原文全文は画像領域を参照）",
+    "translation": "제국군 특별 지령",
+    "background": "black",
+    "center": true,
+    "erase_rects": [
+      [
+        116,
+        451,
+        125,
+        20
+      ]
+    ],
+    "source_TIM_sha256": "202de5c088158f248b990800d1747e0f6574a02011d7c0633605c59df2f6badb",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-06-card",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 6,
+    "rect": [
+      102,
+      102,
+      137,
+      20
+    ],
+    "source": "炭坑都市ナルシェへの侵攻作戦開始\n（原文全文は画像領域を参照）",
+    "translation": "탄광 도시 나르셰 침공 작전 개시",
+    "background": "black",
+    "center": true,
+    "erase_rects": [
+      [
+        102,
+        102,
+        137,
+        20
+      ]
+    ],
+    "source_TIM_sha256": "d0b39de13830d79304e58aeed868ab581e383ea1323adb25ba60d8139cf9eaf1",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-00-card1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 0,
+    "rect": [
+      97,
+      69,
+      145,
+      33
+    ],
+    "source": "お前達は何を見つけたというのだ\n（原文全文は画像領域を参照）",
+    "translation": "너희는 무엇을 찾았단 말이냐?",
+    "background": "white",
+    "center": true,
+    "erase_rects": [
+      [
+        97,
+        69,
+        145,
+        33
+      ]
+    ],
+    "source_TIM_sha256": "275a2ef3c9cc87a3411e14bfadb5fdaad328eb180dbe77126119d18312530b55",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-00-card3",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 0,
+    "rect": [
+      105,
+      246,
+      133,
+      30
+    ],
+    "source": "死に絶えようとしている\n（原文全文は画像領域を参照）",
+    "translation": "죽어 가고 있는",
+    "background": "white",
+    "center": true,
+    "erase_rects": [
+      [
+        105,
+        246,
+        133,
+        30
+      ]
+    ],
+    "source_TIM_sha256": "275a2ef3c9cc87a3411e14bfadb5fdaad328eb180dbe77126119d18312530b55",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-01-card1",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 1,
+    "rect": [
+      122,
+      76,
+      100,
+      24
+    ],
+    "source": "この世界で\n（原文全文は画像領域を参照）",
+    "translation": "이 세상에서",
+    "background": "white",
+    "center": true,
+    "erase_rects": [
+      [
+        122,
+        76,
+        100,
+        24
+      ]
+    ],
+    "source_TIM_sha256": "ed415996567f9bc3f7bbc6a0c5ba46d7d73cbb94fc6945e489c90ba01cc01d55",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-13-card",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 13,
+    "rect": [
+      97,
+      425,
+      145,
+      30
+    ],
+    "source": "壊れると分かっていてなぜ創る\n（原文全文は画像領域を参照）",
+    "translation": "무너질 줄 알면서\n왜 만드는가?",
+    "background": "black",
+    "center": true,
+    "erase_rects": [
+      [
+        97,
+        425,
+        145,
+        30
+      ]
+    ],
+    "source_TIM_sha256": "196e3b5fcb9283d909d2de6e956b0aaac5464dd1cf4c327f67a58b406410ddf5",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G4-14-card",
+    "file": "OMAKEDIR/GALLERY4.BIN",
+    "image": 14,
+    "rect": [
+      105,
+      69,
+      135,
+      38
+    ],
+    "source": "死ぬと分かっていてなぜ生きようとする\n（原文全文は画像領域を参照）",
+    "translation": "죽을 줄 알면서\n왜 살아가려 하는가?",
+    "background": "black",
+    "center": true,
+    "erase_rects": [
+      [
+        105,
+        69,
+        135,
+        38
+      ]
+    ],
+    "source_TIM_sha256": "916b915bba4b8c1557d996b5192f1cee47ffccc58b26628be422f46c6ac66f7d",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-12-name",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 12,
+    "rect": [
+      20,
+      35,
+      135,
+      20
+    ],
+    "source": "ビッグス／ウェッジ\n（原文全文は画像領域を参照）",
+    "translation": "빅스/웨지",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        20,
+        35,
+        135,
+        20
+      ]
+    ],
+    "source_TIM_sha256": "7c731e95e615326fc5a7deea57cea14372e786f9f852e0a9c66c7b47688f5809",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-12-same",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 12,
+    "rect": [
+      6,
+      63,
+      178,
+      27
+    ],
+    "source": "二人とも同じデザインのものを着用 ただしサイズは異なります\n（原文全文は画像領域を参照）",
+    "translation": "두 사람 모두 같은 디자인을 착용.\n단, 크기는 다릅니다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        6,
+        63,
+        178,
+        27
+      ]
+    ],
+    "source_TIM_sha256": "7c731e95e615326fc5a7deea57cea14372e786f9f852e0a9c66c7b47688f5809",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-12-mechanic",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 12,
+    "rect": [
+      14,
+      278,
+      53,
+      16
+    ],
+    "source": "整備士\n（原文全文は画像領域を参照）",
+    "translation": "정비사",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        14,
+        278,
+        53,
+        16
+      ]
+    ],
+    "source_TIM_sha256": "7c731e95e615326fc5a7deea57cea14372e786f9f852e0a9c66c7b47688f5809",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-12-metal",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 12,
+    "rect": [
+      183,
+      272,
+      49,
+      20
+    ],
+    "source": "ブロンズみたいな汚れた金属\n（原文全文は画像領域を参照）",
+    "translation": "청동처럼\n때 묻은 금속",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        183,
+        272,
+        74,
+        11
+      ],
+      [
+        183,
+        283,
+        48,
+        9
+      ]
+    ],
+    "source_TIM_sha256": "7c731e95e615326fc5a7deea57cea14372e786f9f852e0a9c66c7b47688f5809",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-12-belt",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 12,
+    "rect": [
+      195,
+      344,
+      50,
+      17
+    ],
+    "source": "革のベルト\n（原文全文は画像領域を参照）",
+    "translation": "가죽 벨트",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        195,
+        344,
+        50,
+        14
+      ]
+    ],
+    "source_TIM_sha256": "7c731e95e615326fc5a7deea57cea14372e786f9f852e0a9c66c7b47688f5809",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-12-helmet",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 12,
+    "rect": [
+      375,
+      245,
+      112,
+      36
+    ],
+    "source": "ヘルメットはビッグス、ウェッジも同じものを着用\n（原文全文は画像領域を参照）",
+    "translation": "빅스와 웨지도\n같은 헬멧을 착용.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        375,
+        245,
+        112,
+        36
+      ]
+    ],
+    "source_TIM_sha256": "7c731e95e615326fc5a7deea57cea14372e786f9f852e0a9c66c7b47688f5809",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G5-27-design",
+    "file": "OMAKEDIR/GALLERY5.BIN",
+    "image": 27,
+    "rect": [
+      438,
+      95,
+      145,
+      54
+    ],
+    "source": "飛竜 イメージデザイン①\n（原文全文は画像領域を参照）",
+    "translation": "비룡\n이미지 디자인 1",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        438,
+        95,
+        145,
+        54
+      ]
+    ],
+    "source_TIM_sha256": "cd83ed3036116f6d1fb17e9e802e41579820faa25b8c0154338468c25ebeaaa7",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G5-27-walk",
+    "file": "OMAKEDIR/GALLERY5.BIN",
+    "image": 27,
+    "rect": [
+      74,
+      345,
+      24,
+      40
+    ],
+    "source": "ててっ…\n（原文全文は画像領域を参照）",
+    "translation": "타\n다\n닥\n...",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        74,
+        345,
+        24,
+        40
+      ]
+    ],
+    "source_TIM_sha256": "cd83ed3036116f6d1fb17e9e802e41579820faa25b8c0154338468c25ebeaaa7",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G5-28-surface",
+    "file": "OMAKEDIR/GALLERY5.BIN",
+    "image": 28,
+    "rect": [
+      28,
+      114,
+      112,
+      28
+    ],
+    "source": "表面ごつごつ堅い\n（原文全文は画像領域を参照）",
+    "translation": "표면이 울퉁불퉁하고\n단단하다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        28,
+        114,
+        112,
+        28
+      ]
+    ],
+    "source_TIM_sha256": "a837bd06e0037e7dfc67f2ffcd18259a7684319f57cb8e5d2d765337de3d7814",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G5-28-face",
+    "file": "OMAKEDIR/GALLERY5.BIN",
+    "image": 28,
+    "rect": [
+      27,
+      260,
+      53,
+      50
+    ],
+    "source": "骨格みたいなカオしてる でも骨は露出しない\n（原文全文は画像領域を参照）",
+    "translation": "뼈대 같은\n얼굴이다.\n뼈는 겉에\n드러나지\n않는다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        28,
+        263,
+        59,
+        29
+      ],
+      [
+        18,
+        298,
+        56,
+        26
+      ]
+    ],
+    "source_TIM_sha256": "a837bd06e0037e7dfc67f2ffcd18259a7684319f57cb8e5d2d765337de3d7814",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G5-28-pattern",
+    "file": "OMAKEDIR/GALLERY5.BIN",
+    "image": 28,
+    "rect": [
+      424,
+      94,
+      105,
+      39
+    ],
+    "source": "火傷のような模様 全身こんな感じ\n（原文全文は画像領域を参照）",
+    "translation": "화상 같은 무늬.\n온몸이 이런 느낌.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        424,
+        94,
+        105,
+        39
+      ]
+    ],
+    "source_TIM_sha256": "a837bd06e0037e7dfc67f2ffcd18259a7684319f57cb8e5d2d765337de3d7814",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G5-28-muscle",
+    "file": "OMAKEDIR/GALLERY5.BIN",
+    "image": 28,
+    "rect": [
+      531,
+      89,
+      108,
+      36
+    ],
+    "source": "筋肉組織のような所が見えている\n（原文全文は画像領域を参照）",
+    "translation": "근육 조직 같은\n부분이 보인다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        527,
+        87,
+        113,
+        33
+      ]
+    ],
+    "source_TIM_sha256": "a837bd06e0037e7dfc67f2ffcd18259a7684319f57cb8e5d2d765337de3d7814",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G5-28-tip",
+    "file": "OMAKEDIR/GALLERY5.BIN",
+    "image": 28,
+    "rect": [
+      344,
+      183,
+      110,
+      28
+    ],
+    "source": "だんだん先が鋭くなる\n（原文全文は画像領域を参照）",
+    "translation": "끝으로 갈수록\n날카로워진다.",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        343,
+        179,
+        92,
+        22
+      ]
+    ],
+    "source_TIM_sha256": "a837bd06e0037e7dfc67f2ffcd18259a7684319f57cb8e5d2d765337de3d7814",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "status": "manual"
+  },
+  {
+    "id": "G2-11-inset-logo",
+    "file": "OMAKEDIR/GALLERY2.BIN",
+    "image": 11,
+    "rect": [
+      130,
+      458,
+      96,
+      10
+    ],
+    "source": "ファイナルファンタジーVI\n（原文全文は画像領域を参照）",
+    "translation": "파이널 판타지 VI",
+    "background": "white",
+    "center": false,
+    "erase_rects": [
+      [
+        176,
+        422,
+        44,
+        6
+      ]
+    ],
+    "source_TIM_sha256": "1269a334eaa5724ea5209c4060492c714149cd0f1e2f5cf14dee93fc5492e803",
+    "source_reference": "Native original image crop; source field is a locating excerpt.",
+    "erase_sample_x": 234,
+    "status": "manual"
+  }
+]

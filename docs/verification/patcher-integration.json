@@ -1,0 +1,19 @@
+{
+  "version": "V0.75",
+  "development_base": "v084",
+  "source_sha256": "a607011d9c9442797ae155228e86e9dae6e503aaeb7dc9603ac552ffd8d036df",
+  "target_sha256": "6bb23a184380ce6c158185d4c634b4b0ca23a3196f16da47be2b40afd33b9454",
+  "exe_sha256": "bad1773fa16e863233cc17a057cfb80c7f84666b3df05994ce5c70a7f92f22a3",
+  "checks": {
+    "embedded_resources": true,
+    "packaged_exe_roundtrip": true,
+    "cue_matches_verified_bin": true,
+    "existing_destination_rejected": true,
+    "wrong_size_rejected": true,
+    "same_size_wrong_hash_rejected": true,
+    "already_patched_image_rejected": true,
+    "failed_runs_leave_no_output": true,
+    "original_source_unchanged": true,
+    "unicode_and_space_output_path": true
+  }
+}

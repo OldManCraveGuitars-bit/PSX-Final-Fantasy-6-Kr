@@ -1,0 +1,1592 @@
+{
+  "0": {
+    "source": "アイテム",
+    "translation": "도구",
+    "status": "manual_context_checked",
+    "offset": 405952
+  },
+  "1": {
+    "source": "とくしゅ",
+    "translation": "특수",
+    "status": "manual_context_checked",
+    "offset": 405960
+  },
+  "2": {
+    "source": "そうび",
+    "translation": "장비",
+    "status": "manual_context_checked",
+    "offset": 405968
+  },
+  "3": {
+    "source": "アクセサリ",
+    "translation": "액세서리",
+    "status": "manual_context_checked",
+    "offset": 405976
+  },
+  "4": {
+    "source": "ステータス",
+    "translation": "상태",
+    "status": "manual_context_checked",
+    "offset": 405984
+  },
+  "5": {
+    "source": "コンフィグ",
+    "translation": "설정",
+    "status": "manual_context_checked",
+    "offset": 405992
+  },
+  "6": {
+    "source": "セーブ",
+    "translation": "저장",
+    "status": "manual_context_checked",
+    "offset": 406000
+  },
+  "7": {
+    "source": "ほすう",
+    "translation": "걸음",
+    "status": "manual_context_checked",
+    "offset": 406020
+  },
+  "8": {
+    "source": "ギル",
+    "translation": "길",
+    "status": "manual_context_checked",
+    "offset": 406028
+  },
+  "9": {
+    "source": "はい",
+    "translation": "예",
+    "status": "manual_context_checked",
+    "offset": 406164
+  },
+  "10": {
+    "source": "いいえ",
+    "translation": "아니요",
+    "status": "manual_context_checked",
+    "offset": 406172
+  },
+  "11": {
+    "source": "このデータで",
+    "translation": "이 데이터로",
+    "status": "manual_context_checked",
+    "offset": 406180
+  },
+  "12": {
+    "source": "はじめますか？",
+    "translation": "시작할까요?",
+    "status": "manual_context_checked",
+    "offset": 406192
+  },
+  "13": {
+    "source": "これをけして",
+    "translation": "지우고",
+    "status": "manual_context_checked",
+    "offset": 406204
+  },
+  "14": {
+    "source": "かきこみます。",
+    "translation": "저장합니다.",
+    "status": "manual_context_checked",
+    "offset": 406216
+  },
+  "15": {
+    "source": "いいですか？",
+    "translation": "괜찮습니까?",
+    "status": "manual_context_checked",
+    "offset": 406228
+  },
+  "16": {
+    "source": "セーブしました。",
+    "translation": "저장했습니다.",
+    "status": "manual_context_checked",
+    "offset": 406240
+  },
+  "17": {
+    "source": "たいけい",
+    "translation": "대열",
+    "status": "manual_context_checked",
+    "offset": 406252
+  },
+  "18": {
+    "source": "コロシアム",
+    "translation": "콜로세움",
+    "status": "manual_context_checked",
+    "offset": 417472
+  },
+  "19": {
+    "source": "ちょうせんしゃをきめてください",
+    "translation": "도전할 동료를 고르세요.",
+    "status": "manual",
+    "offset": 418528
+  },
+  "20": {
+    "source": "げんじゅう",
+    "translation": "환수",
+    "status": "manual_context_checked",
+    "offset": 410448
+  },
+  "21": {
+    "source": "まほう",
+    "translation": "마법",
+    "status": "manual_context_checked",
+    "offset": 410456
+  },
+  "22": {
+    "source": "ひっさつけん",
+    "translation": "필살검",
+    "status": "manual_context_checked",
+    "offset": 410464
+  },
+  "23": {
+    "source": "ひっさつわざ",
+    "translation": "필살기",
+    "status": "manual_context_checked",
+    "offset": 410476
+  },
+  "24": {
+    "source": "おぼえたわざ",
+    "translation": "청마법",
+    "status": "manual_context_checked",
+    "offset": 410488
+  },
+  "25": {
+    "source": "あばれる",
+    "translation": "날뛰기",
+    "status": "manual_context_checked",
+    "offset": 410500
+  },
+  "26": {
+    "source": "おどり",
+    "translation": "춤",
+    "status": "manual_context_checked",
+    "offset": 410508
+  },
+  "27": {
+    "source": "おぼえたわざ",
+    "translation": "청마법",
+    "status": "manual_context_checked",
+    "offset": 410568
+  },
+  "28": {
+    "source": "ひっさつわざ",
+    "translation": "필살기",
+    "status": "manual_context_checked",
+    "offset": 410616
+  },
+  "29": {
+    "source": "ひっさつけん",
+    "translation": "필살검",
+    "status": "manual_context_checked",
+    "offset": 410628
+  },
+  "30": {
+    "source": "じゅくれんど",
+    "translation": "숙련도",
+    "status": "manual_context_checked",
+    "offset": 410016
+  },
+  "31": {
+    "source": "おぼえるスピード",
+    "translation": "습득 속도",
+    "status": "manual_context_checked",
+    "offset": 410028
+  },
+  "32": {
+    "source": "ひっさつけん",
+    "translation": "필살검",
+    "status": "manual_context_checked",
+    "offset": 408904
+  },
+  "33": {
+    "source": "アイテム",
+    "translation": "도구",
+    "status": "manual_context_checked",
+    "offset": 418072
+  },
+  "34": {
+    "source": "つかう",
+    "translation": "사용",
+    "status": "manual_context_checked",
+    "offset": 418080
+  },
+  "35": {
+    "source": "せいとん",
+    "translation": "정리",
+    "status": "manual_context_checked",
+    "offset": 418088
+  },
+  "36": {
+    "source": "だいじなもの",
+    "translation": "중요한 물건",
+    "status": "manual_context_checked",
+    "offset": 418096
+  },
+  "37": {
+    "source": "ちから",
+    "translation": "힘",
+    "status": "manual_context_checked",
+    "offset": 418156
+  },
+  "38": {
+    "source": "たいりょく",
+    "translation": "체력",
+    "status": "manual_context_checked",
+    "offset": 418164
+  },
+  "39": {
+    "source": "まりょく",
+    "translation": "마력",
+    "status": "manual_context_checked",
+    "offset": 418172
+  },
+  "40": {
+    "source": "かいひりつ",
+    "translation": "회피율",
+    "status": "manual_context_checked",
+    "offset": 418180
+  },
+  "41": {
+    "source": "まほうかいひりつ",
+    "translation": "마법 회피율",
+    "status": "manual_context_checked",
+    "offset": 418188
+  },
+  "42": {
+    "source": "すばやさ",
+    "translation": "민첩",
+    "status": "manual_context_checked",
+    "offset": 418108
+  },
+  "43": {
+    "source": "こうげきりょく",
+    "translation": "공격력",
+    "status": "manual_context_checked",
+    "offset": 418116
+  },
+  "44": {
+    "source": "ぼうぎょ",
+    "translation": "방어력",
+    "status": "manual_context_checked",
+    "offset": 418128
+  },
+  "45": {
+    "source": "まほうぼうぎょ",
+    "translation": "마법 방어",
+    "status": "manual_context_checked",
+    "offset": 418136
+  },
+  "46": {
+    "source": "はんげん",
+    "translation": "반감",
+    "status": "manual_context_checked",
+    "offset": 418236
+  },
+  "47": {
+    "source": "きゅうしゅう",
+    "translation": "흡수",
+    "status": "manual_context_checked",
+    "offset": 418244
+  },
+  "48": {
+    "source": "むこう",
+    "translation": "무효",
+    "status": "manual_context_checked",
+    "offset": 418256
+  },
+  "49": {
+    "source": "じゃくてん",
+    "translation": "약점",
+    "status": "manual_context_checked",
+    "offset": 418264
+  },
+  "50": {
+    "source": "こうげき",
+    "translation": "공격",
+    "status": "manual_context_checked",
+    "offset": 418272
+  },
+  "51": {
+    "source": "もっているかず",
+    "translation": "소지 수",
+    "status": "manual_context_checked",
+    "offset": 418280
+  },
+  "52": {
+    "source": "みぎて",
+    "translation": "오른손",
+    "status": "manual_context_checked",
+    "offset": 413408
+  },
+  "53": {
+    "source": "ひだりて",
+    "translation": "왼손",
+    "status": "manual_context_checked",
+    "offset": 413416
+  },
+  "54": {
+    "source": "あたま",
+    "translation": "머리",
+    "status": "manual_context_checked",
+    "offset": 413424
+  },
+  "55": {
+    "source": "からだ",
+    "translation": "몸",
+    "status": "manual_context_checked",
+    "offset": 413432
+  },
+  "56": {
+    "source": "アクセサリ",
+    "translation": "액세서리",
+    "status": "manual_context_checked",
+    "offset": 413440
+  },
+  "57": {
+    "source": "アクセサリ",
+    "translation": "액세서리",
+    "status": "manual_context_checked",
+    "offset": 413448
+  },
+  "58": {
+    "source": "そうび",
+    "translation": "장비",
+    "status": "manual_context_checked",
+    "offset": 413488
+  },
+  "59": {
+    "source": "はずす",
+    "translation": "해제",
+    "status": "manual_context_checked",
+    "offset": 413496
+  },
+  "60": {
+    "source": "そうび",
+    "translation": "장비",
+    "status": "manual_context_checked",
+    "offset": 413504
+  },
+  "61": {
+    "source": "そうび",
+    "translation": "장비",
+    "status": "manual_context_checked",
+    "offset": 413540
+  },
+  "62": {
+    "source": "さいきょう",
+    "translation": "최강",
+    "status": "manual_context_checked",
+    "offset": 413512
+  },
+  "63": {
+    "source": "はずす",
+    "translation": "해제",
+    "status": "manual_context_checked",
+    "offset": 413520
+  },
+  "64": {
+    "source": "はずす",
+    "translation": "해제",
+    "status": "manual_context_checked",
+    "offset": 413548
+  },
+  "65": {
+    "source": "ちから",
+    "translation": "힘",
+    "status": "manual_context_checked",
+    "offset": 413596
+  },
+  "66": {
+    "source": "すばやさ",
+    "translation": "민첩",
+    "status": "manual_context_checked",
+    "offset": 413676
+  },
+  "67": {
+    "source": "たいりょく",
+    "translation": "체력",
+    "status": "manual_context_checked",
+    "offset": 413604
+  },
+  "68": {
+    "source": "まりょく",
+    "translation": "마력",
+    "status": "manual_context_checked",
+    "offset": 413612
+  },
+  "69": {
+    "source": "こうげきりょく",
+    "translation": "공격력",
+    "status": "manual_context_checked",
+    "offset": 413684
+  },
+  "70": {
+    "source": "ぼうぎょ",
+    "translation": "방어력",
+    "status": "manual_context_checked",
+    "offset": 413696
+  },
+  "71": {
+    "source": "かいひりつ",
+    "translation": "회피율",
+    "status": "manual_context_checked",
+    "offset": 413620
+  },
+  "72": {
+    "source": "まほうぼうぎょ",
+    "translation": "마법 방어",
+    "status": "manual_context_checked",
+    "offset": 413704
+  },
+  "73": {
+    "source": "まほうかいひりつ",
+    "translation": "마법 회피율",
+    "status": "manual_context_checked",
+    "offset": 413628
+  },
+  "74": {
+    "source": "じゅうそうび",
+    "translation": "중장비",
+    "status": "manual_context_checked",
+    "offset": 413812
+  },
+  "75": {
+    "source": "にとうりゅう",
+    "translation": "이도류",
+    "status": "manual_context_checked",
+    "offset": 413824
+  },
+  "76": {
+    "source": "りょうてもち",
+    "translation": "양손잡기",
+    "status": "manual_context_checked",
+    "offset": 413836
+  },
+  "77": {
+    "source": "「すべてはずす」",
+    "translation": "「모두 해제」",
+    "status": "manual_context_checked",
+    "offset": 413848
+  },
+  "78": {
+    "source": "「さいきょうそうび」",
+    "translation": "「최강 장비」",
+    "status": "manual_context_checked",
+    "offset": 413860
+  },
+  "79": {
+    "source": "「すべてはずす」",
+    "translation": "「모두 해제」",
+    "status": "manual_context_checked",
+    "offset": 413876
+  },
+  "80": {
+    "source": "「さいきょうそうび」",
+    "translation": "「최강 장비」",
+    "status": "manual_context_checked",
+    "offset": 413888
+  },
+  "81": {
+    "source": "みぎ",
+    "translation": "오른손",
+    "status": "manual_context_checked",
+    "offset": 413120
+  },
+  "82": {
+    "source": "ひだり",
+    "translation": "왼손",
+    "status": "manual_context_checked",
+    "offset": 413128
+  },
+  "83": {
+    "source": "あたま",
+    "translation": "머리",
+    "status": "manual_context_checked",
+    "offset": 413136
+  },
+  "84": {
+    "source": "からだ",
+    "translation": "몸",
+    "status": "manual_context_checked",
+    "offset": 413144
+  },
+  "85": {
+    "source": "アク１",
+    "translation": "장식1",
+    "status": "manual_context_checked",
+    "offset": 413152
+  },
+  "86": {
+    "source": "アク２",
+    "translation": "장식2",
+    "status": "manual_context_checked",
+    "offset": 413160
+  },
+  "87": {
+    "source": "みぎ",
+    "translation": "오른손",
+    "status": "manual_context_checked",
+    "offset": 413168
+  },
+  "88": {
+    "source": "ひだり",
+    "translation": "왼손",
+    "status": "manual_context_checked",
+    "offset": 413176
+  },
+  "89": {
+    "source": "あたま",
+    "translation": "머리",
+    "status": "manual_context_checked",
+    "offset": 413184
+  },
+  "90": {
+    "source": "からだ",
+    "translation": "몸",
+    "status": "manual_context_checked",
+    "offset": 413192
+  },
+  "91": {
+    "source": "アク１",
+    "translation": "장식1",
+    "status": "manual_context_checked",
+    "offset": 413200
+  },
+  "92": {
+    "source": "アク２",
+    "translation": "장식2",
+    "status": "manual_context_checked",
+    "offset": 413208
+  },
+  "93": {
+    "source": "みぎ",
+    "translation": "오른손",
+    "status": "manual_context_checked",
+    "offset": 413216
+  },
+  "94": {
+    "source": "ひだり",
+    "translation": "왼손",
+    "status": "manual_context_checked",
+    "offset": 413224
+  },
+  "95": {
+    "source": "あたま",
+    "translation": "머리",
+    "status": "manual_context_checked",
+    "offset": 413232
+  },
+  "96": {
+    "source": "からだ",
+    "translation": "몸",
+    "status": "manual_context_checked",
+    "offset": 413240
+  },
+  "97": {
+    "source": "アク１",
+    "translation": "장식1",
+    "status": "manual_context_checked",
+    "offset": 413248
+  },
+  "98": {
+    "source": "アク２",
+    "translation": "장식2",
+    "status": "manual_context_checked",
+    "offset": 413256
+  },
+  "99": {
+    "source": "みぎ",
+    "translation": "오른손",
+    "status": "manual_context_checked",
+    "offset": 413264
+  },
+  "100": {
+    "source": "ひだり",
+    "translation": "왼손",
+    "status": "manual_context_checked",
+    "offset": 413272
+  },
+  "101": {
+    "source": "あたま",
+    "translation": "머리",
+    "status": "manual_context_checked",
+    "offset": 413280
+  },
+  "102": {
+    "source": "からだ",
+    "translation": "몸",
+    "status": "manual_context_checked",
+    "offset": 413288
+  },
+  "103": {
+    "source": "アク１",
+    "translation": "장식1",
+    "status": "manual_context_checked",
+    "offset": 413296
+  },
+  "104": {
+    "source": "アク２",
+    "translation": "장식2",
+    "status": "manual_context_checked",
+    "offset": 413304
+  },
+  "105": {
+    "source": "へんせい",
+    "translation": "편성",
+    "status": "manual_context_checked",
+    "offset": 412292
+  },
+  "106": {
+    "source": "ステータス",
+    "translation": "상태",
+    "status": "manual_context_checked",
+    "offset": 412480
+  },
+  "107": {
+    "source": "ちから",
+    "translation": "힘",
+    "status": "manual_context_checked",
+    "offset": 412528
+  },
+  "108": {
+    "source": "たいりょく",
+    "translation": "체력",
+    "status": "manual_context_checked",
+    "offset": 412536
+  },
+  "109": {
+    "source": "まりょく",
+    "translation": "마력",
+    "status": "manual_context_checked",
+    "offset": 412544
+  },
+  "110": {
+    "source": "かいひりつ",
+    "translation": "회피율",
+    "status": "manual_context_checked",
+    "offset": 412552
+  },
+  "111": {
+    "source": "すばやさ",
+    "translation": "민첩",
+    "status": "manual_context_checked",
+    "offset": 412600
+  },
+  "112": {
+    "source": "ぼうぎょ",
+    "translation": "방어력",
+    "status": "manual_context_checked",
+    "offset": 412624
+  },
+  "113": {
+    "source": "げんざいのけいけんち",
+    "translation": "현재 경험치",
+    "status": "manual_context_checked",
+    "offset": 412648
+  },
+  "114": {
+    "source": "ぶきや",
+    "translation": "무기점",
+    "status": "manual_context_checked",
+    "offset": 409164
+  },
+  "115": {
+    "source": "ぼうぐや",
+    "translation": "방어구점",
+    "status": "manual_context_checked",
+    "offset": 409172
+  },
+  "116": {
+    "source": "どうぐや",
+    "translation": "도구점",
+    "status": "manual_context_checked",
+    "offset": 409180
+  },
+  "117": {
+    "source": "アクセサリーや",
+    "translation": "장신구점",
+    "status": "manual_context_checked",
+    "offset": 409188
+  },
+  "118": {
+    "source": "ぎょうしょう",
+    "translation": "행상인",
+    "status": "manual_context_checked",
+    "offset": 409200
+  },
+  "119": {
+    "source": "ギル",
+    "translation": "길",
+    "status": "manual_context_checked",
+    "offset": 409336
+  },
+  "120": {
+    "source": "ギル",
+    "translation": "길",
+    "status": "manual_context_checked",
+    "offset": 409344
+  },
+  "121": {
+    "source": "もっているかず",
+    "translation": "소지 수",
+    "status": "manual_context_checked",
+    "offset": 409352
+  },
+  "122": {
+    "source": "そうびしているかず",
+    "translation": "장착 수",
+    "status": "manual_context_checked",
+    "offset": 409364
+  },
+  "123": {
+    "source": "ぼうぎょ",
+    "translation": "방어력",
+    "status": "manual_context_checked",
+    "offset": 409388
+  },
+  "124": {
+    "source": "「いらっしゃい！どんなごようけんで？」",
+    "translation": "「어서 오세요! 무엇을 찾으시나요?」",
+    "status": "manual_context_checked",
+    "offset": 409400
+  },
+  "125": {
+    "source": "ウェイト",
+    "translation": "대기",
+    "status": "manual_context_checked",
+    "offset": 407764
+  },
+  "126": {
+    "source": "はやい",
+    "translation": "빠름",
+    "status": "manual_context_checked",
+    "offset": 407772
+  },
+  "127": {
+    "source": "おそい",
+    "translation": "느림",
+    "status": "manual_context_checked",
+    "offset": 407780
+  },
+  "128": {
+    "source": "たんしゅく",
+    "translation": "단축",
+    "status": "manual_context_checked",
+    "offset": 407788
+  },
+  "129": {
+    "source": "オン",
+    "translation": "켜기",
+    "status": "manual_context_checked",
+    "offset": 407796
+  },
+  "130": {
+    "source": "オフ",
+    "translation": "끄기",
+    "status": "manual_context_checked",
+    "offset": 407804
+  },
+  "131": {
+    "source": "ステレオ",
+    "translation": "스테레오",
+    "status": "manual_context_checked",
+    "offset": 407812
+  },
+  "132": {
+    "source": "モノラル",
+    "translation": "모노",
+    "status": "manual_context_checked",
+    "offset": 407820
+  },
+  "133": {
+    "source": "きおく",
+    "translation": "기억",
+    "status": "manual_context_checked",
+    "offset": 407828
+  },
+  "134": {
+    "source": "さいきょう",
+    "translation": "최강",
+    "status": "manual_context_checked",
+    "offset": 407836
+  },
+  "135": {
+    "source": "ノーマル",
+    "translation": "기본",
+    "status": "manual_context_checked",
+    "offset": 407844
+  },
+  "136": {
+    "source": "カスタム",
+    "translation": "사용자",
+    "status": "manual_context_checked",
+    "offset": 407852
+  },
+  "137": {
+    "source": "マルチ",
+    "translation": "멀티",
+    "status": "manual_context_checked",
+    "offset": 407860
+  },
+  "138": {
+    "source": "カーソルいち",
+    "translation": "커서 위치",
+    "status": "manual_context_checked",
+    "offset": 407900
+  },
+  "139": {
+    "source": "コンフィグ",
+    "translation": "설정",
+    "status": "manual_context_checked",
+    "offset": 407928
+  },
+  "140": {
+    "source": "バトルモード",
+    "translation": "전투 방식",
+    "status": "manual_context_checked",
+    "offset": 407936
+  },
+  "141": {
+    "source": "スピード",
+    "translation": "전투 속도",
+    "status": "manual_context_checked",
+    "offset": 407948
+  },
+  "142": {
+    "source": "メッセージ",
+    "translation": "대사 속도",
+    "status": "manual_context_checked",
+    "offset": 407956
+  },
+  "143": {
+    "source": "コマンドしてい",
+    "translation": "명령 방식",
+    "status": "manual_context_checked",
+    "offset": 407964
+  },
+  "144": {
+    "source": "ゲージ",
+    "translation": "게이지",
+    "status": "manual_context_checked",
+    "offset": 407976
+  },
+  "145": {
+    "source": "サウンド",
+    "translation": "음향",
+    "status": "manual_context_checked",
+    "offset": 407984
+  },
+  "146": {
+    "source": "さいそうび",
+    "translation": "재장착",
+    "status": "manual_context_checked",
+    "offset": 407992
+  },
+  "147": {
+    "source": "アクティヴ",
+    "translation": "실시간",
+    "status": "manual_context_checked",
+    "offset": 408000
+  },
+  "148": {
+    "source": "ウィンドウ",
+    "translation": "창",
+    "status": "manual_context_checked",
+    "offset": 408008
+  },
+  "149": {
+    "source": "もどす",
+    "translation": "초기화",
+    "status": "manual_context_checked",
+    "offset": 408016
+  },
+  "150": {
+    "source": "すべてはずす",
+    "translation": "모두 해제",
+    "status": "manual_context_checked",
+    "offset": 408024
+  },
+  "151": {
+    "source": "シングル",
+    "translation": "싱글",
+    "status": "manual_context_checked",
+    "offset": 408036
+  },
+  "152": {
+    "source": "まほうのならびかた",
+    "translation": "마법 정렬",
+    "status": "manual_context_checked",
+    "offset": 408072
+  },
+  "153": {
+    "source": "ウィンドウ",
+    "translation": "창 배경",
+    "status": "manual_context_checked",
+    "offset": 408084
+  },
+  "154": {
+    "source": "カラー",
+    "translation": "색상",
+    "status": "manual_context_checked",
+    "offset": 408092
+  },
+  "155": {
+    "source": "フォント",
+    "translation": "글꼴",
+    "status": "manual_context_checked",
+    "offset": 408268
+  },
+  "156": {
+    "source": "ウィンドウ",
+    "translation": "창 색상",
+    "status": "manual_context_checked",
+    "offset": 408276
+  },
+  "157": {
+    "source": "もどす",
+    "translation": "되돌리기",
+    "status": "manual_context_checked",
+    "offset": 408284
+  },
+  "158": {
+    "source": "せいとん",
+    "translation": "정리",
+    "status": "manual_context_checked",
+    "offset": 408304
+  },
+  "159": {
+    "source": "けってい",
+    "translation": "확인",
+    "status": "manual_context_checked",
+    "offset": 407468
+  },
+  "160": {
+    "source": "ちゅうし",
+    "translation": "취소",
+    "status": "manual_context_checked",
+    "offset": 407476
+  },
+  "161": {
+    "source": "メニュー",
+    "translation": "메뉴",
+    "status": "manual_context_checked",
+    "offset": 407484
+  },
+  "162": {
+    "source": "パーティー",
+    "translation": "파티",
+    "status": "manual_context_checked",
+    "offset": 407492
+  },
+  "163": {
+    "source": "チェンジ",
+    "translation": "대열",
+    "status": "manual_context_checked",
+    "offset": 407500
+  },
+  "164": {
+    "source": "ぼうぎょ",
+    "translation": "방어력",
+    "status": "manual_context_checked",
+    "offset": 407508
+  },
+  "165": {
+    "source": "けってい",
+    "translation": "확인",
+    "status": "manual_context_checked",
+    "offset": 406964
+  },
+  "166": {
+    "source": "ちゅうし",
+    "translation": "취소",
+    "status": "manual_context_checked",
+    "offset": 406972
+  },
+  "167": {
+    "source": "メニュー",
+    "translation": "메뉴",
+    "status": "manual_context_checked",
+    "offset": 406980
+  },
+  "168": {
+    "source": "パーティー",
+    "translation": "파티",
+    "status": "manual_context_checked",
+    "offset": 406988
+  },
+  "169": {
+    "source": "チェンジ",
+    "translation": "대열",
+    "status": "manual_context_checked",
+    "offset": 406996
+  },
+  "170": {
+    "source": "ぼうぎょ",
+    "translation": "방어력",
+    "status": "manual_context_checked",
+    "offset": 407004
+  },
+  "171": {
+    "source": "セーブ",
+    "translation": "저장",
+    "status": "manual_context_checked",
+    "offset": 414156
+  },
+  "172": {
+    "source": "ニューゲーム",
+    "translation": "새 게임",
+    "status": "manual_context_checked",
+    "offset": 414164
+  },
+  "173": {
+    "source": "おわり",
+    "translation": "완료",
+    "status": "manual_context_checked",
+    "offset": 418600
+  },
+  "174": {
+    "source": "やりなおし",
+    "translation": "다시 설정",
+    "status": "manual_context_checked",
+    "offset": 418608
+  },
+  "175": {
+    "source": "アイテムを１つ　えらんでください",
+    "translation": "도구를 하나 고르세요.",
+    "status": "manual",
+    "offset": 417480
+  },
+  "176": {
+    "source": "げんじゅう",
+    "translation": "환수",
+    "status": "manual_context_checked",
+    "offset": 410604
+  },
+  "177": {
+    "source": "あばれる",
+    "translation": "날뛰기",
+    "status": "manual_context_checked",
+    "offset": 410580
+  },
+  "178": {
+    "source": "おどり",
+    "translation": "춤",
+    "status": "manual_context_checked",
+    "offset": 410592
+  },
+  "179": {
+    "source": "しょうひ　ｍｐ",
+    "translation": "소모 MP",
+    "status": "manual_context_checked",
+    "offset": 410412
+  },
+  "180": {
+    "source": "ぼうぎょ",
+    "translation": "방어력",
+    "status": "manual_context_checked",
+    "offset": 407076
+  },
+  "181": {
+    "source": "ぼうぎょ",
+    "translation": "방어력",
+    "status": "manual_context_checked",
+    "offset": 407148
+  },
+  "182": {
+    "source": "ぼうぎょ",
+    "translation": "방어력",
+    "status": "manual_context_checked",
+    "offset": 407220
+  },
+  "183": {
+    "source": "ぼうぎょ",
+    "translation": "방어력",
+    "status": "manual_context_checked",
+    "offset": 407292
+  },
+  "184": {
+    "source": "ぼうぎょ",
+    "translation": "방어력",
+    "status": "manual_context_checked",
+    "offset": 407364
+  },
+  "185": {
+    "source": "ぼうぎょ",
+    "translation": "방어력",
+    "status": "manual_context_checked",
+    "offset": 407436
+  },
+  "186": {
+    "source": "ぼうぎょ",
+    "translation": "방어력",
+    "status": "manual_context_checked",
+    "offset": 407580
+  },
+  "187": {
+    "source": "ひっさつけん　グガ",
+    "translation": "필살검 가능",
+    "status": "manual_context_checked",
+    "offset": 417932
+  },
+  "188": {
+    "source": "まふうけん　　グガ",
+    "translation": "마봉검 가능",
+    "status": "manual_context_checked",
+    "offset": 417944
+  },
+  "189": {
+    "source": "りょうてもち　グガ",
+    "translation": "양손잡기 가능",
+    "status": "manual_context_checked",
+    "offset": 417956
+  },
+  "190": {
+    "source": "すべてはずす",
+    "translation": "모두 해제",
+    "status": "manual_context_checked",
+    "offset": 413528
+  },
+  "191": {
+    "source": "そうびにかかわるアクセサリーが　へんこうされました",
+    "translation": "장비에 영향을 주는 장신구가 바뀌었습니다.",
+    "status": "manual",
+    "offset": 413904
+  },
+  "192": {
+    "source": "パーティーを　つ　つくってください",
+    "translation": "파티 편성:  개 만드세요.",
+    "status": "manual",
+    "offset": 412272
+  },
+  "193": {
+    "source": "パーティーのかずが　つありません！",
+    "translation": "파티 수가     개 필요합니다!",
+    "status": "manual_context_checked",
+    "offset": 412300
+  },
+  "194": {
+    "source": "だれもいません！",
+    "translation": "아무도 없습니다!",
+    "status": "manual_context_checked",
+    "offset": 412320
+  },
+  "195": {
+    "source": "まほうかいひりつ　＿",
+    "translation": "마법 회피율 …",
+    "status": "manual_context_checked",
+    "offset": 412560
+  },
+  "196": {
+    "source": "こうげきりょく　　＿",
+    "translation": "공격력 …",
+    "status": "manual_context_checked",
+    "offset": 412608
+  },
+  "197": {
+    "source": "まほうぼうぎょ　　＿",
+    "translation": "마법 방어 …",
+    "status": "manual_context_checked",
+    "offset": 412632
+  },
+  "198": {
+    "source": "つぎのレベルまで　あと",
+    "translation": "다음 레벨까지",
+    "status": "manual_context_checked",
+    "offset": 412664
+  },
+  "199": {
+    "source": "かう　　うる　　でる",
+    "translation": "구입  판매  나가기",
+    "status": "manual_context_checked",
+    "offset": 409320
+  },
+  "200": {
+    "source": "こうげきりょく　＿",
+    "translation": "공격력 …",
+    "status": "manual_context_checked",
+    "offset": 409376
+  },
+  "201": {
+    "source": "「なにが　ほしいんだいっ！？」",
+    "translation": "「무엇을 사고 싶나?」",
+    "status": "manual_context_checked",
+    "offset": 409424
+  },
+  "202": {
+    "source": "「いくつ　ほしいんだいっ！？」",
+    "translation": "「몇 개나 필요한가?」",
+    "status": "manual_context_checked",
+    "offset": 409448
+  },
+  "203": {
+    "source": "「なにを　うりたいんだい？」",
+    "translation": "「무엇을 팔겠나?」",
+    "status": "manual_context_checked",
+    "offset": 409468
+  },
+  "204": {
+    "source": "「いくつ　うりたいんだい？」",
+    "translation": "「몇 개나 팔겠나?」",
+    "status": "manual_context_checked",
+    "offset": 409492
+  },
+  "205": {
+    "source": "「まいど　どーも！」",
+    "translation": "「매번 고맙네!」",
+    "status": "manual_context_checked",
+    "offset": 409512
+  },
+  "206": {
+    "source": "「＿＿おかねが　たりないようだね」",
+    "translation": "「…돈이 부족한 것 같군.」",
+    "status": "manual_context_checked",
+    "offset": 409536
+  },
+  "207": {
+    "source": "「もう　もてないよ」",
+    "translation": "「더는 가질 수 없네.」",
+    "status": "manual_context_checked",
+    "offset": 409556
+  },
+  "208": {
+    "source": "「１つあれば　じゅうぶんだよ」",
+    "translation": "「하나면 충분하네.」",
+    "status": "manual_context_checked",
+    "offset": 409576
+  },
+  "209": {
+    "source": "コントローラー",
+    "translation": "컨트롤러",
+    "status": "manual_context_checked",
+    "offset": 407752
+  },
+  "210": {
+    "source": "コントローラーのわりふり",
+    "translation": "컨트롤러 배정",
+    "status": "manual_context_checked",
+    "offset": 408312
+  },
+  "211": {
+    "source": "コントローラー１",
+    "translation": "컨트롤러1",
+    "status": "manual_context_checked",
+    "offset": 408328
+  },
+  "212": {
+    "source": "コントローラー１",
+    "translation": "컨트롤러1",
+    "status": "manual_context_checked",
+    "offset": 408352
+  },
+  "213": {
+    "source": "コントローラー１",
+    "translation": "컨트롤러1",
+    "status": "manual_context_checked",
+    "offset": 408376
+  },
+  "214": {
+    "source": "コントローラー１",
+    "translation": "컨트롤러1",
+    "status": "manual_context_checked",
+    "offset": 408400
+  },
+  "215": {
+    "source": "コントローラー２",
+    "translation": "컨트롤러2",
+    "status": "manual_context_checked",
+    "offset": 408340
+  },
+  "216": {
+    "source": "コントローラー２",
+    "translation": "컨트롤러2",
+    "status": "manual_context_checked",
+    "offset": 408364
+  },
+  "217": {
+    "source": "コントローラー２",
+    "translation": "컨트롤러2",
+    "status": "manual_context_checked",
+    "offset": 408388
+  },
+  "218": {
+    "source": "コントローラー２",
+    "translation": "컨트롤러2",
+    "status": "manual_context_checked",
+    "offset": 408412
+  },
+  "219": {
+    "source": "ボタンのせってい",
+    "translation": "버튼 설정",
+    "status": "manual_context_checked",
+    "offset": 408424
+  },
+  "220": {
+    "source": "けってい",
+    "translation": "확인",
+    "status": "manual_context_checked",
+    "offset": 407036
+  },
+  "221": {
+    "source": "けってい",
+    "translation": "확인",
+    "status": "manual_context_checked",
+    "offset": 407108
+  },
+  "222": {
+    "source": "けってい",
+    "translation": "확인",
+    "status": "manual_context_checked",
+    "offset": 407180
+  },
+  "223": {
+    "source": "けってい",
+    "translation": "확인",
+    "status": "manual_context_checked",
+    "offset": 407252
+  },
+  "224": {
+    "source": "けってい",
+    "translation": "확인",
+    "status": "manual_context_checked",
+    "offset": 407324
+  },
+  "225": {
+    "source": "けってい",
+    "translation": "확인",
+    "status": "manual_context_checked",
+    "offset": 407396
+  },
+  "226": {
+    "source": "けってい",
+    "translation": "확인",
+    "status": "manual_context_checked",
+    "offset": 407540
+  },
+  "227": {
+    "source": "ちゅうし",
+    "translation": "취소",
+    "status": "manual_context_checked",
+    "offset": 407044
+  },
+  "228": {
+    "source": "ちゅうし",
+    "translation": "취소",
+    "status": "manual_context_checked",
+    "offset": 407116
+  },
+  "229": {
+    "source": "ちゅうし",
+    "translation": "취소",
+    "status": "manual_context_checked",
+    "offset": 407188
+  },
+  "230": {
+    "source": "ちゅうし",
+    "translation": "취소",
+    "status": "manual_context_checked",
+    "offset": 407260
+  },
+  "231": {
+    "source": "ちゅうし",
+    "translation": "취소",
+    "status": "manual_context_checked",
+    "offset": 407332
+  },
+  "232": {
+    "source": "ちゅうし",
+    "translation": "취소",
+    "status": "manual_context_checked",
+    "offset": 407404
+  },
+  "233": {
+    "source": "ちゅうし",
+    "translation": "취소",
+    "status": "manual_context_checked",
+    "offset": 407548
+  },
+  "234": {
+    "source": "メニュー",
+    "translation": "메뉴",
+    "status": "manual_context_checked",
+    "offset": 407052
+  },
+  "235": {
+    "source": "メニュー",
+    "translation": "메뉴",
+    "status": "manual_context_checked",
+    "offset": 407124
+  },
+  "236": {
+    "source": "メニュー",
+    "translation": "메뉴",
+    "status": "manual_context_checked",
+    "offset": 407196
+  },
+  "237": {
+    "source": "メニュー",
+    "translation": "메뉴",
+    "status": "manual_context_checked",
+    "offset": 407268
+  },
+  "238": {
+    "source": "メニュー",
+    "translation": "메뉴",
+    "status": "manual_context_checked",
+    "offset": 407340
+  },
+  "239": {
+    "source": "メニュー",
+    "translation": "메뉴",
+    "status": "manual_context_checked",
+    "offset": 407412
+  },
+  "240": {
+    "source": "メニュー",
+    "translation": "메뉴",
+    "status": "manual_context_checked",
+    "offset": 407556
+  },
+  "241": {
+    "source": "パーティー",
+    "translation": "파티",
+    "status": "manual_context_checked",
+    "offset": 407060
+  },
+  "242": {
+    "source": "パーティー",
+    "translation": "파티",
+    "status": "manual_context_checked",
+    "offset": 407132
+  },
+  "243": {
+    "source": "パーティー",
+    "translation": "파티",
+    "status": "manual_context_checked",
+    "offset": 407204
+  },
+  "244": {
+    "source": "パーティー",
+    "translation": "파티",
+    "status": "manual_context_checked",
+    "offset": 407276
+  },
+  "245": {
+    "source": "パーティー",
+    "translation": "파티",
+    "status": "manual_context_checked",
+    "offset": 407348
+  },
+  "246": {
+    "source": "パーティー",
+    "translation": "파티",
+    "status": "manual_context_checked",
+    "offset": 407420
+  },
+  "247": {
+    "source": "パーティー",
+    "translation": "파티",
+    "status": "manual_context_checked",
+    "offset": 407564
+  },
+  "248": {
+    "source": "チェンジ",
+    "translation": "대열",
+    "status": "manual_context_checked",
+    "offset": 407068
+  },
+  "249": {
+    "source": "チェンジ",
+    "translation": "대열",
+    "status": "manual_context_checked",
+    "offset": 407140
+  },
+  "250": {
+    "source": "チェンジ",
+    "translation": "대열",
+    "status": "manual_context_checked",
+    "offset": 407212
+  },
+  "251": {
+    "source": "チェンジ",
+    "translation": "대열",
+    "status": "manual_context_checked",
+    "offset": 407284
+  },
+  "252": {
+    "source": "チェンジ",
+    "translation": "대열",
+    "status": "manual_context_checked",
+    "offset": 407356
+  },
+  "253": {
+    "source": "チェンジ",
+    "translation": "대열",
+    "status": "manual_context_checked",
+    "offset": 407428
+  },
+  "254": {
+    "source": "チェンジ",
+    "translation": "대열",
+    "status": "manual_context_checked",
+    "offset": 407572
+  },
+  "255": {
+    "source": "ボタン",
+    "translation": "버튼",
+    "status": "manual_context_checked",
+    "offset": 408436
+  },
+  "256": {
+    "source": "ボタン",
+    "translation": "버튼",
+    "status": "manual_context_checked",
+    "offset": 408444
+  },
+  "257": {
+    "source": "ボタン",
+    "translation": "버튼",
+    "status": "manual_context_checked",
+    "offset": 408452
+  },
+  "258": {
+    "source": "ボタン",
+    "translation": "버튼",
+    "status": "manual_context_checked",
+    "offset": 408460
+  },
+  "259": {
+    "source": "ボタン",
+    "translation": "버튼",
+    "status": "manual_context_checked",
+    "offset": 408468
+  },
+  "260": {
+    "source": "ボタン",
+    "translation": "버튼",
+    "status": "manual_context_checked",
+    "offset": 408476
+  },
+  "261": {
+    "source": "ボタン",
+    "translation": "버튼",
+    "status": "manual_context_checked",
+    "offset": 408484
+  },
+  "262": {
+    "source": "ボタン",
+    "translation": "버튼",
+    "status": "manual_context_checked",
+    "offset": 408492
+  },
+  "263": {
+    "source": "ボタン",
+    "translation": "버튼",
+    "status": "manual_context_checked",
+    "offset": 408500
+  },
+  "264": {
+    "source": "じゅんばんを　きめてください",
+    "translation": "순서를 정하세요.",
+    "status": "manual",
+    "offset": 418616
+  }
+}
