@@ -70,6 +70,10 @@
     "auto_wrap": "persist checked line breaks on save",
     "backup": "work/text-manager-backups"
   },
-  "public_release": "V0.75",
-  "development_base": "v084"
+  "public_release": "V0.75-r1",
+  "development_base": "v085",
+  "locke_terminology": {
+    "dialogue": "트레저 헌터",
+    "job": "모험가"
+  }
 }

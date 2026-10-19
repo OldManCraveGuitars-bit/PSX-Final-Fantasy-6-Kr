@@ -1,0 +1,64 @@
+{
+  "imported_records": 2,
+  "backup": "work/text-manager-backups/automatic-backup",
+  "records": [
+    {
+      "uid": "translations/menu-jobs.ko.json:1",
+      "group": "직업",
+      "id": "1",
+      "reviewed": true,
+      "translation": "모험가",
+      "profile": {
+        "font": "small",
+        "width": 96,
+        "rows": 1,
+        "pitch": 8,
+        "auto_wrap": false,
+        "center": false,
+        "confirmed": false,
+        "note": "작은 글씨 8px, 공백 4px. 기본 폭 96px은 보수적 참고값.",
+        "numeric_pixels": 0,
+        "newline_pages": false
+      },
+      "max_width": 24,
+      "issues": [
+        {
+          "severity": "참고",
+          "code": "bounds",
+          "message": "화면별 칸 높이·폭은 추정값입니다. 실제 칸을 확인한 뒤 검사 영역을 저장하세요.",
+          "page": 0,
+          "line": 0
+        }
+      ]
+    },
+    {
+      "uid": "translations/omake-small.ko.json:710",
+      "group": "부록 작은 글씨",
+      "id": "710",
+      "reviewed": true,
+      "translation": "모험가",
+      "profile": {
+        "font": "small",
+        "width": 128,
+        "rows": 1,
+        "pitch": 8,
+        "auto_wrap": false,
+        "center": false,
+        "confirmed": false,
+        "note": "부록 작은 글씨. 화면마다 경계가 달라 별도 확인.",
+        "numeric_pixels": 0,
+        "newline_pages": false
+      },
+      "max_width": 24,
+      "issues": [
+        {
+          "severity": "참고",
+          "code": "bounds",
+          "message": "화면별 칸 높이·폭은 추정값입니다. 실제 칸을 확인한 뒤 검사 영역을 저장하세요.",
+          "page": 0,
+          "line": 0
+        }
+      ]
+    }
+  ]
+}

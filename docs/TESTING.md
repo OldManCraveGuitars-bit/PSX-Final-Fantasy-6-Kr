@@ -1,19 +1,25 @@
 # 검증 범위와 결과
 
-공개 **V0.75 = 내부 v084**, 결과 BIN SHA-256:
+공개 **V0.75-r1 = 내부 v085**, 결과 BIN SHA-256:
 
 ```text
-6bb23a184380ce6c158185d4c634b4b0ca23a3196f16da47be2b40afd33b9454
+d3bbb7bd55c4a879f6abeef63845e40972040fc381fd0e316336f04e5fc1c875
 ```
 
 아래 결과는 검사 종류별 범위입니다. 전체 게임의 모든 장면을 확인했다는 의미가 아닙니다.
+
+## r1 직업 수정 검사
+
+직업 64개의 원래 복사·확장 경로와 캔버스/글꼴 혼합 출력 80개 사례를 검사했습니다. PSX 작은 글꼴은 수정 후 204개 픽셀 사례, 저장창 재사용 테두리는 188개 사례가 통과했습니다. 부록 710번 참조를 실제 문자열로 해석해 모험가를 확인했습니다.
+
+아래 v084 보고서는 변경하지 않은 대사·전투 경로의 이전 검사 기록입니다. 새 직업 관련 결과는 [수정 범위](verification/v085-job-correction.json), [메뉴](verification/v085-menu-ui-fixes-verification.json), [저장 글꼴](verification/v085-psx-font-banks-verification.json), [이미지](verification/v085-image-verification.json)를 참고하세요.
 
 ## 배포 패처 검사
 
 배포할 Windows x64 EXE 자체를 명령줄 모드로 실행했습니다.
 
 - 내장 차분과 변환 도구 해시 확인.
-- 지원 원본 → 완성 BIN 변환 및 최신 v084와 결과 해시 일치.
+- 지원 원본 → 완성 BIN 변환 및 최신 v085와 결과 해시 일치.
 - CUE의 파일명과 트랙 형식 일치.
 - 기존 출력 폴더 거부 및 그 안의 파일 보존.
 - 크기가 다른 파일 거부.
@@ -35,10 +41,10 @@
 | 큰 전투 글씨 | Huffman 1,758개, 원래 이름 경로 613개, 동적 이름 342개 | [보고서](verification/v084-battle-big-verification.json) |
 | 전투 이름/보상 | 기본 이름 64개, 보상 이름 320개 사례, 미확정 이름 유지 | 위 큰 글씨 보고서 |
 | 필드 대사 | 본편 3,084 + 보조 16 = 3,100개 디코드 | [보고서](verification/v084-dialogue-verification.json) |
-| PSX 글꼴 뱅크 | 208개 픽셀 비교 사례 | [보고서](verification/v084-psx-font-banks-verification.json) |
-| PSX 창/문구 | 메시지 74개, 테두리 재사용 188개, 원래 영문 글리프 106개 | [보고서](verification/v084-psx-ui-verification.json) |
+| PSX 글꼴 뱅크 | 204개 픽셀 비교 사례 | [보고서](verification/v085-psx-font-banks-verification.json) |
+| PSX 창/문구 | 메시지 74개, 테두리 재사용 188개, 원래 영문 글리프 106개 | [보고서](verification/v085-psx-ui-verification.json) |
 | 작은 글씨 | 클리핑 20개, 태그 라벨 7개, 반각 공백 | [보고서](verification/v084-native-small-verification.json) |
-| 이미지 무결성 | 페이로드 17개, 보호 섹터 4,958개, 원본 불변 | [보고서](verification/v084-image-verification.json) |
+| 이미지 무결성 | 페이로드 17개, 보호 섹터 4,958개, 원본 불변 | [보고서](verification/v085-image-verification.json) |
 | 자원 보존 | 폰트·그림·캐시 경로와 이전 창/숫자 수정 유지 | [보고서](verification/v084-resource-preservation.json) |
 
 네이티브 루틴 검사에 통과해도 화면 구성 전체나 게임 흐름의 모든 문제가 배제되는 것은 아닙니다. 큰 글씨 보고서의 `native_gameplay_verification: pending` 같은 필드는 그 보고서 자체의 범위를 나타냅니다. 별도로 실제 플레이를 확인한 늑대 공격·껍질 반격·메뉴 등의 증거와 구별해 읽어 주세요.
@@ -60,7 +66,7 @@ v1.13 EXE로 배포 프로젝트를 열어 **7,720개** 항목, 글꼴 로딩, �
 | 반복 닫기 | 5.20초 | 3.80초 | 1.40초 감소, 약 26.9% |
 | 반복 왕복 | 8.33초 | 7.13초 | 1.20초 감소, 약 14.4% |
 
-반복 열기는 이전 188/188프레임, 적용 후 200/200프레임, 닫기는 이전 312/312/312프레임, 적용 후 228/228/228프레임이었습니다. 샘플링 간격의 오차가 있으며 숫자는 특정 장면의 관측값입니다. v084에서도 같은 캐시 코드가 유지되지만 전체 장면을 다시 측정한 것은 아닙니다.
+반복 열기는 이전 188/188프레임, 적용 후 200/200프레임, 닫기는 이전 312/312/312프레임, 적용 후 228/228/228프레임이었습니다. 샘플링 간격의 오차가 있으며 숫자는 특정 장면의 관측값입니다. v085에서도 같은 캐시 코드가 유지되지만 전체 장면을 다시 측정한 것은 아닙니다.
 
 [원 측정 JSON](verification/v081-menu-speed-comparison.json)
 

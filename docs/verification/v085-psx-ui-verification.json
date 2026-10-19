@@ -1,0 +1,11 @@
+{
+  "psx_message_space_pixels": 6,
+  "psx_small_space_pixels": 4,
+  "window_tile_grid_pixels": 8,
+  "window_loop_cases": 8,
+  "original_English_glyphs_preserved": 106,
+  "message_count": 74,
+  "runtime_verification": "native MIPS spacing hooks passed; screen verification separately",
+  "physical_card_name_restore_cases": 2,
+  "recycled_preview_border_cases": 188
+}

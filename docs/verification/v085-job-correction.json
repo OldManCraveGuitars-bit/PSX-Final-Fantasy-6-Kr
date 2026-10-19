@@ -1,0 +1,29 @@
+{
+  "candidate": "FF6-KR-main-development-v085",
+  "sha256": "d3bbb7bd55c4a879f6abeef63845e40972040fc381fd0e316336f04e5fc1c875",
+  "baseline": "v084",
+  "job": "모험가",
+  "dialogue_term": "트레저 헌터",
+  "dialogue_ids_unchanged": [
+    42,
+    48,
+    134,
+    1901,
+    2616,
+    2936
+  ],
+  "changed_payloads": [
+    "HAR/MENUMENU.BIN",
+    "DEODIR/ALLTIM.BIN",
+    "DEODIR/DEO.PAC",
+    "OMAKEDIR/OMAKE.PAC",
+    "menu-disc.bin"
+  ],
+  "job_banks_byte_exact_v083": true,
+  "PSX_preview_rebuilt_with_coherent_font_bank": true,
+  "bonus_job_710_native_reference_verified": true,
+  "all_other_payloads_byte_exact_v084": true,
+  "battle_attack_name_fix_preserved": true,
+  "field_dialogue_and_cache_tail_byte_exact_v084": true,
+  "cache_routes_and_sizes_unchanged": true
+}

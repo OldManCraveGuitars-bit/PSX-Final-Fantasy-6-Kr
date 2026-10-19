@@ -1,0 +1,7 @@
+{
+  "native_printf_to_Galmuri7_pixel_cases": 204,
+  "font_banks": 2,
+  "GPU_buffers": 2,
+  "preview_job_labels": 18,
+  "secondary_bank_native_offset": 32
+}

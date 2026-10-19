@@ -1,0 +1,9 @@
+{
+  "candidate": "FF6-KR-main-development-v085",
+  "fixture": "v084 Locke menu checkpoint; exit to field then reload new menu from v085 disc",
+  "fresh_menu_pools_match_v085": true,
+  "job": "모험가",
+  "native_job_pointer_and_bytes_verified": true,
+  "code_or_asset_injection": false,
+  "screenshot": "analysis/v085-locke-menu-job.png"
+}

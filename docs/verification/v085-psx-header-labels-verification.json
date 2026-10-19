@@ -1,0 +1,44 @@
+{
+  "all_registered_literal_occurrences": 55,
+  "all_original_duplicates_replaced": true,
+  "header": "부록",
+  "native_header_cases": [
+    {
+      "buffer": 0,
+      "char": "부",
+      "UV": [
+        168,
+        32
+      ],
+      "Galmuri7_pixels_exact": true
+    },
+    {
+      "buffer": 0,
+      "char": "록",
+      "UV": [
+        128,
+        32
+      ],
+      "Galmuri7_pixels_exact": true
+    },
+    {
+      "buffer": 1,
+      "char": "부",
+      "UV": [
+        168,
+        32
+      ],
+      "Galmuri7_pixels_exact": true
+    },
+    {
+      "buffer": 1,
+      "char": "록",
+      "UV": [
+        128,
+        32
+      ],
+      "Galmuri7_pixels_exact": true
+    }
+  ],
+  "original_palette_prefix_retained": true
+}

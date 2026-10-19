@@ -1,9 +1,9 @@
 {
-  "version": "V0.75",
-  "development_base": "v084",
+  "version": "V0.75-r1",
+  "development_base": "v085",
   "source_sha256": "a607011d9c9442797ae155228e86e9dae6e503aaeb7dc9603ac552ffd8d036df",
-  "target_sha256": "6bb23a184380ce6c158185d4c634b4b0ca23a3196f16da47be2b40afd33b9454",
-  "exe_sha256": "bad1773fa16e863233cc17a057cfb80c7f84666b3df05994ce5c70a7f92f22a3",
+  "target_sha256": "d3bbb7bd55c4a879f6abeef63845e40972040fc381fd0e316336f04e5fc1c875",
+  "exe_sha256": "87d32b1f03f9fd14dc9b5e676c1a2f6a73811fbec36a3fe4e17998d28f517c81",
   "checks": {
     "embedded_resources": true,
     "packaged_exe_roundtrip": true,

@@ -1,0 +1,8 @@
+{
+  "native_job_title_copy_and_expansion": 64,
+  "mixed_canvas_font_render_cases": 80,
+  "original_canvas_texture_pages": "preserved",
+  "Korean_font_texture_page": "512,0",
+  "double_buffered_GPU_nodes": "passed",
+  "small_space_pixels": 4
+}

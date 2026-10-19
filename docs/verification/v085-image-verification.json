@@ -1,0 +1,8 @@
+{
+  "candidate": "FF6-KR-main-development-v085",
+  "payloads": 17,
+  "protected_sectors": 4958,
+  "original_unchanged": true,
+  "candidate_sha256": "d3bbb7bd55c4a879f6abeef63845e40972040fc381fd0e316336f04e5fc1c875",
+  "original_and_mirror_field_textures_exact": true
+}

@@ -1,7 +1,7 @@
 ---
 name: 오류 제보
 about: 번역, 그래픽, 진행, 패처 문제를 알려 주세요.
-title: "[V0.75] "
+title: "[V0.75-r1] "
 labels: bug
 ---
 
