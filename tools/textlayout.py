@@ -38,13 +38,14 @@ def wrap(text,mapping,assigned,widths,limit=216):
             flush();out.append(token);continue
         n=width(token)
         if pixels+n>limit and line:
+            if token==' ':
+                flush();out.append('\n');continue
             spaces=[i for i,t in enumerate(line) if t==' ']
             if spaces:
                 cut=spaces[-1]
                 out.extend(line[:cut]);out.append('\n');line=line[cut+1:];pixels=sum(width(t) for t in line)
             else:
                 flush();out.append('\n')
-            if token==' ':continue
             if pixels+n>limit and line:
                 flush();out.append('\n')
         line.append(token);pixels+=n

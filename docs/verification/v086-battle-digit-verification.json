@@ -1,0 +1,18 @@
+{
+  "attack_name_routes": 255,
+  "numbered_attack_names": 7,
+  "native_digit_glyphs": 10,
+  "original_digit_bitmaps_exact": true,
+  "v082_wrong_digit_cases": 10,
+  "numbered_attack_ids": [
+    148,
+    149,
+    150,
+    184,
+    185,
+    188,
+    195
+  ],
+  "all_used_text_glyphs_outside_code": true,
+  "scope": "Actual MIPS name renderer through shared rasterizer; original 12x11 numeral pixels are the oracle."
+}

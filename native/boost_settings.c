@@ -54,9 +54,10 @@ static void BOOST draw(void) {
 void BOOST kr_boost_config_init(void) {
     active=selected=last_page=0;
     ((void (*)(void))0x800c949c)();
-    ((void (*)(void))0x800d8390)();
+    /* Native initialization already created the cursor/scroll tasks.
+     * Starting a second canvas transaction clears those task slots. The
+     * caller uploads this header together with the initialized canvas. */
     kr_boost_header(kr_boost_text_hint);
-    ((void (*)(void))0x800d83f8)();
 }
 void BOOST kr_boost_config_tick(void) {
     unsigned high=BYTE(0x8002e009),low=BYTE(0x8002e008);

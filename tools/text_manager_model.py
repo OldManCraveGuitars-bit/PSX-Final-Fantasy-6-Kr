@@ -181,6 +181,9 @@ class Metrics:
                 continue
             n = advance(token)
             if pixels + n > profile.width and line:
+                if token == ' ':
+                    out.extend(line); out.append('\n'); line = []; pixels = 0
+                    continue
                 spaces = [i for i, t in enumerate(line) if t == ' ']
                 if spaces:
                     cut = spaces[-1]
@@ -189,8 +192,6 @@ class Metrics:
                     pixels = sum(advance(t) for t in line)
                 else:
                     out.extend(line); out.append('\n'); line = []; pixels = 0
-                if token == ' ':
-                    continue
                 if pixels + n > profile.width and line:
                     out.extend(line); out.append('\n'); line = []; pixels = 0
             line.append(token); pixels += n

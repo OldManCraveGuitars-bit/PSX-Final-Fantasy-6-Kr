@@ -33,36 +33,36 @@ def main():
     for name in ('README.md','CHANGELOG.md','NOTICE.md','문장관리기-사용법.txt'):
         common.append((ROOT/name,name))
     url='https://github.com/OldManCraveGuitars-bit/PSX-Final-Fantasy-6-Kr'
-    patcher_readme=('파이널 판타지 VI PSX 한글 패치 V0.75-r1\n\n'
-        '1. FF6-KR-Patcher-V0.75-r1.exe 실행.\n2. 일본판 SLPM-86198 원본 BIN 선택.\n'
+    patcher_readme=('파이널 판타지 VI PSX 한글 패치 V0.76\n\n'
+        '1. FF6-KR-Patcher-V0.76.exe 실행.\n2. 일본판 SLPM-86198 원본 BIN 선택.\n'
         '3. 저장할 폴더를 선택하고 한글 패치 적용.\n'
-        '4. 새 FF6-KR-V0.75-r1 폴더의 Final Fantasy VI (Korean V0.75-r1).cue 실행.\n\n'
+        '4. 새 FF6-KR-V0.76 폴더의 Final Fantasy VI (Korean V0.76).cue 실행.\n\n'
         '원본은 보존되며 이미 존재하는 출력 폴더를 덮어쓰지 않습니다.\n'
         '구버전 상태 저장 대신 새 CUE로 시작해 게임 내 저장을 불러오세요.\n'
         '원본 크기: 325,133,424 bytes\n'
         '원본 SHA-256: a607011d9c9442797ae155228e86e9dae6e503aaeb7dc9603ac552ffd8d036df\n'
-        '결과 SHA-256: d3bbb7bd55c4a879f6abeef63845e40972040fc381fd0e316336f04e5fc1c875\n\n'
-        '공개 V0.75-r1의 내부 기준은 v085입니다. 오페라 가사 자막과 전체 플레이 검수는 미완료입니다.\n'
+        '결과 SHA-256: 08dafb67d22f8cb1d69dd0437ad18101844eeb2a32e4ea1d66ffbf278f73c91c\n\n'
+        '공개 V0.76의 내부 기준은 v086입니다. 오페라 가사 자막과 전체 플레이 검수는 미완료입니다.\n'
         '상세 설명: docs/INSTALL.md, README.md, docs/KNOWN_ISSUES.md\n'+url+'\n')
-    exe=ROOT/'dist/FF6-KR-Patcher-V0.75-r1.exe'
+    exe=ROOT/'dist/FF6-KR-Patcher-V0.76.exe'
     assert exe.is_file() and args.editor_exe.is_file()
     manifest=json.loads((ROOT/'patcher/resources/manifest.json').read_text('utf8'))
     checked=json.loads((ROOT/'docs/verification/patcher-integration.json').read_text('utf8'))
     assert digest(exe)==checked['exe_sha256']
     packages=[]
-    packages.append(make_zip('FF6-KR-Patcher-V0.75-r1',common+[(exe,exe.name)],{'읽어주세요.txt':patcher_readme}))
+    packages.append(make_zip('FF6-KR-Patcher-V0.76',common+[(exe,exe.name)],{'읽어주세요.txt':patcher_readme}))
     portable=list(common)
-    for name in ('manifest.json','FF6-KR-V0.75-r1.xdelta','xdelta3.exe'):
+    for name in ('manifest.json','FF6-KR-V0.76.xdelta','xdelta3.exe'):
         portable.append((ROOT/'patcher/resources'/name,name))
     cue='FILE "'+manifest['target']['name']+'" BINARY\r\n  TRACK 01 MODE2/2352\r\n    INDEX 01 00:00:00\r\n'
-    packages.append(make_zip('FF6-KR-V0.75-r1-xdelta',portable,{
-        'Final Fantasy VI (Korean V0.75-r1).cue':cue,
+    packages.append(make_zip('FF6-KR-V0.76-xdelta',portable,{
+        'Final Fantasy VI (Korean V0.76).cue':cue,
         '읽어주세요.txt':'수동 xdelta 적용용 패키지입니다.\n\ndocs/INSTALL.md의 수동 적용 절차를 따르세요.\n원본 BIN과 BIOS는 포함되어 있지 않습니다.\n'+url+'\n'}))
     editor=list(common)+[(args.editor_exe,'FF6KoreanTextManager.exe'),(ROOT/'project-settings.json','project-settings.json')]
     for folder in ('translations','analysis','assets/text-manager'):
         editor.extend((p,p.relative_to(ROOT).as_posix()) for p in (ROOT/folder).rglob('*') if p.is_file() and p.suffix!='.pyc')
-    packages.append(make_zip('FF6-Korean-Text-Manager-V1.13-V0.75-r1',editor,{'읽어주세요.txt':
-        'FF6 한글 문장 관리기 v1.13 / V0.75-r1 편집 데이터\n\n'
+    packages.append(make_zip('FF6-Korean-Text-Manager-V1.14-V0.76',editor,{'읽어주세요.txt':
+        'FF6 한글 문장 관리기 v1.14 / V0.76 편집 데이터\n\n'
         '압축 전체를 푼 뒤 FF6KoreanTextManager.exe를 실행하세요.\n'
         '프로젝트 선택창이 나오면 이 폴더를 선택하세요.\n'
         '7,720개 항목과 배치 설정을 제공합니다. 자세한 사용법은 docs/TEXT_MANAGER.md입니다.\n'
@@ -70,7 +70,7 @@ def main():
         '갤러리의 원본 그림 위 미리보기에는 별도 로컬 추출 이미지가 필요합니다.\n'+url+'\n'}))
     hashes=''.join(digest(p)+'  '+p.name+'\n' for p in packages)
     (ROOT/'release-assets/SHA256SUMS.txt').write_text(hashes,'ascii')
-    summary={'version':'V0.75-r1','development_base':'v085','packages':[
+    summary={'version':'V0.76','development_base':'v086','packages':[
         {'name':p.name,'bytes':p.stat().st_size,'sha256':digest(p)} for p in packages]}
     print(json.dumps(summary,indent=2))
 

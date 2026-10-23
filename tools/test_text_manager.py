@@ -10,6 +10,18 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class TextManagerTests(unittest.TestCase):
+    def test_space_at_exact_line_edge_preserves_word_boundary(self):
+        from textlayout import wrap as native_wrap
+        # Previously the trailing space triggered a backtrack, then vanished,
+        # joining the carried word to the next one on the following line.
+        text='가나 다라 마바'
+        expected='가나 다라\n마바'
+        self.assertEqual(self.metrics.wrap(text,Profile(width=54),safe=True),expected)
+        self.assertEqual(native_wrap(text,{},set('가나다라마바'),[],limit=54),expected)
+        for width in range(24,217,6):
+            result=self.metrics.wrap(text,Profile(width=width),safe=True)
+            self.assertEqual(result.split(),text.split())
+
     def test_bonus_discovery_import_guards_original_and_existing_ids(self):
         path=self.root/'work/decompressed/OMAKEDIR/OMAKE.PAC'
         path.parent.mkdir(parents=True);path.write_bytes(b'%k\xcd\xde\xbd\xc4\0')

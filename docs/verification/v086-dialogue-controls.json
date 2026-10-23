@@ -1,0 +1,19 @@
+{
+  "source_control_sequences": 3084,
+  "other_source_control_sequences": {
+    "descriptions.ko.json": 337,
+    "battle-abilities.ko.json": 296,
+    "battle-messages.ko.json": 512
+  },
+  "Zozo_clock_selection_order": "preserved",
+  "clock_solution_indexes": [
+    2,
+    0,
+    4
+  ],
+  "clock_lie_numbers": 9,
+  "banquet_counter_labels": 24,
+  "banquet_option_order": "original native choice token order preserved",
+  "Daryl_tomb_permutations": 24,
+  "half_width_whitespace": "passed"
+}

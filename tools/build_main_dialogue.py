@@ -35,7 +35,8 @@ def expand(data,dictionary):
             if c in (0x11,0x14,0x16,0x1c,0x1d,0x1e,0x1f):out+=data[p:p+1];p+=1
     return out
 
-def main():
+def prepare_field():
+    """Build only field text/font assets; callers retain their existing loaders."""
     from prepare_translation import main as consolidate_dialogue
     # Canonical prose is reviewed/imported in the standalone text manager.
     # Building must never silently rewrite its punctuation or wording.
@@ -47,7 +48,7 @@ def main():
     addresses=[0x801c5580,0x801c569c,0x801c56cc,0x801c5728,0x801c5778,0x801c57a0,0x801c5800,0x801c5840,0x801c58a0,0x801c5914,0x801c597c,0x801c59b0,0x801c59e4,0x801c5a6c,0x801c5ae8,0x801c5b28]
     for x,a in zip(aux,addresses):x['original_address']=a
     texts=[x['translation'] for x in rows+aux+titles]+default_names()
-    reserved_field_glyphs=set(range(184,223))|set(range(51,64))|set(range(1085,1100))
+    reserved_field_glyphs=set(range(184,223))|set(range(51,64))|set(range(1085,1113))
     mapping,assigned=allocate(texts,reserved_indices=reserved_field_glyphs);save_allocation(mapping,assigned)
     widths=bytearray((ROOT/'work/extracted/NAR/NAR_BIN.BIN').read_bytes()[0x646d0:0x64bd0])
     for _,old,new in fixed_relocations(mapping,assigned):widths[font_index(new)+32]=widths[font_index(old)+32]
@@ -134,6 +135,13 @@ def main():
     if len(compressed)>len(original_pac):raise ValueError(f'PAC allocation overflow {len(compressed)}>{len(original_pac)}')
     compressed+=bytes(len(original_pac)-len(compressed))
     changes={'NAR/NAR_BIN.BIN':bytes(nar),'NAR/NAR_BIN3.BIN':bytes(script),'NAR/NARITA.PAC':compressed}
+    return changes, dict(rows=rows,aux=aux,titles=titles,new_offsets=new_offsets,wrapped_count=wrapped_count,main_size=main_size,packed=packed,assigned=assigned,map_data=map_data,bank_index=bank_index,dictionary=dictionary,hook=hook,code=code,dialogue_report=dialogue_report)
+
+def main():
+    changes, field = prepare_field()
+    rows=field['rows'];aux=field['aux'];titles=field['titles'];new_offsets=field['new_offsets']
+    wrapped_count=field['wrapped_count'];main_size=field['main_size'];packed=field['packed'];assigned=field['assigned']
+    map_data=field['map_data'];bank_index=field['bank_index'];dictionary=field['dictionary'];hook=field['hook'];code=field['code'];dialogue_report=field['dialogue_report']
     # Menu boost code uses a fixed resident entry address, compiled first.
     from movie_subtitles import prepare as prepare_resident
     prepare_resident()
@@ -145,6 +153,8 @@ def main():
     changes=patch_gallery(changes)
     from boost_settings import patch as patch_boost
     changes=patch_boost(changes)
+    from world_menu_loading import patch as patch_world_return
+    changes['SLPM_861.98']=patch_world_return(changes['SLPM_861.98'])
     from menu_loading import prepare as prepare_menu_disc
     changes,disc_changes,menu_routes=prepare_menu_disc(changes)
     name=CANDIDATE

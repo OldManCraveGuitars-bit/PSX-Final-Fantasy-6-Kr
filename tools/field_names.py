@@ -32,10 +32,13 @@ def patch(nar,overlay,mapping,assigned):
     all_rows=json.loads((ROOT/'analysis/dialogue-native-layout.json').read_text('utf8'))+json.loads((ROOT/'translations/map-titles.json').read_text('utf8'))
     used_chars=set(normalize(''.join(CONTROL.sub('',x['translation']) for x in all_rows)+''.join(translated)))
     used_indices={font_index(mapping[c]) for c in used_chars if c in mapping and c!='\n'}
-    code_indices=set(range(184,223));data_indices=set(range(51,64));hook_indices=set(range(1085,1100))
+    code_indices=set(range(184,223));data_indices=set(range(1100,1113));hook_indices=set(range(1085,1100))
     if used_indices&(code_indices|data_indices|hook_indices):raise ValueError('Reserved name-runtime glyphs became visible')
     start=0x80194bd0+184*22;limit=0x80194bd0+223*22
-    data_start=0x80194bd0+51*22;data_limit=0x80194bd0+64*22
+    # Native {gp} emits the single-byte numeral aliases at glyphs 51..60.
+    # Keep that whole original numeral/unit bank intact, even though ordinary
+    # authored text uses the separate double-byte aliases at 1075..1084.
+    data_start=0x80194bd0+1100*22;data_limit=0x80194bd0+1113*22
     hook_start=(0x80194bd0+1085*22+3)&~3;hook_limit=0x80194bd0+1100*22
     elf=ROOT/'work/field-name.elf';binfile=ROOT/'work/field-name.bin';tool=ROOT/'references/psx-toolchain/bin'
     script=f'OUTPUT_ARCH(mips)\nENTRY(kr_field_name)\nSECTIONS {{ .name_data 0x{data_start:08x} : SUBALIGN(1) {{ *(.name_data) }} .text 0x{start:08x} : SUBALIGN(4) {{ *(.text .text.*) }} .rodata : SUBALIGN(4) {{ *(.rodata .rodata.*) }} .name_hooks 0x{hook_start:08x} : {{ *(.name_hooks) }} /DISCARD/ : {{ *(.MIPS.abiflags .reginfo .pdr .comment .gnu.attributes) }} }}\n'

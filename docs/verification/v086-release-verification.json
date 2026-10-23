@@ -1,0 +1,262 @@
+{
+  "version": "V0.76",
+  "internal_build": "v086",
+  "target_sha256": "08dafb67d22f8cb1d69dd0437ad18101844eeb2a32e4ea1d66ffbf278f73c91c",
+  "editor_version": "1.14",
+  "editor_sha256": "dc4344f0fe3a5559aa3f09a5fcd21b2589bb2ec4b1b4d9b6a656d0d2d3125977",
+  "editor_records": 7720,
+  "proofread": {
+    "field_read_through_ranges": [
+      [
+        0,
+        3083
+      ]
+    ],
+    "read_through_complete": true,
+    "build_and_native_verification_complete": true,
+    "reviewed_records": {
+      "대사": 3084,
+      "전투 기술·대사": 296,
+      "전투 문장": 512,
+      "PSX 도움말": 16
+    },
+    "staged_entries": 1485,
+    "scope": "Korean prose, context, particles, terminology and line continuity; Japanese consulted for ambiguous passages.",
+    "explicit_field_edits": {
+      "61": "{hchar00}「으...\n아무것도 뚜렷이 떠오르지 않아.\n그전 일도... 아주 옛날 일도...",
+      "250": "{hchar01}「아까부터\n어슬렁거리던 게 너였구나?\n바르가스「알 게 뭐냐!",
+      "428": "{hchar04}「여기는...\n{hchar00}「왜?{page}{hchar04}「나르셰의 경비병이 되려는\n실력자들이 시험을 치르는 곳이\n있다고 들었어. 분명...\n저 빛을 따라가면 무사히\n도착할 수 있을 거야. 길을 틀리면\n빛에 둘러싸이는데, 그때는\n붉은빛을 골라야 앞으로 갈 수 있어...",
+      "474": "크, 큰일 났어요.\n단장님께 가 주세요.",
+      "606": "장신구가 뭔지 알고 있나요?",
+      "630": "「리플렉」에 관한 설명입니다.\n한 번 리플렉으로 반사된 마법은\n다시 리플렉으로 반사할 수 없습니다.{page}이것을 응용한 공격법도 있습니다.\n아군에게 리플렉을 건 뒤,\n그 동료에게 공격 마법을 쓰는 것이지요.\n이해되나요?",
+      "763": "제국 병사들이 마란다 거리를 다녀서\n전보다 삼엄해졌지만,\n그 밖에는 평온한 하루하루를\n보내고 있어요.{page}정원의 꽃이 막 피어나기 시작했어요.\n이제 봄이 오나 봐요.{page}몸은 좀 어떠세요?\n마음 같아서는 당장 당신께\n달려가고 싶어요... 걱정돼 견딜 수 없어요.\n지금은 몸을 회복할 생각만 하세요.{page}절대 무리하지 마세요.\n매일 당신만 생각하고 있어요.\n어서 만나고 싶어요...\n{t[0F]}로라",
+      "1200": "{hchar06}「난... 그 사람의 대역이야?",
+      "1246": "{hchar01}「세계 최고의 트레저 헌터!\n바로 이 {char01} 님이시다아!",
+      "1405": "시드「환수의 생명으로\n힘을 얻다니...",
+      "1466": "가스트라「하하! 드디어 찾아냈다!{page}천 년 전 문헌의 수수께끼를 풀어\n마도의 비밀과 환수계의 입구를\n찾아낸 노력이 드디어 결실을 맺었구나.",
+      "2162": "『이 아래에 비공정이 있어.\n{choice}(뛰어내린다)\n{choice}(기다린다)",
+      "2742": "『배, 백만 길!?",
+      "2951": "\n{gp}길이 들어 있었다!"
+    },
+    "text_changed_records": 1237,
+    "layout_profile_only_records": 248,
+    "verification_scope": "All 3908 dialogue/help/battle records read through. Reported render paths and world/dungeon tent controller tests verified; not a full game playthrough.",
+    "editor_import": "analysis/v086-editor-import.json"
+  },
+  "controller_and_render_tests": {
+    "config": {
+      "cold_boot_final_executable": true,
+      "menu_code_disc_exact": true,
+      "boost_defaults_off": true,
+      "all_four_toggles": true,
+      "returned_flags_off": true,
+      "screenshots": [
+        "<local-project>\\analysis\\v086-final-config-cursor.png",
+        "<local-project>\\analysis\\v086-final-config-second-page.png",
+        "<local-project>\\analysis\\v086-final-boost-default-off.png",
+        "<local-project>\\analysis\\v086-final-config-return-cursor.png",
+        "<local-project>\\analysis\\v086-final-config-return-field.png"
+      ],
+      "native_second_page_verified": true
+    },
+    "world_tent": {
+      "location_fixture": true,
+      "native_permission_unmodified": true,
+      "final_executable_cold_booted": true,
+      "one_tent_consumed": true,
+      "recovery": [
+        {
+          "actor": 0,
+          "hp": 63,
+          "mp": 27
+        }
+      ],
+      "coordinates_before": "50500000002408070200",
+      "coordinates_after": "50500000002408070200",
+      "screenshots": [
+        "<local-project>\\analysis\\v086-final-world-before-tent.png",
+        "<local-project>\\analysis\\v086-final-world-tent-return.png",
+        "<local-project>\\analysis\\v086-final-world-tent-move.png"
+      ],
+      "movement_verification": "Return and post-input native screenshots visually compared; field transition coordinates are not the live world movement coordinates."
+    },
+    "dungeon_tent": {
+      "location_fixture": true,
+      "native_permission_unmodified": true,
+      "final_executable_cold_booted": true,
+      "one_tent_consumed": true,
+      "recovery": [
+        {
+          "actor": 0,
+          "hp": 63,
+          "mp": 27
+        }
+      ],
+      "coordinates_before": "00000000290021160000",
+      "coordinates_after": "00000000290021160000",
+      "screenshots": [
+        "<local-project>\\analysis\\v086-final-dungeon-before-tent.png",
+        "<local-project>\\analysis\\v086-final-dungeon-native-savepoint.png",
+        "<local-project>\\analysis\\v086-final-dungeon-tent-return.png",
+        "<local-project>\\analysis\\v086-final-dungeon-tent-move.png"
+      ],
+      "movement_verification": "Return and post-input native screenshots visually compared; field transition coordinates are not the live world movement coordinates."
+    },
+    "blitz_tutorial": {
+      "records": [
+        212,
+        213,
+        214,
+        215,
+        216
+      ],
+      "native_font_and_runtime_from_final_disc": true,
+      "streams_exact": true,
+      "screenshots": [
+        "<local-project>\\analysis\\v086-final-blitz-tutorial-212.png",
+        "<local-project>\\analysis\\v086-final-blitz-tutorial-213.png",
+        "<local-project>\\analysis\\v086-final-blitz-tutorial-214.png",
+        "<local-project>\\analysis\\v086-final-blitz-tutorial-215.png",
+        "<local-project>\\analysis\\v086-final-blitz-tutorial-216.png"
+      ],
+      "scope": "Temporary record selection at the original Whelk battle dialogue caller; native text/renderer/key wait retained. Full Vargas encounter was not played through."
+    }
+  },
+  "native_dispatch": {
+    "dispatch_cases_passed": 3084,
+    "special_tutorial_cases": 16,
+    "overlay_size_preserved": true,
+    "unique_native_streams_decoded": 3100,
+    "redirected_originals_decoded_directly": 16,
+    "native_bank_boundary": 2030,
+    "bank_pointer_reconstruction_cases": 3084,
+    "exact_64k_boundary_present": true,
+    "lossless_native_Huffman_decode": "all dispatched strings matched original native byte streams",
+    "expansion_buffer_canaries": "preserved",
+    "caller_registers_stack_HI_LO": "preserved"
+  },
+  "battle_dialogue": {
+    "candidate": "FF6-KR-main-development-v086",
+    "encounter": 432,
+    "background": 0,
+    "entry": "Field checkpoint v086-loaded-field.mcs; only encounter/background/request flags set.",
+    "text_code_font_or_wait_substitution": false,
+    "battle_runtime_source": "Current candidate disc; runtime bytes exact in native RAM.",
+    "native_dialogue_trace": [
+      {
+        "id": 1252,
+        "category": "battle_dialogue",
+        "index": 6,
+        "translation": "빅스\n「잠깐!!{key}\n이 녀석은...{pause}{key} 생각났어!{key}",
+        "expansion_exact": true,
+        "screenshot": "analysis/kr-v086-whelk-battle_dialogue-6.png",
+        "state": "work/kr-v086-whelk-battle_dialogue-6.mcs"
+      },
+      {
+        "id": 1253,
+        "category": "battle_dialogue",
+        "index": 7,
+        "translation": "웨지\n「알고 있는 거야?{key}",
+        "expansion_exact": true,
+        "screenshot": "analysis/kr-v086-whelk-battle_dialogue-7.png",
+        "state": "work/kr-v086-whelk-battle_dialogue-7.mcs"
+      },
+      {
+        "id": 1254,
+        "category": "battle_dialogue",
+        "index": 8,
+        "translation": "빅스\n「전에 번개를 먹는 괴물에 대한\n이야기를 들은 적이 있어...{key}",
+        "expansion_exact": true,
+        "screenshot": "analysis/kr-v086-whelk-battle_dialogue-8.png",
+        "state": "work/kr-v086-whelk-battle_dialogue-8.mcs"
+      },
+      {
+        "id": 1255,
+        "category": "battle_dialogue",
+        "index": 9,
+        "translation": "웨지\n「껍데기에 강력한 전류를\n모아 둔다는 녀석 말이지...{key}",
+        "expansion_exact": true,
+        "screenshot": "analysis/kr-v086-whelk-battle_dialogue-9.png",
+        "state": "work/kr-v086-whelk-battle_dialogue-9.mcs"
+      },
+      {
+        "id": 1256,
+        "category": "battle_dialogue",
+        "index": 10,
+        "translation": "빅스\n「그래.{key}\n껍데기는 건드리지 마, 웨지!{key}",
+        "expansion_exact": true,
+        "screenshot": "analysis/kr-v086-whelk-battle_dialogue-10.png",
+        "state": "work/kr-v086-whelk-battle_dialogue-10.mcs"
+      },
+      {
+        "id": 1257,
+        "category": "battle_dialogue",
+        "index": 11,
+        "translation": "웨지\n「알았어!{key}",
+        "expansion_exact": true,
+        "screenshot": "analysis/kr-v086-whelk-battle_dialogue-11.png",
+        "state": "work/kr-v086-whelk-battle_dialogue-11.mcs"
+      },
+      {
+        "id": 955,
+        "category": "monster_dialogue",
+        "index": 5,
+        "translation": "그고고고...{pause}",
+        "expansion_exact": true,
+        "screenshot": "analysis/kr-v086-whelk-monster_dialogue-5.png",
+        "state": "work/kr-v086-whelk-monster_dialogue-5.mcs"
+      }
+    ],
+    "confirm_inputs": 13,
+    "final_screenshot": "analysis/kr-v086-whelk-dialogue-return.png",
+    "scope": "Actual Whelk opening records 6..11 and native AI monster record5, original key/pause timing, then combat resumes. Other long battle messages remain separate checks."
+  },
+  "battle_digits": {
+    "attack_name_routes": 255,
+    "numbered_attack_names": 7,
+    "native_digit_glyphs": 10,
+    "original_digit_bitmaps_exact": true,
+    "v082_wrong_digit_cases": 10,
+    "numbered_attack_ids": [
+      148,
+      149,
+      150,
+      184,
+      185,
+      188,
+      195
+    ],
+    "all_used_text_glyphs_outside_code": true,
+    "scope": "Actual MIPS name renderer through shared rasterizer; original 12x11 numeral pixels are the oracle."
+  },
+  "text_manager_tests": 41,
+  "editor_audit_error_count": 0,
+  "field_dynamic_money_render_values": [
+    500,
+    1000,
+    1500
+  ],
+  "field_glyph_indices_51_through_63_original_pixels_exact": true,
+  "field_name_cases": 128,
+  "field_custom_name_and_unknown_name_preserved": true,
+  "native_battle_text_decodes": 1758,
+  "all_field_streams_decoded": 3100,
+  "byte_identical_to_v085": [
+    "BTL/BATTLE.PAC",
+    "OGA/OGATA.PAC",
+    "NAR/NAR_BIN2.BIN",
+    "DEODIR/ALLTIM.BIN",
+    "DEODIR/DEO.PAC",
+    "OMAKEDIR/OMAKE.PAC",
+    "OMAKEDIR/ALLTIM.BIN",
+    "OMAKEDIR/GALLERY2.BIN",
+    "OMAKEDIR/GALLERY4.BIN",
+    "OMAKEDIR/GALLERY5.BIN"
+  ],
+  "limits": [
+    "World/dungeon locations and tent inventory were fixture inputs; native permission, loader, recovery and controls were executed unchanged.",
+    "Money and Kolts field text were selected at the native dialogue dispatcher. Blitz records were selected at the native battle dialogue caller. The full South Figaro/Kolts/Vargas story was not replayed.",
+    "Read-through review is not a full game playthrough. Earlier unrelated incomplete items remain in project records."
+  ],
+  "patcher_verification": "patcher-integration.json"
+}
