@@ -1,0 +1,14 @@
+{
+  "native_caller_character_cases": 768,
+  "editable_characters": 249,
+  "reserved_bytes": 7,
+  "glyph_pixels_match": true,
+  "original_generic_callers_preserved": true,
+  "stack_and_continuations": true,
+  "finished_name_halfspace": 6,
+  "editing_cursor_cell": 12,
+  "font_cell": [
+    12,
+    11
+  ]
+}

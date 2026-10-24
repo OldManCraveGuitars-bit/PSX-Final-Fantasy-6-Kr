@@ -1,0 +1,100 @@
+{
+  "candidate": "FF6-KR-main-development-v087",
+  "compared_with": "FF6-KR-main-development-v086",
+  "changed_payloads": [
+    "HAR/MENUMENU.BIN",
+    "HAR/HARATA.PAC",
+    "BTL/BATTLE.PAC",
+    "BTL/FF6_BTL.BIN"
+  ],
+  "authored_resources": {
+    "NAR/NAR_BIN.BIN": {
+      "sha256": "f157f686d11137b6f748f225da05cdcef436032ff5e615b84e99f573bfd8360b",
+      "unchanged_from_previous": true
+    },
+    "NAR/NAR_BIN3.BIN": {
+      "sha256": "4788be33483f19a8b44e9987855c5277fb87e90d537276075b092258f2f56f9b",
+      "unchanged_from_previous": true
+    },
+    "NAR/NARITA.PAC": {
+      "sha256": "be57edbaf6abf06aeffd892799a1be00c13495d1aa214ff87ca9914a4444e952",
+      "unchanged_from_previous": true
+    },
+    "HAR/MENUMENU.BIN": {
+      "sha256": "586d0ef1147ec4f482f485e97e32000f6cc1375addd4282fb08a9963af5f33af",
+      "unchanged_from_previous": false
+    },
+    "HAR/HARATA.PAC": {
+      "sha256": "f786cb4b2fb44a708a069fb246bbb57180ba574fa67b880849a98cfac83760ba",
+      "unchanged_from_previous": false
+    },
+    "SLPM_861.98": {
+      "sha256": "86534ed771dc147b150d3c014a20254238b1b61738959a4540fa1da7f5d5b775",
+      "unchanged_from_previous": true
+    },
+    "DEODIR/ALLTIM.BIN": {
+      "sha256": "f9426521070e061619224237d90ab261be218991758e79364b5e324fccdad6a9",
+      "unchanged_from_previous": true
+    },
+    "DEODIR/DEO.PAC": {
+      "sha256": "39d269891e5e60878045443d9716d76b1cd10c16fa77d3a575136c393661bfe1",
+      "unchanged_from_previous": true
+    },
+    "BTL/BATTLE.PAC": {
+      "sha256": "b49e0bd29feed92efe547fa603bc0ea427de5570a6652678ecd3e00949a24626",
+      "unchanged_from_previous": false
+    },
+    "BTL/FF6_BTL.BIN": {
+      "sha256": "0c1a83d8dd57ce0b23d57e5bdf2d895c0e9724ba113ccf4b9a33826e830644c0",
+      "unchanged_from_previous": false
+    },
+    "OMAKEDIR/OMAKE.PAC": {
+      "sha256": "2af642d08c83baa6ecb89ff8ff286a4c6c06496c06882c3d203144b9186b0795",
+      "unchanged_from_previous": true
+    },
+    "OMAKEDIR/ALLTIM.BIN": {
+      "sha256": "9e40981be6c6b0ca734a0b00d6244040afa215eefa5c1c8c5b6eefe686e68789",
+      "unchanged_from_previous": true
+    },
+    "OMAKEDIR/GALLERY2.BIN": {
+      "sha256": "fc30af7cdf8af6e192d7211e5814702c94f5dde2cdcc38087964d4e1a0db4f46",
+      "unchanged_from_previous": true
+    },
+    "OMAKEDIR/GALLERY4.BIN": {
+      "sha256": "c893ad240a8eca43fcee39ad97552952b20e74df8ac58f2a2b44bb814dc921a1",
+      "unchanged_from_previous": true
+    },
+    "OMAKEDIR/GALLERY5.BIN": {
+      "sha256": "fef71a66f92811e8d20c53a88358c0aec200c7c88b523141d4186005b4cf07dc",
+      "unchanged_from_previous": true
+    },
+    "OGA/OGATA.PAC": {
+      "sha256": "a40c45e05cef87a5a7e86cb73e8bad1ffcd30510117dbee47b914fa0f5a472d4",
+      "unchanged_from_previous": true
+    },
+    "NAR/NAR_BIN2.BIN": {
+      "sha256": "9731bd850ed63fe5fcf8ae551f789848554bd7f23c3c0edc837eef6705a425a6",
+      "unchanged_from_previous": true
+    }
+  },
+  "original_movie_extents": {
+    "MOVIE/OPEN.STR": {
+      "raw_sectors_byte_identical": true,
+      "raw_extent_sha256": "4088673b64b74df38222390a51c7c9d8252c17d2fa0d701f307f20574c589abc",
+      "sectors": 29464
+    },
+    "MOVIE/OPERA.STR": {
+      "raw_sectors_byte_identical": true,
+      "raw_extent_sha256": "18394f7bed19e0c8bc2cc54b89008ab6f3dbeb9049b955b860dbc3981a732dee",
+      "sectors": 18528
+    },
+    "MOVIE/END.STR": {
+      "raw_sectors_byte_identical": true,
+      "raw_extent_sha256": "e4cba6ea81525ad0db4bef4ea288f711b7fb2071df37ca43483537e61c4af078",
+      "sectors": 31792
+    }
+  },
+  "registered_records": 7969,
+  "reviewed_records": 7969,
+  "text_manager_sha256": "6a333cfdd6303c7b2650b89d01c2f5e02c5b46be6eb6a172a8bdf78c1d3c20f8"
+}

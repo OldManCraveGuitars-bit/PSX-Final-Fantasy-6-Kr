@@ -249,6 +249,7 @@ class Metrics:
             'PSX 저장·불러오기': ('psx',), '동영상 자막': ('subtitle',),
             '갤러리 설명': ('small',),
             '부스트 설정': ('small',),
+            '필살검 글자': ('battle',),
         }.get(record.group, ('large', 'small'))
         if profile.font not in fonts:
             issues.append(Issue('오류', 'font_path', '선택한 글꼴이 이 문장의 실제 출력 경로와 다릅니다. 원래 글꼴 크기로 검사하세요.'))
@@ -292,7 +293,7 @@ class Metrics:
             issues.append(Issue('오류', 'space', '반각 공백(U+0020)이 아닌 공백 또는 탭이 있습니다.'))
         if re.search(r' {2,}', text):
             issues.append(Issue('주의', 'double_space', '연속 공백이 있습니다. 의도한 들여쓰기인지 확인하세요.'))
-        if re.search(r' +\n| +$', text):
+        if re.search(r' +\n| +$', text) and not (record.group=='필살검 글자' and text==' '):
             issues.append(Issue('주의', 'trailing_space', '줄 끝에 공백이 있습니다.'))
         if any(unicodedata.combining(c) or '\u1100' <= c <= '\u11ff' for c in text):
             issues.append(Issue('오류', 'composition', '완성되지 않은 자모 또는 결합 문자가 있습니다.'))
@@ -300,6 +301,10 @@ class Metrics:
             issues.append(Issue('오류', 'control_character', '저장할 수 없는 제어 문자가 있습니다.'))
         if profile.pitch < profile.cell:
             issues.append(Issue('오류', 'pitch', f'줄 간격 {profile.pitch}px이 글자 높이 {profile.cell}px보다 작아 겹칩니다.'))
+        if record.group=='필살검 글자' and (len(text)!=1 or text in '\r\n\t' or not (text==' ' or 33<=ord(text)<=126 or 0xac00<=ord(text)<=0xd7a3) or profile.width!=12 or profile.rows!=1 or profile.auto_wrap):
+            issues.append(Issue('오류','swdtech_character','필살검 글자표에는 완성형 한글·영문·숫자·기호·반각 공백 중 한 글자만 저장할 수 있습니다.'))
+        if record.group=='필살검 글자' and record.key in ('239','255') and text!=' ':
+            issues.append(Issue('오류','swdtech_character','공백과 이름 끝 채움 문자는 반각 공백으로 유지해야 합니다.'))
         if record.group=='부록 문장' and profile.auto_wrap:
             prose=normalized(text).replace('갓파','임프')
             if 89<=int(record.key)<=521:prose=' '.join(prose.split())
@@ -394,6 +399,7 @@ class Store:
             ('psx-ui-messages.ko.json', 'PSX 저장·불러오기', 'psx-ui-messages-original.json'),
             ('psx-small-labels.ko.json', 'PSX 작은 글씨', ''),
             ('boost-options.ko.json', '부스트 설정', ''),
+            ('swdtech-characters.ko.json', '필살검 글자', ''),
         ]:
             path = 'translations/' + filename
             rows = self.read(path, {})
@@ -423,6 +429,8 @@ class Store:
                     profile = Profile('psx', 240, 5, 16, False, note='저장 화면별 메시지 칸은 별도 확인.')
                 elif group == '부스트 설정':
                     profile = Profile('small',BOOST_WIDTHS[key],1,8,False,confirmed=True,note='부스트 설정의 실제 고정 칸. 갈무리7, 반각 공백 4px, 한 줄 유지.')
+                elif group == '필살검 글자':
+                    profile = Profile('battle',12,1,12,False,confirmed=True,note='원래 필살검 저장 문자 1바이트와 연결된 한 글자. 선택 칸 12px, 완성 이름의 공백은 6px.')
                 self.add(group, key, row.get('source', src.get('source', '')), row['translation'], row.get('status', '').startswith('manual'), path, category=category, profile=profile, meta=src)
         for filename, group in [('map-titles.json', '지역명'), ('psx_auxiliary.json', 'PSX 도움말')]:
             for i, row in enumerate(self.read('translations/'+filename, [])):
@@ -606,7 +614,7 @@ class Store:
         if not isinstance(text, str) or not isinstance(reviewed, bool):
             raise ValueError('번역은 문자열, 검수 상태는 true/false여야 합니다.')
         issues, effective, _ = metrics.check(record, text, profile)
-        structural = {'controls', 'braces', 'printf', 'space', 'composition', 'control_character', 'timing', 'caption_length', 'caption_layout', 'font_path', 'name_length','gallery_bounds','psx_literal_capacity','boost_bounds'}
+        structural = {'controls', 'braces', 'printf', 'space', 'composition', 'control_character', 'timing', 'caption_length', 'caption_layout', 'font_path', 'name_length','gallery_bounds','psx_literal_capacity','boost_bounds','swdtech_character'}
         if record.group=='갤러리 설명':structural|={'width','height','pitch'}
         fatal = [i for i in issues if i.severity == '오류' and i.code in structural]
         if fatal:

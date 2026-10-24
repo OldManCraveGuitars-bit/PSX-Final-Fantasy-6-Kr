@@ -1,12 +1,13 @@
 """Execute the enemy-name producer AND consumer, including FF operands."""
-import json,struct
+import json,struct,sys
 from unicorn import Uc,UC_ARCH_MIPS,UC_MODE_MIPS32,UC_MODE_LITTLE_ENDIAN,UC_HOOK_CODE
 from unicorn.mips_const import *
 from emu import ROOT
 from pac import decompress
 
 def main():
-    reports={tag:json.loads((ROOT/f'analysis/{tag}-battle-big-text-insertion.json').read_text('utf8')) for tag in ['v083','v084']}
+    target=sys.argv[1] if len(sys.argv)>1 else 'v084'
+    reports={tag:json.loads((ROOT/f'analysis/{tag}-battle-big-text-insertion.json').read_text('utf8')) for tag in ['v083',target]}
     result={}
     for tag,r in reports.items():
         u=Uc(UC_ARCH_MIPS,UC_MODE_MIPS32|UC_MODE_LITTLE_ENDIAN)
@@ -56,7 +57,7 @@ def main():
         result[tag]=dict(broken_references=failed,native_producer_and_dispatcher_cases=tested)
     assert [r['index'] for r in result['v083']['broken_references']]==[25,280]
     result['scope']='All 384 enemy-specific names: native producer hook, FF-terminated copier/continuation, original control dispatcher, complete glyph sequence, output canaries.'
-    (ROOT/'analysis/v084-enemy-attack-verification.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n','utf8')
+    (ROOT/f'analysis/{target}-enemy-attack-verification.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n','utf8')
     print(json.dumps(result,ensure_ascii=False))
 
 if __name__=='__main__':main()

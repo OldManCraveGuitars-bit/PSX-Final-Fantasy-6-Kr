@@ -1,0 +1,1496 @@
+{
+  "0": {
+    "source": "防",
+    "translation": "방",
+    "status": "manual",
+    "byte": 0
+  },
+  "1": {
+    "source": "間",
+    "translation": "간",
+    "status": "manual",
+    "byte": 1
+  },
+  "2": {
+    "source": "器",
+    "translation": "기",
+    "status": "manual",
+    "byte": 2
+  },
+  "3": {
+    "source": "吸",
+    "translation": "흡",
+    "status": "manual",
+    "byte": 3
+  },
+  "4": {
+    "source": "行",
+    "translation": "행",
+    "status": "manual",
+    "byte": 4
+  },
+  "5": {
+    "source": "具",
+    "translation": "구",
+    "status": "manual",
+    "byte": 5
+  },
+  "6": {
+    "source": "下",
+    "translation": "하",
+    "status": "manual",
+    "byte": 6
+  },
+  "7": {
+    "source": "穴",
+    "translation": "혈",
+    "status": "manual",
+    "byte": 7
+  },
+  "8": {
+    "source": "現",
+    "translation": "현",
+    "status": "manual",
+    "byte": 8
+  },
+  "9": {
+    "source": "元",
+    "translation": "원",
+    "status": "manual",
+    "byte": 9
+  },
+  "10": {
+    "source": "攻",
+    "translation": "공",
+    "status": "manual",
+    "byte": 10
+  },
+  "11": {
+    "source": "後",
+    "translation": "후",
+    "status": "manual",
+    "byte": 11
+  },
+  "12": {
+    "source": "混",
+    "translation": "혼",
+    "status": "manual",
+    "byte": 12
+  },
+  "13": {
+    "source": "士",
+    "translation": "사",
+    "status": "manual",
+    "byte": 13
+  },
+  "14": {
+    "source": "視",
+    "translation": "시",
+    "status": "manual",
+    "byte": 14
+  },
+  "15": {
+    "source": "使",
+    "translation": "사",
+    "status": "manual",
+    "byte": 15
+  },
+  "16": {
+    "source": "時",
+    "translation": "시",
+    "status": "manual",
+    "byte": 16
+  },
+  "17": {
+    "source": "次",
+    "translation": "차",
+    "status": "manual",
+    "byte": 17
+  },
+  "18": {
+    "source": "自",
+    "translation": "자",
+    "status": "manual",
+    "byte": 18
+  },
+  "19": {
+    "source": "持",
+    "translation": "지",
+    "status": "manual",
+    "byte": 19
+  },
+  "20": {
+    "source": "実",
+    "translation": "실",
+    "status": "manual",
+    "byte": 20
+  },
+  "21": {
+    "source": "者",
+    "translation": "자",
+    "status": "manual",
+    "byte": 21
+  },
+  "22": {
+    "source": "弱",
+    "translation": "약",
+    "status": "manual",
+    "byte": 22
+  },
+  "23": {
+    "source": "手",
+    "translation": "수",
+    "status": "manual",
+    "byte": 23
+  },
+  "24": {
+    "source": "守",
+    "translation": "수",
+    "status": "manual",
+    "byte": 24
+  },
+  "25": {
+    "source": "受",
+    "translation": "수",
+    "status": "manual",
+    "byte": 25
+  },
+  "26": {
+    "source": "収",
+    "translation": "수",
+    "status": "manual",
+    "byte": 26
+  },
+  "27": {
+    "source": "出",
+    "translation": "출",
+    "status": "manual",
+    "byte": 27
+  },
+  "28": {
+    "source": "消",
+    "translation": "소",
+    "status": "manual",
+    "byte": 28
+  },
+  "29": {
+    "source": "障",
+    "translation": "장",
+    "status": "manual",
+    "byte": 29
+  },
+  "30": {
+    "source": "傷",
+    "translation": "상",
+    "status": "manual",
+    "byte": 30
+  },
+  "31": {
+    "source": "状",
+    "translation": "상",
+    "status": "manual",
+    "byte": 31
+  },
+  "32": {
+    "source": "上",
+    "translation": "상",
+    "status": "manual",
+    "byte": 32
+  },
+  "33": {
+    "source": "色",
+    "translation": "색",
+    "status": "manual",
+    "byte": 33
+  },
+  "34": {
+    "source": "身",
+    "translation": "신",
+    "status": "manual",
+    "byte": 34
+  },
+  "35": {
+    "source": "人",
+    "translation": "인",
+    "status": "manual",
+    "byte": 35
+  },
+  "36": {
+    "source": "水",
+    "translation": "수",
+    "status": "manual",
+    "byte": 36
+  },
+  "37": {
+    "source": "数",
+    "translation": "수",
+    "status": "manual",
+    "byte": 37
+  },
+  "38": {
+    "source": "制",
+    "translation": "제",
+    "status": "manual",
+    "byte": 38
+  },
+  "39": {
+    "source": "成",
+    "translation": "성",
+    "status": "manual",
+    "byte": 39
+  },
+  "40": {
+    "source": "石",
+    "translation": "석",
+    "status": "manual",
+    "byte": 40
+  },
+  "41": {
+    "source": "先",
+    "translation": "선",
+    "status": "manual",
+    "byte": 41
+  },
+  "42": {
+    "source": "戦",
+    "translation": "전",
+    "status": "manual",
+    "byte": 42
+  },
+  "43": {
+    "source": "全",
+    "translation": "전",
+    "status": "manual",
+    "byte": 43
+  },
+  "44": {
+    "source": "素",
+    "translation": "소",
+    "status": "manual",
+    "byte": 44
+  },
+  "45": {
+    "source": "装",
+    "translation": "장",
+    "status": "manual",
+    "byte": 45
+  },
+  "46": {
+    "source": "続",
+    "translation": "속",
+    "status": "manual",
+    "byte": 46
+  },
+  "47": {
+    "source": "体",
+    "translation": "체",
+    "status": "manual",
+    "byte": 47
+  },
+  "48": {
+    "source": "態",
+    "translation": "태",
+    "status": "manual",
+    "byte": 48
+  },
+  "49": {
+    "source": "脱",
+    "translation": "탈",
+    "status": "manual",
+    "byte": 49
+  },
+  "50": {
+    "source": "単",
+    "translation": "단",
+    "status": "manual",
+    "byte": 50
+  },
+  "51": {
+    "source": "治",
+    "translation": "치",
+    "status": "manual",
+    "byte": 51
+  },
+  "52": {
+    "source": "中",
+    "translation": "중",
+    "status": "manual",
+    "byte": 52
+  },
+  "53": {
+    "source": "仲",
+    "translation": "중",
+    "status": "manual",
+    "byte": 53
+  },
+  "54": {
+    "source": "長",
+    "translation": "장",
+    "status": "manual",
+    "byte": 54
+  },
+  "55": {
+    "source": "追",
+    "translation": "추",
+    "status": "manual",
+    "byte": 55
+  },
+  "56": {
+    "source": "敵",
+    "translation": "적",
+    "status": "manual",
+    "byte": 56
+  },
+  "57": {
+    "source": "点",
+    "translation": "점",
+    "status": "manual",
+    "byte": 57
+  },
+  "58": {
+    "source": "盗",
+    "translation": "도",
+    "status": "manual",
+    "byte": 58
+  },
+  "59": {
+    "source": "倒",
+    "translation": "도",
+    "status": "manual",
+    "byte": 59
+  },
+  "60": {
+    "source": "等",
+    "translation": "등",
+    "status": "manual",
+    "byte": 60
+  },
+  "61": {
+    "source": "道",
+    "translation": "도",
+    "status": "manual",
+    "byte": 61
+  },
+  "62": {
+    "source": "動",
+    "translation": "동",
+    "status": "manual",
+    "byte": 62
+  },
+  "63": {
+    "source": "同",
+    "translation": "동",
+    "status": "manual",
+    "byte": 63
+  },
+  "64": {
+    "source": "特",
+    "translation": "특",
+    "status": "manual",
+    "byte": 64
+  },
+  "65": {
+    "source": "入",
+    "translation": "입",
+    "status": "manual",
+    "byte": 65
+  },
+  "66": {
+    "source": "能",
+    "translation": "능",
+    "status": "manual",
+    "byte": 66
+  },
+  "67": {
+    "source": "倍",
+    "translation": "배",
+    "status": "manual",
+    "byte": 67
+  },
+  "68": {
+    "source": "発",
+    "translation": "발",
+    "status": "manual",
+    "byte": 68
+  },
+  "69": {
+    "source": "半",
+    "translation": "반",
+    "status": "manual",
+    "byte": 69
+  },
+  "70": {
+    "source": "反",
+    "translation": "반",
+    "status": "manual",
+    "byte": 70
+  },
+  "71": {
+    "source": "備",
+    "translation": "비",
+    "status": "manual",
+    "byte": 71
+  },
+  "72": {
+    "source": "不",
+    "translation": "불",
+    "status": "manual",
+    "byte": 72
+  },
+  "73": {
+    "source": "復",
+    "translation": "복",
+    "status": "manual",
+    "byte": 73
+  },
+  "74": {
+    "source": "物",
+    "translation": "물",
+    "status": "manual",
+    "byte": 74
+  },
+  "75": {
+    "source": "分",
+    "translation": "분",
+    "status": "manual",
+    "byte": 75
+  },
+  "76": {
+    "source": "変",
+    "translation": "변",
+    "status": "manual",
+    "byte": 76
+  },
+  "77": {
+    "source": "歩",
+    "translation": "보",
+    "status": "manual",
+    "byte": 77
+  },
+  "78": {
+    "source": "方",
+    "translation": "방",
+    "status": "manual",
+    "byte": 78
+  },
+  "79": {
+    "source": "放",
+    "translation": "방",
+    "status": "manual",
+    "byte": 79
+  },
+  "80": {
+    "source": "Ａ",
+    "translation": "A",
+    "status": "manual",
+    "byte": 80
+  },
+  "81": {
+    "source": "Ｂ",
+    "translation": "B",
+    "status": "manual",
+    "byte": 81
+  },
+  "82": {
+    "source": "Ｘ",
+    "translation": "X",
+    "status": "manual",
+    "byte": 82
+  },
+  "83": {
+    "source": "Ｙ",
+    "translation": "Y",
+    "status": "manual",
+    "byte": 83
+  },
+  "84": {
+    "source": "Ｌ",
+    "translation": "L",
+    "status": "manual",
+    "byte": 84
+  },
+  "85": {
+    "source": "Ｒ",
+    "translation": "R",
+    "status": "manual",
+    "byte": 85
+  },
+  "86": {
+    "source": "Ｅ",
+    "translation": "E",
+    "status": "manual",
+    "byte": 86
+  },
+  "87": {
+    "source": "Ｈ",
+    "translation": "H",
+    "status": "manual",
+    "byte": 87
+  },
+  "88": {
+    "source": "Ｍ",
+    "translation": "M",
+    "status": "manual",
+    "byte": 88
+  },
+  "89": {
+    "source": "Ｐ",
+    "translation": "P",
+    "status": "manual",
+    "byte": 89
+  },
+  "90": {
+    "source": "Ｃ",
+    "translation": "C",
+    "status": "manual",
+    "byte": 90
+  },
+  "91": {
+    "source": "Ｔ",
+    "translation": "T",
+    "status": "manual",
+    "byte": 91
+  },
+  "92": {
+    "source": "Ｖ",
+    "translation": "V",
+    "status": "manual",
+    "byte": 92
+  },
+  "93": {
+    "source": "Ｓ",
+    "translation": "S",
+    "status": "manual",
+    "byte": 93
+  },
+  "94": {
+    "source": "岩",
+    "translation": "암",
+    "status": "manual",
+    "byte": 94
+  },
+  "95": {
+    "source": "％",
+    "translation": "%",
+    "status": "manual",
+    "byte": 95
+  },
+  "96": {
+    "source": "沈",
+    "translation": "침",
+    "status": "manual",
+    "byte": 96
+  },
+  "97": {
+    "source": "黙",
+    "translation": "묵",
+    "status": "manual",
+    "byte": 97
+  },
+  "98": {
+    "source": "御",
+    "translation": "어",
+    "status": "manual",
+    "byte": 98
+  },
+  "99": {
+    "source": "狂",
+    "translation": "광",
+    "status": "manual",
+    "byte": 99
+  },
+  "100": {
+    "source": "張",
+    "translation": "장",
+    "status": "manual",
+    "byte": 100
+  },
+  "101": {
+    "source": "効",
+    "translation": "효",
+    "status": "manual",
+    "byte": 101
+  },
+  "102": {
+    "source": "除",
+    "translation": "제",
+    "status": "manual",
+    "byte": 102
+  },
+  "103": {
+    "source": "複",
+    "translation": "복",
+    "status": "manual",
+    "byte": 103
+  },
+  "104": {
+    "source": "瀕",
+    "translation": "빈",
+    "status": "manual",
+    "byte": 104
+  },
+  "105": {
+    "source": "麻",
+    "translation": "마",
+    "status": "manual",
+    "byte": 105
+  },
+  "106": {
+    "source": "痺",
+    "translation": "비",
+    "status": "manual",
+    "byte": 106
+  },
+  "107": {
+    "source": "率",
+    "translation": "률",
+    "status": "manual",
+    "byte": 107
+  },
+  "108": {
+    "source": "定",
+    "translation": "정",
+    "status": "manual",
+    "byte": 108
+  },
+  "109": {
+    "source": "避",
+    "translation": "피",
+    "status": "manual",
+    "byte": 109
+  },
+  "110": {
+    "source": "伴",
+    "translation": "반",
+    "status": "manual",
+    "byte": 110
+  },
+  "111": {
+    "source": "滑",
+    "translation": "활",
+    "status": "manual",
+    "byte": 111
+  },
+  "112": {
+    "source": "闇",
+    "translation": "암",
+    "status": "manual",
+    "byte": 112
+  },
+  "113": {
+    "source": "睡",
+    "translation": "수",
+    "status": "manual",
+    "byte": 113
+  },
+  "114": {
+    "source": "果",
+    "translation": "과",
+    "status": "manual",
+    "byte": 114
+  },
+  "115": {
+    "source": "費",
+    "translation": "비",
+    "status": "manual",
+    "byte": 115
+  },
+  "116": {
+    "source": "量",
+    "translation": "량",
+    "status": "manual",
+    "byte": 116
+  },
+  "117": {
+    "source": "減",
+    "translation": "감",
+    "status": "manual",
+    "byte": 117
+  },
+  "118": {
+    "source": "繰",
+    "translation": "조",
+    "status": "manual",
+    "byte": 118
+  },
+  "119": {
+    "source": "系",
+    "translation": "계",
+    "status": "manual",
+    "byte": 119
+  },
+  "120": {
+    "source": "算",
+    "translation": "산",
+    "status": "manual",
+    "byte": 120
+  },
+  "121": {
+    "source": "型",
+    "translation": "형",
+    "status": "manual",
+    "byte": 121
+  },
+  "122": {
+    "source": "換",
+    "translation": "환",
+    "status": "manual",
+    "byte": 122
+  },
+  "123": {
+    "source": "折",
+    "translation": "절",
+    "status": "manual",
+    "byte": 123
+  },
+  "124": {
+    "source": "晩",
+    "translation": "만",
+    "status": "manual",
+    "byte": 124
+  },
+  "125": {
+    "source": "致",
+    "translation": "치",
+    "status": "manual",
+    "byte": 125
+  },
+  "126": {
+    "source": "浴",
+    "translation": "욕",
+    "status": "manual",
+    "byte": 126
+  },
+  "127": {
+    "source": "床",
+    "translation": "상",
+    "status": "manual",
+    "byte": 127
+  },
+  "128": {
+    "source": "阿",
+    "translation": "아",
+    "status": "manual",
+    "byte": 128
+  },
+  "129": {
+    "source": "愛",
+    "translation": "애",
+    "status": "manual",
+    "byte": 129
+  },
+  "130": {
+    "source": "暗",
+    "translation": "암",
+    "status": "manual",
+    "byte": 130
+  },
+  "131": {
+    "source": "影",
+    "translation": "영",
+    "status": "manual",
+    "byte": 131
+  },
+  "132": {
+    "source": "円",
+    "translation": "원",
+    "status": "manual",
+    "byte": 132
+  },
+  "133": {
+    "source": "炎",
+    "translation": "염",
+    "status": "manual",
+    "byte": 133
+  },
+  "134": {
+    "source": "焔",
+    "translation": "염",
+    "status": "manual",
+    "byte": 134
+  },
+  "135": {
+    "source": "燕",
+    "translation": "연",
+    "status": "manual",
+    "byte": 135
+  },
+  "136": {
+    "source": "艶",
+    "translation": "염",
+    "status": "manual",
+    "byte": 136
+  },
+  "137": {
+    "source": "王",
+    "translation": "왕",
+    "status": "manual",
+    "byte": 137
+  },
+  "138": {
+    "source": "凰",
+    "translation": "황",
+    "status": "manual",
+    "byte": 138
+  },
+  "139": {
+    "source": "奥",
+    "translation": "오",
+    "status": "manual",
+    "byte": 139
+  },
+  "140": {
+    "source": "火",
+    "translation": "화",
+    "status": "manual",
+    "byte": 140
+  },
+  "141": {
+    "source": "香",
+    "translation": "향",
+    "status": "manual",
+    "byte": 141
+  },
+  "142": {
+    "source": "華",
+    "translation": "화",
+    "status": "manual",
+    "byte": 142
+  },
+  "143": {
+    "source": "我",
+    "translation": "아",
+    "status": "manual",
+    "byte": 143
+  },
+  "144": {
+    "source": "牙",
+    "translation": "아",
+    "status": "manual",
+    "byte": 144
+  },
+  "145": {
+    "source": "海",
+    "translation": "해",
+    "status": "manual",
+    "byte": 145
+  },
+  "146": {
+    "source": "快",
+    "translation": "쾌",
+    "status": "manual",
+    "byte": 146
+  },
+  "147": {
+    "source": "鶴",
+    "translation": "학",
+    "status": "manual",
+    "byte": 147
+  },
+  "148": {
+    "source": "気",
+    "translation": "기",
+    "status": "manual",
+    "byte": 148
+  },
+  "149": {
+    "source": "鬼",
+    "translation": "귀",
+    "status": "manual",
+    "byte": 149
+  },
+  "150": {
+    "source": "義",
+    "translation": "의",
+    "status": "manual",
+    "byte": 150
+  },
+  "151": {
+    "source": "技",
+    "translation": "기",
+    "status": "manual",
+    "byte": 151
+  },
+  "152": {
+    "source": "究",
+    "translation": "구",
+    "status": "manual",
+    "byte": 152
+  },
+  "153": {
+    "source": "極",
+    "translation": "극",
+    "status": "manual",
+    "byte": 153
+  },
+  "154": {
+    "source": "空",
+    "translation": "공",
+    "status": "manual",
+    "byte": 154
+  },
+  "155": {
+    "source": "激",
+    "translation": "격",
+    "status": "manual",
+    "byte": 155
+  },
+  "156": {
+    "source": "撃",
+    "translation": "격",
+    "status": "manual",
+    "byte": 156
+  },
+  "157": {
+    "source": "月",
+    "translation": "월",
+    "status": "manual",
+    "byte": 157
+  },
+  "158": {
+    "source": "剣",
+    "translation": "검",
+    "status": "manual",
+    "byte": 158
+  },
+  "159": {
+    "source": "幻",
+    "translation": "환",
+    "status": "manual",
+    "byte": 159
+  },
+  "160": {
+    "source": "虎",
+    "translation": "호",
+    "status": "manual",
+    "byte": 160
+  },
+  "161": {
+    "source": "弧",
+    "translation": "호",
+    "status": "manual",
+    "byte": 161
+  },
+  "162": {
+    "source": "詰",
+    "translation": "힐",
+    "status": "manual",
+    "byte": 162
+  },
+  "163": {
+    "source": "光",
+    "translation": "광",
+    "status": "manual",
+    "byte": 163
+  },
+  "164": {
+    "source": "皇",
+    "translation": "황",
+    "status": "manual",
+    "byte": 164
+  },
+  "165": {
+    "source": "功",
+    "translation": "공",
+    "status": "manual",
+    "byte": 165
+  },
+  "166": {
+    "source": "哮",
+    "translation": "효",
+    "status": "manual",
+    "byte": 166
+  },
+  "167": {
+    "source": "豪",
+    "translation": "호",
+    "status": "manual",
+    "byte": 167
+  },
+  "168": {
+    "source": "剛",
+    "translation": "강",
+    "status": "manual",
+    "byte": 168
+  },
+  "169": {
+    "source": "黒",
+    "translation": "흑",
+    "status": "manual",
+    "byte": 169
+  },
+  "170": {
+    "source": "殺",
+    "translation": "살",
+    "status": "manual",
+    "byte": 170
+  },
+  "171": {
+    "source": "斬",
+    "translation": "참",
+    "status": "manual",
+    "byte": 171
+  },
+  "172": {
+    "source": "死",
+    "translation": "사",
+    "status": "manual",
+    "byte": 172
+  },
+  "173": {
+    "source": "車",
+    "translation": "차",
+    "status": "manual",
+    "byte": 173
+  },
+  "174": {
+    "source": "修",
+    "translation": "수",
+    "status": "manual",
+    "byte": 174
+  },
+  "175": {
+    "source": "獣",
+    "translation": "수",
+    "status": "manual",
+    "byte": 175
+  },
+  "176": {
+    "source": "昇",
+    "translation": "승",
+    "status": "manual",
+    "byte": 176
+  },
+  "177": {
+    "source": "翔",
+    "translation": "상",
+    "status": "manual",
+    "byte": 177
+  },
+  "178": {
+    "source": "俺",
+    "translation": "엄",
+    "status": "manual",
+    "byte": 178
+  },
+  "179": {
+    "source": "真",
+    "translation": "진",
+    "status": "manual",
+    "byte": 179
+  },
+  "180": {
+    "source": "心",
+    "translation": "심",
+    "status": "manual",
+    "byte": 180
+  },
+  "181": {
+    "source": "神",
+    "translation": "신",
+    "status": "manual",
+    "byte": 181
+  },
+  "182": {
+    "source": "刃",
+    "translation": "인",
+    "status": "manual",
+    "byte": 182
+  },
+  "183": {
+    "source": "陣",
+    "translation": "진",
+    "status": "manual",
+    "byte": 183
+  },
+  "184": {
+    "source": "瑞",
+    "translation": "서",
+    "status": "manual",
+    "byte": 184
+  },
+  "185": {
+    "source": "生",
+    "translation": "생",
+    "status": "manual",
+    "byte": 185
+  },
+  "186": {
+    "source": "星",
+    "translation": "성",
+    "status": "manual",
+    "byte": 186
+  },
+  "187": {
+    "source": "千",
+    "translation": "천",
+    "status": "manual",
+    "byte": 187
+  },
+  "188": {
+    "source": "旋",
+    "translation": "선",
+    "status": "manual",
+    "byte": 188
+  },
+  "189": {
+    "source": "相",
+    "translation": "상",
+    "status": "manual",
+    "byte": 189
+  },
+  "190": {
+    "source": "想",
+    "translation": "상",
+    "status": "manual",
+    "byte": 190
+  },
+  "191": {
+    "source": "爽",
+    "translation": "상",
+    "status": "manual",
+    "byte": 191
+  },
+  "192": {
+    "source": "大",
+    "translation": "대",
+    "status": "manual",
+    "byte": 192
+  },
+  "193": {
+    "source": "弾",
+    "translation": "탄",
+    "status": "manual",
+    "byte": 193
+  },
+  "194": {
+    "source": "断",
+    "translation": "단",
+    "status": "manual",
+    "byte": 194
+  },
+  "195": {
+    "source": "地",
+    "translation": "지",
+    "status": "manual",
+    "byte": 195
+  },
+  "196": {
+    "source": "超",
+    "translation": "초",
+    "status": "manual",
+    "byte": 196
+  },
+  "197": {
+    "source": "蝶",
+    "translation": "접",
+    "status": "manual",
+    "byte": 197
+  },
+  "198": {
+    "source": "跳",
+    "translation": "도",
+    "status": "manual",
+    "byte": 198
+  },
+  "199": {
+    "source": "天",
+    "translation": "천",
+    "status": "manual",
+    "byte": 199
+  },
+  "200": {
+    "source": "転",
+    "translation": "전",
+    "status": "manual",
+    "byte": 200
+  },
+  "201": {
+    "source": "怒",
+    "translation": "노",
+    "status": "manual",
+    "byte": 201
+  },
+  "202": {
+    "source": "刀",
+    "translation": "도",
+    "status": "manual",
+    "byte": 202
+  },
+  "203": {
+    "source": "闘",
+    "translation": "투",
+    "status": "manual",
+    "byte": 203
+  },
+  "204": {
+    "source": "波",
+    "translation": "파",
+    "status": "manual",
+    "byte": 204
+  },
+  "205": {
+    "source": "破",
+    "translation": "파",
+    "status": "manual",
+    "byte": 205
+  },
+  "206": {
+    "source": "覇",
+    "translation": "패",
+    "status": "manual",
+    "byte": 206
+  },
+  "207": {
+    "source": "爆",
+    "translation": "폭",
+    "status": "manual",
+    "byte": 207
+  },
+  "208": {
+    "source": "飛",
+    "translation": "비",
+    "status": "manual",
+    "byte": 208
+  },
+  "209": {
+    "source": "秘",
+    "translation": "비",
+    "status": "manual",
+    "byte": 209
+  },
+  "210": {
+    "source": "美",
+    "translation": "미",
+    "status": "manual",
+    "byte": 210
+  },
+  "211": {
+    "source": "必",
+    "translation": "필",
+    "status": "manual",
+    "byte": 211
+  },
+  "212": {
+    "source": "百",
+    "translation": "백",
+    "status": "manual",
+    "byte": 212
+  },
+  "213": {
+    "source": "舞",
+    "translation": "무",
+    "status": "manual",
+    "byte": 213
+  },
+  "214": {
+    "source": "風",
+    "translation": "풍",
+    "status": "manual",
+    "byte": 214
+  },
+  "215": {
+    "source": "法",
+    "translation": "법",
+    "status": "manual",
+    "byte": 215
+  },
+  "216": {
+    "source": "吒",
+    "translation": "타",
+    "status": "manual",
+    "byte": 216
+  },
+  "217": {
+    "source": "鳳",
+    "translation": "봉",
+    "status": "manual",
+    "byte": 217
+  },
+  "218": {
+    "source": "魔",
+    "translation": "마",
+    "status": "manual",
+    "byte": 218
+  },
+  "219": {
+    "source": "無",
+    "translation": "무",
+    "status": "manual",
+    "byte": 219
+  },
+  "220": {
+    "source": "夢",
+    "translation": "몽",
+    "status": "manual",
+    "byte": 220
+  },
+  "221": {
+    "source": "命",
+    "translation": "명",
+    "status": "manual",
+    "byte": 221
+  },
+  "222": {
+    "source": "鳴",
+    "translation": "명",
+    "status": "manual",
+    "byte": 222
+  },
+  "223": {
+    "source": "冥",
+    "translation": "명",
+    "status": "manual",
+    "byte": 223
+  },
+  "224": {
+    "source": "滅",
+    "translation": "멸",
+    "status": "manual",
+    "byte": 224
+  },
+  "225": {
+    "source": "妖",
+    "translation": "요",
+    "status": "manual",
+    "byte": 225
+  },
+  "226": {
+    "source": "翼",
+    "translation": "익",
+    "status": "manual",
+    "byte": 226
+  },
+  "227": {
+    "source": "羅",
+    "translation": "라",
+    "status": "manual",
+    "byte": 227
+  },
+  "228": {
+    "source": "雷",
+    "translation": "뢰",
+    "status": "manual",
+    "byte": 228
+  },
+  "229": {
+    "source": "乱",
+    "translation": "란",
+    "status": "manual",
+    "byte": 229
+  },
+  "230": {
+    "source": "嵐",
+    "translation": "람",
+    "status": "manual",
+    "byte": 230
+  },
+  "231": {
+    "source": "柳",
+    "translation": "류",
+    "status": "manual",
+    "byte": 231
+  },
+  "232": {
+    "source": "竜",
+    "translation": "룡",
+    "status": "manual",
+    "byte": 232
+  },
+  "233": {
+    "source": "龍",
+    "translation": "용",
+    "status": "manual",
+    "byte": 233
+  },
+  "234": {
+    "source": "流",
+    "translation": "류",
+    "status": "manual",
+    "byte": 234
+  },
+  "235": {
+    "source": "輪",
+    "translation": "륜",
+    "status": "manual",
+    "byte": 235
+  },
+  "236": {
+    "source": "烈",
+    "translation": "열",
+    "status": "manual",
+    "byte": 236
+  },
+  "237": {
+    "source": "裂",
+    "translation": "렬",
+    "status": "manual",
+    "byte": 237
+  },
+  "238": {
+    "source": "浪",
+    "translation": "랑",
+    "status": "manual",
+    "byte": 238
+  },
+  "239": {
+    "source": "　",
+    "translation": " ",
+    "status": "manual",
+    "byte": 239
+  },
+  "240": {
+    "source": "毛",
+    "translation": "모",
+    "status": "manual",
+    "byte": 240
+  },
+  "241": {
+    "source": "皮",
+    "translation": "피",
+    "status": "manual",
+    "byte": 241
+  },
+  "242": {
+    "source": "透",
+    "translation": "투",
+    "status": "manual",
+    "byte": 242
+  },
+  "243": {
+    "source": "個",
+    "translation": "개",
+    "status": "manual",
+    "byte": 243
+  },
+  "244": {
+    "source": "経",
+    "translation": "경",
+    "status": "manual",
+    "byte": 244
+  },
+  "245": {
+    "source": "盾",
+    "translation": "순",
+    "status": "manual",
+    "byte": 245
+  },
+  "246": {
+    "source": "雄",
+    "translation": "웅",
+    "status": "manual",
+    "byte": 246
+  },
+  "247": {
+    "source": "〇",
+    "translation": "0",
+    "status": "manual",
+    "byte": 247
+  },
+  "255": {
+    "source": "□",
+    "translation": " ",
+    "status": "manual",
+    "byte": 255
+  }
+}

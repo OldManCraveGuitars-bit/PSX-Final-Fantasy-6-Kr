@@ -1,4 +1,4 @@
-FF6 한글 문장 관리기 1.14
+FF6 한글 문장 관리기 1.15
 
 FF6KoreanTextManager.exe를 실행하세요. 별도 Python 설치는 필요 없습니다.
 EXE가 있는 FF6 한글화 프로젝트 폴더를 자동으로 엽니다.
@@ -78,3 +78,5 @@ FF6KoreanTextManager.exe --apply-batch 문장묶음.json --report 가져오기�
 FF6KoreanTextManager.exe --import-subtitles 전체자막목록.json --report 자막검사표.json
 
 아직 전체 한글화가 완료된 상태는 아닙니다. 초안과 미확인 출력 경로는 검사가 더 필요합니다.
+
+1.15: 필살검 글자표 249개 추가. 한 글자 제한과 반각 공백 고정을 검사합니다. 자세한 내용은 docs/TEXT_MANAGER.md를 참고하세요.

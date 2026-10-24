@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "V0.76",
-  "development_base": "v086",
+  "version": "V0.77",
+  "development_base": "v087",
   "game": "Final Fantasy VI (Japan)",
   "serial": "SLPM-86198",
   "source": {
@@ -9,14 +9,14 @@
     "sha256": "a607011d9c9442797ae155228e86e9dae6e503aaeb7dc9603ac552ffd8d036df"
   },
   "target": {
-    "name": "Final Fantasy VI (Korean V0.76).bin",
+    "name": "Final Fantasy VI (Korean V0.77).bin",
     "size": 325133424,
-    "sha256": "08dafb67d22f8cb1d69dd0437ad18101844eeb2a32e4ea1d66ffbf278f73c91c"
+    "sha256": "1f3828ae6b4c621d7163c7d0c8537539392d13cba834859f0d3bf7b8f407d35a"
   },
   "patch": {
-    "name": "FF6-KR-V0.76.xdelta",
-    "size": 3869894,
-    "sha256": "1328c78c5b43e6918ef352d5f71449286c31c06925c539deee10149ff732c21c"
+    "name": "FF6-KR-V0.77.xdelta",
+    "size": 3866106,
+    "sha256": "9adae9483b2ac0b561302e356bb839bd82ee4bfa74c0049dc522750e4e7ed930"
   },
   "decoder": {
     "name": "xdelta3.exe",

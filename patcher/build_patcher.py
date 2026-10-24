@@ -10,7 +10,7 @@ resources = ['manifest.json', manifest['patch']['name'], manifest['decoder']['na
 resource_args = [arg for name in resources
                  for arg in ('--add-data', str(HERE / 'resources' / name) + ';resources')]
 subprocess.run([sys.executable, '-m', 'PyInstaller', '--noconfirm', '--clean',
-    '--onefile', '--windowed', '--name', 'FF6-KR-Patcher-V0.76',
+    '--onefile', '--windowed', '--name', 'FF6-KR-Patcher-V0.77',
     '--distpath', str(HERE.parent / 'dist'), '--workpath', str(HERE.parent / '.build/patcher'),
     '--specpath', str(HERE.parent / '.build'),
     *resource_args, str(HERE / 'patcher.py')], check=True)

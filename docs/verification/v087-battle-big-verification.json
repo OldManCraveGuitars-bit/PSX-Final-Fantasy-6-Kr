@@ -1,0 +1,14 @@
+{
+  "native_huffman_records": 1758,
+  "original_dispatch_name_records": 613,
+  "dynamic_small_to_large_names": 342,
+  "battle_default_actor_names": 64,
+  "unknown_name_preserved": true,
+  "reward_default_and_custom_name_cases": 320,
+  "reward_unknown_party_slots": 4,
+  "reward_native_string_dispatch_and_pointer": "passed",
+  "custom_hangul_name": "한 글",
+  "space_pixels": 6,
+  "glyph_pixels": 12,
+  "native_gameplay_verification": "pending"
+}

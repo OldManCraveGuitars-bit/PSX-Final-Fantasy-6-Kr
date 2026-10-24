@@ -19,7 +19,8 @@ def patch(menu,overlay,small_mapping):
     texts=[normalize(names[str(r['id'])]['translation']).strip() for r in selected]
     texts += [normalize(translated[str(r['id'])]['translation']).strip() for r in descriptions]
     texts += [normalize(ability_translations[str(r['id'])]['translation']).strip() for r in extras]
-    mapping,assigned=allocate(texts)
+    sword_chars=json.loads((ROOT/'translations/swdtech-characters.ko.json').read_text('utf8'))
+    mapping,assigned=allocate(texts+[r['translation'] for r in sword_chars.values()])
     original=(ROOT/'work/extracted/HAR/MENUMENU.BIN').read_bytes()
     font=bytearray(original[0x12fdb:0x19b1b]);widths=bytearray(original[0x12adb:0x12fdb])
     for c,code in assigned.items():
@@ -40,7 +41,7 @@ def patch(menu,overlay,small_mapping):
         small=encode_small(text,small_mapping,aliases)+b'\0' if i<len(selected) else b'\x16\0'
         for table,stream in [(0x54000,big),(0x56000,small)]:
             if stream not in unique:
-                if cursor+len(stream)>0x5f000:raise ValueError('Menu description dictionary overflow')
+                if cursor+len(stream)>0x5d000:raise ValueError('Menu description dictionary overlaps SwdTech helper')
                 unique[stream]=cursor;menu[cursor:cursor+len(stream)]=stream;cursor+=len(stream)
             struct.pack_into('<I',menu,table+i*4,0x80140000+unique[stream])
         encoded.append({'id':i,'translation':text,'big_hex':big.hex(),'small_hex':small.hex()})
@@ -60,6 +61,8 @@ def patch(menu,overlay,small_mapping):
     code=(ROOT/'work/menu-big-runtime.bin').read_bytes()
     if len(code)>0x400:raise ValueError('Menu helper overlaps boost runtime')
     menu[0x5f000:0x5f000+len(code)]=code
+    from swdtech_menu import patch as patch_swdtech
+    menu,overlay=patch_swdtech(menu,overlay,mapping)
     report={'fixed_big_names':len(selected),'descriptions':len(descriptions),'ability_descriptions':len(extras),'dictionary_records':len(texts),
         'dictionary_bytes':cursor-0x58000,'glyphs':len(assigned),'font':'Galmuri9','cell':[12,11],'space_pixels':6,
         'runtime_bytes':len(code),'encoded':encoded,'mapping':{k:v.hex() for k,v in mapping.items()},

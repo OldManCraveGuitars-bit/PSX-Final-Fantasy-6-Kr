@@ -10,6 +10,23 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class TextManagerTests(unittest.TestCase):
+    def test_swdtech_single_character_save_and_space(self):
+        from dataclasses import replace
+        self.put('translations/swdtech-characters.ko.json', {'144': {'source':'牙','translation':'아'}})
+        store=Store(self.root); record=store.by_uid['translations/swdtech-characters.ko.json:144']
+        self.assertEqual(record.profile.font,'battle')
+        for value in ['아','A','0',' ']:
+            issues,_,_=self.metrics.check(record,value)
+            self.assertFalse([i for i in issues if i.severity=='오류'],issues)
+            store.save(record,value,True,record.profile,self.metrics)
+            self.assertEqual(Store(self.root).by_uid[record.uid].text,value)
+        for value in ['', '아공', '牙', '\t', 'ᄀ']:
+            with self.assertRaises(ValueError):store.save(record,value,True,record.profile,self.metrics)
+        with self.assertRaises(ValueError):
+            store.save(record,'아',True,replace(record.profile,auto_wrap=True),self.metrics)
+        record.key='239'
+        with self.assertRaises(ValueError):store.save(record,'아',True,record.profile,self.metrics)
+
     def test_space_at_exact_line_edge_preserves_word_boundary(self):
         from textlayout import wrap as native_wrap
         # Previously the trailing space triggered a backtrack, then vanished,

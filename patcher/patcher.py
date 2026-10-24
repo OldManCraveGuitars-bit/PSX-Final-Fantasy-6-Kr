@@ -1,4 +1,4 @@
-"""FF6 PSX Korean V0.76: verified, non-destructive xdelta patch application."""
+"""FF6 PSX Korean V0.77: verified, non-destructive xdelta patch application."""
 from __future__ import annotations
 
 import argparse
@@ -13,7 +13,7 @@ import sys
 import tempfile
 import threading
 
-VERSION = 'V0.76'
+VERSION = 'V0.77'
 
 
 class PatchError(Exception):
@@ -60,9 +60,9 @@ def apply_patch(source: Path, parent: Path, log=lambda _: None) -> dict:
     if not source.is_file() or not parent.is_dir():
         raise PatchError('원본 BIN 파일과 저장할 폴더를 선택하세요.')
     m = check_resources(log)
-    target = parent / 'FF6-KR-V0.76'
+    target = parent / 'FF6-KR-V0.77'
     if target.exists():
-        raise PatchError('저장 폴더 안에 FF6-KR-V0.76 폴더가 이미 있습니다. 다른 저장 폴더를 선택하세요. 기존 파일은 덮어쓰지 않습니다.')
+        raise PatchError('저장 폴더 안에 FF6-KR-V0.77 폴더가 이미 있습니다. 다른 저장 폴더를 선택하세요. 기존 파일은 덮어쓰지 않습니다.')
     log('원본 BIN 크기 확인 중…')
     expected = m['source']
     actual_size = source.stat().st_size
@@ -98,7 +98,7 @@ def apply_patch(source: Path, parent: Path, log=lambda _: None) -> dict:
                   'target_size': m['target']['size'], 'cue': cue_name}
         (result_dir / 'patch-result.json').write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n', 'utf-8')
         (result_dir / '읽어주세요.txt').write_text(
-            '파이널 판타지 VI PSX 한글 패치 V0.76\n\n'
+            '파이널 판타지 VI PSX 한글 패치 V0.77\n\n'
             + cue_name + ' 파일을 에뮬레이터에서 새로 실행하세요.\n'
             '이전 버전의 에뮬레이터 상태 저장은 사용하지 말고, 게임 내 메모리 카드 저장을 불러오세요.\n'
             '파일명이 바뀌면 에뮬레이터의 메모리 카드 연결을 확인하세요. 기존 카드는 먼저 백업하세요.\n'
@@ -129,7 +129,7 @@ def launch_gui():
     frame = ttk.Frame(root, padding=24)
     frame.pack(fill='both', expand=True)
     ttk.Label(frame, text='FINAL FANTASY VI', font=('맑은 고딕', 20, 'bold')).pack(anchor='w')
-    ttk.Label(frame, text='PlayStation 일본판 한글 패치  |  V0.76', font=('맑은 고딕', 12)).pack(anchor='w', pady=(4, 16))
+    ttk.Label(frame, text='PlayStation 일본판 한글 패치  |  V0.77', font=('맑은 고딕', 12)).pack(anchor='w', pady=(4, 16))
     ttk.Label(frame, text='지원 원본: SLPM-86198 · BIN 325,133,424바이트\n원본은 보존하고 새 BIN/CUE를 만듭니다. Python 설치는 필요 없습니다.').pack(anchor='w')
     src, dest = tk.StringVar(), tk.StringVar()
     widgets = []
@@ -146,7 +146,7 @@ def launch_gui():
         button = ttk.Button(row, text='찾아보기', command=browse)
         button.pack(side='right')
         widgets.extend([entry, button])
-    ttk.Label(frame, text='선택한 폴더 안에 FF6-KR-V0.76 폴더가 생성됩니다. 기존 결과는 덮어쓰지 않습니다.', wraplength=650).pack(anchor='w', pady=(8, 12))
+    ttk.Label(frame, text='선택한 폴더 안에 FF6-KR-V0.77 폴더가 생성됩니다. 기존 결과는 덮어쓰지 않습니다.', wraplength=650).pack(anchor='w', pady=(8, 12))
     events = queue.Queue()
     busy = False
     progress = ttk.Progressbar(frame, mode='indeterminate')
@@ -209,9 +209,9 @@ def launch_gui():
 
 
 def main():
-    parser = argparse.ArgumentParser(description='FF6 PSX Korean V0.76 patcher')
+    parser = argparse.ArgumentParser(description='FF6 PSX Korean V0.77 patcher')
     parser.add_argument('--source', type=Path)
-    parser.add_argument('--output', type=Path, help='Existing parent folder for new FF6-KR-V0.76 folder')
+    parser.add_argument('--output', type=Path, help='Existing parent folder for new FF6-KR-V0.77 folder')
     parser.add_argument('--self-check', action='store_true')
     parser.add_argument('--report', type=Path)
     args = parser.parse_args()

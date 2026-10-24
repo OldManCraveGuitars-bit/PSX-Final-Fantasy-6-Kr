@@ -1,4 +1,4 @@
-# V0.76 설치 방법
+# V0.77 설치 방법
 
 ## 준비물
 
@@ -17,19 +17,19 @@ a607011d9c9442797ae155228e86e9dae6e503aaeb7dc9603ac552ffd8d036df
 
 ## Windows 패처
 
-1. 릴리스의 `FF6-KR-Patcher-V0.76.zip`을 원하는 폴더에 풉니다.
-2. `FF6-KR-Patcher-V0.76.exe`를 실행합니다. 관리자 권한이나 Python 설치가 필요하지 않습니다.
+1. 릴리스의 `FF6-KR-Patcher-V0.77.zip`을 원하는 폴더에 풉니다.
+2. `FF6-KR-Patcher-V0.77.exe`를 실행합니다. 관리자 권한이나 Python 설치가 필요하지 않습니다.
 3. **원본 일본판 BIN**의 찾아보기를 눌러 원본을 선택합니다.
 4. **완성 파일을 저장할 폴더**를 선택합니다. 원본 폴더와 같아도 원본 파일은 덮어쓰지 않습니다.
 5. **한글 패치 적용**을 누르고 완료 안내를 기다립니다.
-6. 선택한 폴더 아래 새로 생긴 `FF6-KR-V0.76` 폴더를 엽니다.
+6. 선택한 폴더 아래 새로 생긴 `FF6-KR-V0.77` 폴더를 엽니다.
 
 완성 파일:
 
 ```text
-FF6-KR-V0.76/
-  Final Fantasy VI (Korean V0.76).bin
-  Final Fantasy VI (Korean V0.76).cue
+FF6-KR-V0.77/
+  Final Fantasy VI (Korean V0.77).bin
+  Final Fantasy VI (Korean V0.77).cue
   patch-result.json
   읽어주세요.txt
 ```
@@ -49,10 +49,10 @@ FF6-KR-V0.76/
 완성 BIN의 SHA-256:
 
 ```text
-08dafb67d22f8cb1d69dd0437ad18101844eeb2a32e4ea1d66ffbf278f73c91c
+1f3828ae6b4c621d7163c7d0c8537539392d13cba834859f0d3bf7b8f407d35a
 ```
 
-출력 위치에 `FF6-KR-V0.76` 폴더가 이미 있으면 작업을 거부합니다. 다른 출력 폴더를 고르세요. 중간 오류가 나면 이 작업이 만든 임시 폴더만 정리하며 원본과 기존 출력에는 손대지 않습니다. 강제 종료나 정전 때 남은 `.ff6-kr-...` 임시 폴더는 실행할 게임 결과물이 아닙니다.
+출력 위치에 `FF6-KR-V0.77` 폴더가 이미 있으면 작업을 거부합니다. 다른 출력 폴더를 고르세요. 중간 오류가 나면 이 작업이 만든 임시 폴더만 정리하며 원본과 기존 출력에는 손대지 않습니다. 강제 종료나 정전 때 남은 `.ff6-kr-...` 임시 폴더는 실행할 게임 결과물이 아닙니다.
 
 ## 기존 저장 이어하기
 
@@ -65,11 +65,11 @@ FF6-KR-V0.76/
 
 ## 수동 xdelta 적용
 
-`FF6-KR-V0.76-xdelta.zip`을 풀고 지원 원본 및 xdelta3를 준비합니다. Windows용 xdelta3 3.2.1이 ZIP에 포함되어 있으며 다른 운영체제에서는 해당 환경의 xdelta3를 사용합니다.
+`FF6-KR-V0.77-xdelta.zip`을 풀고 지원 원본 및 xdelta3를 준비합니다. Windows용 xdelta3 3.2.1이 ZIP에 포함되어 있으며 다른 운영체제에서는 해당 환경의 xdelta3를 사용합니다.
 
 ```powershell
-.\xdelta3.exe -d -s "Final Fantasy VI (Japan).bin" "FF6-KR-V0.76.xdelta" "Final Fantasy VI (Korean V0.76).bin"
-Get-FileHash -Algorithm SHA256 "Final Fantasy VI (Korean V0.76).bin"
+.\xdelta3.exe -d -s "Final Fantasy VI (Japan).bin" "FF6-KR-V0.77.xdelta" "Final Fantasy VI (Korean V0.77).bin"
+Get-FileHash -Algorithm SHA256 "Final Fantasy VI (Korean V0.77).bin"
 ```
 
 제공된 CUE를 결과 BIN과 같은 폴더에 두세요. 수동 적용에서도 원본과 결과 해시를 확인해야 합니다. `manifest.json`은 원본·결과·패치·변환 도구의 검사 기준입니다.
@@ -79,8 +79,8 @@ Get-FileHash -Algorithm SHA256 "Final Fantasy VI (Korean V0.76).bin"
 패처 EXE는 GUI 없이 검사·적용할 수도 있습니다. `--output`에는 이미 존재하는 부모 폴더를 지정합니다.
 
 ```powershell
-.\FF6-KR-Patcher-V0.76.exe --self-check --report "self-check.json"
-.\FF6-KR-Patcher-V0.76.exe --source "D:\Games\Final Fantasy VI (Japan).bin" --output "D:\Patched" --report "patch-report.json"
+.\FF6-KR-Patcher-V0.77.exe --self-check --report "self-check.json"
+.\FF6-KR-Patcher-V0.77.exe --source "D:\Games\Final Fantasy VI (Japan).bin" --output "D:\Patched" --report "patch-report.json"
 ```
 
 GUI 형식 EXE이므로 콘솔 출력 대신 `--report`의 JSON을 확인하세요. 성공은 종료 코드 0과 `status: passed`, 실패는 종료 코드 1과 `status: failed`입니다.
@@ -95,4 +95,4 @@ GUI 형식 EXE이므로 콘솔 출력 대신 `--report`의 JSON을 확인하세�
 | 패처 내부 파일 손상 | 릴리스에서 다시 받고 SHA256SUMS 확인 |
 | 쓰기 실패/공간 부족 | 쓰기 가능한 로컬 폴더와 충분한 여유 공간 선택 |
 
-배포 EXE에는 코드 서명이 없습니다. 다운로드 파일의 출처와 해시를 확인할 수 있도록 [릴리스](https://github.com/OldManCraveGuitars-bit/PSX-Final-Fantasy-6-Kr/releases/tag/v0.76)에 검사값을 함께 제공합니다.
+배포 EXE에는 코드 서명이 없습니다. 다운로드 파일의 출처와 해시를 확인할 수 있도록 [릴리스](https://github.com/OldManCraveGuitars-bit/PSX-Final-Fantasy-6-Kr/releases/tag/v0.77)에 검사값을 함께 제공합니다.

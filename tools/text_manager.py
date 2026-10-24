@@ -13,7 +13,7 @@ from tkinter import ttk, filedialog, messagebox
 from PIL import Image, ImageDraw, ImageFont, ImageTk
 from text_manager_model import Store, Metrics, Profile, CONTROL, TOKEN, audit, write_report, monster_popup_profile
 
-VERSION = '1.14'
+VERSION = '1.15'
 RESOURCE = Path(getattr(sys, '_MEIPASS', Path(__file__).resolve().parent.parent/'assets/text-manager'))
 FONTS = {'large': '큰 글씨 12px', 'battle':'전투 큰 글씨 고정 12px', 'small': '작은 글씨 갈무리7 / 8px', 'bonus': '부록 큰 글씨 12×12', 'psx': 'PSX 메시지 12×12', 'subtitle': '자막 12×12'}
 PRESETS = {

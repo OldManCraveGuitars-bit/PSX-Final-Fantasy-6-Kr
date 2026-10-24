@@ -1,29 +1,29 @@
 {
-  "version": "V0.76",
-  "development_base": "v086",
-  "source_files_checked": 282,
+  "version": "V0.77",
+  "development_base": "v087",
+  "source_files_checked": 314,
   "relative_links": "passed",
   "private_paths": "none",
   "source_credentials": "none",
-  "screenshots": 26,
+  "screenshots": 38,
   "packages": [
     {
-      "name": "FF6-KR-Patcher-V0.76.zip",
-      "entries": 83,
+      "name": "FF6-KR-Patcher-V0.77.zip",
+      "entries": 104,
       "crc_passed": true,
       "no_game_image": true,
       "revision_contents_checked": true
     },
     {
-      "name": "FF6-KR-V0.76-xdelta.zip",
-      "entries": 86,
+      "name": "FF6-KR-V0.77-xdelta.zip",
+      "entries": 107,
       "crc_passed": true,
       "no_game_image": true,
       "revision_contents_checked": true
     },
     {
-      "name": "FF6-Korean-Text-Manager-V1.14-V0.76.zip",
-      "entries": 117,
+      "name": "FF6-Korean-Text-Manager-V1.15-V0.77.zip",
+      "entries": 139,
       "crc_passed": true,
       "no_game_image": true,
       "revision_contents_checked": true

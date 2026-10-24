@@ -1,0 +1,119 @@
+{
+  "version": "V0.77",
+  "internal_build": "v087",
+  "target_sha256": "1f3828ae6b4c621d7163c7d0c8537539392d13cba834859f0d3bf7b8f407d35a",
+  "editor_version": "1.15",
+  "editor_sha256": "6a333cfdd6303c7b2650b89d01c2f5e02c5b46be6eb6a172a8bdf78c1d3c20f8",
+  "editor_records": 7969,
+  "editor_unit_tests_passed": 42,
+  "editor_exe_imported_records": 249,
+  "fix_scope": [
+    "8 default Bushido attack names",
+    "saved custom name bytes",
+    "special menu names",
+    "name editor preview",
+    "249 selectable characters"
+  ],
+  "native_execution": {
+    "emulator": "isolated Mednafen PSX",
+    "all_8_charge_levels_selected_with_controller": true,
+    "attack_progress_observed_after_all_8": true,
+    "default_names": [
+      "필살검 아",
+      "필살검 공",
+      "필살검 호",
+      "필살검 무",
+      "필살검 용",
+      "필살검 월",
+      "필살검 열",
+      "필살검 단"
+    ],
+    "renamed_input": "아살검 아",
+    "rename_original_bytes": "d3aa9eef90ff",
+    "rename_result_bytes": "80aa9eef90ff",
+    "menu_runtime_from_final_disc_exact": true,
+    "battle_runtime_conversion_table_and_text_glyphs_final_disc_exact": true,
+    "fixtures": "v086 loaded-field checkpoint for menu; earlier field checkpoint for requested battle. Party commands, learned bits, HP and formation set for testing. Battle overlay/font/text loaded from the candidate disc.",
+    "native_renderer_or_text_substitution": false,
+    "story_playthrough": false,
+    "screenshots": [
+      "docs/screenshots/bushido-list-v087.png",
+      "docs/screenshots/bushido-rename-v087.png",
+      "docs/screenshots/bushido-rename-input-v087.png",
+      "docs/screenshots/bushido-custom-v087.png",
+      "docs/screenshots/bushido-1-v087.png",
+      "docs/screenshots/bushido-2-v087.png",
+      "docs/screenshots/bushido-3-v087.png",
+      "docs/screenshots/bushido-4-v087.png",
+      "docs/screenshots/bushido-5-v087.png",
+      "docs/screenshots/bushido-6-v087.png",
+      "docs/screenshots/bushido-7-v087.png",
+      "docs/screenshots/bushido-8-v087.png"
+    ],
+    "party_names_hp_gauges_visible_during_all_8_titles": true,
+    "final_disc_memory_checks": {
+      "existing_renderer": true,
+      "new_helper": true,
+      "new_character_table": true,
+      "all_used_glyph_pixels": true,
+      "battle_hook": true,
+      "menu_helper": true,
+      "menu_character_table": true
+    },
+    "charge_selection_frame_delays": [
+      0,
+      130,
+      330,
+      520,
+      650,
+      780,
+      910,
+      1000
+    ],
+    "screenshots_sha256": {
+      "docs/screenshots/bushido-list-v087.png": "7df9c0be53dd62f57637034daa465e6afe4ce59b28cdfe898c430e5101f17ea6",
+      "docs/screenshots/bushido-rename-v087.png": "05b37b162fc5781cc73c721e15597b348f8aca39349236635215b6ee46fd4a0f",
+      "docs/screenshots/bushido-rename-input-v087.png": "4c9d50fa414662e8415e87873496537d46affe2d866b9c0dbadd6e7a5f7f8199",
+      "docs/screenshots/bushido-custom-v087.png": "b38422549ca081b01bacef0a035c6259dac07db77dd25872eaeca160dfe27612",
+      "docs/screenshots/bushido-1-v087.png": "28e3595e154eaaa8d22ca2ccf03a4e81b173645ca8fd2161c9c84c9557485d90",
+      "docs/screenshots/bushido-2-v087.png": "88ee0468ceb499584913c069991aa4dbe2014809faac918fdb20b035fa6c07f4",
+      "docs/screenshots/bushido-3-v087.png": "a422ec778140ed666947e2dff7dcf1df43b6a91370849cc2883444c89156d142",
+      "docs/screenshots/bushido-4-v087.png": "36d058fef4bb2f0759cf801d2a60383f97fe186cf45cbe2d4165c220d72ab239",
+      "docs/screenshots/bushido-5-v087.png": "44b60679d4f409c108b9ae2f829ed5c7eefe012dca2fd5ae25e060f7dd7c5d46",
+      "docs/screenshots/bushido-6-v087.png": "9db927e74dfd5c20b1a39e063f154ba183cb3b2a906a172e37a10d18a8772660",
+      "docs/screenshots/bushido-7-v087.png": "c10f2ddc28505f4db4b0cd0da8835af5d85f868cd1491d34b3c7839ad841d828",
+      "docs/screenshots/bushido-8-v087.png": "6e023ad6f3370f1326e1cffa1fd11671343fa6ef787fc8d1a6e2cfeb2858f808"
+    }
+  },
+  "native_machine_code_tests": {
+    "defaults": 8,
+    "custom_byte_cases": 256,
+    "menu_caller_byte_cases": 768,
+    "enemy_attack_names": 384,
+    "battle_text_records": 1758,
+    "original_digit_pixels": 10,
+    "attack_routes": 255,
+    "middle_padding_and_halfspace_consistent": true
+  },
+  "preserved": {
+    "save_name_byte_format": true,
+    "large_text_cell": [
+      12,
+      11
+    ],
+    "halfspace": 6,
+    "small_font": "Galmuri7",
+    "original_movie_extents": true,
+    "unchanged_v086_payloads": 13,
+    "original_bonus_unlock_conditions": true,
+    "v086_battle_directory_font_assignments_renderers": true,
+    "battle_data_changes_limited_to_4_new_glyphs_helper_table": true
+  },
+  "changed_payloads": [
+    "HAR/MENUMENU.BIN",
+    "HAR/HARATA.PAC",
+    "BTL/BATTLE.PAC",
+    "BTL/FF6_BTL.BIN"
+  ],
+  "full_gameplay_or_all_emulators_verified": false
+}
