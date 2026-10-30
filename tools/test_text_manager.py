@@ -10,6 +10,32 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class TextManagerTests(unittest.TestCase):
+    def test_timed_dialogue_overflow_blocks_save(self):
+        text='가\n나\n다\n라\n마{key[18]}{key}'
+        record=Record('test','대사','3',text,text,False,'translations/manual_dialogue.json',profile=Profile(),baseline_controls=('{key[18]}','{key}'))
+        issues,_,_=self.metrics.check(record)
+        self.assertTrue(any(i.code=='timed_dialogue_height' and i.severity=='오류' for i in issues))
+        with self.assertRaises(ValueError):Store(self.root).save(record,text,True,record.profile,self.metrics)
+
+    def test_timed_dialogue_checks_native_width_not_editor_bounds(self):
+        text='가'*100+'{pause[18]}{key}'
+        record=Record('test','대사','459',text,text,False,'translations/manual_dialogue.json',profile=Profile(width=640,rows=40,auto_wrap=False))
+        issues,_,_=self.metrics.check(record)
+        self.assertTrue(any(i.code=='timed_dialogue_height' for i in issues))
+
+    def test_timed_dialogue_pages_and_interactive_scroll(self):
+        from dialogue_layout import timed_page_overflows
+        page='가\n나\n다\n라{pause[10]}{key}'
+        self.assertEqual(timed_page_overflows(page+'{page}'+page),[])
+        self.assertEqual(timed_page_overflows('가\n나\n다\n라\n마'),[])
+        self.assertEqual(timed_page_overflows('가\n나\n다\n라\n마{key[18]}{key}')[0]['lines'],5)
+
+    def test_timed_dialogue_uses_builder_whitespace_rules(self):
+        text='\n{t[05]}가\n나\n다\n{pause[1C]}{key}'
+        record=Record('test','대사','2556',text,text,False,'translations/manual_dialogue.json',profile=Profile())
+        issues,_,_=self.metrics.check(record)
+        self.assertFalse(any(i.code=='timed_dialogue_height' for i in issues))
+
     def test_swdtech_single_character_save_and_space(self):
         from dataclasses import replace
         self.put('translations/swdtech-characters.ko.json', {'144': {'source':'牙','translation':'아'}})

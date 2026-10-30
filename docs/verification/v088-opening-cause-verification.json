@@ -1,0 +1,12 @@
+{
+  "baseline": "V0.77 / v087",
+  "dialogue_id": 3,
+  "visible_lines": 4,
+  "original_localized_lines": 5,
+  "no_input_wait_frames": 1900,
+  "same_expanded_message_after_wait": true,
+  "original_advanced_after_circle": true,
+  "next_dialogue_id_after_circle": 4,
+  "game_cpu_hard_lock": false,
+  "scope": "Natural opening selected from cold title; no text/code/RAM edits in baseline reproduction."
+}

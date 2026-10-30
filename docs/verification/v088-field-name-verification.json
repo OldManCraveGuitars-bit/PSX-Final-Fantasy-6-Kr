@@ -1,0 +1,10 @@
+{
+  "default_name_expansions_passed": 128,
+  "custom_name": "한 글",
+  "custom_name_styles": 2,
+  "unknown_name_styles_preserved": 2,
+  "half_width_space": "preserved",
+  "cached_large_glyphs": "matched",
+  "original_English_and_punctuation_glyph_relocations_preserved": 6,
+  "caller_registers_and_stack": "preserved"
+}

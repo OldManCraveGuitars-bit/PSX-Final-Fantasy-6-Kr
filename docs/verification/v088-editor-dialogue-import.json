@@ -1,0 +1,48 @@
+{
+  "imported_records": 2,
+  "backup": "work\\text-manager-backups\\20261030-205542-aa026e23",
+  "records": [
+    {
+      "uid": "translations/manual_dialogue.json:3",
+      "group": "대사",
+      "id": "3",
+      "reviewed": true,
+      "translation": "「마도의 힘을 타고난 소녀라...\n마도 아머에 탄 병사 쉰 명을\n단 3분 만에 쓰러뜨렸다지...\n무서운걸... {key[18]}{key}",
+      "profile": {
+        "font": "large",
+        "width": 216,
+        "rows": 4,
+        "pitch": 16,
+        "auto_wrap": true,
+        "center": false,
+        "confirmed": true,
+        "note": "자동 진행 대사: 216px, 4줄 제한. 넘침은 타이머 이전의 입력 대기를 일으킵니다.",
+        "numeric_pixels": 0,
+        "newline_pages": false
+      },
+      "max_width": 194,
+      "issues": []
+    },
+    {
+      "uid": "translations/manual_dialogue.json:459",
+      "group": "대사",
+      "id": "459",
+      "reviewed": true,
+      "translation": "빌리「클라이드... 동료였던 날\n어떻게... 죽일 수가... {pause1}\n너도... 내 곁으로 와...\n응, 클라이드... {pause[18]}{key}",
+      "profile": {
+        "font": "large",
+        "width": 216,
+        "rows": 4,
+        "pitch": 16,
+        "auto_wrap": true,
+        "center": false,
+        "confirmed": true,
+        "note": "자동 진행 대사: 216px, 4줄 제한. 넘침은 타이머 이전의 입력 대기를 일으킵니다.",
+        "numeric_pixels": 0,
+        "newline_pages": false
+      },
+      "max_width": 188,
+      "issues": []
+    }
+  ]
+}

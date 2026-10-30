@@ -1,0 +1,13 @@
+{
+  "dispatch_cases_passed": 3084,
+  "special_tutorial_cases": 16,
+  "overlay_size_preserved": true,
+  "unique_native_streams_decoded": 3100,
+  "redirected_originals_decoded_directly": 16,
+  "native_bank_boundary": 2030,
+  "bank_pointer_reconstruction_cases": 3084,
+  "exact_64k_boundary_present": true,
+  "lossless_native_Huffman_decode": "all dispatched strings matched original native byte streams",
+  "expansion_buffer_canaries": "preserved",
+  "caller_registers_stack_HI_LO": "preserved"
+}

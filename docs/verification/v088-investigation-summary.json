@@ -1,0 +1,66 @@
+{
+  "candidate": "FF6-KR-main-development-v088",
+  "target_sha256": "589246a4c30f1e9333de0d7ce9b944cfd7a75e8db6d7e64207976ae9bd930d44",
+  "cause": "Timed advance controls occur after a fifth/sixth line; the native four-line window enters button wait before reaching the timer.",
+  "baseline": {
+    "version": "V0.77",
+    "emulator": "isolated Mednafen PSX",
+    "opening_reproduced": true,
+    "frames_without_input": 1900,
+    "circle_advances_to_message": 4,
+    "cpu_hard_lock": false
+  },
+  "fixes": [
+    {
+      "id": 3,
+      "scene": "opening explanation of Terra",
+      "before_lines": 5,
+      "after_lines": 4
+    },
+    {
+      "id": 459,
+      "scene": "Billy and Clyde memory",
+      "before_lines": 6,
+      "after_lines": 4
+    }
+  ],
+  "audit": {
+    "field_records": 3100,
+    "timed_records": 152,
+    "timed_segments": 192,
+    "remaining_timed_overflows": 0,
+    "source_controls_preserved": true
+  },
+  "native_checks": {
+    "opening_3_to_4_without_button": true,
+    "candidate_font_runtime_and_stream_bytes_verified": true,
+    "dialogue_459_render_and_advance_without_button": true,
+    "dialogue_459_scope": "Temporary message selection in opening fixture, not a playthrough of the dream event.",
+    "uninterrupted_new_game_opening": "passed: no confirm presses through the affected timed dialogue, original credits, then normal Narshe arrival",
+    "menu_roundtrip": "passed: natural new game at Narshe, menu open and return to field",
+    "duckstation_tested": false
+  },
+  "editor": {
+    "version": "1.16",
+    "unit_tests": 46,
+    "records": 7969,
+    "audit_errors": 0,
+    "audit_warnings": 140,
+    "bounds_notes": 6772,
+    "sha256": "5667281bad578e135d5847e40ef6e02bc266ff5d46c71590202621cd6756c0f8",
+    "native_width_and_row_guard": true
+  },
+  "preserved": {
+    "large_text_pixels": 12,
+    "halfspace_pixels": 6,
+    "all_timer_and_control_tokens": true,
+    "v087_battle_menu_ui_boost_and_movie_code_data": true
+  },
+  "qa_limitations": [
+    "No full story playthrough.",
+    "DuckStation build/settings from the report were not available; same failure reproduced in Mednafen."
+  ],
+  "field_cache_mirror_rebuilt": true,
+  "public_release": "V0.771",
+  "editor_sha256": "5667281bad578e135d5847e40ef6e02bc266ff5d46c71590202621cd6756c0f8"
+}

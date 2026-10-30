@@ -6,6 +6,7 @@ from dte import compress_text,patch_table,choose_dictionary
 from pac import compress,decompress
 from cdimage import build_image
 from textlayout import wrap,center_prologue
+from dialogue_layout import timed_page_overflows
 from small_ui import patch as patch_small_ui
 from small_runtime import patch as patch_small_runtime
 from field_names import default_names,patch as patch_field_names
@@ -56,6 +57,8 @@ def prepare_field():
     for row in rows+aux:
         wrapped=wrap(row['translation'],mapping,assigned,widths)
         if row in rows and row['id'] in (6,7,8,9):wrapped=center_prologue(wrapped,mapping,assigned,widths)
+        overflow=timed_page_overflows(wrapped)
+        if overflow:raise ValueError(f"Timed dialogue exceeds the native four-line window: {row.get('id', row.get('original_address'))}: {overflow}")
         wrapped_count+=wrapped!=row['translation'];row['translation']=wrapped
     (ROOT/'analysis/dialogue-native-layout.json').write_text(json.dumps(rows+aux,ensure_ascii=False,indent=2)+'\n','utf8')
     dictionary=choose_dictionary([x['translation'] for x in rows+aux],mapping)

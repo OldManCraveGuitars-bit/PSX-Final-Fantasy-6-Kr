@@ -2,12 +2,9 @@
 import json,re,collections
 from textcodec import ROOT
 from korean_codec import normalize,CONTROL
+from dialogue_layout import clean_field_text
 def clean(text):
-    text=normalize(text)
-    text='\n'.join(re.sub(' +',' ',line).strip() for line in text.splitlines())
-    text=re.sub(r'\n{2,}','\n',text)
-    text=re.sub(r'\n*(\{(?:page|key(?:\[[^]]+\])?)\})\n*',r'\1',text)
-    return text.strip()
+    return clean_field_text(normalize(text))
 def main():
     src=json.loads((ROOT/'analysis/dialogue-original.json').read_text('utf-8'))
     draft=json.loads((ROOT/'translations/dialogue.ko.json').read_text('utf-8'))

@@ -1,0 +1,7 @@
+{
+  "native_field_substitutions": 310,
+  "extra_glyphs": 32,
+  "zero_operand_double_byte_glyphs": "preserved",
+  "caller_registers_and_stack": "preserved",
+  "native_gameplay_verification": "pending"
+}

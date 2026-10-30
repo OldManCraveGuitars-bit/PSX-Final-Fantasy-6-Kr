@@ -20,6 +20,7 @@ from caption_format import validate_caption_rows
 from gallery_format import validate_gallery_rows
 from psx_label_format import label_capacity, encoded_size
 from boost_format import WIDTHS as BOOST_WIDTHS, validate_boost_rows
+from dialogue_layout import timed_page_overflows,clean_field_text
 
 TOKEN = re.compile(r'\{[^{}]+\}|[^{}]')
 CONTROL = re.compile(r'\{[^{}]+\}')
@@ -312,6 +313,13 @@ class Metrics:
             _,lines=self.layout(effective,replace(profile,auto_wrap=False))
         else:
             effective, lines = self.layout(text, profile)
+        if record.group in ('대사','PSX 도움말'):
+            # Editor bounds must not hide the game's fixed 216px/four-line limit.
+            native_source=clean_field_text(re.sub(r'[^\S\n]',' ',normalized(text))) if record.group=='대사' else text
+            native_text=self.wrap(native_source,replace(profile,width=216),safe=True)
+            for overflow in timed_page_overflows(native_text):
+                issues.append(Issue('오류','timed_dialogue_height',
+                    f"{overflow['page']}쪽: 자동 넘김 대사가 {overflow['lines']}줄입니다. 실제 창의 4줄을 넘으면 입력 대기에 걸려 연출이 멈춥니다.",overflow['page']))
         for line in lines:
             if line.offset + line.width > profile.width:
                 issues.append(Issue('오류', 'width', f'{line.page}쪽 {line.number}줄: {line.width}px / {profile.width}px, {line.offset+line.width-profile.width}px 초과.', line.page, line.number))
@@ -614,7 +622,7 @@ class Store:
         if not isinstance(text, str) or not isinstance(reviewed, bool):
             raise ValueError('번역은 문자열, 검수 상태는 true/false여야 합니다.')
         issues, effective, _ = metrics.check(record, text, profile)
-        structural = {'controls', 'braces', 'printf', 'space', 'composition', 'control_character', 'timing', 'caption_length', 'caption_layout', 'font_path', 'name_length','gallery_bounds','psx_literal_capacity','boost_bounds','swdtech_character'}
+        structural = {'controls', 'braces', 'printf', 'space', 'composition', 'control_character', 'timing', 'caption_length', 'caption_layout', 'font_path', 'name_length','gallery_bounds','psx_literal_capacity','boost_bounds','swdtech_character','timed_dialogue_height'}
         if record.group=='갤러리 설명':structural|={'width','height','pitch'}
         fatal = [i for i in issues if i.severity == '오류' and i.code in structural]
         if fatal:

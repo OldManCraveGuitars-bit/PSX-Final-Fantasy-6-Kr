@@ -14,7 +14,7 @@
     {
       "severity": "주의",
       "code": "height",
-      "count": 107
+      "count": 105
     },
     {
       "severity": "주의",
@@ -24,7 +24,7 @@
     {
       "severity": "참고",
       "code": "bounds",
-      "count": 6774
+      "count": 6772
     }
   ]
 }

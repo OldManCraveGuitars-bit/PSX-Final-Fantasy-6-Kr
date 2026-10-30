@@ -58,7 +58,8 @@
       "line count and line pitch",
       "half-width spaces",
       "dynamic name and catalog widths",
-      "control code preservation"
+      "control code preservation",
+      "timed dialogue native 216px / 4-row input-wait guard"
     ],
     "large_font_size": "retain original 12-pixel native paths; reject checking known large-text paths as small text",
     "small_font": "Galmuri7",
@@ -70,8 +71,8 @@
     "auto_wrap": "persist checked line breaks on save",
     "backup": "work/text-manager-backups"
   },
-  "public_release": "V0.77",
-  "development_base": "v087",
+  "public_release": "V0.771",
+  "development_base": "v088",
   "locke_terminology": {
     "dialogue": "트레저 헌터",
     "job": "모험가"

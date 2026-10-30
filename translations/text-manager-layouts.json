@@ -26588,8 +26588,8 @@
     "pitch": 16,
     "auto_wrap": true,
     "center": false,
-    "confirmed": false,
-    "note": "대사 폭 216px. 높이는 기본 4줄이며 스크롤 구간은 별도 확인.",
+    "confirmed": true,
+    "note": "자동 진행 대사: 216px, 4줄 제한. 넘침은 타이머 이전의 입력 대기를 일으킵니다.",
     "numeric_pixels": 0,
     "newline_pages": false
   },
@@ -29024,8 +29024,8 @@
     "pitch": 16,
     "auto_wrap": true,
     "center": false,
-    "confirmed": false,
-    "note": "대사 폭 216px. 높이는 기본 4줄이며 스크롤 구간은 별도 확인.",
+    "confirmed": true,
+    "note": "자동 진행 대사: 216px, 4줄 제한. 넘침은 타이머 이전의 입력 대기를 일으킵니다.",
     "numeric_pixels": 0,
     "newline_pages": false
   },

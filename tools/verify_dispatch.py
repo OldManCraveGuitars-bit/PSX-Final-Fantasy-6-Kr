@@ -1,5 +1,5 @@
 """Execute the patched MIPS dispatch for every dialogue and PSX tutorial."""
-import json,struct
+import json,struct,sys
 from pathlib import Path
 from unicorn import Uc,UC_ARCH_MIPS,UC_MODE_MIPS32,UC_MODE_LITTLE_ENDIAN
 from unicorn.mips_const import *
@@ -9,7 +9,7 @@ from build_main_dialogue import SPECIAL,CANDIDATE
 from field_names import default_names
 
 def main():
-    candidate=ROOT/'work/candidates'/CANDIDATE
+    candidate=ROOT/'work/candidates'/(sys.argv[1] if len(sys.argv)>1 else CANDIDATE)
     offsets=json.loads((candidate/'new_dialogue_offsets.json').read_text())
     source=json.loads((ROOT/'analysis/dialogue-original.json').read_text('utf8'))
     original=(ROOT/'work/decompressed/NAR/NARITA.PAC').read_bytes()
